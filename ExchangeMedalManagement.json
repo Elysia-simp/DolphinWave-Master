@@ -1,0 +1,810 @@
+{
+    "2": {
+        "Id": 2,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30011,
+        "MonthlyReset": 1
+    },
+    "3": {
+        "Id": 3,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30014,
+        "MonthlyReset": 1
+    },
+    "4": {
+        "Id": 4,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30013,
+        "MonthlyReset": 1
+    },
+    "5": {
+        "Id": 5,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30015,
+        "MonthlyReset": 1
+    },
+    "6": {
+        "Id": 6,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30012,
+        "MonthlyReset": 1
+    },
+    "7": {
+        "Id": 7,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20001,
+        "MonthlyReset": 1
+    },
+    "1": {
+        "Id": 1,
+        "StartDate": 1640962800,
+        "EndDate": 1640962801,
+        "Tab": 1,
+        "GroupId": 30010,
+        "MonthlyReset": 0
+    },
+    "13": {
+        "Id": 13,
+        "StartDate": 1666933200,
+        "EndDate": 1669957199,
+        "Tab": 1,
+        "GroupId": 10002,
+        "MonthlyReset": 0
+    },
+    "15": {
+        "Id": 15,
+        "StartDate": 1669006800,
+        "EndDate": 1671685199,
+        "Tab": 1,
+        "GroupId": 10003,
+        "MonthlyReset": 0
+    },
+    "16": {
+        "Id": 16,
+        "StartDate": 1669006800,
+        "EndDate": 1671685199,
+        "Tab": 1,
+        "GroupId": 10004,
+        "MonthlyReset": 0
+    },
+    "17": {
+        "Id": 17,
+        "StartDate": 1669006800,
+        "EndDate": 1671685199,
+        "Tab": 1,
+        "GroupId": 10005,
+        "MonthlyReset": 0
+    },
+    "18": {
+        "Id": 18,
+        "StartDate": 1670821200,
+        "EndDate": 1673845199,
+        "Tab": 1,
+        "GroupId": 10006,
+        "MonthlyReset": 0
+    },
+    "19": {
+        "Id": 19,
+        "StartDate": 1670821200,
+        "EndDate": 1673845199,
+        "Tab": 1,
+        "GroupId": 10007,
+        "MonthlyReset": 0
+    },
+    "20": {
+        "Id": 20,
+        "StartDate": 1670821200,
+        "EndDate": 1673845199,
+        "Tab": 1,
+        "GroupId": 10008,
+        "MonthlyReset": 0
+    },
+    "21": {
+        "Id": 21,
+        "StartDate": 1671685200,
+        "EndDate": 1673845199,
+        "Tab": 1,
+        "GroupId": 10009,
+        "MonthlyReset": 0
+    },
+    "22": {
+        "Id": 22,
+        "StartDate": 1671685200,
+        "EndDate": 1673845199,
+        "Tab": 1,
+        "GroupId": 10010,
+        "MonthlyReset": 0
+    },
+    "23": {
+        "Id": 23,
+        "StartDate": 1671685200,
+        "EndDate": 1673845199,
+        "Tab": 1,
+        "GroupId": 10011,
+        "MonthlyReset": 0
+    },
+    "24": {
+        "Id": 24,
+        "StartDate": 1672444800,
+        "EndDate": 1675054799,
+        "Tab": 1,
+        "GroupId": 10012,
+        "MonthlyReset": 0
+    },
+    "25": {
+        "Id": 25,
+        "StartDate": 1672444800,
+        "EndDate": 1675054799,
+        "Tab": 1,
+        "GroupId": 10013,
+        "MonthlyReset": 0
+    },
+    "26": {
+        "Id": 26,
+        "StartDate": 1672444800,
+        "EndDate": 1675054799,
+        "Tab": 1,
+        "GroupId": 10014,
+        "MonthlyReset": 0
+    },
+    "27": {
+        "Id": 27,
+        "StartDate": 1673845200,
+        "EndDate": 1676264399,
+        "Tab": 1,
+        "GroupId": 10015,
+        "MonthlyReset": 0
+    },
+    "28": {
+        "Id": 28,
+        "StartDate": 1673845200,
+        "EndDate": 1676264399,
+        "Tab": 1,
+        "GroupId": 10016,
+        "MonthlyReset": 0
+    },
+    "29": {
+        "Id": 29,
+        "StartDate": 1673845200,
+        "EndDate": 1676264399,
+        "Tab": 1,
+        "GroupId": 10017,
+        "MonthlyReset": 0
+    },
+    "30": {
+        "Id": 30,
+        "StartDate": 1676264400,
+        "EndDate": 1678856399,
+        "Tab": 1,
+        "GroupId": 10018,
+        "MonthlyReset": 0
+    },
+    "31": {
+        "Id": 31,
+        "StartDate": 1676264400,
+        "EndDate": 1678856399,
+        "Tab": 1,
+        "GroupId": 10019,
+        "MonthlyReset": 0
+    },
+    "32": {
+        "Id": 32,
+        "StartDate": 1676264400,
+        "EndDate": 1678856399,
+        "Tab": 1,
+        "GroupId": 10020,
+        "MonthlyReset": 0
+    },
+    "33": {
+        "Id": 33,
+        "StartDate": 1676264400,
+        "EndDate": 1678856399,
+        "Tab": 1,
+        "GroupId": 10021,
+        "MonthlyReset": 0
+    },
+    "34": {
+        "Id": 34,
+        "StartDate": 1677560400,
+        "EndDate": 1680152399,
+        "Tab": 1,
+        "GroupId": 10022,
+        "MonthlyReset": 0
+    },
+    "35": {
+        "Id": 35,
+        "StartDate": 1677560400,
+        "EndDate": 1680152399,
+        "Tab": 1,
+        "GroupId": 10023,
+        "MonthlyReset": 0
+    },
+    "36": {
+        "Id": 36,
+        "StartDate": 1677560400,
+        "EndDate": 1680152399,
+        "Tab": 1,
+        "GroupId": 10024,
+        "MonthlyReset": 0
+    },
+    "37": {
+        "Id": 37,
+        "StartDate": 1678424400,
+        "EndDate": 1681102799,
+        "Tab": 1,
+        "GroupId": 10025,
+        "MonthlyReset": 0
+    },
+    "38": {
+        "Id": 38,
+        "StartDate": 1678424400,
+        "EndDate": 1681102799,
+        "Tab": 1,
+        "GroupId": 10026,
+        "MonthlyReset": 0
+    },
+    "39": {
+        "Id": 39,
+        "StartDate": 1678424400,
+        "EndDate": 1681102799,
+        "Tab": 1,
+        "GroupId": 10027,
+        "MonthlyReset": 0
+    },
+    "42": {
+        "Id": 42,
+        "StartDate": 1679461200,
+        "EndDate": 1681102799,
+        "Tab": 1,
+        "GroupId": 10028,
+        "MonthlyReset": 0
+    },
+    "46": {
+        "Id": 46,
+        "StartDate": 1680267600,
+        "EndDate": 1681966799,
+        "Tab": 1,
+        "GroupId": 10032,
+        "MonthlyReset": 0
+    },
+    "43": {
+        "Id": 43,
+        "StartDate": 1680498000,
+        "EndDate": 1683003599,
+        "Tab": 1,
+        "GroupId": 10029,
+        "MonthlyReset": 0
+    },
+    "44": {
+        "Id": 44,
+        "StartDate": 1680498000,
+        "EndDate": 1683003599,
+        "Tab": 1,
+        "GroupId": 10030,
+        "MonthlyReset": 0
+    },
+    "45": {
+        "Id": 45,
+        "StartDate": 1680498000,
+        "EndDate": 1683003599,
+        "Tab": 1,
+        "GroupId": 10031,
+        "MonthlyReset": 0
+    },
+    "47": {
+        "Id": 47,
+        "StartDate": 1681102800,
+        "EndDate": 1683003599,
+        "Tab": 1,
+        "GroupId": 10033,
+        "MonthlyReset": 0
+    },
+    "40": {
+        "Id": 40,
+        "StartDate": 1681966800,
+        "EndDate": 1685545199,
+        "Tab": 2,
+        "GroupId": 20007,
+        "MonthlyReset": 0
+    },
+    "41": {
+        "Id": 41,
+        "StartDate": 1681966800,
+        "EndDate": 1685545199,
+        "Tab": 2,
+        "GroupId": 20008,
+        "MonthlyReset": 0
+    },
+    "48": {
+        "Id": 48,
+        "StartDate": 1681966800,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20009,
+        "MonthlyReset": 1
+    },
+    "49": {
+        "Id": 49,
+        "StartDate": 1681966800,
+        "EndDate": 1685422799,
+        "Tab": 1,
+        "GroupId": 10034,
+        "MonthlyReset": 0
+    },
+    "50": {
+        "Id": 50,
+        "StartDate": 1685545200,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20007,
+        "MonthlyReset": 1
+    },
+    "51": {
+        "Id": 51,
+        "StartDate": 1685545200,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20008,
+        "MonthlyReset": 1
+    },
+    "52": {
+        "Id": 52,
+        "StartDate": 1683003600,
+        "EndDate": 1685422799,
+        "Tab": 1,
+        "GroupId": 10035,
+        "MonthlyReset": 0
+    },
+    "53": {
+        "Id": 53,
+        "StartDate": 1684299600,
+        "EndDate": 1687237199,
+        "Tab": 1,
+        "GroupId": 10036,
+        "MonthlyReset": 0
+    },
+    "54": {
+        "Id": 54,
+        "StartDate": 1684299600,
+        "EndDate": 1687237199,
+        "Tab": 1,
+        "GroupId": 10037,
+        "MonthlyReset": 0
+    },
+    "55": {
+        "Id": 55,
+        "StartDate": 1684299600,
+        "EndDate": 1687237199,
+        "Tab": 1,
+        "GroupId": 10038,
+        "MonthlyReset": 0
+    },
+    "8": {
+        "Id": 8,
+        "StartDate": 1640962800,
+        "EndDate": 1701356399,
+        "Tab": 5,
+        "GroupId": 20002,
+        "MonthlyReset": 1
+    },
+    "9": {
+        "Id": 9,
+        "StartDate": 1640962800,
+        "EndDate": 1701356399,
+        "Tab": 5,
+        "GroupId": 20003,
+        "MonthlyReset": 1
+    },
+    "10": {
+        "Id": 10,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 5,
+        "GroupId": 20004,
+        "MonthlyReset": 1
+    },
+    "11": {
+        "Id": 11,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 5,
+        "GroupId": 20005,
+        "MonthlyReset": 1
+    },
+    "12": {
+        "Id": 12,
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 10001,
+        "MonthlyReset": 0
+    },
+    "14": {
+        "Id": 14,
+        "StartDate": 1668142800,
+        "EndDate": 2556111599,
+        "Tab": 5,
+        "GroupId": 20006,
+        "MonthlyReset": 1
+    },
+    "56": {
+        "Id": 56,
+        "StartDate": 1685422800,
+        "EndDate": 1688101199,
+        "Tab": 1,
+        "GroupId": 10039,
+        "MonthlyReset": 0
+    },
+    "57": {
+        "Id": 57,
+        "StartDate": 1685422800,
+        "EndDate": 1688101199,
+        "Tab": 1,
+        "GroupId": 10040,
+        "MonthlyReset": 0
+    },
+    "58": {
+        "Id": 58,
+        "StartDate": 1685422800,
+        "EndDate": 1688101199,
+        "Tab": 1,
+        "GroupId": 10041,
+        "MonthlyReset": 0
+    },
+    "59": {
+        "Id": 59,
+        "StartDate": 1685422800,
+        "EndDate": 1688101199,
+        "Tab": 1,
+        "GroupId": 10042,
+        "MonthlyReset": 0
+    },
+    "60": {
+        "Id": 60,
+        "StartDate": 1686546000,
+        "EndDate": 1688101199,
+        "Tab": 1,
+        "GroupId": 10043,
+        "MonthlyReset": 0
+    },
+    "61": {
+        "Id": 61,
+        "StartDate": 1686546000,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 40001,
+        "MonthlyReset": 0
+    },
+    "62": {
+        "Id": 62,
+        "StartDate": 1687237200,
+        "EndDate": 1689580799,
+        "Tab": 1,
+        "GroupId": 10044,
+        "MonthlyReset": 0
+    },
+    "63": {
+        "Id": 63,
+        "StartDate": 1688101200,
+        "EndDate": 1690779599,
+        "Tab": 1,
+        "GroupId": 10045,
+        "MonthlyReset": 0
+    },
+    "64": {
+        "Id": 64,
+        "StartDate": 1688101200,
+        "EndDate": 1690779599,
+        "Tab": 1,
+        "GroupId": 10046,
+        "MonthlyReset": 0
+    },
+    "65": {
+        "Id": 65,
+        "StartDate": 1688101200,
+        "EndDate": 1690779599,
+        "Tab": 1,
+        "GroupId": 10047,
+        "MonthlyReset": 0
+    },
+    "66": {
+        "Id": 66,
+        "StartDate": 1688965200,
+        "EndDate": 1692075599,
+        "Tab": 1,
+        "GroupId": 10048,
+        "MonthlyReset": 0
+    },
+    "67": {
+        "Id": 67,
+        "StartDate": 1688965200,
+        "EndDate": 1692075599,
+        "Tab": 1,
+        "GroupId": 10049,
+        "MonthlyReset": 0
+    },
+    "68": {
+        "Id": 68,
+        "StartDate": 1688965200,
+        "EndDate": 1692075599,
+        "Tab": 1,
+        "GroupId": 10050,
+        "MonthlyReset": 0
+    },
+    "69": {
+        "Id": 69,
+        "StartDate": 1689580800,
+        "EndDate": 1693544399,
+        "Tab": 1,
+        "GroupId": 10051,
+        "MonthlyReset": 0
+    },
+    "70": {
+        "Id": 70,
+        "StartDate": 1689580800,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20010,
+        "MonthlyReset": 1
+    },
+    "71": {
+        "Id": 71,
+        "StartDate": 1689580800,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20011,
+        "MonthlyReset": 1
+    },
+    "72": {
+        "Id": 72,
+        "StartDate": 1689580800,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 40002,
+        "MonthlyReset": 0
+    },
+    "73": {
+        "Id": 73,
+        "StartDate": 1689580800,
+        "EndDate": 2556111599,
+        "Tab": 2,
+        "GroupId": 20012,
+        "MonthlyReset": 0
+    },
+    "74": {
+        "Id": 74,
+        "StartDate": 1692075600,
+        "EndDate": 1694581199,
+        "Tab": 1,
+        "GroupId": 10052,
+        "MonthlyReset": 0
+    },
+    "75": {
+        "Id": 75,
+        "StartDate": 1693544400,
+        "EndDate": 1694581199,
+        "Tab": 1,
+        "GroupId": 10053,
+        "MonthlyReset": 0
+    },
+    "76": {
+        "Id": 76,
+        "StartDate": 1693544400,
+        "EndDate": 1694581199,
+        "Tab": 1,
+        "GroupId": 10054,
+        "MonthlyReset": 0
+    },
+    "77": {
+        "Id": 77,
+        "StartDate": 1693544400,
+        "EndDate": 1694581199,
+        "Tab": 1,
+        "GroupId": 10055,
+        "MonthlyReset": 0
+    },
+    "81": {
+        "Id": 81,
+        "StartDate": 1695236400,
+        "EndDate": 1696913999,
+        "Tab": 1,
+        "GroupId": 10059,
+        "MonthlyReset": 0
+    },
+    "78": {
+        "Id": 78,
+        "StartDate": 1695963600,
+        "EndDate": 1698901199,
+        "Tab": 1,
+        "GroupId": 10056,
+        "MonthlyReset": 0
+    },
+    "79": {
+        "Id": 79,
+        "StartDate": 1695963600,
+        "EndDate": 1698901199,
+        "Tab": 1,
+        "GroupId": 10057,
+        "MonthlyReset": 0
+    },
+    "80": {
+        "Id": 80,
+        "StartDate": 1695963600,
+        "EndDate": 1698901199,
+        "Tab": 1,
+        "GroupId": 10058,
+        "MonthlyReset": 0
+    },
+    "82": {
+        "Id": 82,
+        "StartDate": 1696914000,
+        "EndDate": 1699246799,
+        "Tab": 1,
+        "GroupId": 10060,
+        "MonthlyReset": 0
+    },
+    "83": {
+        "Id": 83,
+        "StartDate": 1696914000,
+        "EndDate": 1699246799,
+        "Tab": 1,
+        "GroupId": 10061,
+        "MonthlyReset": 0
+    },
+    "84": {
+        "Id": 84,
+        "StartDate": 1696914000,
+        "EndDate": 1699246799,
+        "Tab": 1,
+        "GroupId": 10062,
+        "MonthlyReset": 0
+    },
+    "85": {
+        "Id": 85,
+        "StartDate": 1696914000,
+        "EndDate": 1699246799,
+        "Tab": 1,
+        "GroupId": 10063,
+        "MonthlyReset": 0
+    },
+    "86": {
+        "Id": 86,
+        "StartDate": 1696914000,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 40003,
+        "MonthlyReset": 0
+    },
+    "87": {
+        "Id": 87,
+        "StartDate": 1697778000,
+        "EndDate": 1701320399,
+        "Tab": 1,
+        "GroupId": 10064,
+        "MonthlyReset": 0
+    },
+    "88": {
+        "Id": 88,
+        "StartDate": 1697778000,
+        "EndDate": 1701320399,
+        "Tab": 1,
+        "GroupId": 10065,
+        "MonthlyReset": 0
+    },
+    "89": {
+        "Id": 89,
+        "StartDate": 1697778000,
+        "EndDate": 1701356399,
+        "Tab": 3,
+        "GroupId": 30016,
+        "MonthlyReset": 0
+    },
+    "90": {
+        "Id": 90,
+        "StartDate": 1697778000,
+        "EndDate": 1701356399,
+        "Tab": 3,
+        "GroupId": 30017,
+        "MonthlyReset": 0
+    },
+    "91": {
+        "Id": 91,
+        "StartDate": 1697778000,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 40004,
+        "MonthlyReset": 0
+    },
+    "92": {
+        "Id": 92,
+        "StartDate": 1697778000,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 40005,
+        "MonthlyReset": 0
+    },
+    "93": {
+        "Id": 93,
+        "StartDate": 1697778000,
+        "EndDate": 1700024399,
+        "Tab": 1,
+        "GroupId": 10066,
+        "MonthlyReset": 0
+    },
+    "94": {
+        "Id": 94,
+        "StartDate": 1699297200,
+        "EndDate": 1701320399,
+        "Tab": 1,
+        "GroupId": 10067,
+        "MonthlyReset": 0
+    },
+    "95": {
+        "Id": 95,
+        "StartDate": 1700024400,
+        "EndDate": 1702270799,
+        "Tab": 1,
+        "GroupId": 10068,
+        "MonthlyReset": 0
+    },
+    "96": {
+        "Id": 96,
+        "StartDate": 1700024400,
+        "EndDate": 1702270799,
+        "Tab": 1,
+        "GroupId": 10069,
+        "MonthlyReset": 0
+    },
+    "97": {
+        "Id": 97,
+        "StartDate": 1701356400,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30016,
+        "MonthlyReset": 1
+    },
+    "98": {
+        "Id": 98,
+        "StartDate": 1701356400,
+        "EndDate": 2556111599,
+        "Tab": 3,
+        "GroupId": 30017,
+        "MonthlyReset": 1
+    },
+    "99": {
+        "Id": 99,
+        "StartDate": 1701320400,
+        "EndDate": 2556111599,
+        "Tab": 4,
+        "GroupId": 40006,
+        "MonthlyReset": 0
+    },
+    "100": {
+        "Id": 100,
+        "StartDate": 1701356400,
+        "EndDate": 2556111599,
+        "Tab": 5,
+        "GroupId": 20013,
+        "MonthlyReset": 1
+    },
+    "101": {
+        "Id": 101,
+        "StartDate": 1701356400,
+        "EndDate": 2556111599,
+        "Tab": 5,
+        "GroupId": 20014,
+        "MonthlyReset": 1
+    }
+}

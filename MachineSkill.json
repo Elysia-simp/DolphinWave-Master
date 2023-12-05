@@ -1,0 +1,182 @@
+{
+    "301001": {
+        "Id": 301001,
+        "MachineSkillText": "フィールドが昼の時、マシンステータスアップ",
+        "MachineIconId": 101,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520001,
+        "SubEffectId": 0
+    },
+    "301002": {
+        "Id": 301002,
+        "MachineSkillText": "フィールドが夕の時、マシンステータスアップ",
+        "MachineIconId": 102,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520002,
+        "SubEffectId": 0
+    },
+    "301003": {
+        "Id": 301003,
+        "MachineSkillText": "フィールドが夜の時、マシンステータスアップ",
+        "MachineIconId": 103,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 3,
+        "MainEffectId": 520003,
+        "SubEffectId": 0
+    },
+    "302001": {
+        "Id": 302001,
+        "MachineSkillText": "フィールドが晴れの時、マシンステータスアップ",
+        "MachineIconId": 201,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520004,
+        "SubEffectId": 0
+    },
+    "302002": {
+        "Id": 302002,
+        "MachineSkillText": "フィールドが雨の時、マシンステータスアップ",
+        "MachineIconId": 202,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520005,
+        "SubEffectId": 0
+    },
+    "302003": {
+        "Id": 302003,
+        "MachineSkillText": "フィールドが風の時、マシンステータスアップ",
+        "MachineIconId": 203,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 3,
+        "MainEffectId": 520006,
+        "SubEffectId": 0
+    },
+    "303001": {
+        "Id": 303001,
+        "MachineSkillText": "アタッカーに編成時、マシンステータスアップ",
+        "MachineIconId": 301,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520007,
+        "SubEffectId": 0
+    },
+    "303002": {
+        "Id": 303002,
+        "MachineSkillText": "ディフェンダーに編成時、マシンステータスアップ",
+        "MachineIconId": 302,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520008,
+        "SubEffectId": 0
+    },
+    "301004": {
+        "Id": 301004,
+        "MachineSkillText": "時間が昼の時、マシンの攻撃力が10%アップ",
+        "MachineIconId": 101,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 0,
+        "MainEffectId": 520009,
+        "SubEffectId": 0
+    },
+    "301005": {
+        "Id": 301005,
+        "MachineSkillText": "時間が昼の時、マシンのSPチャージ力が2アップ",
+        "MachineIconId": 101,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 0,
+        "MainEffectId": 520010,
+        "SubEffectId": 0
+    },
+    "301006": {
+        "Id": 301006,
+        "MachineSkillText": "時間が夜の時、マシンの攻撃力が10%アップ",
+        "MachineIconId": 103,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520011,
+        "SubEffectId": 0
+    },
+    "302004": {
+        "Id": 302004,
+        "MachineSkillText": "天候が晴れの時、マシンのガードが2アップ",
+        "MachineIconId": 201,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 0,
+        "MainEffectId": 520012,
+        "SubEffectId": 0
+    },
+    "302005": {
+        "Id": 302005,
+        "MachineSkillText": "天候が晴れの時、マシンの攻撃力が10%アップ",
+        "MachineIconId": 201,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 0,
+        "MainEffectId": 520013,
+        "SubEffectId": 0
+    },
+    "303003": {
+        "Id": 303003,
+        "MachineSkillText": "アタッカーに編成時、マシンのHPが10%アップ",
+        "MachineIconId": 301,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520014,
+        "SubEffectId": 0
+    },
+    "303004": {
+        "Id": 303004,
+        "MachineSkillText": "アタッカーに編成時、マシンの防御力が10%アップ",
+        "MachineIconId": 301,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520015,
+        "SubEffectId": 0
+    },
+    "303005": {
+        "Id": 303005,
+        "MachineSkillText": "ディフェンダーに編成時、マシンのHPが10%アップ",
+        "MachineIconId": 302,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 0,
+        "MainEffectId": 520016,
+        "SubEffectId": 0
+    },
+    "303006": {
+        "Id": 303006,
+        "MachineSkillText": "ディフェンダーに編成時、マシンの防御力が10%アップ",
+        "MachineIconId": 302,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 0,
+        "MainEffectId": 520017,
+        "SubEffectId": 0
+    },
+    "301007": {
+        "Id": 301007,
+        "MachineSkillText": "時間が夕方の時、マシンの攻撃力が10%アップ",
+        "MachineIconId": 102,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520011,
+        "SubEffectId": 0
+    },
+    "301008": {
+        "Id": 301008,
+        "MachineSkillText": "時間が夕方の時、マシンのSPチャージ力が2アップ",
+        "MachineIconId": 102,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520010,
+        "SubEffectId": 0
+    },
+    "303007": {
+        "Id": 303007,
+        "MachineSkillText": "アタッカーに編成時、マシンの攻撃力が10%アップ",
+        "MachineIconId": 301,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520011,
+        "SubEffectId": 0
+    }
+}

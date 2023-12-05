@@ -1,0 +1,198 @@
+{
+    "0": {
+        "Id": 0,
+        "WeponSkillText": "なし",
+        "WeponName": "装備なし",
+        "MainEffectId": 0,
+        "SubEffectId": 0
+    },
+    "201001": {
+        "Id": 201001,
+        "WeponSkillText": "有利な属性に対するダメージが20％上昇",
+        "WeponName": "アサルトライフル",
+        "MainEffectId": 410001,
+        "SubEffectId": 0
+    },
+    "201002": {
+        "Id": 201002,
+        "WeponSkillText": "不利な属性に対するダメージの減少率を20％軽減",
+        "WeponName": "アサルトライフル",
+        "MainEffectId": 410002,
+        "SubEffectId": 0
+    },
+    "202001": {
+        "Id": 202001,
+        "WeponSkillText": "攻撃時、必ずディフェンダーを攻撃",
+        "WeponName": "ショットガン",
+        "MainEffectId": 410023,
+        "SubEffectId": 0
+    },
+    "202002": {
+        "Id": 202002,
+        "WeponSkillText": "ディフェンダーに与えるHPダメージが20％上昇",
+        "WeponName": "ショットガン",
+        "MainEffectId": 410005,
+        "SubEffectId": 0
+    },
+    "202003": {
+        "Id": 202003,
+        "WeponSkillText": "ディフェンダーに与えるスタンダメージが2上昇",
+        "WeponName": "ショットガン",
+        "MainEffectId": 410006,
+        "SubEffectId": 0
+    },
+    "203001": {
+        "Id": 203001,
+        "WeponSkillText": "ターンが経過する毎に与えるHPダメージが4％上昇",
+        "WeponName": "グレネードランチャー",
+        "MainEffectId": 410007,
+        "SubEffectId": 0
+    },
+    "203002": {
+        "Id": 203002,
+        "WeponSkillText": "奇数ターンだと与えるHPダメージが20％上昇",
+        "WeponName": "グレネードランチャー",
+        "MainEffectId": 410008,
+        "SubEffectId": 0
+    },
+    "203003": {
+        "Id": 203003,
+        "WeponSkillText": "奇数ターンだと与えるスタンダメージが2上昇",
+        "WeponName": "グレネードランチャー",
+        "MainEffectId": 410009,
+        "SubEffectId": 0
+    },
+    "203004": {
+        "Id": 203004,
+        "WeponSkillText": "偶数ターンだと与えるHPダメージが20％上昇",
+        "WeponName": "グレネードランチャー",
+        "MainEffectId": 410010,
+        "SubEffectId": 0
+    },
+    "203005": {
+        "Id": 203005,
+        "WeponSkillText": "偶数ターンだと与えるスタンダメージが2上昇",
+        "WeponName": "グレネードランチャー",
+        "MainEffectId": 410011,
+        "SubEffectId": 0
+    },
+    "204001": {
+        "Id": 204001,
+        "WeponSkillText": "50％の確率で与えるHPダメージが25％上昇",
+        "WeponName": "ガトリングガン",
+        "MainEffectId": 410012,
+        "SubEffectId": 0
+    },
+    "204002": {
+        "Id": 204002,
+        "WeponSkillText": "50％の確率で与えるスタンダメージが3上昇",
+        "WeponName": "ガトリングガン",
+        "MainEffectId": 410013,
+        "SubEffectId": 0
+    },
+    "205001": {
+        "Id": 205001,
+        "WeponSkillText": "攻撃が必ず命中",
+        "WeponName": "ロケットランチャー",
+        "MainEffectId": 410014,
+        "SubEffectId": 0
+    },
+    "205002": {
+        "Id": 205002,
+        "WeponSkillText": "時間帯が夕方・夜だと与えるHPダメージ15％上昇",
+        "WeponName": "ロケットランチャー",
+        "MainEffectId": 410015,
+        "SubEffectId": 0
+    },
+    "205003": {
+        "Id": 205003,
+        "WeponSkillText": "時間帯が夕方・夜だと与えるスタンダメージが1上昇",
+        "WeponName": "ロケットランチャー",
+        "MainEffectId": 410016,
+        "SubEffectId": 0
+    },
+    "205004": {
+        "Id": 205004,
+        "WeponSkillText": "天候が「雨」だと与えるHPダメージが15％上昇",
+        "WeponName": "ロケットランチャー",
+        "MainEffectId": 410017,
+        "SubEffectId": 0
+    },
+    "205005": {
+        "Id": 205005,
+        "WeponSkillText": "天候が「雨」だと与える与えるスタンダメージが1上昇",
+        "WeponName": "ロケットランチャー",
+        "MainEffectId": 410018,
+        "SubEffectId": 0
+    },
+    "206001": {
+        "Id": 206001,
+        "WeponSkillText": "クリティカルが発生する確率が30％上昇",
+        "WeponName": "スナイパーライフル",
+        "MainEffectId": 410019,
+        "SubEffectId": 0
+    },
+    "206002": {
+        "Id": 206002,
+        "WeponSkillText": "クリティカルで与えるHPダメージが25％上昇",
+        "WeponName": "スナイパーライフル",
+        "MainEffectId": 410020,
+        "SubEffectId": 0
+    },
+    "206003": {
+        "Id": 206003,
+        "WeponSkillText": "クリティカルで与えるスタンダメージが3上昇",
+        "WeponName": "スナイパーライフル",
+        "MainEffectId": 410021,
+        "SubEffectId": 0
+    },
+    "207001": {
+        "Id": 207001,
+        "WeponSkillText": "アタッカーに与えるHPダメージが20％上昇",
+        "WeponName": "シングルハンドガン",
+        "MainEffectId": 410003,
+        "SubEffectId": 0
+    },
+    "207002": {
+        "Id": 207002,
+        "WeponSkillText": "アタッカーに与えるスタンダメージが2上昇",
+        "WeponName": "シングルハンドガン",
+        "MainEffectId": 410004,
+        "SubEffectId": 0
+    },
+    "207003": {
+        "Id": 207003,
+        "WeponSkillText": "攻撃時、アタッカーを狙う確率が50％上昇",
+        "WeponName": "シングルハンドガン",
+        "MainEffectId": 410022,
+        "SubEffectId": 0
+    },
+    "208001": {
+        "Id": 208001,
+        "WeponSkillText": "攻撃対象が「補助スキル」を持っていると与えるHPダメージが20％上昇",
+        "WeponName": "ツインハンドガン",
+        "MainEffectId": 410024,
+        "SubEffectId": 0
+    },
+    "208002": {
+        "Id": 208002,
+        "WeponSkillText": "攻撃対象が「妨害スキル」を持っていると与えるHPダメージが20％上昇",
+        "WeponName": "ツインハンドガン",
+        "MainEffectId": 410025,
+        "SubEffectId": 0
+    },
+    "208003": {
+        "Id": 208003,
+        "WeponSkillText": "攻撃対象が「回復スキル」を持っていると与えるHPダメージが20％上昇",
+        "WeponName": "ツインハンドガン",
+        "MainEffectId": 410026,
+        "SubEffectId": 0
+    },
+    "201003": {
+        "Id": 201003,
+        "WeponSkillText": "有利な属性に対するダメージが21％上昇",
+        "WeponName": "アサルトライフル",
+        "MainEffectId": 410027,
+        "SubEffectId": 0
+    }
+}

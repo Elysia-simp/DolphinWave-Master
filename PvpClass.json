@@ -1,0 +1,114 @@
+{
+    "1": {
+        "Id": 1,
+        "ClassName": "D-",
+        "ConsumMatchPoint": 0,
+        "WinningItemGroup": 11362,
+        "LoseItemGroup": 11378
+    },
+    "2": {
+        "Id": 2,
+        "ClassName": "D",
+        "ConsumMatchPoint": 10000,
+        "WinningItemGroup": 11363,
+        "LoseItemGroup": 11379
+    },
+    "3": {
+        "Id": 3,
+        "ClassName": "D+",
+        "ConsumMatchPoint": 20000,
+        "WinningItemGroup": 11364,
+        "LoseItemGroup": 11380
+    },
+    "4": {
+        "Id": 4,
+        "ClassName": "C-",
+        "ConsumMatchPoint": 50000,
+        "WinningItemGroup": 11365,
+        "LoseItemGroup": 11381
+    },
+    "5": {
+        "Id": 5,
+        "ClassName": "C",
+        "ConsumMatchPoint": 85000,
+        "WinningItemGroup": 11366,
+        "LoseItemGroup": 11382
+    },
+    "6": {
+        "Id": 6,
+        "ClassName": "C+",
+        "ConsumMatchPoint": 125000,
+        "WinningItemGroup": 11367,
+        "LoseItemGroup": 11383
+    },
+    "7": {
+        "Id": 7,
+        "ClassName": "B-",
+        "ConsumMatchPoint": 175000,
+        "WinningItemGroup": 11368,
+        "LoseItemGroup": 11384
+    },
+    "8": {
+        "Id": 8,
+        "ClassName": "B",
+        "ConsumMatchPoint": 235000,
+        "WinningItemGroup": 11369,
+        "LoseItemGroup": 11385
+    },
+    "9": {
+        "Id": 9,
+        "ClassName": "B+",
+        "ConsumMatchPoint": 310000,
+        "WinningItemGroup": 11370,
+        "LoseItemGroup": 11386
+    },
+    "10": {
+        "Id": 10,
+        "ClassName": "A-",
+        "ConsumMatchPoint": 400000,
+        "WinningItemGroup": 11371,
+        "LoseItemGroup": 11366
+    },
+    "11": {
+        "Id": 11,
+        "ClassName": "A",
+        "ConsumMatchPoint": 500000,
+        "WinningItemGroup": 11372,
+        "LoseItemGroup": 11367
+    },
+    "12": {
+        "Id": 12,
+        "ClassName": "A+",
+        "ConsumMatchPoint": 610000,
+        "WinningItemGroup": 11373,
+        "LoseItemGroup": 11368
+    },
+    "13": {
+        "Id": 13,
+        "ClassName": "S-",
+        "ConsumMatchPoint": 735000,
+        "WinningItemGroup": 11374,
+        "LoseItemGroup": 11369
+    },
+    "14": {
+        "Id": 14,
+        "ClassName": "S",
+        "ConsumMatchPoint": 880000,
+        "WinningItemGroup": 11375,
+        "LoseItemGroup": 11370
+    },
+    "15": {
+        "Id": 15,
+        "ClassName": "S+",
+        "ConsumMatchPoint": 1050000,
+        "WinningItemGroup": 11376,
+        "LoseItemGroup": 11387
+    },
+    "16": {
+        "Id": 16,
+        "ClassName": "SS",
+        "ConsumMatchPoint": 1250000,
+        "WinningItemGroup": 11377,
+        "LoseItemGroup": 11388
+    }
+}

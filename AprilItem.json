@@ -1,0 +1,23 @@
+{
+    "600101": {
+        "Id": 600101,
+        "MapchipId": 4,
+        "Name": "ボーナスアイテム",
+        "ItemScoreNumber": 0,
+        "BonusScoreNumber": 3000
+    },
+    "600201": {
+        "Id": 600201,
+        "MapchipId": 5,
+        "Name": "スコアアイテム",
+        "ItemScoreNumber": 2000,
+        "BonusScoreNumber": 0
+    },
+    "600301": {
+        "Id": 600301,
+        "MapchipId": 6,
+        "Name": "レベルアップアイテム",
+        "ItemScoreNumber": 0,
+        "BonusScoreNumber": 0
+    }
+}

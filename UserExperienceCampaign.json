@@ -1,0 +1,68 @@
+{
+    "2001": {
+        "Id": 2001,
+        "CampaignType": 0,
+        "TargetGroupId": 1,
+        "UserExperiencePercentage": 150,
+        "StartDate": 1612105200,
+        "EndDate": 1625065199,
+        "IconId": 2001,
+        "CampaignName": "メインストーリー１章・ユーザーEXP獲得量１．５倍キャンペーン",
+        "CampaignText": "メインストーリー１章のユーザーEXP獲得量が１．５倍になります。"
+    },
+    "2002": {
+        "Id": 2002,
+        "CampaignType": 1,
+        "TargetGroupId": 0,
+        "UserExperiencePercentage": 200,
+        "StartDate": 1654009200,
+        "EndDate": 1659193199,
+        "IconId": 2001,
+        "CampaignName": "メインストーリー・ユーザーEXP獲得量２倍キャンペーン",
+        "CampaignText": "メインストーリーのユーザーEXP獲得量が２倍になります。"
+    },
+    "2003": {
+        "Id": 2003,
+        "CampaignType": 2,
+        "TargetGroupId": 0,
+        "UserExperiencePercentage": 200,
+        "StartDate": 1654009200,
+        "EndDate": 1659193199,
+        "IconId": 2001,
+        "CampaignName": "育成戦・ユーザーEXP獲得量２倍キャンペーン",
+        "CampaignText": "育成戦のユーザーEXP獲得量が２倍になります。"
+    },
+    "2004": {
+        "Id": 2004,
+        "CampaignType": 3,
+        "TargetGroupId": 0,
+        "UserExperiencePercentage": 200,
+        "StartDate": 1654009200,
+        "EndDate": 1659193199,
+        "IconId": 2001,
+        "CampaignName": "ボス戦・ユーザーEXP獲得量２倍キャンペーン",
+        "CampaignText": "ボス戦のユーザーEXP獲得量が２倍になります。"
+    },
+    "2005": {
+        "Id": 2005,
+        "CampaignType": 4,
+        "TargetGroupId": 0,
+        "UserExperiencePercentage": 200,
+        "StartDate": 1654009200,
+        "EndDate": 1659193199,
+        "IconId": 2001,
+        "CampaignName": "連戦・ユーザーEXP獲得量２倍キャンペーン",
+        "CampaignText": "連戦のユーザーEXP獲得量が２倍になります。"
+    },
+    "2006": {
+        "Id": 2006,
+        "CampaignType": 5,
+        "TargetGroupId": 0,
+        "UserExperiencePercentage": 200,
+        "StartDate": 1654009200,
+        "EndDate": 1659193199,
+        "IconId": 2001,
+        "CampaignName": "イベント戦・ユーザーEXP獲得量２倍キャンペーン",
+        "CampaignText": "イベント戦のユーザーEXP獲得量が２倍になります。"
+    }
+}

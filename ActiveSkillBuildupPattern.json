@@ -1,0 +1,23 @@
+{
+    "1": {
+        "Id": 1,
+        "ActiveSkillBuildupPatternId": 1,
+        "ActiveSkillLv": 1,
+        "NeedEvolution": 1,
+        "NeedAwake": 0
+    },
+    "2": {
+        "Id": 2,
+        "ActiveSkillBuildupPatternId": 1,
+        "ActiveSkillLv": 2,
+        "NeedEvolution": 6,
+        "NeedAwake": 6
+    },
+    "3": {
+        "Id": 3,
+        "ActiveSkillBuildupPatternId": 1,
+        "ActiveSkillLv": 3,
+        "NeedEvolution": 7,
+        "NeedAwake": 6
+    }
+}

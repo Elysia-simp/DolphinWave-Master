@@ -1,0 +1,877 @@
+{
+    "1": {
+        "Id": 1,
+        "EffectType": 1,
+        "SkillCategoryId": 1101,
+        "EffectName": "ダメージ",
+        "EffectText": "ダメージを与える"
+    },
+    "2": {
+        "Id": 2,
+        "EffectType": 2,
+        "SkillCategoryId": 1102,
+        "EffectName": "固定ダメージ",
+        "EffectText": "固定ダメージの説明文"
+    },
+    "3": {
+        "Id": 3,
+        "EffectType": 3,
+        "SkillCategoryId": 1103,
+        "EffectName": "ダメージ増加",
+        "EffectText": "ダメージ増加の説明文"
+    },
+    "4": {
+        "Id": 4,
+        "EffectType": 4,
+        "SkillCategoryId": 1104,
+        "EffectName": "防御無視",
+        "EffectText": "防御無視の説明文"
+    },
+    "5": {
+        "Id": 5,
+        "EffectType": 5,
+        "SkillCategoryId": 1105,
+        "EffectName": "HP吸収",
+        "EffectText": "HP吸収の説明文"
+    },
+    "6": {
+        "Id": 6,
+        "EffectType": 6,
+        "SkillCategoryId": 1105,
+        "EffectName": "STUN吸収",
+        "EffectText": "STUN吸収の説明文"
+    },
+    "7": {
+        "Id": 7,
+        "EffectType": 7,
+        "SkillCategoryId": 1106,
+        "EffectName": "HP減少ダメージアップ",
+        "EffectText": "HP減少ダメージアップの説明文"
+    },
+    "8": {
+        "Id": 8,
+        "EffectType": 8,
+        "SkillCategoryId": 1106,
+        "EffectName": "STUN減少ダメージアップ",
+        "EffectText": "STUN減少ダメージアップの説明文"
+    },
+    "9": {
+        "Id": 9,
+        "EffectType": 9,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常HPダメージアップ",
+        "EffectText": "状態異常HPダメージアップの説明文"
+    },
+    "10": {
+        "Id": 10,
+        "EffectType": 10,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(凍結)HPダメージアップ",
+        "EffectText": "状態異常(凍結)HPダメージアップの説明文"
+    },
+    "11": {
+        "Id": 11,
+        "EffectType": 11,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(感電)HPダメージアップ",
+        "EffectText": "状態異常(感電)HPダメージアップの説明文"
+    },
+    "12": {
+        "Id": 12,
+        "EffectType": 12,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(暗闇)HPダメージアップ",
+        "EffectText": "状態異常(暗闇)HPダメージアップの説明文"
+    },
+    "13": {
+        "Id": 13,
+        "EffectType": 13,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(暴発)HPダメージアップ",
+        "EffectText": "状態異常(暴発)HPダメージアップの説明文"
+    },
+    "14": {
+        "Id": 14,
+        "EffectType": 14,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(遮断)HPダメージアップ",
+        "EffectText": "状態異常(遮断)HPダメージアップの説明文"
+    },
+    "15": {
+        "Id": 15,
+        "EffectType": 15,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(不通)HPダメージアップ",
+        "EffectText": "状態異常(不通)HPダメージアップの説明文"
+    },
+    "16": {
+        "Id": 16,
+        "EffectType": 16,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(阻害)HPダメージアップ",
+        "EffectText": "状態異常(阻害)HPダメージアップの説明文"
+    },
+    "17": {
+        "Id": 17,
+        "EffectType": 17,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(浸食)HPダメージアップ",
+        "EffectText": "状態異常(浸食)HPダメージアップの説明文"
+    },
+    "18": {
+        "Id": 18,
+        "EffectType": 18,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(腐食)HPダメージアップ",
+        "EffectText": "状態異常(腐食)HPダメージアップの説明文"
+    },
+    "19": {
+        "Id": 19,
+        "EffectType": 19,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常STUNダメージアップ",
+        "EffectText": "状態異常STUNダメージアップの説明文"
+    },
+    "20": {
+        "Id": 20,
+        "EffectType": 20,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(凍結)STUNダメージアップ",
+        "EffectText": "状態異常(凍結)STUNダメージアップの説明文"
+    },
+    "21": {
+        "Id": 21,
+        "EffectType": 21,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(感電)STUNダメージアップ",
+        "EffectText": "状態異常(感電)STUNダメージアップの説明文"
+    },
+    "22": {
+        "Id": 22,
+        "EffectType": 22,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(暗闇)STUNダメージアップ",
+        "EffectText": "状態異常(暗闇)STUNダメージアップの説明文"
+    },
+    "23": {
+        "Id": 23,
+        "EffectType": 23,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(暴発)STUNダメージアップ",
+        "EffectText": "状態異常(暴発)STUNダメージアップの説明文"
+    },
+    "24": {
+        "Id": 24,
+        "EffectType": 24,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(遮断)STUNダメージアップ",
+        "EffectText": "状態異常(遮断)STUNダメージアップの説明文"
+    },
+    "25": {
+        "Id": 25,
+        "EffectType": 25,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(不通)STUNダメージアップ",
+        "EffectText": "状態異常(不通)STUNダメージアップの説明文"
+    },
+    "26": {
+        "Id": 26,
+        "EffectType": 26,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(阻害)STUNダメージアップ",
+        "EffectText": "状態異常(阻害)STUNダメージアップの説明文"
+    },
+    "27": {
+        "Id": 27,
+        "EffectType": 27,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(浸食)STUNダメージアップ",
+        "EffectText": "状態異常(浸食)STUNダメージアップの説明文"
+    },
+    "28": {
+        "Id": 28,
+        "EffectType": 28,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(腐食)STUNダメージアップ",
+        "EffectText": "状態異常(腐食)STUNダメージアップの説明文"
+    },
+    "29": {
+        "Id": 29,
+        "EffectType": 29,
+        "SkillCategoryId": 1101,
+        "EffectName": "属性強化攻撃",
+        "EffectText": "属性強化攻撃の説明文"
+    },
+    "30": {
+        "Id": 30,
+        "EffectType": 30,
+        "SkillCategoryId": 1101,
+        "EffectName": "属性軽減攻撃",
+        "EffectText": "属性軽減攻撃の説明文"
+    },
+    "31": {
+        "Id": 31,
+        "EffectType": 31,
+        "SkillCategoryId": 1101,
+        "EffectName": "アタッカーHPダメージアップ",
+        "EffectText": "アタッカーHPダメージアップの説明文"
+    },
+    "32": {
+        "Id": 32,
+        "EffectType": 32,
+        "SkillCategoryId": 1101,
+        "EffectName": "アタッカーSTUNダメージアップ",
+        "EffectText": "アタッカーSTUNダメージアップの説明文"
+    },
+    "33": {
+        "Id": 33,
+        "EffectType": 33,
+        "SkillCategoryId": 1101,
+        "EffectName": "ディフェンダーHPダメージアップ",
+        "EffectText": "ディフェンダーHPダメージアップの説明文"
+    },
+    "34": {
+        "Id": 34,
+        "EffectType": 34,
+        "SkillCategoryId": 1101,
+        "EffectName": "ディフェンダーSTUNダメージアップ",
+        "EffectText": "ディフェンダーSTUNダメージアップの説明文"
+    },
+    "35": {
+        "Id": 35,
+        "EffectType": 35,
+        "SkillCategoryId": 1101,
+        "EffectName": "ターンHPダメージアップ",
+        "EffectText": "ターンHPダメージアップの説明文"
+    },
+    "36": {
+        "Id": 36,
+        "EffectType": 36,
+        "SkillCategoryId": 1101,
+        "EffectName": "奇数ターンHPダメージアップ",
+        "EffectText": "奇数ターンHPダメージアップの説明文"
+    },
+    "37": {
+        "Id": 37,
+        "EffectType": 37,
+        "SkillCategoryId": 1101,
+        "EffectName": "奇数ターンSTUNダメージアップ",
+        "EffectText": "奇数ターンSTUNダメージアップの説明文"
+    },
+    "38": {
+        "Id": 38,
+        "EffectType": 38,
+        "SkillCategoryId": 1101,
+        "EffectName": "偶数ターンHPダメージアップ",
+        "EffectText": "偶数ターンHPダメージアップの説明文"
+    },
+    "39": {
+        "Id": 39,
+        "EffectType": 39,
+        "SkillCategoryId": 1101,
+        "EffectName": "偶数ターンSTUNダメージアップ",
+        "EffectText": "偶数ターンSTUNダメージアップの説明文"
+    },
+    "40": {
+        "Id": 40,
+        "EffectType": 40,
+        "SkillCategoryId": 1101,
+        "EffectName": "確率HPダメージアップ",
+        "EffectText": "確率HPダメージアップの説明文"
+    },
+    "41": {
+        "Id": 41,
+        "EffectType": 41,
+        "SkillCategoryId": 1101,
+        "EffectName": "確率STUNダメージアップ",
+        "EffectText": "確率STUNダメージアップの説明文"
+    },
+    "42": {
+        "Id": 42,
+        "EffectType": 42,
+        "SkillCategoryId": 1101,
+        "EffectName": "絶対命中",
+        "EffectText": "絶対命中の説明文"
+    },
+    "43": {
+        "Id": 43,
+        "EffectType": 43,
+        "SkillCategoryId": 1101,
+        "EffectName": "夕夜HPダメージアップ",
+        "EffectText": "夕夜HPダメージアップの説明文"
+    },
+    "44": {
+        "Id": 44,
+        "EffectType": 44,
+        "SkillCategoryId": 1101,
+        "EffectName": "夕夜STUNダメージアップ",
+        "EffectText": "夕夜STUNダメージアップの説明文"
+    },
+    "45": {
+        "Id": 45,
+        "EffectType": 45,
+        "SkillCategoryId": 1101,
+        "EffectName": "悪天HPダメージアップ",
+        "EffectText": "悪天HPダメージアップの説明文"
+    },
+    "46": {
+        "Id": 46,
+        "EffectType": 46,
+        "SkillCategoryId": 1101,
+        "EffectName": "悪天STUNダメージアップ",
+        "EffectText": "悪天STUNダメージアップの説明文"
+    },
+    "47": {
+        "Id": 47,
+        "EffectType": 47,
+        "SkillCategoryId": 1101,
+        "EffectName": "クリティカル確率アップ攻撃",
+        "EffectText": "クリティカル確率アップ攻撃の説明文"
+    },
+    "48": {
+        "Id": 48,
+        "EffectType": 48,
+        "SkillCategoryId": 1101,
+        "EffectName": "クリティカルHPダメージアップ",
+        "EffectText": "クリティカルHPダメージアップの説明文"
+    },
+    "49": {
+        "Id": 49,
+        "EffectType": 49,
+        "SkillCategoryId": 1101,
+        "EffectName": "クリティカルSTUNダメージアップ",
+        "EffectText": "クリティカルSTUNダメージアップの説明文"
+    },
+    "50": {
+        "Id": 50,
+        "EffectType": 50,
+        "SkillCategoryId": 1101,
+        "EffectName": "アタッカー狙撃",
+        "EffectText": "アタッカー狙撃の説明文"
+    },
+    "51": {
+        "Id": 51,
+        "EffectType": 51,
+        "SkillCategoryId": 1101,
+        "EffectName": "ディフェンダー狙撃",
+        "EffectText": "ディフェンダー狙撃の説明文"
+    },
+    "52": {
+        "Id": 52,
+        "EffectType": 52,
+        "SkillCategoryId": 1101,
+        "EffectName": "補助HPダメージアップ",
+        "EffectText": "補助HPダメージアップの説明文"
+    },
+    "53": {
+        "Id": 53,
+        "EffectType": 53,
+        "SkillCategoryId": 1101,
+        "EffectName": "妨害HPダメージアップ",
+        "EffectText": "妨害HPダメージアップの説明文"
+    },
+    "54": {
+        "Id": 54,
+        "EffectType": 54,
+        "SkillCategoryId": 1101,
+        "EffectName": "回復HPダメージアップ",
+        "EffectText": "回復HPダメージアップの説明文"
+    },
+    "55": {
+        "Id": 55,
+        "EffectType": 55,
+        "SkillCategoryId": 1101,
+        "EffectName": "ブレイク中ダメージアップ",
+        "EffectText": "ブレイク中ダメージがアップ"
+    },
+    "100": {
+        "Id": 100,
+        "EffectType": 100,
+        "SkillCategoryId": 1200,
+        "EffectName": "HPダメージ無効",
+        "EffectText": "HPダメージ無効の説明文"
+    },
+    "101": {
+        "Id": 101,
+        "EffectType": 101,
+        "SkillCategoryId": 1200,
+        "EffectName": "STUNダメージ無効",
+        "EffectText": "STUNダメージ無効の説明文"
+    },
+    "102": {
+        "Id": 102,
+        "EffectType": 102,
+        "SkillCategoryId": 1201,
+        "EffectName": "HPダメージ減少",
+        "EffectText": "HPダメージ減少の説明文"
+    },
+    "103": {
+        "Id": 103,
+        "EffectType": 103,
+        "SkillCategoryId": 1201,
+        "EffectName": "STUNダメージ減少",
+        "EffectText": "STUNダメージ減少の説明文"
+    },
+    "104": {
+        "Id": 104,
+        "EffectType": 104,
+        "SkillCategoryId": 1202,
+        "EffectName": "妨害無効",
+        "EffectText": "妨害を無効にする"
+    },
+    "105": {
+        "Id": 105,
+        "EffectType": 105,
+        "SkillCategoryId": 1202,
+        "EffectName": "状態異常無効",
+        "EffectText": "状態異常を無効にする"
+    },
+    "106": {
+        "Id": 106,
+        "EffectType": 106,
+        "SkillCategoryId": 1202,
+        "EffectName": "ステータスダウン無効",
+        "EffectText": "ステータスダウンを無効にする"
+    },
+    "107": {
+        "Id": 107,
+        "EffectType": 107,
+        "SkillCategoryId": 1202,
+        "EffectName": "回避付与",
+        "EffectText": "回避付与の説明文"
+    },
+    "108": {
+        "Id": 108,
+        "EffectType": 108,
+        "SkillCategoryId": 1202,
+        "EffectName": "凍結無効",
+        "EffectText": "凍結を無効にする"
+    },
+    "109": {
+        "Id": 109,
+        "EffectType": 109,
+        "SkillCategoryId": 1202,
+        "EffectName": "感電無効",
+        "EffectText": "感電を無効にする"
+    },
+    "110": {
+        "Id": 110,
+        "EffectType": 110,
+        "SkillCategoryId": 1202,
+        "EffectName": "暗闇無効",
+        "EffectText": "暗闇を無効にする"
+    },
+    "111": {
+        "Id": 111,
+        "EffectType": 111,
+        "SkillCategoryId": 1202,
+        "EffectName": "暴発無効",
+        "EffectText": "暴発を無効にする"
+    },
+    "112": {
+        "Id": 112,
+        "EffectType": 112,
+        "SkillCategoryId": 1202,
+        "EffectName": "遮断無効",
+        "EffectText": "遮断を無効にする"
+    },
+    "113": {
+        "Id": 113,
+        "EffectType": 113,
+        "SkillCategoryId": 1202,
+        "EffectName": "不通無効",
+        "EffectText": "不通を無効にする"
+    },
+    "114": {
+        "Id": 114,
+        "EffectType": 114,
+        "SkillCategoryId": 1202,
+        "EffectName": "阻害無効",
+        "EffectText": "阻害を無効にする"
+    },
+    "115": {
+        "Id": 115,
+        "EffectType": 115,
+        "SkillCategoryId": 1202,
+        "EffectName": "浸食無効",
+        "EffectText": "浸食を無効にする"
+    },
+    "116": {
+        "Id": 116,
+        "EffectType": 116,
+        "SkillCategoryId": 1202,
+        "EffectName": "腐食無効",
+        "EffectText": "腐食を無効にする"
+    },
+    "117": {
+        "Id": 117,
+        "EffectType": 117,
+        "SkillCategoryId": 1203,
+        "EffectName": "ターゲット集中",
+        "EffectText": "ターゲット集中の説明文"
+    },
+    "120": {
+        "Id": 120,
+        "EffectType": 120,
+        "SkillCategoryId": 1204,
+        "EffectName": "攻撃力アップ",
+        "EffectText": "攻撃力が[e1]%上がる"
+    },
+    "121": {
+        "Id": 121,
+        "EffectType": 121,
+        "SkillCategoryId": 1204,
+        "EffectName": "防御力アップ",
+        "EffectText": "防御力が[e1]%上がる"
+    },
+    "122": {
+        "Id": 122,
+        "EffectType": 122,
+        "SkillCategoryId": 1204,
+        "EffectName": "クリティカル確率アップ",
+        "EffectText": "クリティカル確率が[e1]%上がる"
+    },
+    "123": {
+        "Id": 123,
+        "EffectType": 123,
+        "SkillCategoryId": 1204,
+        "EffectName": "クリティカル威力アップ",
+        "EffectText": "クリティカル威力が[e1]%上がる"
+    },
+    "124": {
+        "Id": 124,
+        "EffectType": 124,
+        "SkillCategoryId": 1204,
+        "EffectName": "HP回復力アップ",
+        "EffectText": "HP回復力が[e1]%上がる"
+    },
+    "125": {
+        "Id": 125,
+        "EffectType": 125,
+        "SkillCategoryId": 1204,
+        "EffectName": "SPチャージ力アップ",
+        "EffectText": "SPチャージ力が[e1]%上がる"
+    },
+    "126": {
+        "Id": 126,
+        "EffectType": 126,
+        "SkillCategoryId": 1205,
+        "EffectName": "妨害解除",
+        "EffectText": "妨害解除の説明文"
+    },
+    "127": {
+        "Id": 127,
+        "EffectType": 127,
+        "SkillCategoryId": 1205,
+        "EffectName": "状態異常解除",
+        "EffectText": "状態異常解除の説明文"
+    },
+    "128": {
+        "Id": 128,
+        "EffectType": 128,
+        "SkillCategoryId": 1205,
+        "EffectName": "ステータスダウン解除",
+        "EffectText": "ステータスダウン解除の説明文"
+    },
+    "129": {
+        "Id": 129,
+        "EffectType": 129,
+        "SkillCategoryId": 1206,
+        "EffectName": "スキルLvアップ",
+        "EffectText": "スキルLvが[e1]上がる"
+    },
+    "200": {
+        "Id": 200,
+        "EffectType": 200,
+        "SkillCategoryId": 1300,
+        "EffectName": "凍結",
+        "EffectText": "メイン効果攻撃のスキルレベル1以下のスキル（SPスキルは対象外）が発動できないようになる。"
+    },
+    "201": {
+        "Id": 201,
+        "EffectType": 201,
+        "SkillCategoryId": 1300,
+        "EffectName": "感電",
+        "EffectText": "メイン効果攻撃のスキルレベル2以下のスキル（SPスキルは対象外）が発動できないようになる。"
+    },
+    "202": {
+        "Id": 202,
+        "EffectType": 202,
+        "SkillCategoryId": 1300,
+        "EffectName": "暗闇",
+        "EffectText": "メイン効果攻撃のスキル（SPスキルは対象外）が当たらなくなる。"
+    },
+    "203": {
+        "Id": 203,
+        "EffectType": 203,
+        "SkillCategoryId": 1300,
+        "EffectName": "暴発",
+        "EffectText": "暴発の説明文"
+    },
+    "204": {
+        "Id": 204,
+        "EffectType": 204,
+        "SkillCategoryId": 1300,
+        "EffectName": "遮断",
+        "EffectText": "回復およびSPチャージ系スキルの回復効果が無効化される"
+    },
+    "205": {
+        "Id": 205,
+        "EffectType": 205,
+        "SkillCategoryId": 1300,
+        "EffectName": "不通",
+        "EffectText": "不通の説明文"
+    },
+    "206": {
+        "Id": 206,
+        "EffectType": 206,
+        "SkillCategoryId": 1300,
+        "EffectName": "阻害",
+        "EffectText": "阻害の説明文"
+    },
+    "207": {
+        "Id": 207,
+        "EffectType": 207,
+        "SkillCategoryId": 1300,
+        "EffectName": "浸食",
+        "EffectText": "毎ターン、HPにダメージを受ける。"
+    },
+    "208": {
+        "Id": 208,
+        "EffectType": 208,
+        "SkillCategoryId": 1300,
+        "EffectName": "腐食",
+        "EffectText": "毎ターン、シールドにダメージを受ける。"
+    },
+    "211": {
+        "Id": 211,
+        "EffectType": 211,
+        "SkillCategoryId": 1301,
+        "EffectName": "攻撃力ダウン",
+        "EffectText": "攻撃力が[e1]%下がる。"
+    },
+    "212": {
+        "Id": 212,
+        "EffectType": 212,
+        "SkillCategoryId": 1301,
+        "EffectName": "防御力ダウン",
+        "EffectText": "防御力が[e1]%下がる。"
+    },
+    "213": {
+        "Id": 213,
+        "EffectType": 213,
+        "SkillCategoryId": 1301,
+        "EffectName": "クリティカル確率ダウン",
+        "EffectText": "クリティカル確率が[e1]%下がる。"
+    },
+    "214": {
+        "Id": 214,
+        "EffectType": 214,
+        "SkillCategoryId": 1301,
+        "EffectName": "クリティカル威力ダウン",
+        "EffectText": "クリティカル威力が[e1]%下がる。"
+    },
+    "215": {
+        "Id": 215,
+        "EffectType": 215,
+        "SkillCategoryId": 1301,
+        "EffectName": "HP回復力ダウン",
+        "EffectText": "HP回復力が[e1]%下がる。"
+    },
+    "216": {
+        "Id": 216,
+        "EffectType": 216,
+        "SkillCategoryId": 1301,
+        "EffectName": "SPチャージ力ダウン",
+        "EffectText": "SPチャージ力が[e1]%下がる。"
+    },
+    "217": {
+        "Id": 217,
+        "EffectType": 217,
+        "SkillCategoryId": 1302,
+        "EffectName": "補助解除",
+        "EffectText": "補助解除の説明文"
+    },
+    "218": {
+        "Id": 218,
+        "EffectType": 218,
+        "SkillCategoryId": 1302,
+        "EffectName": "状態変化解除",
+        "EffectText": "状態変化解除の説明文"
+    },
+    "219": {
+        "Id": 219,
+        "EffectType": 219,
+        "SkillCategoryId": 1302,
+        "EffectName": "ステータスアップ解除",
+        "EffectText": "ステータスアップ解除の説明文"
+    },
+    "220": {
+        "Id": 220,
+        "EffectType": 220,
+        "SkillCategoryId": 1303,
+        "EffectName": "スキルLvダウン",
+        "EffectText": "スキルLvが[e1]下がる。"
+    },
+    "221": {
+        "Id": 221,
+        "EffectType": 221,
+        "SkillCategoryId": 1303,
+        "EffectName": "SPゲージダウン",
+        "EffectText": "SPゲージが[e1]%下がる。"
+    },
+    "222": {
+        "Id": 222,
+        "EffectType": 222,
+        "SkillCategoryId": 1303,
+        "EffectName": "スキル削除",
+        "EffectText": "スキル削除の説明文"
+    },
+    "300": {
+        "Id": 300,
+        "EffectType": 300,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンHP回復P",
+        "EffectText": "ターンHP回復Pの説明文"
+    },
+    "301": {
+        "Id": 301,
+        "EffectType": 301,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンHP回復H",
+        "EffectText": "ターンHP回復Hの説明文"
+    },
+    "302": {
+        "Id": 302,
+        "EffectType": 302,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンHP回復L",
+        "EffectText": "ターンHP回復Lの説明文"
+    },
+    "303": {
+        "Id": 303,
+        "EffectType": 303,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンSTUN回復H",
+        "EffectText": "ターンSTUN回復Hの説明文"
+    },
+    "304": {
+        "Id": 304,
+        "EffectType": 304,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンSTUN回復L",
+        "EffectText": "ターンSTUN回復Lの説明文"
+    },
+    "305": {
+        "Id": 305,
+        "EffectType": 305,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンSPチャージP",
+        "EffectText": "ターンSPチャージPの説明文"
+    },
+    "306": {
+        "Id": 306,
+        "EffectType": 306,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンSPチャージH",
+        "EffectText": "ターンSPチャージHの説明文"
+    },
+    "307": {
+        "Id": 307,
+        "EffectType": 307,
+        "SkillCategoryId": 1400,
+        "EffectName": "ターンSPチャージL",
+        "EffectText": "ターンSPチャージLの説明文"
+    },
+    "308": {
+        "Id": 308,
+        "EffectType": 308,
+        "SkillCategoryId": 1401,
+        "EffectName": "ターン復活P",
+        "EffectText": "ターン復活Pの説明文"
+    },
+    "309": {
+        "Id": 309,
+        "EffectType": 309,
+        "SkillCategoryId": 1401,
+        "EffectName": "ターン復活H",
+        "EffectText": "ターン復活Hの説明文"
+    },
+    "310": {
+        "Id": 310,
+        "EffectType": 310,
+        "SkillCategoryId": 1401,
+        "EffectName": "ターン復活L",
+        "EffectText": "ターン復活Lの説明文"
+    },
+    "311": {
+        "Id": 311,
+        "EffectType": 311,
+        "SkillCategoryId": 1402,
+        "EffectName": "HP回復P",
+        "EffectText": "HP回復Pの説明文"
+    },
+    "312": {
+        "Id": 312,
+        "EffectType": 312,
+        "SkillCategoryId": 1402,
+        "EffectName": "HP回復H",
+        "EffectText": "HP回復Hの説明文"
+    },
+    "313": {
+        "Id": 313,
+        "EffectType": 313,
+        "SkillCategoryId": 1402,
+        "EffectName": "HP回復L",
+        "EffectText": "HP回復Lの説明文"
+    },
+    "314": {
+        "Id": 314,
+        "EffectType": 314,
+        "SkillCategoryId": 1403,
+        "EffectName": "STUN回復H",
+        "EffectText": "STUN回復Hの説明文"
+    },
+    "315": {
+        "Id": 315,
+        "EffectType": 315,
+        "SkillCategoryId": 1403,
+        "EffectName": "STUN回復L",
+        "EffectText": "STUN回復Lの説明文"
+    },
+    "316": {
+        "Id": 316,
+        "EffectType": 316,
+        "SkillCategoryId": 1404,
+        "EffectName": "SPチャージP",
+        "EffectText": "SPチャージPの説明文"
+    },
+    "317": {
+        "Id": 317,
+        "EffectType": 317,
+        "SkillCategoryId": 1404,
+        "EffectName": "SPチャージH",
+        "EffectText": "SPチャージHの説明文"
+    },
+    "318": {
+        "Id": 318,
+        "EffectType": 318,
+        "SkillCategoryId": 1404,
+        "EffectName": "SPチャージL",
+        "EffectText": "SPチャージLの説明文"
+    },
+    "223": {
+        "Id": 223,
+        "EffectType": 223,
+        "SkillCategoryId": 1300,
+        "EffectName": "脆弱",
+        "EffectText": "受けるダメージが上がる"
+    },
+    "400": {
+        "Id": 400,
+        "EffectType": 400,
+        "SkillCategoryId": 1501,
+        "EffectName": "スキル追加発動",
+        "EffectText": "スキル追加発動の説明文"
+    }
+}

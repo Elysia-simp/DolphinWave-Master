@@ -1,0 +1,1602 @@
+{
+    "1": {
+        "Id": 1,
+        "Rank": 1,
+        "Experience": 20,
+        "MaxStamina": 30,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "2": {
+        "Id": 2,
+        "Rank": 2,
+        "Experience": 41,
+        "MaxStamina": 31,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "3": {
+        "Id": 3,
+        "Rank": 3,
+        "Experience": 63,
+        "MaxStamina": 32,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "4": {
+        "Id": 4,
+        "Rank": 4,
+        "Experience": 86,
+        "MaxStamina": 33,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "5": {
+        "Id": 5,
+        "Rank": 5,
+        "Experience": 110,
+        "MaxStamina": 34,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "6": {
+        "Id": 6,
+        "Rank": 6,
+        "Experience": 135,
+        "MaxStamina": 35,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "7": {
+        "Id": 7,
+        "Rank": 7,
+        "Experience": 161,
+        "MaxStamina": 36,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "8": {
+        "Id": 8,
+        "Rank": 8,
+        "Experience": 188,
+        "MaxStamina": 37,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "9": {
+        "Id": 9,
+        "Rank": 9,
+        "Experience": 216,
+        "MaxStamina": 38,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "10": {
+        "Id": 10,
+        "Rank": 10,
+        "Experience": 249,
+        "MaxStamina": 39,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "11": {
+        "Id": 11,
+        "Rank": 11,
+        "Experience": 287,
+        "MaxStamina": 40,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "12": {
+        "Id": 12,
+        "Rank": 12,
+        "Experience": 330,
+        "MaxStamina": 41,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "13": {
+        "Id": 13,
+        "Rank": 13,
+        "Experience": 378,
+        "MaxStamina": 42,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "14": {
+        "Id": 14,
+        "Rank": 14,
+        "Experience": 431,
+        "MaxStamina": 43,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "15": {
+        "Id": 15,
+        "Rank": 15,
+        "Experience": 489,
+        "MaxStamina": 44,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "16": {
+        "Id": 16,
+        "Rank": 16,
+        "Experience": 552,
+        "MaxStamina": 45,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "17": {
+        "Id": 17,
+        "Rank": 17,
+        "Experience": 620,
+        "MaxStamina": 46,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "18": {
+        "Id": 18,
+        "Rank": 18,
+        "Experience": 693,
+        "MaxStamina": 47,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "19": {
+        "Id": 19,
+        "Rank": 19,
+        "Experience": 771,
+        "MaxStamina": 48,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "20": {
+        "Id": 20,
+        "Rank": 20,
+        "Experience": 854,
+        "MaxStamina": 49,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "21": {
+        "Id": 21,
+        "Rank": 21,
+        "Experience": 947,
+        "MaxStamina": 50,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "22": {
+        "Id": 22,
+        "Rank": 22,
+        "Experience": 1050,
+        "MaxStamina": 51,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "23": {
+        "Id": 23,
+        "Rank": 23,
+        "Experience": 1163,
+        "MaxStamina": 52,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "24": {
+        "Id": 24,
+        "Rank": 24,
+        "Experience": 1286,
+        "MaxStamina": 53,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "25": {
+        "Id": 25,
+        "Rank": 25,
+        "Experience": 1419,
+        "MaxStamina": 54,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "26": {
+        "Id": 26,
+        "Rank": 26,
+        "Experience": 1562,
+        "MaxStamina": 55,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "27": {
+        "Id": 27,
+        "Rank": 27,
+        "Experience": 1715,
+        "MaxStamina": 56,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "28": {
+        "Id": 28,
+        "Rank": 28,
+        "Experience": 1878,
+        "MaxStamina": 57,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "29": {
+        "Id": 29,
+        "Rank": 29,
+        "Experience": 2051,
+        "MaxStamina": 58,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "30": {
+        "Id": 30,
+        "Rank": 30,
+        "Experience": 2234,
+        "MaxStamina": 59,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "31": {
+        "Id": 31,
+        "Rank": 31,
+        "Experience": 2432,
+        "MaxStamina": 60,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "32": {
+        "Id": 32,
+        "Rank": 32,
+        "Experience": 2645,
+        "MaxStamina": 61,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "33": {
+        "Id": 33,
+        "Rank": 33,
+        "Experience": 2873,
+        "MaxStamina": 62,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "34": {
+        "Id": 34,
+        "Rank": 34,
+        "Experience": 3116,
+        "MaxStamina": 63,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "35": {
+        "Id": 35,
+        "Rank": 35,
+        "Experience": 3374,
+        "MaxStamina": 64,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "36": {
+        "Id": 36,
+        "Rank": 36,
+        "Experience": 3647,
+        "MaxStamina": 65,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "37": {
+        "Id": 37,
+        "Rank": 37,
+        "Experience": 3935,
+        "MaxStamina": 66,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "38": {
+        "Id": 38,
+        "Rank": 38,
+        "Experience": 4238,
+        "MaxStamina": 67,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "39": {
+        "Id": 39,
+        "Rank": 39,
+        "Experience": 4556,
+        "MaxStamina": 68,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "40": {
+        "Id": 40,
+        "Rank": 40,
+        "Experience": 4889,
+        "MaxStamina": 69,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "41": {
+        "Id": 41,
+        "Rank": 41,
+        "Experience": 5242,
+        "MaxStamina": 70,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "42": {
+        "Id": 42,
+        "Rank": 42,
+        "Experience": 5615,
+        "MaxStamina": 71,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "43": {
+        "Id": 43,
+        "Rank": 43,
+        "Experience": 6008,
+        "MaxStamina": 72,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "44": {
+        "Id": 44,
+        "Rank": 44,
+        "Experience": 6421,
+        "MaxStamina": 73,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "45": {
+        "Id": 45,
+        "Rank": 45,
+        "Experience": 6854,
+        "MaxStamina": 74,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "46": {
+        "Id": 46,
+        "Rank": 46,
+        "Experience": 7307,
+        "MaxStamina": 75,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "47": {
+        "Id": 47,
+        "Rank": 47,
+        "Experience": 7780,
+        "MaxStamina": 76,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "48": {
+        "Id": 48,
+        "Rank": 48,
+        "Experience": 8273,
+        "MaxStamina": 77,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "49": {
+        "Id": 49,
+        "Rank": 49,
+        "Experience": 8786,
+        "MaxStamina": 78,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "50": {
+        "Id": 50,
+        "Rank": 50,
+        "Experience": 9319,
+        "MaxStamina": 79,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "51": {
+        "Id": 51,
+        "Rank": 51,
+        "Experience": 9882,
+        "MaxStamina": 80,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "52": {
+        "Id": 52,
+        "Rank": 52,
+        "Experience": 10475,
+        "MaxStamina": 81,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "53": {
+        "Id": 53,
+        "Rank": 53,
+        "Experience": 11098,
+        "MaxStamina": 82,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "54": {
+        "Id": 54,
+        "Rank": 54,
+        "Experience": 11751,
+        "MaxStamina": 83,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "55": {
+        "Id": 55,
+        "Rank": 55,
+        "Experience": 12434,
+        "MaxStamina": 84,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "56": {
+        "Id": 56,
+        "Rank": 56,
+        "Experience": 13147,
+        "MaxStamina": 85,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "57": {
+        "Id": 57,
+        "Rank": 57,
+        "Experience": 13890,
+        "MaxStamina": 86,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "58": {
+        "Id": 58,
+        "Rank": 58,
+        "Experience": 14663,
+        "MaxStamina": 87,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "59": {
+        "Id": 59,
+        "Rank": 59,
+        "Experience": 15466,
+        "MaxStamina": 88,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "60": {
+        "Id": 60,
+        "Rank": 60,
+        "Experience": 16299,
+        "MaxStamina": 89,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "61": {
+        "Id": 61,
+        "Rank": 61,
+        "Experience": 17172,
+        "MaxStamina": 90,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "62": {
+        "Id": 62,
+        "Rank": 62,
+        "Experience": 18085,
+        "MaxStamina": 91,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "63": {
+        "Id": 63,
+        "Rank": 63,
+        "Experience": 19038,
+        "MaxStamina": 92,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "64": {
+        "Id": 64,
+        "Rank": 64,
+        "Experience": 20031,
+        "MaxStamina": 93,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "65": {
+        "Id": 65,
+        "Rank": 65,
+        "Experience": 21064,
+        "MaxStamina": 94,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "66": {
+        "Id": 66,
+        "Rank": 66,
+        "Experience": 22137,
+        "MaxStamina": 95,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "67": {
+        "Id": 67,
+        "Rank": 67,
+        "Experience": 23250,
+        "MaxStamina": 96,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "68": {
+        "Id": 68,
+        "Rank": 68,
+        "Experience": 24403,
+        "MaxStamina": 97,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "69": {
+        "Id": 69,
+        "Rank": 69,
+        "Experience": 25596,
+        "MaxStamina": 98,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "70": {
+        "Id": 70,
+        "Rank": 70,
+        "Experience": 26829,
+        "MaxStamina": 99,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "71": {
+        "Id": 71,
+        "Rank": 71,
+        "Experience": 28112,
+        "MaxStamina": 100,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "72": {
+        "Id": 72,
+        "Rank": 72,
+        "Experience": 29445,
+        "MaxStamina": 101,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "73": {
+        "Id": 73,
+        "Rank": 73,
+        "Experience": 30828,
+        "MaxStamina": 102,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "74": {
+        "Id": 74,
+        "Rank": 74,
+        "Experience": 32261,
+        "MaxStamina": 103,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "75": {
+        "Id": 75,
+        "Rank": 75,
+        "Experience": 33744,
+        "MaxStamina": 104,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "76": {
+        "Id": 76,
+        "Rank": 76,
+        "Experience": 35277,
+        "MaxStamina": 105,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "77": {
+        "Id": 77,
+        "Rank": 77,
+        "Experience": 36860,
+        "MaxStamina": 106,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "78": {
+        "Id": 78,
+        "Rank": 78,
+        "Experience": 38493,
+        "MaxStamina": 107,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "79": {
+        "Id": 79,
+        "Rank": 79,
+        "Experience": 40176,
+        "MaxStamina": 108,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "80": {
+        "Id": 80,
+        "Rank": 80,
+        "Experience": 41909,
+        "MaxStamina": 109,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "81": {
+        "Id": 81,
+        "Rank": 81,
+        "Experience": 43707,
+        "MaxStamina": 110,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "82": {
+        "Id": 82,
+        "Rank": 82,
+        "Experience": 45570,
+        "MaxStamina": 111,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "83": {
+        "Id": 83,
+        "Rank": 83,
+        "Experience": 47498,
+        "MaxStamina": 112,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "84": {
+        "Id": 84,
+        "Rank": 84,
+        "Experience": 49491,
+        "MaxStamina": 113,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "85": {
+        "Id": 85,
+        "Rank": 85,
+        "Experience": 51549,
+        "MaxStamina": 114,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "86": {
+        "Id": 86,
+        "Rank": 86,
+        "Experience": 53672,
+        "MaxStamina": 115,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "87": {
+        "Id": 87,
+        "Rank": 87,
+        "Experience": 55860,
+        "MaxStamina": 116,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "88": {
+        "Id": 88,
+        "Rank": 88,
+        "Experience": 58113,
+        "MaxStamina": 117,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "89": {
+        "Id": 89,
+        "Rank": 89,
+        "Experience": 60431,
+        "MaxStamina": 118,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "90": {
+        "Id": 90,
+        "Rank": 90,
+        "Experience": 62814,
+        "MaxStamina": 119,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "91": {
+        "Id": 91,
+        "Rank": 91,
+        "Experience": 65277,
+        "MaxStamina": 120,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "92": {
+        "Id": 92,
+        "Rank": 92,
+        "Experience": 67820,
+        "MaxStamina": 121,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "93": {
+        "Id": 93,
+        "Rank": 93,
+        "Experience": 70443,
+        "MaxStamina": 122,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "94": {
+        "Id": 94,
+        "Rank": 94,
+        "Experience": 73146,
+        "MaxStamina": 123,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "95": {
+        "Id": 95,
+        "Rank": 95,
+        "Experience": 75929,
+        "MaxStamina": 124,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "96": {
+        "Id": 96,
+        "Rank": 96,
+        "Experience": 78792,
+        "MaxStamina": 125,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "97": {
+        "Id": 97,
+        "Rank": 97,
+        "Experience": 81735,
+        "MaxStamina": 126,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "98": {
+        "Id": 98,
+        "Rank": 98,
+        "Experience": 84758,
+        "MaxStamina": 127,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "99": {
+        "Id": 99,
+        "Rank": 99,
+        "Experience": 87861,
+        "MaxStamina": 128,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "100": {
+        "Id": 100,
+        "Rank": 100,
+        "Experience": 91044,
+        "MaxStamina": 129,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "101": {
+        "Id": 101,
+        "Rank": 101,
+        "Experience": 94327,
+        "MaxStamina": 130,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "102": {
+        "Id": 102,
+        "Rank": 102,
+        "Experience": 97710,
+        "MaxStamina": 131,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "103": {
+        "Id": 103,
+        "Rank": 103,
+        "Experience": 101193,
+        "MaxStamina": 132,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "104": {
+        "Id": 104,
+        "Rank": 104,
+        "Experience": 104776,
+        "MaxStamina": 133,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "105": {
+        "Id": 105,
+        "Rank": 105,
+        "Experience": 108459,
+        "MaxStamina": 134,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "106": {
+        "Id": 106,
+        "Rank": 106,
+        "Experience": 112242,
+        "MaxStamina": 135,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "107": {
+        "Id": 107,
+        "Rank": 107,
+        "Experience": 116125,
+        "MaxStamina": 136,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "108": {
+        "Id": 108,
+        "Rank": 108,
+        "Experience": 120108,
+        "MaxStamina": 137,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "109": {
+        "Id": 109,
+        "Rank": 109,
+        "Experience": 124191,
+        "MaxStamina": 138,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "110": {
+        "Id": 110,
+        "Rank": 110,
+        "Experience": 128374,
+        "MaxStamina": 139,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "111": {
+        "Id": 111,
+        "Rank": 111,
+        "Experience": 132677,
+        "MaxStamina": 140,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "112": {
+        "Id": 112,
+        "Rank": 112,
+        "Experience": 137100,
+        "MaxStamina": 141,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "113": {
+        "Id": 113,
+        "Rank": 113,
+        "Experience": 141643,
+        "MaxStamina": 142,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "114": {
+        "Id": 114,
+        "Rank": 114,
+        "Experience": 146306,
+        "MaxStamina": 143,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "115": {
+        "Id": 115,
+        "Rank": 115,
+        "Experience": 151089,
+        "MaxStamina": 144,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "116": {
+        "Id": 116,
+        "Rank": 116,
+        "Experience": 155992,
+        "MaxStamina": 145,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "117": {
+        "Id": 117,
+        "Rank": 117,
+        "Experience": 161015,
+        "MaxStamina": 146,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "118": {
+        "Id": 118,
+        "Rank": 118,
+        "Experience": 166158,
+        "MaxStamina": 147,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "119": {
+        "Id": 119,
+        "Rank": 119,
+        "Experience": 171421,
+        "MaxStamina": 148,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "120": {
+        "Id": 120,
+        "Rank": 120,
+        "Experience": 176804,
+        "MaxStamina": 149,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "121": {
+        "Id": 121,
+        "Rank": 121,
+        "Experience": 182327,
+        "MaxStamina": 150,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "122": {
+        "Id": 122,
+        "Rank": 122,
+        "Experience": 187990,
+        "MaxStamina": 151,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "123": {
+        "Id": 123,
+        "Rank": 123,
+        "Experience": 193793,
+        "MaxStamina": 152,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "124": {
+        "Id": 124,
+        "Rank": 124,
+        "Experience": 199736,
+        "MaxStamina": 153,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "125": {
+        "Id": 125,
+        "Rank": 125,
+        "Experience": 205819,
+        "MaxStamina": 154,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "126": {
+        "Id": 126,
+        "Rank": 126,
+        "Experience": 212042,
+        "MaxStamina": 155,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "127": {
+        "Id": 127,
+        "Rank": 127,
+        "Experience": 218405,
+        "MaxStamina": 156,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "128": {
+        "Id": 128,
+        "Rank": 128,
+        "Experience": 224908,
+        "MaxStamina": 157,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "129": {
+        "Id": 129,
+        "Rank": 129,
+        "Experience": 231551,
+        "MaxStamina": 158,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "130": {
+        "Id": 130,
+        "Rank": 130,
+        "Experience": 238334,
+        "MaxStamina": 159,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "131": {
+        "Id": 131,
+        "Rank": 131,
+        "Experience": 245277,
+        "MaxStamina": 160,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "132": {
+        "Id": 132,
+        "Rank": 132,
+        "Experience": 252380,
+        "MaxStamina": 161,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "133": {
+        "Id": 133,
+        "Rank": 133,
+        "Experience": 259643,
+        "MaxStamina": 162,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "134": {
+        "Id": 134,
+        "Rank": 134,
+        "Experience": 267066,
+        "MaxStamina": 163,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "135": {
+        "Id": 135,
+        "Rank": 135,
+        "Experience": 274649,
+        "MaxStamina": 164,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "136": {
+        "Id": 136,
+        "Rank": 136,
+        "Experience": 282392,
+        "MaxStamina": 165,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "137": {
+        "Id": 137,
+        "Rank": 137,
+        "Experience": 290295,
+        "MaxStamina": 166,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "138": {
+        "Id": 138,
+        "Rank": 138,
+        "Experience": 298358,
+        "MaxStamina": 167,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "139": {
+        "Id": 139,
+        "Rank": 139,
+        "Experience": 306581,
+        "MaxStamina": 168,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "140": {
+        "Id": 140,
+        "Rank": 140,
+        "Experience": 314964,
+        "MaxStamina": 169,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "141": {
+        "Id": 141,
+        "Rank": 141,
+        "Experience": 323527,
+        "MaxStamina": 170,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "142": {
+        "Id": 142,
+        "Rank": 142,
+        "Experience": 332270,
+        "MaxStamina": 171,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "143": {
+        "Id": 143,
+        "Rank": 143,
+        "Experience": 341193,
+        "MaxStamina": 172,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "144": {
+        "Id": 144,
+        "Rank": 144,
+        "Experience": 350296,
+        "MaxStamina": 173,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "145": {
+        "Id": 145,
+        "Rank": 145,
+        "Experience": 359579,
+        "MaxStamina": 174,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "146": {
+        "Id": 146,
+        "Rank": 146,
+        "Experience": 369042,
+        "MaxStamina": 175,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "147": {
+        "Id": 147,
+        "Rank": 147,
+        "Experience": 378685,
+        "MaxStamina": 176,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "148": {
+        "Id": 148,
+        "Rank": 148,
+        "Experience": 388508,
+        "MaxStamina": 177,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "149": {
+        "Id": 149,
+        "Rank": 149,
+        "Experience": 398511,
+        "MaxStamina": 178,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "150": {
+        "Id": 150,
+        "Rank": 150,
+        "Experience": 408694,
+        "MaxStamina": 179,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "151": {
+        "Id": 151,
+        "Rank": 151,
+        "Experience": 419077,
+        "MaxStamina": 180,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "152": {
+        "Id": 152,
+        "Rank": 152,
+        "Experience": 429660,
+        "MaxStamina": 181,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "153": {
+        "Id": 153,
+        "Rank": 153,
+        "Experience": 440443,
+        "MaxStamina": 182,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "154": {
+        "Id": 154,
+        "Rank": 154,
+        "Experience": 451426,
+        "MaxStamina": 183,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "155": {
+        "Id": 155,
+        "Rank": 155,
+        "Experience": 462609,
+        "MaxStamina": 184,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "156": {
+        "Id": 156,
+        "Rank": 156,
+        "Experience": 473992,
+        "MaxStamina": 185,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "157": {
+        "Id": 157,
+        "Rank": 157,
+        "Experience": 485575,
+        "MaxStamina": 186,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "158": {
+        "Id": 158,
+        "Rank": 158,
+        "Experience": 497358,
+        "MaxStamina": 187,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "159": {
+        "Id": 159,
+        "Rank": 159,
+        "Experience": 509341,
+        "MaxStamina": 188,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "160": {
+        "Id": 160,
+        "Rank": 160,
+        "Experience": 521524,
+        "MaxStamina": 189,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "161": {
+        "Id": 161,
+        "Rank": 161,
+        "Experience": 533927,
+        "MaxStamina": 190,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "162": {
+        "Id": 162,
+        "Rank": 162,
+        "Experience": 546550,
+        "MaxStamina": 191,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "163": {
+        "Id": 163,
+        "Rank": 163,
+        "Experience": 559393,
+        "MaxStamina": 192,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "164": {
+        "Id": 164,
+        "Rank": 164,
+        "Experience": 572456,
+        "MaxStamina": 193,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "165": {
+        "Id": 165,
+        "Rank": 165,
+        "Experience": 585739,
+        "MaxStamina": 194,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "166": {
+        "Id": 166,
+        "Rank": 166,
+        "Experience": 599242,
+        "MaxStamina": 195,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "167": {
+        "Id": 167,
+        "Rank": 167,
+        "Experience": 612965,
+        "MaxStamina": 196,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "168": {
+        "Id": 168,
+        "Rank": 168,
+        "Experience": 626908,
+        "MaxStamina": 197,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "169": {
+        "Id": 169,
+        "Rank": 169,
+        "Experience": 641071,
+        "MaxStamina": 198,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "170": {
+        "Id": 170,
+        "Rank": 170,
+        "Experience": 655454,
+        "MaxStamina": 199,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "171": {
+        "Id": 171,
+        "Rank": 171,
+        "Experience": 670077,
+        "MaxStamina": 200,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "172": {
+        "Id": 172,
+        "Rank": 172,
+        "Experience": 684940,
+        "MaxStamina": 201,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "173": {
+        "Id": 173,
+        "Rank": 173,
+        "Experience": 700043,
+        "MaxStamina": 202,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "174": {
+        "Id": 174,
+        "Rank": 174,
+        "Experience": 715386,
+        "MaxStamina": 203,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "175": {
+        "Id": 175,
+        "Rank": 175,
+        "Experience": 730969,
+        "MaxStamina": 204,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "176": {
+        "Id": 176,
+        "Rank": 176,
+        "Experience": 746792,
+        "MaxStamina": 205,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "177": {
+        "Id": 177,
+        "Rank": 177,
+        "Experience": 762855,
+        "MaxStamina": 206,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "178": {
+        "Id": 178,
+        "Rank": 178,
+        "Experience": 779158,
+        "MaxStamina": 207,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "179": {
+        "Id": 179,
+        "Rank": 179,
+        "Experience": 795701,
+        "MaxStamina": 208,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "180": {
+        "Id": 180,
+        "Rank": 180,
+        "Experience": 812484,
+        "MaxStamina": 209,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "181": {
+        "Id": 181,
+        "Rank": 181,
+        "Experience": 829527,
+        "MaxStamina": 210,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "182": {
+        "Id": 182,
+        "Rank": 182,
+        "Experience": 846830,
+        "MaxStamina": 211,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "183": {
+        "Id": 183,
+        "Rank": 183,
+        "Experience": 864393,
+        "MaxStamina": 212,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "184": {
+        "Id": 184,
+        "Rank": 184,
+        "Experience": 882216,
+        "MaxStamina": 213,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "185": {
+        "Id": 185,
+        "Rank": 185,
+        "Experience": 900299,
+        "MaxStamina": 214,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "186": {
+        "Id": 186,
+        "Rank": 186,
+        "Experience": 918642,
+        "MaxStamina": 215,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "187": {
+        "Id": 187,
+        "Rank": 187,
+        "Experience": 937245,
+        "MaxStamina": 216,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "188": {
+        "Id": 188,
+        "Rank": 188,
+        "Experience": 956108,
+        "MaxStamina": 217,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "189": {
+        "Id": 189,
+        "Rank": 189,
+        "Experience": 975231,
+        "MaxStamina": 218,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "190": {
+        "Id": 190,
+        "Rank": 190,
+        "Experience": 994614,
+        "MaxStamina": 219,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "191": {
+        "Id": 191,
+        "Rank": 191,
+        "Experience": 1014277,
+        "MaxStamina": 220,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "192": {
+        "Id": 192,
+        "Rank": 192,
+        "Experience": 1034220,
+        "MaxStamina": 221,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "193": {
+        "Id": 193,
+        "Rank": 193,
+        "Experience": 1054443,
+        "MaxStamina": 222,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "194": {
+        "Id": 194,
+        "Rank": 194,
+        "Experience": 1074946,
+        "MaxStamina": 223,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "195": {
+        "Id": 195,
+        "Rank": 195,
+        "Experience": 1095729,
+        "MaxStamina": 224,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "196": {
+        "Id": 196,
+        "Rank": 196,
+        "Experience": 1116792,
+        "MaxStamina": 225,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "197": {
+        "Id": 197,
+        "Rank": 197,
+        "Experience": 1138135,
+        "MaxStamina": 226,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "198": {
+        "Id": 198,
+        "Rank": 198,
+        "Experience": 1159758,
+        "MaxStamina": 227,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "199": {
+        "Id": 199,
+        "Rank": 199,
+        "Experience": 1181661,
+        "MaxStamina": 228,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    },
+    "200": {
+        "Id": 200,
+        "Rank": 200,
+        "Experience": 1203844,
+        "MaxStamina": 229,
+        "LimitCardCount": 100,
+        "LimitFriendCount": 50
+    }
+}

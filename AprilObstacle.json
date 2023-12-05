@@ -1,0 +1,44 @@
+{
+    "5001": {
+        "Id": 5001,
+        "MapchipId": 501,
+        "Name": "ブイA",
+        "MoveSpeed": 0
+    },
+    "5002": {
+        "Id": 5002,
+        "MapchipId": 502,
+        "Name": "ブイB",
+        "MoveSpeed": 0
+    },
+    "5003": {
+        "Id": 5003,
+        "MapchipId": 503,
+        "Name": "ブイC",
+        "MoveSpeed": 0
+    },
+    "5011": {
+        "Id": 5011,
+        "MapchipId": 601,
+        "Name": "浮き輪A",
+        "MoveSpeed": 0
+    },
+    "5012": {
+        "Id": 5012,
+        "MapchipId": 602,
+        "Name": "浮き輪B",
+        "MoveSpeed": 0
+    },
+    "5013": {
+        "Id": 5013,
+        "MapchipId": 603,
+        "Name": "浮き輪C",
+        "MoveSpeed": 0
+    },
+    "5021": {
+        "Id": 5021,
+        "MapchipId": 701,
+        "Name": "波",
+        "MoveSpeed": 255
+    }
+}

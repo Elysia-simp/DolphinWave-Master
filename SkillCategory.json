@@ -1,0 +1,122 @@
+{
+    "1101": {
+        "Id": 1101,
+        "EffectSystem": 1,
+        "Name": "ダメージ"
+    },
+    "1102": {
+        "Id": 1102,
+        "EffectSystem": 1,
+        "Name": "固定ダメージ"
+    },
+    "1103": {
+        "Id": 1103,
+        "EffectSystem": 1,
+        "Name": "ダメージ増加"
+    },
+    "1104": {
+        "Id": 1104,
+        "EffectSystem": 1,
+        "Name": "防御無視"
+    },
+    "1105": {
+        "Id": 1105,
+        "EffectSystem": 1,
+        "Name": "吸収攻撃"
+    },
+    "1106": {
+        "Id": 1106,
+        "EffectSystem": 1,
+        "Name": "逆境強化"
+    },
+    "1107": {
+        "Id": 1107,
+        "EffectSystem": 1,
+        "Name": "状態異常強化"
+    },
+    "1200": {
+        "Id": 1200,
+        "EffectSystem": 2,
+        "Name": "ダメージ無効"
+    },
+    "1201": {
+        "Id": 1201,
+        "EffectSystem": 2,
+        "Name": "ダメージ減少"
+    },
+    "1202": {
+        "Id": 1202,
+        "EffectSystem": 2,
+        "Name": "妨害無効"
+    },
+    "1203": {
+        "Id": 1203,
+        "EffectSystem": 2,
+        "Name": "ターゲット集中"
+    },
+    "1204": {
+        "Id": 1204,
+        "EffectSystem": 2,
+        "Name": "ステータス強化"
+    },
+    "1205": {
+        "Id": 1205,
+        "EffectSystem": 2,
+        "Name": "妨害解除"
+    },
+    "1206": {
+        "Id": 1206,
+        "EffectSystem": 2,
+        "Name": "スキル強化"
+    },
+    "1300": {
+        "Id": 1300,
+        "EffectSystem": 3,
+        "Name": "状態異常"
+    },
+    "1301": {
+        "Id": 1301,
+        "EffectSystem": 3,
+        "Name": "弱体化"
+    },
+    "1302": {
+        "Id": 1302,
+        "EffectSystem": 3,
+        "Name": "補助解除"
+    },
+    "1303": {
+        "Id": 1303,
+        "EffectSystem": 3,
+        "Name": "スキル弱化"
+    },
+    "1400": {
+        "Id": 1400,
+        "EffectSystem": 4,
+        "Name": "ターン回復"
+    },
+    "1401": {
+        "Id": 1401,
+        "EffectSystem": 4,
+        "Name": "復活"
+    },
+    "1402": {
+        "Id": 1402,
+        "EffectSystem": 4,
+        "Name": "HP回復"
+    },
+    "1403": {
+        "Id": 1403,
+        "EffectSystem": 4,
+        "Name": "STUN回復"
+    },
+    "1404": {
+        "Id": 1404,
+        "EffectSystem": 4,
+        "Name": "SPチャージ"
+    },
+    "1501": {
+        "Id": 1501,
+        "EffectSystem": 5,
+        "Name": "スキル追加発動"
+    }
+}

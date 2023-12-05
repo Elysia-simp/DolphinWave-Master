@@ -1,0 +1,674 @@
+{
+    "1": {
+        "Id": 1,
+        "CountLimitType": 1,
+        "LimitCount": 10,
+        "RefreshTime": "0"
+    },
+    "20403": {
+        "Id": 20403,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "20401": {
+        "Id": 20401,
+        "CountLimitType": 2,
+        "LimitCount": 1,
+        "RefreshTime": "04:00:00"
+    },
+    "1001020102": {
+        "Id": 1001020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1001020103": {
+        "Id": 1001020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1001020104": {
+        "Id": 1001020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1001020105": {
+        "Id": 1001020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1001020106": {
+        "Id": 1001020106,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1002020101": {
+        "Id": 1002020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1002020102": {
+        "Id": 1002020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1002020103": {
+        "Id": 1002020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1002020104": {
+        "Id": 1002020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1002020105": {
+        "Id": 1002020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1003020101": {
+        "Id": 1003020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1003020102": {
+        "Id": 1003020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1003020103": {
+        "Id": 1003020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1003020104": {
+        "Id": 1003020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1003020105": {
+        "Id": 1003020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1004020101": {
+        "Id": 1004020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1004020102": {
+        "Id": 1004020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1004020103": {
+        "Id": 1004020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1004020104": {
+        "Id": 1004020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1004020105": {
+        "Id": 1004020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1005020101": {
+        "Id": 1005020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1005020102": {
+        "Id": 1005020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1005020103": {
+        "Id": 1005020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1005020104": {
+        "Id": 1005020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1005020105": {
+        "Id": 1005020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1006020101": {
+        "Id": 1006020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1006020102": {
+        "Id": 1006020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1006020103": {
+        "Id": 1006020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1006020104": {
+        "Id": 1006020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1006020105": {
+        "Id": 1006020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1007020101": {
+        "Id": 1007020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1007020102": {
+        "Id": 1007020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1007020103": {
+        "Id": 1007020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1007020104": {
+        "Id": 1007020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1007020105": {
+        "Id": 1007020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1008020101": {
+        "Id": 1008020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1008020102": {
+        "Id": 1008020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1008020103": {
+        "Id": 1008020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1008020104": {
+        "Id": 1008020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1008020105": {
+        "Id": 1008020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009001": {
+        "Id": 1009001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009002": {
+        "Id": 1009002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009003": {
+        "Id": 1009003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009004": {
+        "Id": 1009004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2001001": {
+        "Id": 2001001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2001002": {
+        "Id": 2001002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2001003": {
+        "Id": 2001003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2001004": {
+        "Id": 2001004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2002001": {
+        "Id": 2002001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2002002": {
+        "Id": 2002002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2002003": {
+        "Id": 2002003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2002004": {
+        "Id": 2002004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2003001": {
+        "Id": 2003001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2003002": {
+        "Id": 2003002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2003003": {
+        "Id": 2003003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2003004": {
+        "Id": 2003004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3001001": {
+        "Id": 3001001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3001002": {
+        "Id": 3001002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3001003": {
+        "Id": 3001003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3001004": {
+        "Id": 3001004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3002001": {
+        "Id": 3002001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3002002": {
+        "Id": 3002002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3002003": {
+        "Id": 3002003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3002004": {
+        "Id": 3002004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3003001": {
+        "Id": 3003001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3003002": {
+        "Id": 3003002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3003003": {
+        "Id": 3003003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3003004": {
+        "Id": 3003004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3004001": {
+        "Id": 3004001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3004002": {
+        "Id": 3004002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3004003": {
+        "Id": 3004003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3004004": {
+        "Id": 3004004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3005001": {
+        "Id": 3005001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3005002": {
+        "Id": 3005002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3005003": {
+        "Id": 3005003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3005004": {
+        "Id": 3005004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009020101": {
+        "Id": 1009020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009020102": {
+        "Id": 1009020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009020103": {
+        "Id": 1009020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009020104": {
+        "Id": 1009020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1009020105": {
+        "Id": 1009020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2004001": {
+        "Id": 2004001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2004002": {
+        "Id": 2004002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2004003": {
+        "Id": 2004003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2004004": {
+        "Id": 2004004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2005001": {
+        "Id": 2005001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2005002": {
+        "Id": 2005002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2005003": {
+        "Id": 2005003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2005004": {
+        "Id": 2005004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3001005": {
+        "Id": 3001005,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3002005": {
+        "Id": 3002005,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3003005": {
+        "Id": 3003005,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3004005": {
+        "Id": 3004005,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "3005005": {
+        "Id": 3005005,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1010020101": {
+        "Id": 1010020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1010020102": {
+        "Id": 1010020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1010020103": {
+        "Id": 1010020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1010020104": {
+        "Id": 1010020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1010020105": {
+        "Id": 1010020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2006001": {
+        "Id": 2006001,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2006002": {
+        "Id": 2006002,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2006003": {
+        "Id": 2006003,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "2006004": {
+        "Id": 2006004,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1011020101": {
+        "Id": 1011020101,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1011020102": {
+        "Id": 1011020102,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1011020103": {
+        "Id": 1011020103,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1011020104": {
+        "Id": 1011020104,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "1011020105": {
+        "Id": 1011020105,
+        "CountLimitType": 2,
+        "LimitCount": 3,
+        "RefreshTime": "04:00:00"
+    },
+    "20405": {
+        "Id": 20405,
+        "CountLimitType": 2,
+        "LimitCount": 5,
+        "RefreshTime": "04:00:00"
+    }
+}

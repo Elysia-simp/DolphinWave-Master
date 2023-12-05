@@ -1,0 +1,1150 @@
+{
+    "20000": {
+        "Id": 20000,
+        "RuleDescription": "KIRISHIMAキャラ・マシンの攻撃力100%アップ(仮)",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20001": {
+        "Id": 20001,
+        "RuleDescription": "ライダーのHP10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20002": {
+        "Id": 20002,
+        "RuleDescription": "ライダーの攻撃力10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20003": {
+        "Id": 20003,
+        "RuleDescription": "ライダーの防御力10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20004": {
+        "Id": 20004,
+        "RuleDescription": "ライダーのクリティカル確率10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20005": {
+        "Id": 20005,
+        "RuleDescription": "ライダーのクリティカル威力10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20006": {
+        "Id": 20006,
+        "RuleDescription": "ライダーのHP回復力10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20007": {
+        "Id": 20007,
+        "RuleDescription": "ライダーのSPチャージ力10%アップ",
+        "RuleRange": 100,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20008": {
+        "Id": 20008,
+        "RuleDescription": "ガンナーのHP10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20009": {
+        "Id": 20009,
+        "RuleDescription": "ガンナーの攻撃力10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20010": {
+        "Id": 20010,
+        "RuleDescription": "ガンナーの防御力10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20011": {
+        "Id": 20011,
+        "RuleDescription": "ガンナーのクリティカル確率10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20012": {
+        "Id": 20012,
+        "RuleDescription": "ガンナーのクリティカル威力10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20013": {
+        "Id": 20013,
+        "RuleDescription": "ガンナーのHP回復力10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20014": {
+        "Id": 20014,
+        "RuleDescription": "ガンナーのSPチャージ力10%アップ",
+        "RuleRange": 101,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20015": {
+        "Id": 20015,
+        "RuleDescription": "キャラのHP10%アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20016": {
+        "Id": 20016,
+        "RuleDescription": "キャラの攻撃力10%アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20017": {
+        "Id": 20017,
+        "RuleDescription": "キャラの防御力10%アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20018": {
+        "Id": 20018,
+        "RuleDescription": "キャラのクリティカル確率10%アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20019": {
+        "Id": 20019,
+        "RuleDescription": "キャラのクリティカル威力10%アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20020": {
+        "Id": 20020,
+        "RuleDescription": "キャラのHP回復力10%アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20021": {
+        "Id": 20021,
+        "RuleDescription": "マシンのHP10%アップ",
+        "RuleRange": 103,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20022": {
+        "Id": 20022,
+        "RuleDescription": "マシンの攻撃力10%アップ",
+        "RuleRange": 103,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20023": {
+        "Id": 20023,
+        "RuleDescription": "マシンの防御力10%アップ",
+        "RuleRange": 103,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20024": {
+        "Id": 20024,
+        "RuleDescription": "マシンのHP回復力10%アップ",
+        "RuleRange": 103,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20025": {
+        "Id": 20025,
+        "RuleDescription": "メモリーのHP10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20026": {
+        "Id": 20026,
+        "RuleDescription": "メモリーの攻撃力10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20027": {
+        "Id": 20027,
+        "RuleDescription": "メモリーの防御力10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20028": {
+        "Id": 20028,
+        "RuleDescription": "メモリーのクリティカル確率10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20029": {
+        "Id": 20029,
+        "RuleDescription": "メモリーのクリティカル威力10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20030": {
+        "Id": 20030,
+        "RuleDescription": "メモリーのHP回復力10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20031": {
+        "Id": 20031,
+        "RuleDescription": "メモリーのSPチャージ力10%アップ",
+        "RuleRange": 104,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20032": {
+        "Id": 20032,
+        "RuleDescription": "チームのHP10%アップ",
+        "RuleRange": 105,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20033": {
+        "Id": 20033,
+        "RuleDescription": "チームの攻撃力10%アップ",
+        "RuleRange": 105,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20034": {
+        "Id": 20034,
+        "RuleDescription": "チームの防御力10%アップ",
+        "RuleRange": 105,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20035": {
+        "Id": 20035,
+        "RuleDescription": "ディフェンダーのHP10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20036": {
+        "Id": 20036,
+        "RuleDescription": "ディフェンダーの攻撃力10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20037": {
+        "Id": 20037,
+        "RuleDescription": "ディフェンダーの防御力10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20038": {
+        "Id": 20038,
+        "RuleDescription": "ディフェンダーのシールド+1",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20039": {
+        "Id": 20039,
+        "RuleDescription": "ディフェンダーのクリティカル確率10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20040": {
+        "Id": 20040,
+        "RuleDescription": "ディフェンダーのクリティカル威力10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20041": {
+        "Id": 20041,
+        "RuleDescription": "ディフェンダーのHP回復力10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20042": {
+        "Id": 20042,
+        "RuleDescription": "ディフェンダーのSPチャージ力10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20043": {
+        "Id": 20043,
+        "RuleDescription": "アタッカーのHP10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20044": {
+        "Id": 20044,
+        "RuleDescription": "アタッカーの攻撃力10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20045": {
+        "Id": 20045,
+        "RuleDescription": "アタッカーの防御力10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20046": {
+        "Id": 20046,
+        "RuleDescription": "アタッカーのシールド+1",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20047": {
+        "Id": 20047,
+        "RuleDescription": "アタッカーのクリティカル確率10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20048": {
+        "Id": 20048,
+        "RuleDescription": "アタッカーのクリティカル威力10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20049": {
+        "Id": 20049,
+        "RuleDescription": "アタッカーのHP回復力10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20050": {
+        "Id": 20050,
+        "RuleDescription": "アタッカーのSPチャージ力10%アップ",
+        "RuleRange": 201,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20051": {
+        "Id": 20051,
+        "RuleDescription": "WAVE属性のHP10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20052": {
+        "Id": 20052,
+        "RuleDescription": "WAVE属性の攻撃力10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20053": {
+        "Id": 20053,
+        "RuleDescription": "WAVE属性の防御力10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20054": {
+        "Id": 20054,
+        "RuleDescription": "WAVE属性のシールド+1",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20055": {
+        "Id": 20055,
+        "RuleDescription": "WAVE属性のクリティカル確率10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20056": {
+        "Id": 20056,
+        "RuleDescription": "WAVE属性のクリティカル威力10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20057": {
+        "Id": 20057,
+        "RuleDescription": "WAVE属性のHP回復力10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20058": {
+        "Id": 20058,
+        "RuleDescription": "WAVE属性のSPチャージ力10%アップ",
+        "RuleRange": 301,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20059": {
+        "Id": 20059,
+        "RuleDescription": "SUN属性のHP10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20060": {
+        "Id": 20060,
+        "RuleDescription": "SUN属性の攻撃力10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20061": {
+        "Id": 20061,
+        "RuleDescription": "SUN属性の防御力10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20062": {
+        "Id": 20062,
+        "RuleDescription": "SUN属性のシールド+1",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20063": {
+        "Id": 20063,
+        "RuleDescription": "SUN属性のクリティカル確率10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20064": {
+        "Id": 20064,
+        "RuleDescription": "SUN属性のクリティカル威力10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20065": {
+        "Id": 20065,
+        "RuleDescription": "SUN属性のHP回復力10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20066": {
+        "Id": 20066,
+        "RuleDescription": "SUN属性のSPチャージ力10%アップ",
+        "RuleRange": 302,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20067": {
+        "Id": 20067,
+        "RuleDescription": "GEAR属性のHP10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20068": {
+        "Id": 20068,
+        "RuleDescription": "GEAR属性の攻撃力10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20069": {
+        "Id": 20069,
+        "RuleDescription": "GEAR属性の防御力10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20070": {
+        "Id": 20070,
+        "RuleDescription": "GEAR属性のシールド+1",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20071": {
+        "Id": 20071,
+        "RuleDescription": "GEAR属性のクリティカル確率10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20072": {
+        "Id": 20072,
+        "RuleDescription": "GEAR属性のクリティカル威力10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20073": {
+        "Id": 20073,
+        "RuleDescription": "GEAR属性のHP回復力10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20074": {
+        "Id": 20074,
+        "RuleDescription": "GEAR属性のSPチャージ力10%アップ",
+        "RuleRange": 303,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20075": {
+        "Id": 20075,
+        "RuleDescription": "MOON属性のHP10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20076": {
+        "Id": 20076,
+        "RuleDescription": "MOON属性の攻撃力10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20077": {
+        "Id": 20077,
+        "RuleDescription": "MOON属性の防御力10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20078": {
+        "Id": 20078,
+        "RuleDescription": "MOON属性のシールド+1",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20079": {
+        "Id": 20079,
+        "RuleDescription": "MOON属性のクリティカル確率10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20080": {
+        "Id": 20080,
+        "RuleDescription": "MOON属性のクリティカル威力10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20081": {
+        "Id": 20081,
+        "RuleDescription": "MOON属性のHP回復力10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20082": {
+        "Id": 20082,
+        "RuleDescription": "MOON属性のSPチャージ力10%アップ",
+        "RuleRange": 304,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20083": {
+        "Id": 20083,
+        "RuleDescription": "WIND属性のHP10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20084": {
+        "Id": 20084,
+        "RuleDescription": "WIND属性の攻撃力10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20085": {
+        "Id": 20085,
+        "RuleDescription": "WIND属性の防御力10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20086": {
+        "Id": 20086,
+        "RuleDescription": "WIND属性のシールド+1",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20087": {
+        "Id": 20087,
+        "RuleDescription": "WIND属性のクリティカル確率10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20088": {
+        "Id": 20088,
+        "RuleDescription": "WIND属性のクリティカル威力10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20089": {
+        "Id": 20089,
+        "RuleDescription": "WIND属性のHP回復力10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20090": {
+        "Id": 20090,
+        "RuleDescription": "WIND属性のSPチャージ力10%アップ",
+        "RuleRange": 305,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20091": {
+        "Id": 20091,
+        "RuleDescription": "KIRISHIMAキャラ・マシンのHP10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20092": {
+        "Id": 20092,
+        "RuleDescription": "KIRISHIMAキャラ・マシンの攻撃力10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20093": {
+        "Id": 20093,
+        "RuleDescription": "KIRISHIMAキャラ・マシンの防御力10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20094": {
+        "Id": 20094,
+        "RuleDescription": "KIRISHIMAキャラ・マシンのシールド+1",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20095": {
+        "Id": 20095,
+        "RuleDescription": "KIRISHIMAキャラ・マシンのクリティカル確率10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20096": {
+        "Id": 20096,
+        "RuleDescription": "KIRISHIMAキャラ・マシンのクリティカル威力10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20097": {
+        "Id": 20097,
+        "RuleDescription": "KIRISHIMAキャラ・マシンのHP回復力10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20098": {
+        "Id": 20098,
+        "RuleDescription": "KIRISHIMAキャラ・マシンのSPチャージ力10%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20099": {
+        "Id": 20099,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンのHP10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20100": {
+        "Id": 20100,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンの攻撃力10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20101": {
+        "Id": 20101,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンの防御力10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20102": {
+        "Id": 20102,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンのシールド+1",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20103": {
+        "Id": 20103,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンのクリティカル確率10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20104": {
+        "Id": 20104,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンのクリティカル威力10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20105": {
+        "Id": 20105,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンのHP回復力10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20106": {
+        "Id": 20106,
+        "RuleDescription": "KAZAMI SEA TECキャラ・マシンのSPチャージ力10%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20107": {
+        "Id": 20107,
+        "RuleDescription": "日向重工キャラ・マシンのHP10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20108": {
+        "Id": 20108,
+        "RuleDescription": "日向重工キャラ・マシンの攻撃力10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20109": {
+        "Id": 20109,
+        "RuleDescription": "日向重工キャラ・マシンの防御力10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20110": {
+        "Id": 20110,
+        "RuleDescription": "日向重工キャラ・マシンのシールド+1",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20111": {
+        "Id": 20111,
+        "RuleDescription": "日向重工キャラ・マシンのクリティカル確率10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20112": {
+        "Id": 20112,
+        "RuleDescription": "日向重工キャラ・マシンのクリティカル威力10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20113": {
+        "Id": 20113,
+        "RuleDescription": "日向重工キャラ・マシンのHP回復力10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20114": {
+        "Id": 20114,
+        "RuleDescription": "日向重工キャラ・マシンのSPチャージ力10%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20115": {
+        "Id": 20115,
+        "RuleDescription": "Nereidesキャラ・マシンのHP10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20116": {
+        "Id": 20116,
+        "RuleDescription": "Nereidesキャラ・マシンの攻撃力10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20117": {
+        "Id": 20117,
+        "RuleDescription": "Nereidesキャラ・マシンの防御力10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20118": {
+        "Id": 20118,
+        "RuleDescription": "Nereidesキャラ・マシンのシールド+1",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20119": {
+        "Id": 20119,
+        "RuleDescription": "Nereidesキャラ・マシンのクリティカル確率10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20120": {
+        "Id": 20120,
+        "RuleDescription": "Nereidesキャラ・マシンのクリティカル威力10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20121": {
+        "Id": 20121,
+        "RuleDescription": "Nereidesキャラ・マシンのHP回復力10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20122": {
+        "Id": 20122,
+        "RuleDescription": "Nereidesキャラ・マシンのSPチャージ力10%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20123": {
+        "Id": 20123,
+        "RuleDescription": "浦見製鉄所キャラ・マシンのHP10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20124": {
+        "Id": 20124,
+        "RuleDescription": "浦見製鉄所キャラ・マシンの攻撃力10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20125": {
+        "Id": 20125,
+        "RuleDescription": "浦見製鉄所キャラ・マシンの防御力10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20126": {
+        "Id": 20126,
+        "RuleDescription": "浦見製鉄所キャラ・マシンのシールド+1",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20127": {
+        "Id": 20127,
+        "RuleDescription": "浦見製鉄所キャラ・マシンのクリティカル確率10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20128": {
+        "Id": 20128,
+        "RuleDescription": "浦見製鉄所キャラ・マシンのクリティカル威力10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20129": {
+        "Id": 20129,
+        "RuleDescription": "浦見製鉄所キャラ・マシンのHP回復力10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20130": {
+        "Id": 20130,
+        "RuleDescription": "浦見製鉄所キャラ・マシンのSPチャージ力10%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20131": {
+        "Id": 20131,
+        "RuleDescription": "イベントキャラのHP10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20132": {
+        "Id": 20132,
+        "RuleDescription": "イベントキャラの攻撃力10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20133": {
+        "Id": 20133,
+        "RuleDescription": "イベントキャラの防御力10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20134": {
+        "Id": 20134,
+        "RuleDescription": "イベントキャラのシールド+1",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20135": {
+        "Id": 20135,
+        "RuleDescription": "イベントキャラのクリティカル確率10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20136": {
+        "Id": 20136,
+        "RuleDescription": "イベントキャラのクリティカル威力10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20137": {
+        "Id": 20137,
+        "RuleDescription": "イベントキャラのHP回復力10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "20138": {
+        "Id": 20138,
+        "RuleDescription": "イベントキャラのSPチャージ力10%アップ",
+        "RuleRange": 500,
+        "RuleRange2": 0,
+        "PassiveSkillId": 0
+    },
+    "21000": {
+        "Id": 21000,
+        "RuleDescription": "ディフェンダーのライダーのHP10%アップ",
+        "RuleRange": 200,
+        "RuleRange2": 100,
+        "PassiveSkillId": 0
+    },
+    "20139": {
+        "Id": 20139,
+        "RuleDescription": "KIRISHIMAのドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20140": {
+        "Id": 20140,
+        "RuleDescription": "NereIdesのドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20141": {
+        "Id": 20141,
+        "RuleDescription": "日向重工のドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20142": {
+        "Id": 20142,
+        "RuleDescription": "浦見製鉄所のドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20143": {
+        "Id": 20143,
+        "RuleDescription": "FMワダツミのドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 406,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20144": {
+        "Id": 20144,
+        "RuleDescription": "KAZAMIのドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20145": {
+        "Id": 20145,
+        "RuleDescription": "バトル開始時,KIRISHIMAのドルフィンのSPゲージを\n　30%分チャージ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105016
+    },
+    "20146": {
+        "Id": 20146,
+        "RuleDescription": "バトル開始時,KAZAMIのドルフィンのSPゲージを\n　30%分チャージ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105016
+    },
+    "20147": {
+        "Id": 20147,
+        "RuleDescription": "バトル開始時,日向重工のドルフィンのSPゲージを\n　30%分チャージ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105016
+    },
+    "20148": {
+        "Id": 20148,
+        "RuleDescription": "バトル開始時,NereIdesのドルフィンのSPゲージを\n　30%分チャージ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105016
+    },
+    "20149": {
+        "Id": 20149,
+        "RuleDescription": "バトル開始時,浦見製鉄所のドルフィンのSPゲージを\n　30%分チャージ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105016
+    },
+    "20150": {
+        "Id": 20150,
+        "RuleDescription": "バトル開始時,FMワダツミのドルフィンのSPゲージを\n　30%分チャージ",
+        "RuleRange": 406,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105016
+    },
+    "20151": {
+        "Id": 20151,
+        "RuleDescription": "ISRWのドルフィン・マシンの攻撃力が30%アップ",
+        "RuleRange": 407,
+        "RuleRange2": 0,
+        "PassiveSkillId": 100062
+    },
+    "20152": {
+        "Id": 20152,
+        "RuleDescription": "味方全体の攻撃力を30%アップ",
+        "RuleRange": 105,
+        "RuleRange2": 0,
+        "PassiveSkillId": 104141
+    },
+    "20153": {
+        "Id": 20153,
+        "RuleDescription": "味方全体の防御力を30%アップ",
+        "RuleRange": 105,
+        "RuleRange2": 0,
+        "PassiveSkillId": 104142
+    },
+    "20154": {
+        "Id": 20154,
+        "RuleDescription": "味方全体のSPチャージ力アップを2アップ",
+        "RuleRange": 102,
+        "RuleRange2": 0,
+        "PassiveSkillId": 104034
+    },
+    "20155": {
+        "Id": 20155,
+        "RuleDescription": "チームのガード値を8アップ",
+        "RuleRange": 100,
+        "RuleRange2": 200,
+        "PassiveSkillId": 104143
+    },
+    "20156": {
+        "Id": 20156,
+        "RuleDescription": "KIRISHIMAのドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    },
+    "20157": {
+        "Id": 20157,
+        "RuleDescription": "KAZAMIのドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    },
+    "20158": {
+        "Id": 20158,
+        "RuleDescription": "日向重工のドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    },
+    "20159": {
+        "Id": 20159,
+        "RuleDescription": "NereIdesのドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    },
+    "20160": {
+        "Id": 20160,
+        "RuleDescription": "浦見製鉄所のドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    },
+    "20161": {
+        "Id": 20161,
+        "RuleDescription": "FMワダツミのドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 406,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    },
+    "20162": {
+        "Id": 20162,
+        "RuleDescription": "ISRWのドルフィンの攻撃力・防御力を20%アップ",
+        "RuleRange": 407,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104145
+    }
+}

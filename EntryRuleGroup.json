@@ -1,0 +1,992 @@
+{
+    "1000001": {
+        "Id": 1000001,
+        "RuleGroupId": 100001,
+        "RuleId_01": 100000,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000002": {
+        "Id": 1000002,
+        "RuleGroupId": 100002,
+        "RuleId_01": 100001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000003": {
+        "Id": 1000003,
+        "RuleGroupId": 100003,
+        "RuleId_01": 100002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000004": {
+        "Id": 1000004,
+        "RuleGroupId": 100004,
+        "RuleId_01": 100003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000005": {
+        "Id": 1000005,
+        "RuleGroupId": 100005,
+        "RuleId_01": 100004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000006": {
+        "Id": 1000006,
+        "RuleGroupId": 100006,
+        "RuleId_01": 100005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000007": {
+        "Id": 1000007,
+        "RuleGroupId": 100007,
+        "RuleId_01": 100006,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000008": {
+        "Id": 1000008,
+        "RuleGroupId": 100008,
+        "RuleId_01": 101001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000009": {
+        "Id": 1000009,
+        "RuleGroupId": 100009,
+        "RuleId_01": 101002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000010": {
+        "Id": 1000010,
+        "RuleGroupId": 100010,
+        "RuleId_01": 101003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000011": {
+        "Id": 1000011,
+        "RuleGroupId": 100011,
+        "RuleId_01": 101004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000012": {
+        "Id": 1000012,
+        "RuleGroupId": 100012,
+        "RuleId_01": 101005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000013": {
+        "Id": 1000013,
+        "RuleGroupId": 100013,
+        "RuleId_01": 101006,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000014": {
+        "Id": 1000014,
+        "RuleGroupId": 100014,
+        "RuleId_01": 102001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000015": {
+        "Id": 1000015,
+        "RuleGroupId": 100015,
+        "RuleId_01": 102002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000016": {
+        "Id": 1000016,
+        "RuleGroupId": 100016,
+        "RuleId_01": 102003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000017": {
+        "Id": 1000017,
+        "RuleGroupId": 100017,
+        "RuleId_01": 102004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000018": {
+        "Id": 1000018,
+        "RuleGroupId": 100018,
+        "RuleId_01": 102005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000019": {
+        "Id": 1000019,
+        "RuleGroupId": 100019,
+        "RuleId_01": 102006,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000020": {
+        "Id": 1000020,
+        "RuleGroupId": 100020,
+        "RuleId_01": 103001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000021": {
+        "Id": 1000021,
+        "RuleGroupId": 100021,
+        "RuleId_01": 103002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000022": {
+        "Id": 1000022,
+        "RuleGroupId": 100022,
+        "RuleId_01": 103003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000023": {
+        "Id": 1000023,
+        "RuleGroupId": 100023,
+        "RuleId_01": 103004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000024": {
+        "Id": 1000024,
+        "RuleGroupId": 100024,
+        "RuleId_01": 103005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000025": {
+        "Id": 1000025,
+        "RuleGroupId": 100025,
+        "RuleId_01": 103006,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000026": {
+        "Id": 1000026,
+        "RuleGroupId": 100026,
+        "RuleId_01": 103007,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000027": {
+        "Id": 1000027,
+        "RuleGroupId": 100027,
+        "RuleId_01": 103008,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000028": {
+        "Id": 1000028,
+        "RuleGroupId": 100028,
+        "RuleId_01": 103009,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000029": {
+        "Id": 1000029,
+        "RuleGroupId": 100029,
+        "RuleId_01": 103010,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000030": {
+        "Id": 1000030,
+        "RuleGroupId": 100030,
+        "RuleId_01": 103011,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000031": {
+        "Id": 1000031,
+        "RuleGroupId": 100031,
+        "RuleId_01": 103012,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000032": {
+        "Id": 1000032,
+        "RuleGroupId": 100032,
+        "RuleId_01": 103013,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000033": {
+        "Id": 1000033,
+        "RuleGroupId": 100033,
+        "RuleId_01": 103014,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000034": {
+        "Id": 1000034,
+        "RuleGroupId": 100034,
+        "RuleId_01": 103015,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000035": {
+        "Id": 1000035,
+        "RuleGroupId": 100035,
+        "RuleId_01": 104001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000036": {
+        "Id": 1000036,
+        "RuleGroupId": 100036,
+        "RuleId_01": 107001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000037": {
+        "Id": 1000037,
+        "RuleGroupId": 100037,
+        "RuleId_01": 107002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000038": {
+        "Id": 1000038,
+        "RuleGroupId": 100038,
+        "RuleId_01": 107003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000039": {
+        "Id": 1000039,
+        "RuleGroupId": 100039,
+        "RuleId_01": 107004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000040": {
+        "Id": 1000040,
+        "RuleGroupId": 100040,
+        "RuleId_01": 108001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000041": {
+        "Id": 1000041,
+        "RuleGroupId": 100041,
+        "RuleId_01": 108002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000042": {
+        "Id": 1000042,
+        "RuleGroupId": 100042,
+        "RuleId_01": 108003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000043": {
+        "Id": 1000043,
+        "RuleGroupId": 100043,
+        "RuleId_01": 108004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000044": {
+        "Id": 1000044,
+        "RuleGroupId": 100044,
+        "RuleId_01": 108005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000045": {
+        "Id": 1000045,
+        "RuleGroupId": 100045,
+        "RuleId_01": 108006,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000046": {
+        "Id": 1000046,
+        "RuleGroupId": 100046,
+        "RuleId_01": 108007,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000047": {
+        "Id": 1000047,
+        "RuleGroupId": 100047,
+        "RuleId_01": 108008,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000048": {
+        "Id": 1000048,
+        "RuleGroupId": 100048,
+        "RuleId_01": 108009,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000049": {
+        "Id": 1000049,
+        "RuleGroupId": 100049,
+        "RuleId_01": 108010,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000050": {
+        "Id": 1000050,
+        "RuleGroupId": 100050,
+        "RuleId_01": 108011,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000051": {
+        "Id": 1000051,
+        "RuleGroupId": 100051,
+        "RuleId_01": 108012,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000052": {
+        "Id": 1000052,
+        "RuleGroupId": 100052,
+        "RuleId_01": 108013,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000053": {
+        "Id": 1000053,
+        "RuleGroupId": 100053,
+        "RuleId_01": 108014,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000054": {
+        "Id": 1000054,
+        "RuleGroupId": 100054,
+        "RuleId_01": 108015,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000055": {
+        "Id": 1000055,
+        "RuleGroupId": 100055,
+        "RuleId_01": 108016,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000056": {
+        "Id": 1000056,
+        "RuleGroupId": 100056,
+        "RuleId_01": 108017,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000057": {
+        "Id": 1000057,
+        "RuleGroupId": 100057,
+        "RuleId_01": 108018,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000058": {
+        "Id": 1000058,
+        "RuleGroupId": 100058,
+        "RuleId_01": 109001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000059": {
+        "Id": 1000059,
+        "RuleGroupId": 100059,
+        "RuleId_01": 109002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000060": {
+        "Id": 1000060,
+        "RuleGroupId": 100060,
+        "RuleId_01": 109003,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000061": {
+        "Id": 1000061,
+        "RuleGroupId": 100061,
+        "RuleId_01": 109004,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000062": {
+        "Id": 1000062,
+        "RuleGroupId": 100062,
+        "RuleId_01": 109005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000063": {
+        "Id": 1000063,
+        "RuleGroupId": 100063,
+        "RuleId_01": 109006,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000064": {
+        "Id": 1000064,
+        "RuleGroupId": 100064,
+        "RuleId_01": 109007,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000065": {
+        "Id": 1000065,
+        "RuleGroupId": 100065,
+        "RuleId_01": 109008,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000066": {
+        "Id": 1000066,
+        "RuleGroupId": 100066,
+        "RuleId_01": 109009,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000067": {
+        "Id": 1000067,
+        "RuleGroupId": 100067,
+        "RuleId_01": 109010,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000068": {
+        "Id": 1000068,
+        "RuleGroupId": 100068,
+        "RuleId_01": 109011,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000069": {
+        "Id": 1000069,
+        "RuleGroupId": 100069,
+        "RuleId_01": 109012,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000070": {
+        "Id": 1000070,
+        "RuleGroupId": 100070,
+        "RuleId_01": 109013,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000071": {
+        "Id": 1000071,
+        "RuleGroupId": 100071,
+        "RuleId_01": 109014,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000072": {
+        "Id": 1000072,
+        "RuleGroupId": 100072,
+        "RuleId_01": 109015,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000073": {
+        "Id": 1000073,
+        "RuleGroupId": 100073,
+        "RuleId_01": 109016,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000074": {
+        "Id": 1000074,
+        "RuleGroupId": 100074,
+        "RuleId_01": 109017,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000075": {
+        "Id": 1000075,
+        "RuleGroupId": 100075,
+        "RuleId_01": 109018,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000076": {
+        "Id": 1000076,
+        "RuleGroupId": 100076,
+        "RuleId_01": 110001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000077": {
+        "Id": 1000077,
+        "RuleGroupId": 100077,
+        "RuleId_01": 111001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000078": {
+        "Id": 1000078,
+        "RuleGroupId": 100078,
+        "RuleId_01": 111002,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000079": {
+        "Id": 1000079,
+        "RuleGroupId": 100079,
+        "RuleId_01": 100004,
+        "RuleId_02": 102001,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000080": {
+        "Id": 1000080,
+        "RuleGroupId": 100080,
+        "RuleId_01": 100005,
+        "RuleId_02": 102003,
+        "RuleId_03": 103011,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "1000081": {
+        "Id": 1000081,
+        "RuleGroupId": 100081,
+        "RuleId_01": 107005,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "10014103001": {
+        "Id": 10014103001,
+        "RuleGroupId": 10014103001,
+        "RuleId_01": 10014103001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "10024103001": {
+        "Id": 10024103001,
+        "RuleGroupId": 10024103001,
+        "RuleId_01": 10024103001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "10034102001": {
+        "Id": 10034102001,
+        "RuleGroupId": 10034102001,
+        "RuleId_01": 10034102001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "10044102001": {
+        "Id": 10044102001,
+        "RuleGroupId": 10044102001,
+        "RuleId_01": 10044102001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "20014402001": {
+        "Id": 20014402001,
+        "RuleGroupId": 20014402001,
+        "RuleId_01": 20014402001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "20024402001": {
+        "Id": 20024402001,
+        "RuleGroupId": 20024402001,
+        "RuleId_01": 20024402001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "20034402001": {
+        "Id": 20034402001,
+        "RuleGroupId": 20034402001,
+        "RuleId_01": 20034402001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "20044402001": {
+        "Id": 20044402001,
+        "RuleGroupId": 20044402001,
+        "RuleId_01": 20044402001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "30014302001": {
+        "Id": 30014302001,
+        "RuleGroupId": 30014302001,
+        "RuleId_01": 30014302001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "30024302001": {
+        "Id": 30024302001,
+        "RuleGroupId": 30024302001,
+        "RuleId_01": 30024302001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "30034302001": {
+        "Id": 30034302001,
+        "RuleGroupId": 30034302001,
+        "RuleId_01": 30034302001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "30044302001": {
+        "Id": 30044302001,
+        "RuleGroupId": 30044302001,
+        "RuleId_01": 30044302001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "40014503001": {
+        "Id": 40014503001,
+        "RuleGroupId": 40014503001,
+        "RuleId_01": 40014503001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "40024502001": {
+        "Id": 40024502001,
+        "RuleGroupId": 40024502001,
+        "RuleId_01": 40024502001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "40034502001": {
+        "Id": 40034502001,
+        "RuleGroupId": 40034502001,
+        "RuleId_01": 40034502001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "40044502001": {
+        "Id": 40044502001,
+        "RuleGroupId": 40044502001,
+        "RuleId_01": 40044502001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "50014202001": {
+        "Id": 50014202001,
+        "RuleGroupId": 50014202001,
+        "RuleId_01": 50014202001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "50024202001": {
+        "Id": 50024202001,
+        "RuleGroupId": 50024202001,
+        "RuleId_01": 50024202001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "60014501001": {
+        "Id": 60014501001,
+        "RuleGroupId": 60014501001,
+        "RuleId_01": 60014501001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "60024501001": {
+        "Id": 60024501001,
+        "RuleGroupId": 60024501001,
+        "RuleId_01": 60024501001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "40014101001": {
+        "Id": 40014101001,
+        "RuleGroupId": 40014101001,
+        "RuleId_01": 40014101001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "10014501001": {
+        "Id": 10014501001,
+        "RuleGroupId": 10014501001,
+        "RuleId_01": 10014501001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "10024501001": {
+        "Id": 10024501001,
+        "RuleGroupId": 10024501001,
+        "RuleId_01": 10024501001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "20014101001": {
+        "Id": 20014101001,
+        "RuleGroupId": 20014101001,
+        "RuleId_01": 20014101001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "20024101001": {
+        "Id": 20024101001,
+        "RuleGroupId": 20024101001,
+        "RuleId_01": 20024101001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "30014401001": {
+        "Id": 30014401001,
+        "RuleGroupId": 30014401001,
+        "RuleId_01": 30014401001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "30024401001": {
+        "Id": 30024401001,
+        "RuleGroupId": 30024401001,
+        "RuleId_01": 30024401001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "50014301001": {
+        "Id": 50014301001,
+        "RuleGroupId": 50014301001,
+        "RuleId_01": 50014301001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    },
+    "50024301001": {
+        "Id": 50024301001,
+        "RuleGroupId": 50024301001,
+        "RuleId_01": 50024301001,
+        "RuleId_02": 0,
+        "RuleId_03": 0,
+        "RuleId_04": 0,
+        "RuleId_05": 0
+    }
+}

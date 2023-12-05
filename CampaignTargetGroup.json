@@ -1,0 +1,92 @@
+{
+    "1001": {
+        "Id": 1001,
+        "GroupId": 1,
+        "TargetType": 1,
+        "TargetId": 10010101
+    },
+    "1002": {
+        "Id": 1002,
+        "GroupId": 1,
+        "TargetType": 1,
+        "TargetId": 10010201
+    },
+    "1003": {
+        "Id": 1003,
+        "GroupId": 1,
+        "TargetType": 1,
+        "TargetId": 10010301
+    },
+    "1004": {
+        "Id": 1004,
+        "GroupId": 1,
+        "TargetType": 1,
+        "TargetId": 10010302
+    },
+    "2001": {
+        "Id": 2001,
+        "GroupId": 2,
+        "TargetType": 2,
+        "TargetId": 10011101
+    },
+    "2002": {
+        "Id": 2002,
+        "GroupId": 2,
+        "TargetType": 2,
+        "TargetId": 10012101
+    },
+    "2003": {
+        "Id": 2003,
+        "GroupId": 2,
+        "TargetType": 2,
+        "TargetId": 10013101
+    },
+    "2004": {
+        "Id": 2004,
+        "GroupId": 2,
+        "TargetType": 2,
+        "TargetId": 10014101
+    },
+    "2005": {
+        "Id": 2005,
+        "GroupId": 2,
+        "TargetType": 3,
+        "TargetId": 100001
+    },
+    "2006": {
+        "Id": 2006,
+        "GroupId": 2,
+        "TargetType": 3,
+        "TargetId": 110001
+    },
+    "2007": {
+        "Id": 2007,
+        "GroupId": 2,
+        "TargetType": 3,
+        "TargetId": 120001
+    },
+    "2008": {
+        "Id": 2008,
+        "GroupId": 2,
+        "TargetType": 3,
+        "TargetId": 130001
+    },
+    "2009": {
+        "Id": 2009,
+        "GroupId": 2,
+        "TargetType": 3,
+        "TargetId": 140001
+    },
+    "3001": {
+        "Id": 3001,
+        "GroupId": 3,
+        "TargetType": 4,
+        "TargetId": 1001
+    },
+    "3002": {
+        "Id": 3002,
+        "GroupId": 3,
+        "TargetType": 4,
+        "TargetId": 1002
+    }
+}

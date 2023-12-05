@@ -1,0 +1,218 @@
+{
+    "1001": {
+        "Id": 1001,
+        "Name": "自機",
+        "Shape": 1,
+        "Radius": 48,
+        "RadiusX": 0,
+        "RadiusY": 0
+    },
+    "2001": {
+        "Id": 2001,
+        "Name": "敵マシンA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 90,
+        "RadiusY": 40
+    },
+    "2002": {
+        "Id": 2002,
+        "Name": "敵マシンB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 90,
+        "RadiusY": 40
+    },
+    "2003": {
+        "Id": 2003,
+        "Name": "敵マシンC",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 90,
+        "RadiusY": 40
+    },
+    "300101": {
+        "Id": 300101,
+        "Name": "イソギンチャクA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "300102": {
+        "Id": 300102,
+        "Name": "イソギンチャクA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "300103": {
+        "Id": 300103,
+        "Name": "イソギンチャクA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "300201": {
+        "Id": 300201,
+        "Name": "イソギンチャクB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "300202": {
+        "Id": 300202,
+        "Name": "イソギンチャクB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "300203": {
+        "Id": 300203,
+        "Name": "イソギンチャクB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "301101": {
+        "Id": 301101,
+        "Name": "フグA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "301102": {
+        "Id": 301102,
+        "Name": "フグA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "301103": {
+        "Id": 301103,
+        "Name": "フグA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "301201": {
+        "Id": 301201,
+        "Name": "フグB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "301202": {
+        "Id": 301202,
+        "Name": "フグB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "301203": {
+        "Id": 301203,
+        "Name": "フグB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 34,
+        "RadiusY": 34
+    },
+    "302101": {
+        "Id": 302101,
+        "Name": "カニ",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 48,
+        "RadiusY": 36
+    },
+    "302102": {
+        "Id": 302102,
+        "Name": "カニ弱",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 48,
+        "RadiusY": 36
+    },
+    "5001": {
+        "Id": 5001,
+        "Name": "ブイA",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 28,
+        "RadiusY": 37
+    },
+    "5002": {
+        "Id": 5002,
+        "Name": "ブイB",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 28,
+        "RadiusY": 37
+    },
+    "5003": {
+        "Id": 5003,
+        "Name": "ブイC",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 28,
+        "RadiusY": 37
+    },
+    "5011": {
+        "Id": 5011,
+        "Name": "浮き輪A",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 71,
+        "RadiusY": 37
+    },
+    "5012": {
+        "Id": 5012,
+        "Name": "浮き輪B",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 71,
+        "RadiusY": 37
+    },
+    "5013": {
+        "Id": 5013,
+        "Name": "浮き輪C",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 71,
+        "RadiusY": 37
+    },
+    "5021": {
+        "Id": 5021,
+        "Name": "波",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 65,
+        "RadiusY": 72
+    },
+    "4001": {
+        "Id": 4001,
+        "Name": "自機弾",
+        "Shape": 2,
+        "Radius": 0,
+        "RadiusX": 24,
+        "RadiusY": 21
+    },
+    "4011": {
+        "Id": 4011,
+        "Name": "敵弾",
+        "Shape": 1,
+        "Radius": 8,
+        "RadiusX": 0,
+        "RadiusY": 0
+    }
+}

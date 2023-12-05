@@ -1,0 +1,53 @@
+{
+    "100101": {
+        "Id": 100101,
+        "MapchipId": 1,
+        "Name": "自機1",
+        "Level": 1,
+        "MoveSpeed": 530,
+        "BulletShootingInterval": 41,
+        "BulletShotOffsetY": 0,
+        "BulletSpeed": 2000,
+        "BulletsNumber": 1,
+        "BulletSpawnOffsetX": 100,
+        "BulletSpawnOffsetY": -30,
+        "LerpTime": 30,
+        "BounceMultiplier": 700,
+        "BounceMinLength": 40,
+        "BounceMaxLength": 100
+    },
+    "100102": {
+        "Id": 100102,
+        "MapchipId": 2,
+        "Name": "自機2",
+        "Level": 2,
+        "MoveSpeed": 530,
+        "BulletShootingInterval": 41,
+        "BulletShotOffsetY": 50,
+        "BulletSpeed": 2000,
+        "BulletsNumber": 2,
+        "BulletSpawnOffsetX": 100,
+        "BulletSpawnOffsetY": -30,
+        "LerpTime": 30,
+        "BounceMultiplier": 700,
+        "BounceMinLength": 40,
+        "BounceMaxLength": 100
+    },
+    "100103": {
+        "Id": 100103,
+        "MapchipId": 3,
+        "Name": "自機3",
+        "Level": 3,
+        "MoveSpeed": 530,
+        "BulletShootingInterval": 41,
+        "BulletShotOffsetY": 50,
+        "BulletSpeed": 2000,
+        "BulletsNumber": 3,
+        "BulletSpawnOffsetX": 100,
+        "BulletSpawnOffsetY": -30,
+        "LerpTime": 30,
+        "BounceMultiplier": 700,
+        "BounceMinLength": 40,
+        "BounceMaxLength": 100
+    }
+}

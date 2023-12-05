@@ -1,0 +1,770 @@
+{
+    "1001": {
+        "Id": 1001,
+        "SeasonId": 1,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "1002": {
+        "Id": 1002,
+        "SeasonId": 1,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "1003": {
+        "Id": 1003,
+        "SeasonId": 1,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "1004": {
+        "Id": 1004,
+        "SeasonId": 1,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "1005": {
+        "Id": 1005,
+        "SeasonId": 1,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "1006": {
+        "Id": 1006,
+        "SeasonId": 1,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "1007": {
+        "Id": 1007,
+        "SeasonId": 1,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "1008": {
+        "Id": 1008,
+        "SeasonId": 1,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "1009": {
+        "Id": 1009,
+        "SeasonId": 1,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "1010": {
+        "Id": 1010,
+        "SeasonId": 1,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "1011": {
+        "Id": 1011,
+        "SeasonId": 1,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "1012": {
+        "Id": 1012,
+        "SeasonId": 1,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "1013": {
+        "Id": 1013,
+        "SeasonId": 1,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "1014": {
+        "Id": 1014,
+        "SeasonId": 1,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "1015": {
+        "Id": 1015,
+        "SeasonId": 1,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "1016": {
+        "Id": 1016,
+        "SeasonId": 1,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "2001": {
+        "Id": 2001,
+        "SeasonId": 2,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "2002": {
+        "Id": 2002,
+        "SeasonId": 2,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "2003": {
+        "Id": 2003,
+        "SeasonId": 2,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "2004": {
+        "Id": 2004,
+        "SeasonId": 2,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "2005": {
+        "Id": 2005,
+        "SeasonId": 2,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "2006": {
+        "Id": 2006,
+        "SeasonId": 2,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "2007": {
+        "Id": 2007,
+        "SeasonId": 2,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "2008": {
+        "Id": 2008,
+        "SeasonId": 2,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "2009": {
+        "Id": 2009,
+        "SeasonId": 2,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "2010": {
+        "Id": 2010,
+        "SeasonId": 2,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "2011": {
+        "Id": 2011,
+        "SeasonId": 2,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "2012": {
+        "Id": 2012,
+        "SeasonId": 2,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "2013": {
+        "Id": 2013,
+        "SeasonId": 2,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "2014": {
+        "Id": 2014,
+        "SeasonId": 2,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "2015": {
+        "Id": 2015,
+        "SeasonId": 2,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "2016": {
+        "Id": 2016,
+        "SeasonId": 2,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "3001": {
+        "Id": 3001,
+        "SeasonId": 3,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "3002": {
+        "Id": 3002,
+        "SeasonId": 3,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "3003": {
+        "Id": 3003,
+        "SeasonId": 3,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "3004": {
+        "Id": 3004,
+        "SeasonId": 3,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "3005": {
+        "Id": 3005,
+        "SeasonId": 3,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "3006": {
+        "Id": 3006,
+        "SeasonId": 3,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "3007": {
+        "Id": 3007,
+        "SeasonId": 3,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "3008": {
+        "Id": 3008,
+        "SeasonId": 3,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "3009": {
+        "Id": 3009,
+        "SeasonId": 3,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "3010": {
+        "Id": 3010,
+        "SeasonId": 3,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "3011": {
+        "Id": 3011,
+        "SeasonId": 3,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "3012": {
+        "Id": 3012,
+        "SeasonId": 3,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "3013": {
+        "Id": 3013,
+        "SeasonId": 3,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "3014": {
+        "Id": 3014,
+        "SeasonId": 3,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "3015": {
+        "Id": 3015,
+        "SeasonId": 3,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "3016": {
+        "Id": 3016,
+        "SeasonId": 3,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "4001": {
+        "Id": 4001,
+        "SeasonId": 4,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "4002": {
+        "Id": 4002,
+        "SeasonId": 4,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "4003": {
+        "Id": 4003,
+        "SeasonId": 4,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "4004": {
+        "Id": 4004,
+        "SeasonId": 4,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "4005": {
+        "Id": 4005,
+        "SeasonId": 4,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "4006": {
+        "Id": 4006,
+        "SeasonId": 4,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "4007": {
+        "Id": 4007,
+        "SeasonId": 4,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "4008": {
+        "Id": 4008,
+        "SeasonId": 4,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "4009": {
+        "Id": 4009,
+        "SeasonId": 4,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "4010": {
+        "Id": 4010,
+        "SeasonId": 4,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "4011": {
+        "Id": 4011,
+        "SeasonId": 4,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "4012": {
+        "Id": 4012,
+        "SeasonId": 4,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "4013": {
+        "Id": 4013,
+        "SeasonId": 4,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "4014": {
+        "Id": 4014,
+        "SeasonId": 4,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "4015": {
+        "Id": 4015,
+        "SeasonId": 4,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "4016": {
+        "Id": 4016,
+        "SeasonId": 4,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "5001": {
+        "Id": 5001,
+        "SeasonId": 5,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "5002": {
+        "Id": 5002,
+        "SeasonId": 5,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "5003": {
+        "Id": 5003,
+        "SeasonId": 5,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "5004": {
+        "Id": 5004,
+        "SeasonId": 5,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "5005": {
+        "Id": 5005,
+        "SeasonId": 5,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "5006": {
+        "Id": 5006,
+        "SeasonId": 5,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "5007": {
+        "Id": 5007,
+        "SeasonId": 5,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "5008": {
+        "Id": 5008,
+        "SeasonId": 5,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "5009": {
+        "Id": 5009,
+        "SeasonId": 5,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "5010": {
+        "Id": 5010,
+        "SeasonId": 5,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "5011": {
+        "Id": 5011,
+        "SeasonId": 5,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "5012": {
+        "Id": 5012,
+        "SeasonId": 5,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "5013": {
+        "Id": 5013,
+        "SeasonId": 5,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "5014": {
+        "Id": 5014,
+        "SeasonId": 5,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "5015": {
+        "Id": 5015,
+        "SeasonId": 5,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "5016": {
+        "Id": 5016,
+        "SeasonId": 5,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "6001": {
+        "Id": 6001,
+        "SeasonId": 6,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "6002": {
+        "Id": 6002,
+        "SeasonId": 6,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "6003": {
+        "Id": 6003,
+        "SeasonId": 6,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "6004": {
+        "Id": 6004,
+        "SeasonId": 6,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "6005": {
+        "Id": 6005,
+        "SeasonId": 6,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "6006": {
+        "Id": 6006,
+        "SeasonId": 6,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "6007": {
+        "Id": 6007,
+        "SeasonId": 6,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "6008": {
+        "Id": 6008,
+        "SeasonId": 6,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "6009": {
+        "Id": 6009,
+        "SeasonId": 6,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "6010": {
+        "Id": 6010,
+        "SeasonId": 6,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "6011": {
+        "Id": 6011,
+        "SeasonId": 6,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "6012": {
+        "Id": 6012,
+        "SeasonId": 6,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "6013": {
+        "Id": 6013,
+        "SeasonId": 6,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "6014": {
+        "Id": 6014,
+        "SeasonId": 6,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "6015": {
+        "Id": 6015,
+        "SeasonId": 6,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "6016": {
+        "Id": 6016,
+        "SeasonId": 6,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "7001": {
+        "Id": 7001,
+        "SeasonId": 7,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "7002": {
+        "Id": 7002,
+        "SeasonId": 7,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "7003": {
+        "Id": 7003,
+        "SeasonId": 7,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "7004": {
+        "Id": 7004,
+        "SeasonId": 7,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "7005": {
+        "Id": 7005,
+        "SeasonId": 7,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "7006": {
+        "Id": 7006,
+        "SeasonId": 7,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "7007": {
+        "Id": 7007,
+        "SeasonId": 7,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "7008": {
+        "Id": 7008,
+        "SeasonId": 7,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "7009": {
+        "Id": 7009,
+        "SeasonId": 7,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "7010": {
+        "Id": 7010,
+        "SeasonId": 7,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "7011": {
+        "Id": 7011,
+        "SeasonId": 7,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "7012": {
+        "Id": 7012,
+        "SeasonId": 7,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "7013": {
+        "Id": 7013,
+        "SeasonId": 7,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "7014": {
+        "Id": 7014,
+        "SeasonId": 7,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "7015": {
+        "Id": 7015,
+        "SeasonId": 7,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "7016": {
+        "Id": 7016,
+        "SeasonId": 7,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    },
+    "8001": {
+        "Id": 8001,
+        "SeasonId": 8,
+        "ClassId": 1,
+        "ItemGroupId": 0
+    },
+    "8002": {
+        "Id": 8002,
+        "SeasonId": 8,
+        "ClassId": 2,
+        "ItemGroupId": 11389
+    },
+    "8003": {
+        "Id": 8003,
+        "SeasonId": 8,
+        "ClassId": 3,
+        "ItemGroupId": 11389
+    },
+    "8004": {
+        "Id": 8004,
+        "SeasonId": 8,
+        "ClassId": 4,
+        "ItemGroupId": 11390
+    },
+    "8005": {
+        "Id": 8005,
+        "SeasonId": 8,
+        "ClassId": 5,
+        "ItemGroupId": 11390
+    },
+    "8006": {
+        "Id": 8006,
+        "SeasonId": 8,
+        "ClassId": 6,
+        "ItemGroupId": 11390
+    },
+    "8007": {
+        "Id": 8007,
+        "SeasonId": 8,
+        "ClassId": 7,
+        "ItemGroupId": 11391
+    },
+    "8008": {
+        "Id": 8008,
+        "SeasonId": 8,
+        "ClassId": 8,
+        "ItemGroupId": 11391
+    },
+    "8009": {
+        "Id": 8009,
+        "SeasonId": 8,
+        "ClassId": 9,
+        "ItemGroupId": 11391
+    },
+    "8010": {
+        "Id": 8010,
+        "SeasonId": 8,
+        "ClassId": 10,
+        "ItemGroupId": 11392
+    },
+    "8011": {
+        "Id": 8011,
+        "SeasonId": 8,
+        "ClassId": 11,
+        "ItemGroupId": 11392
+    },
+    "8012": {
+        "Id": 8012,
+        "SeasonId": 8,
+        "ClassId": 12,
+        "ItemGroupId": 11392
+    },
+    "8013": {
+        "Id": 8013,
+        "SeasonId": 8,
+        "ClassId": 13,
+        "ItemGroupId": 11393
+    },
+    "8014": {
+        "Id": 8014,
+        "SeasonId": 8,
+        "ClassId": 14,
+        "ItemGroupId": 11393
+    },
+    "8015": {
+        "Id": 8015,
+        "SeasonId": 8,
+        "ClassId": 15,
+        "ItemGroupId": 11394
+    },
+    "8016": {
+        "Id": 8016,
+        "SeasonId": 8,
+        "ClassId": 16,
+        "ItemGroupId": 11395
+    }
+}

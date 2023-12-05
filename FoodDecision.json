@@ -1,0 +1,72 @@
+{
+    "1": {
+        "Id": 1,
+        "ClosenessPtTotalMin": 1,
+        "ClosenessPtTotalMax": 100,
+        "CommonProb": 80,
+        "UnCommonProb": 20,
+        "RareProb": 0,
+        "SuperRareProb": 0,
+        "DoubleSuperRareProb": 0
+    },
+    "2": {
+        "Id": 2,
+        "ClosenessPtTotalMin": 101,
+        "ClosenessPtTotalMax": 200,
+        "CommonProb": 60,
+        "UnCommonProb": 40,
+        "RareProb": 0,
+        "SuperRareProb": 0,
+        "DoubleSuperRareProb": 0
+    },
+    "3": {
+        "Id": 3,
+        "ClosenessPtTotalMin": 201,
+        "ClosenessPtTotalMax": 300,
+        "CommonProb": 40,
+        "UnCommonProb": 60,
+        "RareProb": 0,
+        "SuperRareProb": 0,
+        "DoubleSuperRareProb": 0
+    },
+    "4": {
+        "Id": 4,
+        "ClosenessPtTotalMin": 301,
+        "ClosenessPtTotalMax": 450,
+        "CommonProb": 0,
+        "UnCommonProb": 60,
+        "RareProb": 40,
+        "SuperRareProb": 0,
+        "DoubleSuperRareProb": 0
+    },
+    "5": {
+        "Id": 5,
+        "ClosenessPtTotalMin": 451,
+        "ClosenessPtTotalMax": 600,
+        "CommonProb": 0,
+        "UnCommonProb": 30,
+        "RareProb": 70,
+        "SuperRareProb": 0,
+        "DoubleSuperRareProb": 0
+    },
+    "6": {
+        "Id": 6,
+        "ClosenessPtTotalMin": 601,
+        "ClosenessPtTotalMax": 800,
+        "CommonProb": 0,
+        "UnCommonProb": 0,
+        "RareProb": 87,
+        "SuperRareProb": 10,
+        "DoubleSuperRareProb": 3
+    },
+    "7": {
+        "Id": 7,
+        "ClosenessPtTotalMin": 801,
+        "ClosenessPtTotalMax": 99999999,
+        "CommonProb": 0,
+        "UnCommonProb": 0,
+        "RareProb": 60,
+        "SuperRareProb": 35,
+        "DoubleSuperRareProb": 5
+    }
+}

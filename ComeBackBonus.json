@@ -1,0 +1,42 @@
+{
+    "10001001": {
+        "Id": 10001001,
+        "GroupId": 10001,
+        "Days": 1,
+        "ItemGroupId": 10624,
+        "Message": "カムバックボーナス1日目",
+        "ComeBackInterval": 30
+    },
+    "10001002": {
+        "Id": 10001002,
+        "GroupId": 10001,
+        "Days": 2,
+        "ItemGroupId": 10804,
+        "Message": "カムバックボーナス2日目",
+        "ComeBackInterval": 30
+    },
+    "10001003": {
+        "Id": 10001003,
+        "GroupId": 10001,
+        "Days": 3,
+        "ItemGroupId": 10632,
+        "Message": "カムバックボーナス3日目",
+        "ComeBackInterval": 30
+    },
+    "10001004": {
+        "Id": 10001004,
+        "GroupId": 10001,
+        "Days": 4,
+        "ItemGroupId": 11459,
+        "Message": "カムバックボーナス4日目",
+        "ComeBackInterval": 30
+    },
+    "10001005": {
+        "Id": 10001005,
+        "GroupId": 10001,
+        "Days": 5,
+        "ItemGroupId": 11355,
+        "Message": "カムバックボーナス5日目",
+        "ComeBackInterval": 30
+    }
+}

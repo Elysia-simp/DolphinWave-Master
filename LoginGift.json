@@ -1,0 +1,54 @@
+{
+    "1": {
+        "Id": 1,
+        "ItemGroupId": 110000,
+        "Message": "100万人DL突破記念",
+        "WindowTitle": "運営からのプレゼント",
+        "WindowText": "ダウンロード100万人突破を記念し、運営より【課金石30個】をプレゼントボックスにお送りしました。",
+        "StartDate": 0,
+        "EndDate": 1893423600,
+        "StartTargetDate": 0,
+        "EndTargetDate": 1893423600,
+        "Target": 1,
+        "UserGroupId": 0
+    },
+    "2": {
+        "Id": 2,
+        "ItemGroupId": 110001,
+        "Message": "イベント中のメンテナンス実施のお詫び",
+        "WindowTitle": "運営からのお詫び",
+        "WindowText": "イベント中にメンテナンスを実施させていただいたお詫びとして、運営より【課金石30個】をプレゼントボックスにお送りしました。",
+        "StartDate": 0,
+        "EndDate": 1893423600,
+        "StartTargetDate": 1601492400,
+        "EndTargetDate": 1602701999,
+        "Target": 2,
+        "UserGroupId": 0
+    },
+    "3": {
+        "Id": 3,
+        "ItemGroupId": 110002,
+        "Message": "RTキャンペーン当選",
+        "WindowTitle": "ご当選おめでとうございます！",
+        "WindowText": "RTキャンペーンに当選されましたので、運営より【課金石30個】をプレゼントボックスにお送りしました。",
+        "StartDate": 0,
+        "EndDate": 1893423600,
+        "StartTargetDate": 0,
+        "EndTargetDate": 1893423600,
+        "Target": 3,
+        "UserGroupId": 12345
+    },
+    "4": {
+        "Id": 4,
+        "ItemGroupId": 110003,
+        "Message": "不具合のお詫び",
+        "WindowTitle": "不具合のお詫び",
+        "WindowText": "不具合のお詫びとして、運営より【課金石30個】をプレゼントボックスにお送りしました。",
+        "StartDate": 0,
+        "EndDate": 1893423600,
+        "StartTargetDate": 0,
+        "EndTargetDate": 1893423600,
+        "Target": 4,
+        "UserGroupId": 0
+    }
+}

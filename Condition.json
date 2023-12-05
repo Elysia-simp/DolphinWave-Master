@@ -1,0 +1,15 @@
+{
+    "1001": {
+        "Id": 1001,
+        "Text": "自分のHPがMAXでない",
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 0,
+        "ConditionTargetDetailId": 0,
+        "Condition": 1,
+        "ConditionCompare": 7,
+        "ConditionUnit": 1,
+        "ConditionValue": 100,
+        "TargetRange": "-1",
+        "Range": 1
+    }
+}

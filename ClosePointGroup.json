@@ -1,0 +1,898 @@
+{
+    "100101": {
+        "Id": 100101,
+        "ChapterId": 1001,
+        "CharaId": 1001,
+        "Label": "1001210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100102": {
+        "Id": 100102,
+        "ChapterId": 1001,
+        "CharaId": 1002,
+        "Label": "1001210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100201": {
+        "Id": 100201,
+        "ChapterId": 1002,
+        "CharaId": 3003,
+        "Label": "1002350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100202": {
+        "Id": 100202,
+        "ChapterId": 1002,
+        "CharaId": 3004,
+        "Label": "1002350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100301": {
+        "Id": 100301,
+        "ChapterId": 1002,
+        "CharaId": 3002,
+        "Label": "1002350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100302": {
+        "Id": 100302,
+        "ChapterId": 1002,
+        "CharaId": 3001,
+        "Label": "1002350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100303": {
+        "Id": 100303,
+        "ChapterId": 1003,
+        "CharaId": 1001,
+        "Label": "1003310",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100304": {
+        "Id": 100304,
+        "ChapterId": 1003,
+        "CharaId": 1002,
+        "Label": "1003310",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100401": {
+        "Id": 100401,
+        "ChapterId": 1003,
+        "CharaId": 2004,
+        "Label": "1003310",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100402": {
+        "Id": 100402,
+        "ChapterId": 1004,
+        "CharaId": 1004,
+        "Label": "1004190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100403": {
+        "Id": 100403,
+        "ChapterId": 1004,
+        "CharaId": 1003,
+        "Label": "1004190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100501": {
+        "Id": 100501,
+        "ChapterId": 1005,
+        "CharaId": 2001,
+        "Label": "1005360",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100502": {
+        "Id": 100502,
+        "ChapterId": 1005,
+        "CharaId": 2002,
+        "Label": "1005360",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100601": {
+        "Id": 100601,
+        "ChapterId": 1005,
+        "CharaId": 2004,
+        "Label": "1005360",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100602": {
+        "Id": 100602,
+        "ChapterId": 1005,
+        "CharaId": 2003,
+        "Label": "1005360",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100603": {
+        "Id": 100603,
+        "ChapterId": 1006,
+        "CharaId": 4004,
+        "Label": "1006190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100604": {
+        "Id": 100604,
+        "ChapterId": 1006,
+        "CharaId": 4003,
+        "Label": "1006190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100701": {
+        "Id": 100701,
+        "ChapterId": 1007,
+        "CharaId": 4002,
+        "Label": "1007190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100702": {
+        "Id": 100702,
+        "ChapterId": 1007,
+        "CharaId": 4001,
+        "Label": "1007190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100801": {
+        "Id": 100801,
+        "ChapterId": 1008,
+        "CharaId": 1001,
+        "Label": "1008210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "100802": {
+        "Id": 100802,
+        "ChapterId": 1008,
+        "CharaId": 1002,
+        "Label": "1008210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400201": {
+        "Id": 400201,
+        "ChapterId": 4002,
+        "CharaId": 5001,
+        "Label": "4002220",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400202": {
+        "Id": 400202,
+        "ChapterId": 4002,
+        "CharaId": 5002,
+        "Label": "4002220",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400401": {
+        "Id": 400401,
+        "ChapterId": 4004,
+        "CharaId": 1001,
+        "Label": "4004250",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400402": {
+        "Id": 400402,
+        "ChapterId": 4004,
+        "CharaId": 3001,
+        "Label": "4004250",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400403": {
+        "Id": 400403,
+        "ChapterId": 4004,
+        "CharaId": 3002,
+        "Label": "4004250",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400501": {
+        "Id": 400501,
+        "ChapterId": 4005,
+        "CharaId": 4001,
+        "Label": "4005300",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400502": {
+        "Id": 400502,
+        "ChapterId": 4005,
+        "CharaId": 4002,
+        "Label": "4005300",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400503": {
+        "Id": 400503,
+        "ChapterId": 4005,
+        "CharaId": 4003,
+        "Label": "4005300",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400504": {
+        "Id": 400504,
+        "ChapterId": 4005,
+        "CharaId": 4004,
+        "Label": "4005300",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101001": {
+        "Id": 101001,
+        "ChapterId": 1010,
+        "CharaId": 1001,
+        "Label": "1010390",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101002": {
+        "Id": 101002,
+        "ChapterId": 1010,
+        "CharaId": 1002,
+        "Label": "1010390",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101003": {
+        "Id": 101003,
+        "ChapterId": 1010,
+        "CharaId": 2001,
+        "Label": "1010390",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101004": {
+        "Id": 101004,
+        "ChapterId": 1010,
+        "CharaId": 2002,
+        "Label": "1010390",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400601": {
+        "Id": 400601,
+        "ChapterId": 4006,
+        "CharaId": 2004,
+        "Label": "4006340",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400602": {
+        "Id": 400602,
+        "ChapterId": 4006,
+        "CharaId": 2003,
+        "Label": "4006340",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400603": {
+        "Id": 400603,
+        "ChapterId": 4006,
+        "CharaId": 2001,
+        "Label": "4006340",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400604": {
+        "Id": 400604,
+        "ChapterId": 4006,
+        "CharaId": 2002,
+        "Label": "4006340",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400301": {
+        "Id": 400301,
+        "ChapterId": 4003,
+        "CharaId": 3001,
+        "Label": "4003190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400302": {
+        "Id": 400302,
+        "ChapterId": 4003,
+        "CharaId": 3002,
+        "Label": "4003190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101101": {
+        "Id": 101101,
+        "ChapterId": 1011,
+        "CharaId": 1001,
+        "Label": "1011410",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101102": {
+        "Id": 101102,
+        "ChapterId": 1011,
+        "CharaId": 1002,
+        "Label": "1011410",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101103": {
+        "Id": 101103,
+        "ChapterId": 1011,
+        "CharaId": 1003,
+        "Label": "1011410",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101104": {
+        "Id": 101104,
+        "ChapterId": 1011,
+        "CharaId": 1004,
+        "Label": "1011410",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400701": {
+        "Id": 400701,
+        "ChapterId": 4007,
+        "CharaId": 1001,
+        "Label": "4007190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400702": {
+        "Id": 400702,
+        "ChapterId": 4007,
+        "CharaId": 1002,
+        "Label": "4007190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400703": {
+        "Id": 400703,
+        "ChapterId": 4007,
+        "CharaId": 1003,
+        "Label": "4007190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400704": {
+        "Id": 400704,
+        "ChapterId": 4007,
+        "CharaId": 1004,
+        "Label": "4007190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101201": {
+        "Id": 101201,
+        "ChapterId": 1012,
+        "CharaId": 5001,
+        "Label": "1012220",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101202": {
+        "Id": 101202,
+        "ChapterId": 1012,
+        "CharaId": 5002,
+        "Label": "1012220",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400801": {
+        "Id": 400801,
+        "ChapterId": 4008,
+        "CharaId": 2001,
+        "Label": "4008280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400802": {
+        "Id": 400802,
+        "ChapterId": 4008,
+        "CharaId": 2002,
+        "Label": "4008280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400803": {
+        "Id": 400803,
+        "ChapterId": 4008,
+        "CharaId": 4003,
+        "Label": "4008280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400901": {
+        "Id": 400901,
+        "ChapterId": 4009,
+        "CharaId": 3003,
+        "Label": "4009200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "400902": {
+        "Id": 400902,
+        "ChapterId": 4009,
+        "CharaId": 3004,
+        "Label": "4009200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101301": {
+        "Id": 101301,
+        "ChapterId": 1013,
+        "CharaId": 1001,
+        "Label": "1013210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101302": {
+        "Id": 101302,
+        "ChapterId": 1013,
+        "CharaId": 1002,
+        "Label": "1013210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401001": {
+        "Id": 401001,
+        "ChapterId": 4010,
+        "CharaId": 6001,
+        "Label": "4010200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401002": {
+        "Id": 401002,
+        "ChapterId": 4010,
+        "CharaId": 6002,
+        "Label": "4010200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101401": {
+        "Id": 101401,
+        "ChapterId": 1014,
+        "CharaId": 1001,
+        "Label": "1014400",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101402": {
+        "Id": 101402,
+        "ChapterId": 1014,
+        "CharaId": 1002,
+        "Label": "1014400",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101403": {
+        "Id": 101403,
+        "ChapterId": 1014,
+        "CharaId": 1003,
+        "Label": "1014400",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101404": {
+        "Id": 101404,
+        "ChapterId": 1014,
+        "CharaId": 1004,
+        "Label": "1014400",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401101": {
+        "Id": 401101,
+        "ChapterId": 4011,
+        "CharaId": 4002,
+        "Label": "4011210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401102": {
+        "Id": 401102,
+        "ChapterId": 4011,
+        "CharaId": 1003,
+        "Label": "4011210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401103": {
+        "Id": 401103,
+        "ChapterId": 4011,
+        "CharaId": 5001,
+        "Label": "4011210",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401201": {
+        "Id": 401201,
+        "ChapterId": 4012,
+        "CharaId": 1001,
+        "Label": "4012350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401202": {
+        "Id": 401202,
+        "ChapterId": 4012,
+        "CharaId": 1002,
+        "Label": "4012350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401203": {
+        "Id": 401203,
+        "ChapterId": 4012,
+        "CharaId": 1003,
+        "Label": "4012350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401204": {
+        "Id": 401204,
+        "ChapterId": 4012,
+        "CharaId": 1004,
+        "Label": "4012350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401301": {
+        "Id": 401301,
+        "ChapterId": 4013,
+        "CharaId": 1001,
+        "Label": "4013370",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401302": {
+        "Id": 401302,
+        "ChapterId": 4013,
+        "CharaId": 1002,
+        "Label": "4013370",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401303": {
+        "Id": 401303,
+        "ChapterId": 4013,
+        "CharaId": 3001,
+        "Label": "4013370",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401304": {
+        "Id": 401304,
+        "ChapterId": 4013,
+        "CharaId": 3002,
+        "Label": "4013370",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401305": {
+        "Id": 401305,
+        "ChapterId": 4013,
+        "CharaId": 5002,
+        "Label": "4013370",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401401": {
+        "Id": 401401,
+        "ChapterId": 4014,
+        "CharaId": 2003,
+        "Label": "4014200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401402": {
+        "Id": 401402,
+        "ChapterId": 4014,
+        "CharaId": 2002,
+        "Label": "4014200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101501": {
+        "Id": 101501,
+        "ChapterId": 1015,
+        "CharaId": 3002,
+        "Label": "1015230",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101502": {
+        "Id": 101502,
+        "ChapterId": 1015,
+        "CharaId": 3001,
+        "Label": "1015230",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101503": {
+        "Id": 101503,
+        "ChapterId": 1015,
+        "CharaId": 6001,
+        "Label": "1015230",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101504": {
+        "Id": 101504,
+        "ChapterId": 1015,
+        "CharaId": 6002,
+        "Label": "1015230",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101601": {
+        "Id": 101601,
+        "ChapterId": 1016,
+        "CharaId": 1001,
+        "Label": "1016200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101602": {
+        "Id": 101602,
+        "ChapterId": 1016,
+        "CharaId": 1002,
+        "Label": "1016200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101603": {
+        "Id": 101603,
+        "ChapterId": 1016,
+        "CharaId": 1003,
+        "Label": "1016200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101604": {
+        "Id": 101604,
+        "ChapterId": 1016,
+        "CharaId": 1004,
+        "Label": "1016200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101701": {
+        "Id": 101701,
+        "ChapterId": 1017,
+        "CharaId": 3001,
+        "Label": "1017200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101702": {
+        "Id": 101702,
+        "ChapterId": 1017,
+        "CharaId": 3002,
+        "Label": "1017200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101703": {
+        "Id": 101703,
+        "ChapterId": 1017,
+        "CharaId": 3003,
+        "Label": "1017200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101704": {
+        "Id": 101704,
+        "ChapterId": 1017,
+        "CharaId": 3004,
+        "Label": "1017200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401501": {
+        "Id": 401501,
+        "ChapterId": 4015,
+        "CharaId": 4002,
+        "Label": "4015280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401502": {
+        "Id": 401502,
+        "ChapterId": 4015,
+        "CharaId": 4004,
+        "Label": "4015280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401503": {
+        "Id": 401503,
+        "ChapterId": 4015,
+        "CharaId": 4003,
+        "Label": "4015280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401601": {
+        "Id": 401601,
+        "ChapterId": 4016,
+        "CharaId": 1001,
+        "Label": "4016280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401602": {
+        "Id": 401602,
+        "ChapterId": 4016,
+        "CharaId": 1002,
+        "Label": "4016280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401603": {
+        "Id": 401603,
+        "ChapterId": 4016,
+        "CharaId": 3002,
+        "Label": "4016280",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101801": {
+        "Id": 101801,
+        "ChapterId": 1018,
+        "CharaId": 3001,
+        "Label": "1018380",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101802": {
+        "Id": 101802,
+        "ChapterId": 1018,
+        "CharaId": 3002,
+        "Label": "1018380",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101803": {
+        "Id": 101803,
+        "ChapterId": 1018,
+        "CharaId": 3003,
+        "Label": "1018380",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101804": {
+        "Id": 101804,
+        "ChapterId": 1018,
+        "CharaId": 3004,
+        "Label": "1018380",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401701": {
+        "Id": 401701,
+        "ChapterId": 4017,
+        "CharaId": 2002,
+        "Label": "4017190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401702": {
+        "Id": 401702,
+        "ChapterId": 4017,
+        "CharaId": 2004,
+        "Label": "4017190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101901": {
+        "Id": 101901,
+        "ChapterId": 1019,
+        "CharaId": 1001,
+        "Label": "1019190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "101902": {
+        "Id": 101902,
+        "ChapterId": 1019,
+        "CharaId": 1002,
+        "Label": "1019190",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "102001": {
+        "Id": 102001,
+        "ChapterId": 1020,
+        "CharaId": 7001,
+        "Label": "1020260",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "102002": {
+        "Id": 102002,
+        "ChapterId": 1020,
+        "CharaId": 7002,
+        "Label": "1020260",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "102003": {
+        "Id": 102003,
+        "ChapterId": 1020,
+        "CharaId": 7003,
+        "Label": "1020260",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401801": {
+        "Id": 401801,
+        "ChapterId": 4018,
+        "CharaId": 3001,
+        "Label": "4018350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401802": {
+        "Id": 401802,
+        "ChapterId": 4018,
+        "CharaId": 3002,
+        "Label": "4018350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401803": {
+        "Id": 401803,
+        "ChapterId": 4018,
+        "CharaId": 3003,
+        "Label": "4018350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401804": {
+        "Id": 401804,
+        "ChapterId": 4018,
+        "CharaId": 3004,
+        "Label": "4018350",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401901": {
+        "Id": 401901,
+        "ChapterId": 4019,
+        "CharaId": 6001,
+        "Label": "4019200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "401902": {
+        "Id": 401902,
+        "ChapterId": 4019,
+        "CharaId": 6002,
+        "Label": "4019200",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "3001": {
+        "Id": 3001,
+        "Nomal": 9000,
+        "Super": 700,
+        "Hyper": 300,
+        "StartDate": 0,
+        "EndDate": 3155727600,
+        "IconId": -1,
+        "CampaignName": "デフォルト",
+        "CampaignText": "デフォルト"
+    },
+    "3002": {
+        "Id": 3002,
+        "Nomal": 0,
+        "Super": 5000,
+        "Hyper": 5000,
+        "StartDate": 1654614000,
+        "EndDate": 1659193199,
+        "IconId": 3001,
+        "CampaignName": "装備カードの強化成功率アップキャンペーン",
+        "CampaignText": "装備カードの強化成功率がアップします。"
+    }
+}

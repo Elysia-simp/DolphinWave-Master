@@ -1,0 +1,47 @@
+{
+    "3101": {
+        "Id": 3101,
+        "EffectSystem": 1,
+        "Name": "状態異常強化"
+    },
+    "3201": {
+        "Id": 3201,
+        "EffectSystem": 2,
+        "Name": "妨害無効"
+    },
+    "3202": {
+        "Id": 3202,
+        "EffectSystem": 2,
+        "Name": "ステータス強化"
+    },
+    "3203": {
+        "Id": 3203,
+        "EffectSystem": 2,
+        "Name": "開幕強化"
+    },
+    "3301": {
+        "Id": 3301,
+        "EffectSystem": 3,
+        "Name": "状態異常"
+    },
+    "3302": {
+        "Id": 3302,
+        "EffectSystem": 3,
+        "Name": "弱体化"
+    },
+    "3401": {
+        "Id": 3401,
+        "EffectSystem": 4,
+        "Name": "ターン回復"
+    },
+    "3402": {
+        "Id": 3402,
+        "EffectSystem": 4,
+        "Name": "復活"
+    },
+    "3403": {
+        "Id": 3403,
+        "EffectSystem": 4,
+        "Name": "開幕チャージ"
+    }
+}
