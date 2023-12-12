@@ -529,5 +529,23 @@
         "StartDate": 1701370800,
         "EndDate": 1702234799,
         "IsDispLimit": 1
+    },
+    "500223": {
+        "Id": 500223,
+        "Type": 4,
+        "GroupId": 500223,
+        "BGFileName": "hbl500223_bg",
+        "StartDate": 1702393200,
+        "EndDate": 1702479599,
+        "IsDispLimit": 1
+    },
+    "59": {
+        "Id": 59,
+        "Type": 5,
+        "GroupId": 40034,
+        "BGFileName": "elb40034_bg",
+        "StartDate": 1702321200,
+        "EndDate": 1703098799,
+        "IsDispLimit": 1
     }
 }

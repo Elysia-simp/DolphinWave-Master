@@ -8791,5 +8791,41 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 992
+    },
+    "13300088": {
+        "Id": 13300088,
+        "Name": "クリスマスカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 993
+    },
+    "13900368": {
+        "Id": 13900368,
+        "Name": "UJAJクリスマスカップ優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 992
+    },
+    "13900369": {
+        "Id": 13900369,
+        "Name": "UJAJクリスマスカップ優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 991
+    },
+    "12901873": {
+        "Id": 12901873,
+        "Name": "膝立ち片手添え",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 990
     }
 }

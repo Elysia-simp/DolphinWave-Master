@@ -2818,5 +2818,25 @@
         "DiscountFlg": 0,
         "DiscountedCost": 0,
         "TimeGachaSettingGroupId": 0
+    },
+    "8401": {
+        "Id": 8401,
+        "Count": 10,
+        "DrawLimitCount": 1,
+        "FreeCount": 0,
+        "DrawingType": 2,
+        "ConsumptionType": 3,
+        "Coin": 0,
+        "Currency": 1500,
+        "TicketId": 0,
+        "TicketCount": 0,
+        "GachaWeightGroupId": 84000,
+        "RareDecisionCount": 1,
+        "RareWeightGroupId": 84001,
+        "BonusItemGroupId": 0,
+        "BonusMessage": "",
+        "DiscountFlg": 0,
+        "DiscountedCost": 0,
+        "TimeGachaSettingGroupId": 0
     }
 }
