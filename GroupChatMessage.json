@@ -12395,5 +12395,203 @@
         "Name": "トモ",
         "MessageType": 1,
         "Message": "あらたまって伝えられると照れる\nけど……精一杯がんばるね$ve009"
+    },
+    "4020010": {
+        "Id": 4020010,
+        "ChapterId": 4020,
+        "Label": "4020010",
+        "MessageNumber": 1,
+        "ChoiceNumber": 0,
+        "CharaId": 2004,
+        "Name": "シュネー",
+        "MessageType": 1,
+        "Message": "と、いうわけでニンジャがいるか\nどうかはうやむやになってしまっ\nたが……"
+    },
+    "4020020": {
+        "Id": 4020020,
+        "ChapterId": 4020,
+        "Label": "4020020",
+        "MessageNumber": 2,
+        "ChoiceNumber": 0,
+        "CharaId": 2004,
+        "Name": "シュネー",
+        "MessageType": 1,
+        "Message": "ニンジャを基にした日本のコンテ\nンツに触れられてうれしいよ。"
+    },
+    "4020030": {
+        "Id": 4020030,
+        "ChapterId": 4020,
+        "Label": "4020030",
+        "MessageNumber": 3,
+        "ChoiceNumber": 0,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "そう言ってくれたなら紹介してよ\nかったー！"
+    },
+    "4020040": {
+        "Id": 4020040,
+        "ChapterId": 4020,
+        "Label": "4020040",
+        "MessageNumber": 4,
+        "ChoiceNumber": 0,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "$v001ちゃんは\n閃乱カグラ詳しい？"
+    },
+    "4020050": {
+        "Id": 4020050,
+        "ChapterId": 4020,
+        "Label": "4020050",
+        "MessageNumber": 5,
+        "ChoiceNumber": 1,
+        "CharaId": 1000,
+        "Name": "<playername>",
+        "MessageType": 2,
+        "Message": "もちろん！"
+    },
+    "4020051": {
+        "Id": 4020051,
+        "ChapterId": 4020,
+        "Label": "4020051",
+        "MessageNumber": 5,
+        "ChoiceNumber": 2,
+        "CharaId": 1000,
+        "Name": "<playername>",
+        "MessageType": 2,
+        "Message": "実は詳しくは知らなくて……"
+    },
+    "4020060": {
+        "Id": 4020060,
+        "ChapterId": 4020,
+        "Label": "4020060",
+        "MessageNumber": 6,
+        "ChoiceNumber": 1,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "そうなんだ！詳しいなら色々教え\nてもらっちゃおっかな～？"
+    },
+    "4020061": {
+        "Id": 4020061,
+        "ChapterId": 4020,
+        "Label": "4020061",
+        "MessageNumber": 6,
+        "ChoiceNumber": 2,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "それなら布教するしかないっしょ\n！ゲーム機、あるよね？"
+    },
+    "4020070": {
+        "Id": 4020070,
+        "ChapterId": 4020,
+        "Label": "4020070",
+        "MessageNumber": 7,
+        "ChoiceNumber": 0,
+        "CharaId": 1001,
+        "Name": "入華",
+        "MessageType": 1,
+        "Message": "コーチの家に、ゲーム機がありま\nしたよね？わたしがプレイするの\nをずっと見てくれてました！$ve000"
+    },
+    "4020080": {
+        "Id": 4020080,
+        "ChapterId": 4020,
+        "Label": "4020080",
+        "MessageNumber": 8,
+        "ChoiceNumber": 0,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "それじゃ、アタシが持ってる\n「ＳＶ」を持っていこっか！"
+    },
+    "4020090": {
+        "Id": 4020090,
+        "ChapterId": 4020,
+        "Label": "4020090",
+        "MessageNumber": 9,
+        "ChoiceNumber": 0,
+        "CharaId": 2003,
+        "Name": "氷織",
+        "MessageType": 1,
+        "Message": "あのゲームをプレイしているとこ\nろをみなさん見学されるんですか\n？"
+    },
+    "4020100": {
+        "Id": 4020100,
+        "ChapterId": 4020,
+        "Label": "4020100",
+        "MessageNumber": 10,
+        "ChoiceNumber": 0,
+        "CharaId": 2004,
+        "Name": "シュネー",
+        "MessageType": 1,
+        "Message": "$v001、やりづら\nくないかい？"
+    },
+    "4020110": {
+        "Id": 4020110,
+        "ChapterId": 4020,
+        "Label": "4020110",
+        "MessageNumber": 11,
+        "ChoiceNumber": 0,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "なんで？みんなかわいいし、アツ\nいしいいと思うんだけどなー"
+    },
+    "4020120": {
+        "Id": 4020120,
+        "ChapterId": 4020,
+        "Label": "4020120",
+        "MessageNumber": 12,
+        "ChoiceNumber": 0,
+        "CharaId": 1001,
+        "Name": "入華",
+        "MessageType": 1,
+        "Message": "わたし、まだＳＶやってないんで\n隣で見ててくれてもいいですよ！"
+    },
+    "4020130": {
+        "Id": 4020130,
+        "ChapterId": 4020,
+        "Label": "4020130",
+        "MessageNumber": 13,
+        "ChoiceNumber": 0,
+        "CharaId": 2003,
+        "Name": "氷織",
+        "MessageType": 1,
+        "Message": "みなさんがよければいいとは思い\nますが……。"
+    },
+    "4020140": {
+        "Id": 4020140,
+        "ChapterId": 4020,
+        "Label": "4020140",
+        "MessageNumber": 14,
+        "ChoiceNumber": 0,
+        "CharaId": 3002,
+        "Name": "桐利",
+        "MessageType": 1,
+        "Message": "んじゃ、決まりっしょ！\n$v001ちゃんの家に集\n合ね！"
+    },
+    "4020150": {
+        "Id": 4020150,
+        "ChapterId": 4020,
+        "Label": "4020150",
+        "MessageNumber": 15,
+        "ChoiceNumber": 0,
+        "CharaId": 1001,
+        "Name": "入華",
+        "MessageType": 1,
+        "Message": "あっ、センパイも連れて行きます\n！先のお話、気になってたみたい\nなので！"
+    },
+    "4020160": {
+        "Id": 4020160,
+        "ChapterId": 4020,
+        "Label": "4020160",
+        "MessageNumber": 16,
+        "ChoiceNumber": 0,
+        "CharaId": 2004,
+        "Name": "シュネー",
+        "MessageType": 1,
+        "Message": "しかし本物のニンジャはどこにい\nるのだろうね……？"
     }
 }

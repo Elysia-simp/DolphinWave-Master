@@ -894,5 +894,37 @@
         "Label": "4019200",
         "GetClosePoint": 10,
         "ItemGroupId": 0
+    },
+    "402001": {
+        "Id": 402001,
+        "ChapterId": 4020,
+        "CharaId": 1001,
+        "Label": "4020160",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "402002": {
+        "Id": 402002,
+        "ChapterId": 4020,
+        "CharaId": 2004,
+        "Label": "4020160",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "402003": {
+        "Id": 402003,
+        "ChapterId": 4020,
+        "CharaId": 3002,
+        "Label": "4020160",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
+    },
+    "402004": {
+        "Id": 402004,
+        "ChapterId": 4020,
+        "CharaId": 2003,
+        "Label": "4020160",
+        "GetClosePoint": 10,
+        "ItemGroupId": 0
     }
 }

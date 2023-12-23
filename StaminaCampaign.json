@@ -515,5 +515,38 @@
         "IconId": 1001,
         "CampaignName": "ボスバトル　スタミナ1/2CP",
         "CampaignText": "ボスバトルのスタミナ消費量が1/2になります。"
+    },
+    "1048": {
+        "Id": 1048,
+        "CampaignType": 1,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1703134800,
+        "EndDate": 1704913199,
+        "IconId": 1001,
+        "CampaignName": "メインクエスト　スタミナ1/2CP",
+        "CampaignText": "メインクエストのスタミナ消費量が1/2になります。"
+    },
+    "1049": {
+        "Id": 1049,
+        "CampaignType": 2,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1703134800,
+        "EndDate": 1704913199,
+        "IconId": 1001,
+        "CampaignName": "育成クエスト　スタミナ1/2CP",
+        "CampaignText": "育成クエストのスタミナ消費量が1/2になります。"
+    },
+    "1050": {
+        "Id": 1050,
+        "CampaignType": 3,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1703617200,
+        "EndDate": 1704913199,
+        "IconId": 1001,
+        "CampaignName": "ボスバトル　スタミナ1/2CP",
+        "CampaignText": "ボスバトルのスタミナ消費量が1/2になります。"
     }
 }

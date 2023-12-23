@@ -59,26 +59,6 @@
         "ShopId": 26,
         "BgmId": 0
     },
-    "4003": {
-        "Id": 4003,
-        "EventType": 1,
-        "StartDate": 1696914000,
-        "EndDate": 1697777999,
-        "RewardEndDate": 1697777999,
-        "Enable": true,
-        "DisplayPriority": 0,
-        "Banner": 4003,
-        "SplitBannerPriority": 4003,
-        "EventTypeId1": 0,
-        "EventTypeId2": 0,
-        "EventTypeId3": 0,
-        "EventTypeId4": 0,
-        "EventTypeId5": 0,
-        "EventTypeId6": 0,
-        "CollectItemGrDisplayId": 4003,
-        "ShopId": 85,
-        "BgmId": 0
-    },
     "4007": {
         "Id": 4007,
         "EventType": 1,
@@ -319,6 +299,26 @@
         "ShopId": 80,
         "BgmId": 0
     },
+    "4003": {
+        "Id": 4003,
+        "EventType": 1,
+        "StartDate": 1696914000,
+        "EndDate": 1697777999,
+        "RewardEndDate": 1697777999,
+        "Enable": true,
+        "DisplayPriority": 0,
+        "Banner": 4003,
+        "SplitBannerPriority": 4003,
+        "EventTypeId1": 0,
+        "EventTypeId2": 0,
+        "EventTypeId3": 0,
+        "EventTypeId4": 0,
+        "EventTypeId5": 0,
+        "EventTypeId6": 0,
+        "CollectItemGrDisplayId": 4003,
+        "ShopId": 85,
+        "BgmId": 0
+    },
     "4018": {
         "Id": 4018,
         "EventType": 2,
@@ -358,5 +358,25 @@
         "CollectItemGrDisplayId": 4019,
         "ShopId": 83,
         "BgmId": 0
+    },
+    "4020": {
+        "Id": 4020,
+        "EventType": 2,
+        "StartDate": 1703134800,
+        "EndDate": 1704949199,
+        "RewardEndDate": 1704949199,
+        "Enable": true,
+        "DisplayPriority": 0,
+        "Banner": 4020,
+        "SplitBannerPriority": 4020,
+        "EventTypeId1": 87,
+        "EventTypeId2": 0,
+        "EventTypeId3": 0,
+        "EventTypeId4": 0,
+        "EventTypeId5": 0,
+        "EventTypeId6": 0,
+        "CollectItemGrDisplayId": 4020,
+        "ShopId": 0,
+        "BgmId": 2
     }
 }

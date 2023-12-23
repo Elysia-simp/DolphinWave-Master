@@ -194,5 +194,19 @@
         "CameraMinMovePosition": "0/0",
         "CameraMaxY": "51/51",
         "CameraMinY": "2/2"
+    },
+    "101501": {
+        "Id": 101501,
+        "MapID": 151,
+        "PatternID": 1,
+        "BasePos": "0,0,0,0",
+        "CameraMaxLatitude": "30/80",
+        "CameraMinLatitude": "15/70",
+        "CameraMaxRadius": 55,
+        "CameraMinRadius": 10,
+        "CameraMaxMovePosition": "0/0",
+        "CameraMinMovePosition": "0/0",
+        "CameraMaxY": "50/50",
+        "CameraMinY": "1/1"
     }
 }
