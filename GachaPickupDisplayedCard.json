@@ -1510,5 +1510,59 @@
         "PickupCardId": 520018,
         "PoseMotionFileName": "adv_plcom_hazirai_00",
         "FaceMotionFileName": 1
+    },
+    "8801": {
+        "Id": 8801,
+        "GachaManagementId": 88,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 400147501,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "8802": {
+        "Id": 8802,
+        "GachaManagementId": 88,
+        "Type": 7,
+        "DisplayedPriority": 2,
+        "PickupCardId": 200247501,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "8803": {
+        "Id": 8803,
+        "GachaManagementId": 88,
+        "Type": 8,
+        "DisplayedPriority": 3,
+        "PickupCardId": 540027,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "8901": {
+        "Id": 8901,
+        "GachaManagementId": 89,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 400147501,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "8902": {
+        "Id": 8902,
+        "GachaManagementId": 89,
+        "Type": 7,
+        "DisplayedPriority": 2,
+        "PickupCardId": 200247501,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "8903": {
+        "Id": 8903,
+        "GachaManagementId": 89,
+        "Type": 8,
+        "DisplayedPriority": 3,
+        "PickupCardId": 540027,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
     }
 }

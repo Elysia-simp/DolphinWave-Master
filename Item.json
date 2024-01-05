@@ -9052,5 +9052,275 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1015
+    },
+    "1040014501": {
+        "Id": 1040014501,
+        "Name": "紫苑(和羽織ビキニ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "紫苑(和羽織ビキニ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1022
+    },
+    "1020024501": {
+        "Id": 1020024501,
+        "Name": "エレン(迎春ビキニ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "エレン(迎春ビキニ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1023
+    },
+    "13300089": {
+        "Id": 13300089,
+        "Name": "しめ縄",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1024
+    },
+    "13300090": {
+        "Id": 13300090,
+        "Name": "辰の置物",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1025
+    },
+    "13300091": {
+        "Id": 13300091,
+        "Name": "破魔矢",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1026
+    },
+    "1020013501": {
+        "Id": 1020013501,
+        "Name": "颯(小紋着物)専用SPメダル",
+        "Type": 13,
+        "ItemText": "颯(小紋着物)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1027
+    },
+    "11200074": {
+        "Id": 11200074,
+        "Name": "紫の帯紐",
+        "Type": 12,
+        "ItemText": "颯(小紋着物)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1028
+    },
+    "11100066": {
+        "Id": 11100066,
+        "Name": "颯の小紋着物",
+        "Type": 11,
+        "ItemText": "颯(小紋着物)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1029
+    },
+    "13200015": {
+        "Id": 13200015,
+        "Name": "お正月ドルフィンフェスガチャチケット",
+        "Type": 32,
+        "ItemText": "お正月ドルフィンフェスチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1030
+    },
+    "13300092": {
+        "Id": 13300092,
+        "Name": "URライダーセレクトチケット(お正月)",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURライダーと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1031
+    },
+    "13200016": {
+        "Id": 13200016,
+        "Name": "お正月URドルフィン確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "お正月URドルフィン確定チケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1033
+    },
+    "13200017": {
+        "Id": 13200017,
+        "Name": "お正月URメモリー確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "お正月URメモリー確定チケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1034
+    },
+    "13900384": {
+        "Id": 13900384,
+        "Name": "チャレンジバトル-13th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1033
+    },
+    "13900385": {
+        "Id": 13900385,
+        "Name": "チャレンジバトル-13th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1032
+    },
+    "13900386": {
+        "Id": 13900386,
+        "Name": "チャレンジバトル-13th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1031
+    },
+    "13900387": {
+        "Id": 13900387,
+        "Name": "チャレンジバトル-13th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1030
+    },
+    "13900388": {
+        "Id": 13900388,
+        "Name": "チャレンジバトル-13th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1029
+    },
+    "13900389": {
+        "Id": 13900389,
+        "Name": "チャレンジバトル-13th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1028
+    },
+    "13900390": {
+        "Id": 13900390,
+        "Name": "チャレンジバトル-13th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1027
+    },
+    "13900391": {
+        "Id": 13900391,
+        "Name": "チャレンジバトル-13th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1026
+    },
+    "13900392": {
+        "Id": 13900392,
+        "Name": "チャレンジバトル-13th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1025
+    },
+    "13900393": {
+        "Id": 13900393,
+        "Name": "チャレンジバトル-13th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1024
+    },
+    "13900394": {
+        "Id": 13900394,
+        "Name": "チャレンジバトル-13th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1023
+    },
+    "13900395": {
+        "Id": 13900395,
+        "Name": "チャレンジバトル-13th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1022
+    },
+    "13900396": {
+        "Id": 13900396,
+        "Name": "初詣、海神に願う母の想い 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1021
+    },
+    "13900397": {
+        "Id": 13900397,
+        "Name": "初詣、海神に願う母の想い EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1020
+    },
+    "12901969": {
+        "Id": 12901969,
+        "Name": "おすまし",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1019
+    },
+    "12901993": {
+        "Id": 12901993,
+        "Name": "正座",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1018
+    },
+    "13300093": {
+        "Id": 13300093,
+        "Name": "URガンナーセレクトチケット(お正月)",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURガンナーと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1051
+    },
+    "13700020": {
+        "Id": 13700020,
+        "Name": "ボスチケット(初詣)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1056
     }
 }

@@ -1146,5 +1146,54 @@
         "RuleRange": 407,
         "RuleRange2": 102,
         "PassiveSkillId": 104145
+    },
+    "20163": {
+        "Id": 20163,
+        "RuleDescription": "バトル開始時,KIRISHIMAのドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 401,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
+    },
+    "20164": {
+        "Id": 20164,
+        "RuleDescription": "バトル開始時,KAZAMIのドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 402,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
+    },
+    "20165": {
+        "Id": 20165,
+        "RuleDescription": "バトル開始時,日向重工のドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 403,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
+    },
+    "20166": {
+        "Id": 20166,
+        "RuleDescription": "バトル開始時,NereIdesのドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 404,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
+    },
+    "20167": {
+        "Id": 20167,
+        "RuleDescription": "バトル開始時,浦見製鉄所のドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 405,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
+    },
+    "20168": {
+        "Id": 20168,
+        "RuleDescription": "バトル開始時,FMワダツミのドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 406,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
+    },
+    "20169": {
+        "Id": 20169,
+        "RuleDescription": "バトル開始時,ISRWのドルフィンのSPゲージを\n　50%分チャージ",
+        "RuleRange": 407,
+        "RuleRange2": 0,
+        "PassiveSkillId": 105018
     }
 }

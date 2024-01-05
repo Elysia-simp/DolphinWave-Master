@@ -1428,5 +1428,31 @@
         "Daytime": 0,
         "Evening": 0,
         "Night": 0
+    },
+    "141": {
+        "Id": 141,
+        "DioramaName": "風見邸内和室",
+        "Description": "風見家の邸宅内の一角に\nある和室スペース。",
+        "Material1": 0,
+        "Material1Count": 0,
+        "Material2": 0,
+        "Material2Count": 0,
+        "Material3": 0,
+        "Material3Count": 0,
+        "Material4": 0,
+        "Material4Count": 0,
+        "Material5": 0,
+        "Material5Count": 0,
+        "Money": 10000,
+        "StartDate": -32400,
+        "EndDate": 2524575600,
+        "TemporaryStartDate": 1703988000,
+        "TemporaryEndDate": 1705640399,
+        "OpenRule": 2,
+        "SceneId": 14,
+        "Morning": 0,
+        "Daytime": 0,
+        "Evening": 0,
+        "Night": 0
     }
 }
