@@ -9322,5 +9322,41 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1056
+    },
+    "13300094": {
+        "Id": 13300094,
+        "Name": "ボスメダル(アラビアン)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1052
+    },
+    "13900398": {
+        "Id": 13900398,
+        "Name": "千夜一夜 アラビアンな休日制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1051
+    },
+    "13900399": {
+        "Id": 13900399,
+        "Name": "千夜一夜 アラビアンな休日EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1050
+    },
+    "12902017": {
+        "Id": 12902017,
+        "Name": "アラビアン",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1049
     }
 }
