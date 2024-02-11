@@ -166,5 +166,19 @@
         "ChallengeCountConsumeFlag": 0,
         "FlavorText": "トーナメント",
         "Difficulty": 3
+    },
+    "2025": {
+        "Id": 2025,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 1,
+        "FlavorText": "トーナメント",
+        "Difficulty": 3
+    },
+    "2026": {
+        "Id": 2026,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 0,
+        "FlavorText": "トーナメント",
+        "Difficulty": 3
     }
 }

@@ -548,5 +548,49 @@
         "IconId": 1001,
         "CampaignName": "ボスバトル　スタミナ1/2CP",
         "CampaignText": "ボスバトルのスタミナ消費量が1/2になります。"
+    },
+    "1053": {
+        "Id": 1053,
+        "CampaignType": 2,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1705640400,
+        "EndDate": 1706122799,
+        "IconId": 1001,
+        "CampaignName": "育成クエスト　スタミナ1/2CP",
+        "CampaignText": "育成クエストのスタミナ消費量が1/2になります。"
+    },
+    "1054": {
+        "Id": 1054,
+        "CampaignType": 3,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1706122800,
+        "EndDate": 1706468399,
+        "IconId": 1001,
+        "CampaignName": "ボスバトル　スタミナ1/2CP",
+        "CampaignText": "ボスバトルのスタミナ消費量が1/2になります。"
+    },
+    "1051": {
+        "Id": 1051,
+        "CampaignType": 1,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1706504400,
+        "EndDate": 1707764399,
+        "IconId": 1001,
+        "CampaignName": "メインクエスト　スタミナ1/2CP",
+        "CampaignText": "メインクエストのスタミナ消費量が1/2になります。"
+    },
+    "1052": {
+        "Id": 1052,
+        "CampaignType": 2,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1706504400,
+        "EndDate": 1707764399,
+        "IconId": 1001,
+        "CampaignName": "育成クエスト　スタミナ1/2CP",
+        "CampaignText": "育成クエストのスタミナ消費量が1/2になります。"
     }
 }

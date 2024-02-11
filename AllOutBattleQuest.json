@@ -52,5 +52,41 @@
         "Banner02": "600302",
         "BannerVisible": 0,
         "KeyQuestId": 6001
+    },
+    "6004": {
+        "Id": 6004,
+        "QuestType": 0,
+        "StartDate": 1705640400,
+        "EndDate": 2556111599,
+        "Order": 4,
+        "QuestName": "Gear&Sun",
+        "BattlePower": 30000,
+        "CoolTimeNumber": 2,
+        "DolphinCoolPoint": 8,
+        "MemoryCoolPoint": 20,
+        "QuestMissionSetId": 6004,
+        "BuffSetId": 6001,
+        "Banner": "600401",
+        "Banner02": "600402",
+        "BannerVisible": 0,
+        "KeyQuestId": 6001
+    },
+    "6005": {
+        "Id": 6005,
+        "QuestType": 0,
+        "StartDate": 1705640400,
+        "EndDate": 2556111599,
+        "Order": 5,
+        "QuestName": "Gear&Sun EX ",
+        "BattlePower": 45000,
+        "CoolTimeNumber": 2,
+        "DolphinCoolPoint": 6,
+        "MemoryCoolPoint": 15,
+        "QuestMissionSetId": 6005,
+        "BuffSetId": 6001,
+        "Banner": "600501",
+        "Banner02": "600502",
+        "BannerVisible": 0,
+        "KeyQuestId": 6001
     }
 }

@@ -215,5 +215,40 @@
         "BoxGachaId": 8705,
         "Step": 5,
         "NextStep": 5
+    },
+    "9701": {
+        "Id": 9701,
+        "GachaManagementId": 97,
+        "BoxGachaId": 9701,
+        "Step": 1,
+        "NextStep": 2
+    },
+    "9702": {
+        "Id": 9702,
+        "GachaManagementId": 97,
+        "BoxGachaId": 9702,
+        "Step": 2,
+        "NextStep": 3
+    },
+    "9703": {
+        "Id": 9703,
+        "GachaManagementId": 97,
+        "BoxGachaId": 9703,
+        "Step": 3,
+        "NextStep": 4
+    },
+    "9704": {
+        "Id": 9704,
+        "GachaManagementId": 97,
+        "BoxGachaId": 9704,
+        "Step": 4,
+        "NextStep": 5
+    },
+    "9705": {
+        "Id": 9705,
+        "GachaManagementId": 97,
+        "BoxGachaId": 9705,
+        "Step": 5,
+        "NextStep": 5
     }
 }

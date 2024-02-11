@@ -9358,5 +9358,329 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1049
+    },
+    "13900400": {
+        "Id": 13900400,
+        "Name": "トータルバトル-Gear&Sun- 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1055
+    },
+    "13900401": {
+        "Id": 13900401,
+        "Name": "トータルバトル-Gear&Sun-EX 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1054
+    },
+    "13900402": {
+        "Id": 13900402,
+        "Name": "UJAJツバキカップ 優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1053
+    },
+    "13900403": {
+        "Id": 13900403,
+        "Name": "UJAJツバキカップ 優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1052
+    },
+    "13300095": {
+        "Id": 13300095,
+        "Name": "ツバキカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1061
+    },
+    "11200075": {
+        "Id": 11200075,
+        "Name": "メガネケース",
+        "Type": 12,
+        "ItemText": "みちる(秋冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1062
+    },
+    "11100067": {
+        "Id": 11100067,
+        "Name": "みちるの秋冬コーデ服",
+        "Type": 11,
+        "ItemText": "みちる(秋冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1063
+    },
+    "1030034201": {
+        "Id": 1030034201,
+        "Name": "乙姫(HMK-MA/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "乙姫(HMK-MA/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1064
+    },
+    "1030044201": {
+        "Id": 1030044201,
+        "Name": "夕離(HMK-SP/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "夕離(HMK-SP/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1065
+    },
+    "1010023201": {
+        "Id": 1010023201,
+        "Name": "みちる(秋冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "みちる(秋冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1066
+    },
+    "12902041": {
+        "Id": 12902041,
+        "Name": "厳格な師範代",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1064
+    },
+    "12902065": {
+        "Id": 12902065,
+        "Name": "悪戯好きの武器マニア",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1063
+    },
+    "13900404": {
+        "Id": 13900404,
+        "Name": "常夏の楽園へ!女神とドルフィンの休日 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1062
+    },
+    "13900405": {
+        "Id": 13900405,
+        "Name": "常夏の楽園へ!女神とドルフィンの休日 EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1061
+    },
+    "13900406": {
+        "Id": 13900406,
+        "Name": "チャレンジバトル-14th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1060
+    },
+    "13900407": {
+        "Id": 13900407,
+        "Name": "チャレンジバトル-14th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1059
+    },
+    "13900408": {
+        "Id": 13900408,
+        "Name": "チャレンジバトル-14th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1058
+    },
+    "13900409": {
+        "Id": 13900409,
+        "Name": "チャレンジバトル-14th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1057
+    },
+    "13900410": {
+        "Id": 13900410,
+        "Name": "チャレンジバトル-14th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1056
+    },
+    "13900411": {
+        "Id": 13900411,
+        "Name": "チャレンジバトル-14th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1055
+    },
+    "13900412": {
+        "Id": 13900412,
+        "Name": "チャレンジバトル-14th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1054
+    },
+    "13900413": {
+        "Id": 13900413,
+        "Name": "チャレンジバトル-14th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1053
+    },
+    "13900414": {
+        "Id": 13900414,
+        "Name": "チャレンジバトル-14th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1052
+    },
+    "13900415": {
+        "Id": 13900415,
+        "Name": "チャレンジバトル-14th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1051
+    },
+    "13900416": {
+        "Id": 13900416,
+        "Name": "チャレンジバトル-14th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1050
+    },
+    "13900417": {
+        "Id": 13900417,
+        "Name": "チャレンジバトル-14th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1049
+    },
+    "1510014401": {
+        "Id": 1510014401,
+        "Name": "ほのか(デルフィニウム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ほのか(デルフィニウム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1084
+    },
+    "1510024401": {
+        "Id": 1510024401,
+        "Name": "マリー(ミヌエット)専用SPメダル",
+        "Type": 13,
+        "ItemText": "マリー(ミヌエット)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1085
+    },
+    "1060023402": {
+        "Id": 1060023402,
+        "Name": "トモ(いつものパーカー)専用SPメダル",
+        "Type": 13,
+        "ItemText": "トモ(いつものパーカー)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1086
+    },
+    "11200076": {
+        "Id": 11200076,
+        "Name": "マンゴーバニラクレープ",
+        "Type": 12,
+        "ItemText": "トモ(いつものパーカー)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1087
+    },
+    "11100068": {
+        "Id": 11100068,
+        "Name": "いつものパーカー",
+        "Type": 11,
+        "ItemText": "トモ(いつものパーカー)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1088
+    },
+    "13700021": {
+        "Id": 13700021,
+        "Name": "ボスチケット(DOAXVV)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1089
+    },
+    "13200018": {
+        "Id": 13200018,
+        "Name": "ユニフォームSSRドルフィン確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "ユニフォームSSRドルフィン確定ガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1090
+    },
+    "13200019": {
+        "Id": 13200019,
+        "Name": "イベントBOXガチャチケット(DOAXVV)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(DOAXVV)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1091
+    },
+    "12902089": {
+        "Id": 12902089,
+        "Name": "DOAXVV：ほのか",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1089
+    },
+    "12902113": {
+        "Id": 12902113,
+        "Name": "DOAXVV：マリー",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1088
     }
 }

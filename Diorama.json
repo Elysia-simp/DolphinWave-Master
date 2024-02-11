@@ -1454,5 +1454,31 @@
         "Daytime": 0,
         "Evening": 0,
         "Night": 0
+    },
+    "161": {
+        "Id": 161,
+        "DioramaName": "DOAXVVコラボビーチ",
+        "Description": "DOAXVVとのコラボを記念し\nヴィーナス諸島風の装いが\n施されたビーチ。",
+        "Material1": 0,
+        "Material1Count": 0,
+        "Material2": 0,
+        "Material2Count": 0,
+        "Material3": 0,
+        "Material3Count": 0,
+        "Material4": 0,
+        "Material4Count": 0,
+        "Material5": 0,
+        "Material5Count": 0,
+        "Money": 10000,
+        "StartDate": 1706504400,
+        "EndDate": 1707800399,
+        "TemporaryStartDate": 1706504400,
+        "TemporaryEndDate": 1707800399,
+        "OpenRule": 2,
+        "SceneId": 16,
+        "Morning": 0,
+        "Daytime": 0,
+        "Evening": 0,
+        "Night": 0
     }
 }

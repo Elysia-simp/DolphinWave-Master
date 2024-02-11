@@ -592,5 +592,41 @@
         "StartDate": 1704999600,
         "EndDate": 1705604399,
         "IsDispLimit": 1
+    },
+    "700424": {
+        "Id": 700424,
+        "Type": 4,
+        "GroupId": 700424,
+        "BGFileName": "hbl700424_bg",
+        "StartDate": 1706281200,
+        "EndDate": 1706367599,
+        "IsDispLimit": 1
+    },
+    "63": {
+        "Id": 63,
+        "Type": 5,
+        "GroupId": 40038,
+        "BGFileName": "elb40038_bg",
+        "StartDate": 1705690800,
+        "EndDate": 1706468399,
+        "IsDispLimit": 1
+    },
+    "64": {
+        "Id": 64,
+        "Type": 5,
+        "GroupId": 40039,
+        "BGFileName": "elb40039_bg",
+        "StartDate": 1706554800,
+        "EndDate": 1707764399,
+        "IsDispLimit": 1
+    },
+    "65": {
+        "Id": 65,
+        "Type": 3,
+        "GroupId": 20002,
+        "BGFileName": "slb20002_bg",
+        "StartDate": 1640962800,
+        "EndDate": 2556111599,
+        "IsDispLimit": 1
     }
 }
