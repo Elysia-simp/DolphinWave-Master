@@ -9682,5 +9682,779 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1088
+    },
+    "1040034301": {
+        "Id": 1040034301,
+        "Name": "ヴィーナ(Vt‐Col./DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヴィーナ(Vt‐Collection/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1096
+    },
+    "1040044301": {
+        "Id": 1040044301,
+        "Name": "セレナ(Vt‐Col./DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "セレナ(Vt‐Collection/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1097
+    },
+    "13300096": {
+        "Id": 13300096,
+        "Name": "ガトーショコラ",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1098
+    },
+    "13300097": {
+        "Id": 13300097,
+        "Name": "トリュフチョコ",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1099
+    },
+    "13300098": {
+        "Id": 13300098,
+        "Name": "チョコチップクッキー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1100
+    },
+    "13300099": {
+        "Id": 13300099,
+        "Name": "バレンタインメッセージカード2024",
+        "Type": 33,
+        "ItemText": "ショップで特別な称号と交換できるアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1101
+    },
+    "1070033301": {
+        "Id": 1070033301,
+        "Name": "咲良(エプロンスタイル)専用SPメダル",
+        "Type": 13,
+        "ItemText": "咲良(エプロンスタイル)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1102
+    },
+    "11200077": {
+        "Id": 11200077,
+        "Name": "キッチンタイマー",
+        "Type": 12,
+        "ItemText": "咲良(エプロンスタイル)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1103
+    },
+    "11100069": {
+        "Id": 11100069,
+        "Name": "咲良のエプロン",
+        "Type": 11,
+        "ItemText": "咲良(エプロンスタイル)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1104
+    },
+    "13700022": {
+        "Id": 13700022,
+        "Name": "ボスチケット(バレンタイン2024)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1105
+    },
+    "14100039": {
+        "Id": 14100039,
+        "Name": "入華のチョコ2024",
+        "Type": 41,
+        "ItemText": "入華からの特別なチョコ。\n今回は試食をガマンしたらしく\n大きなビンいっぱいに詰められた大ボリュームのチョコ。\n自分が食べる分はちゃっかり\n別に確保しているらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1106
+    },
+    "14100040": {
+        "Id": 14100040,
+        "Name": "みちるのチョコ2024",
+        "Type": 41,
+        "ItemText": "みちるからの特別なチョコ。\n更なるクールさを目指した結果\n出来上がってしまった\nカブトムシを模したチョコ。\nみちる本人もクールなのか\n悩んでしまう一品。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1107
+    },
+    "14100041": {
+        "Id": 14100041,
+        "Name": "杏里のチョコ2024",
+        "Type": 41,
+        "ItemText": "杏里からの特別なチョコ。\n手作り感を感じられる\n不揃いな形のチョコ。\n本人が言う通り味は悪くない。\n継続的な練習は大事だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1108
+    },
+    "14100042": {
+        "Id": 14100042,
+        "Name": "詩絵のチョコ2024",
+        "Type": 41,
+        "ItemText": "詩絵からの特別なチョコ。\n毎年工夫を凝らした\nチョコ菓子を作っているようで\n今年はテリーヌ。\n食べさせようとしてくるので\n注意が必要だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1109
+    },
+    "14100043": {
+        "Id": 14100043,
+        "Name": "颯のチョコ2024",
+        "Type": 41,
+        "ItemText": "颯からの特別なチョコ。\n走った後の栄養補給として\nホットチョコにしたらしい。\n一緒に走った後は\n安らぎのひと時を一緒に\n過ごしてほしいとのこと。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1110
+    },
+    "14100044": {
+        "Id": 14100044,
+        "Name": "エレンのチョコ2024",
+        "Type": 41,
+        "ItemText": "エレンからの特別なチョコ。\n金の延べ棒を模したチョコで\n中身も高級な食材を\n使用したエレンらしい一品。\n施しらしいがお返しをしても\n受け取ってくれるだろう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1111
+    },
+    "14100045": {
+        "Id": 14100045,
+        "Name": "氷織のチョコ2024",
+        "Type": 41,
+        "ItemText": "氷織からの特別なチョコ。\n氷織の大好物のイチゴを\n使った赤いトリュフ。\n頭の冴えは勝利への道。\n糖分をとってしっかりと\n勝利していこう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1112
+    },
+    "14100046": {
+        "Id": 14100046,
+        "Name": "シュネーのチョコ2024",
+        "Type": 41,
+        "ItemText": "シュネーからの特別なチョコ。\nシュネーバルというお菓子で\n普通より大きいサイズらしい。\nサイズを倍にした時の\nレシピを完璧に計算して\n求めたらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1113
+    },
+    "14100047": {
+        "Id": 14100047,
+        "Name": "見波のチョコ2024",
+        "Type": 41,
+        "ItemText": "見波からの特別なチョコ。\n日本刀を模したチョコ。\nこれも男子に人気が出そう\nだが、刀が好きな女子も\n多いらしいよと桐利から\n聞いたと見波は言っていた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1114
+    },
+    "14100048": {
+        "Id": 14100048,
+        "Name": "桐利のチョコ2024",
+        "Type": 41,
+        "ItemText": "桐利からの特別なお菓子。\n可愛くデコられたマフィン。\nブログは匂わせと言われたが\nマフィンを別の言葉と\n間違えてしまったおかげでどちらかというとバズったらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1115
+    },
+    "14100049": {
+        "Id": 14100049,
+        "Name": "乙姫のチョコ2024",
+        "Type": 41,
+        "ItemText": "乙姫からの特別な羊羹。\nチョコ味と小豆の味が調和した\n和洋折衷の一品。\n刃兼流の鍛錬の後は\nお茶と一緒に栄養補給をしよう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1116
+    },
+    "14100050": {
+        "Id": 14100050,
+        "Name": "夕離のチョコ2024",
+        "Type": 41,
+        "ItemText": "夕離からの特別なチョコ。\n食べると、口の中で爆発が\n起きるような体験が味わえる。\n面白いリアクションを\nしてくれそうな人にあげて\n食べさせてあげよう！！",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1117
+    },
+    "14100051": {
+        "Id": 14100051,
+        "Name": "紫苑のチョコ2024",
+        "Type": 41,
+        "ItemText": "紫苑からの特別なチョコ。\nいつも作っている生チョコだが\n今回はしっかりとラッピング\nしてくれているようだ。\n関係性の変化が見える\nチョコレートなのかもしれない。\n",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1118
+    },
+    "14100052": {
+        "Id": 14100052,
+        "Name": "ヘリーのチョコ2024",
+        "Type": 41,
+        "ItemText": "ヘリーからの特別なチョコ。\n前回のセレナを真似たようで\nGalateaロゴを模したチョコ。\nあまり料理が得意でない\nヘリーがこれを作るには\n相当な努力を重ねたはずだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1119
+    },
+    "14100053": {
+        "Id": 14100053,
+        "Name": "ヴィーナのチョコ2024",
+        "Type": 41,
+        "ItemText": "ヴィーナからの特別なチョコ。\nリンゴをチョコで包んだ一品。\nこれを一言で表すと\n「審判」ということらしい。\n本当に受け取って\n大丈夫なものなのだろうか？",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1120
+    },
+    "14100054": {
+        "Id": 14100054,
+        "Name": "セレナのチョコ2024",
+        "Type": 41,
+        "ItemText": "セレナからの特別なチョコ。\nあのフェニックスフェニ夫の\n可愛らしさを完璧に再現した\n小さなチョコレート。\n実は大きいサイズも\n作っているらしいが……？",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1121
+    },
+    "14100055": {
+        "Id": 14100055,
+        "Name": "由芽のチョコ2024",
+        "Type": 41,
+        "ItemText": "由芽からの特別なプレゼント。\n推しキャラのネクタイらしい。\nチョコレートではないが\n色々な想いがこもっているのは\n間違いないだろう……。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1122
+    },
+    "14100056": {
+        "Id": 14100056,
+        "Name": "かなのチョコ2024",
+        "Type": 41,
+        "ItemText": "かなからの特別なチョコ。\n浦見製鉄所のロゴは\nまた金型から作ったらしい。\n味もおいしくお茶菓子として\n出てきたらうれしい一品だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1123
+    },
+    "14100057": {
+        "Id": 14100057,
+        "Name": "麻汐のチョコ2024",
+        "Type": 41,
+        "ItemText": "麻汐からの特別なチョコ。\n包装を忘れたせいで\nお歳暮みたいな見た目だが\n中身はちゃんと可愛らしい\n手作りのチョコが入っていた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1124
+    },
+    "14100058": {
+        "Id": 14100058,
+        "Name": "トモのチョコ2024",
+        "Type": 41,
+        "ItemText": "トモからの特別なチョコ？\nCD-ROMにおまけみたいに\n安物のチョコがついてきた。\nCDの中には歌が入っているが\nやはりちゃんと聞ける\n内容になっている。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1125
+    },
+    "14100059": {
+        "Id": 14100059,
+        "Name": "アイネスのチョコ2024",
+        "Type": 41,
+        "ItemText": "アイネスからの特別なチョコ。\n一見、売り物のチョコだが\n実は手作りらしい。\n本人はああいっていたが\n十分なご縁があるかもしれない。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1126
+    },
+    "14100060": {
+        "Id": 14100060,
+        "Name": "ナハトのチョコ2024",
+        "Type": 41,
+        "ItemText": "ナハトからの特別なチョコ。\nタコの足を再現したチョコ。\nシュネーにも渡したらしく、\n成分は普通のチョコなので\n嫌々ながらも食べてくれたと\nナハトは語っていた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1127
+    },
+    "14100061": {
+        "Id": 14100061,
+        "Name": "咲良のチョコ2024",
+        "Type": 41,
+        "ItemText": "咲良からの特別なチョコ。\n昔使われていたレーションを\n再現したチョコで\nゆでたイモよりはマシな味。\n甘いものに目がない咲良だが\n戒めとして作ったらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1128
+    },
+    "14100062": {
+        "Id": 14100062,
+        "Name": "アマデアのチョコ2024",
+        "Type": 41,
+        "ItemText": "アマデアからの特別なチョコ。\nとある故郷の有名人を\nモチーフにしたチョコらしい。\n自分モチーフのお菓子も\nいつか作られるだろうと\nアマデアは語っていた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1129
+    },
+    "14200039": {
+        "Id": 14200039,
+        "Name": "【バレンタイン2024】咲宮　入華",
+        "Type": 42,
+        "ItemText": "交換すると入華の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1130
+    },
+    "14200040": {
+        "Id": 14200040,
+        "Name": "【バレンタイン2024】都条　みちる",
+        "Type": 42,
+        "ItemText": "交換するとみちるの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1131
+    },
+    "14200041": {
+        "Id": 14200041,
+        "Name": "【バレンタイン2024】陽南　杏里",
+        "Type": 42,
+        "ItemText": "交換すると杏里の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1132
+    },
+    "14200042": {
+        "Id": 14200042,
+        "Name": "【バレンタイン2024】彩戸　詩絵",
+        "Type": 42,
+        "ItemText": "交換すると詩絵の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1133
+    },
+    "14200043": {
+        "Id": 14200043,
+        "Name": "【バレンタイン2024】相馬　颯",
+        "Type": 42,
+        "ItemText": "交換すると颯の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1134
+    },
+    "14200044": {
+        "Id": 14200044,
+        "Name": "【バレンタイン2024】風見　エレン",
+        "Type": 42,
+        "ItemText": "交換するとエレンの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1135
+    },
+    "14200045": {
+        "Id": 14200045,
+        "Name": "【バレンタイン2024】永雪　氷織",
+        "Type": 42,
+        "ItemText": "交換すると氷織の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1136
+    },
+    "14200046": {
+        "Id": 14200046,
+        "Name": "【バレンタイン2024】シュネー・ヴァイスベルグ",
+        "Type": 42,
+        "ItemText": "交換するとシュネーの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1137
+    },
+    "14200047": {
+        "Id": 14200047,
+        "Name": "【バレンタイン2024】黒瀬　見波",
+        "Type": 42,
+        "ItemText": "交換すると見波の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1138
+    },
+    "14200048": {
+        "Id": 14200048,
+        "Name": "【バレンタイン2024】伊澄　桐利",
+        "Type": 42,
+        "ItemText": "交換すると桐利の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1139
+    },
+    "14200049": {
+        "Id": 14200049,
+        "Name": "【バレンタイン2024】刃兼　乙姫",
+        "Type": 42,
+        "ItemText": "交換すると乙姫の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1140
+    },
+    "14200050": {
+        "Id": 14200050,
+        "Name": "【バレンタイン2024】暮無　夕離",
+        "Type": 42,
+        "ItemText": "交換すると夕離の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1141
+    },
+    "14200051": {
+        "Id": 14200051,
+        "Name": "【バレンタイン2024】住乃絵　紫苑",
+        "Type": 42,
+        "ItemText": "交換すると紫苑の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1142
+    },
+    "14200052": {
+        "Id": 14200052,
+        "Name": "【バレンタイン2024】ヘリー・ルイス",
+        "Type": 42,
+        "ItemText": "交換するとヘリーの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1143
+    },
+    "14200053": {
+        "Id": 14200053,
+        "Name": "【バレンタイン2024】ヴィーナ",
+        "Type": 42,
+        "ItemText": "交換するとヴィーナの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1144
+    },
+    "14200054": {
+        "Id": 14200054,
+        "Name": "【バレンタイン2024】セレナ・ルイス",
+        "Type": 42,
+        "ItemText": "交換するとセレナの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1145
+    },
+    "14200055": {
+        "Id": 14200055,
+        "Name": "【バレンタイン2024】山葉　由芽",
+        "Type": 42,
+        "ItemText": "交換すると由芽の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1146
+    },
+    "14200056": {
+        "Id": 14200056,
+        "Name": "【バレンタイン2024】浦見　かな",
+        "Type": 42,
+        "ItemText": "交換するとかなの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1147
+    },
+    "14200057": {
+        "Id": 14200057,
+        "Name": "【バレンタイン2024】村早　麻汐",
+        "Type": 42,
+        "ItemText": "交換すると麻汐の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1148
+    },
+    "14200058": {
+        "Id": 14200058,
+        "Name": "【バレンタイン2024】久々利　トモ",
+        "Type": 42,
+        "ItemText": "交換するとトモの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1149
+    },
+    "14200059": {
+        "Id": 14200059,
+        "Name": "【バレンタイン2024】アイネス",
+        "Type": 42,
+        "ItemText": "交換するとアイネスの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1150
+    },
+    "14200060": {
+        "Id": 14200060,
+        "Name": "【バレンタイン2024】ナハト",
+        "Type": 42,
+        "ItemText": "交換するとナハトの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1151
+    },
+    "14200061": {
+        "Id": 14200061,
+        "Name": "【バレンタイン2024】咲良・アントニー",
+        "Type": 42,
+        "ItemText": "交換すると咲良の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1152
+    },
+    "14200062": {
+        "Id": 14200062,
+        "Name": "【バレンタイン2024】アマデア・ウォルファ",
+        "Type": 42,
+        "ItemText": "交換するとアマデアの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1153
+    },
+    "13900418": {
+        "Id": 13900418,
+        "Name": "NereÏdes Valentine Collection 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1152
+    },
+    "13900419": {
+        "Id": 13900419,
+        "Name": "NereÏdes Valentine Collection EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1151
+    },
+    "13900420": {
+        "Id": 13900420,
+        "Name": "入華バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1150
+    },
+    "13900421": {
+        "Id": 13900421,
+        "Name": "みちるバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1149
+    },
+    "13900422": {
+        "Id": 13900422,
+        "Name": "杏里バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1148
+    },
+    "13900423": {
+        "Id": 13900423,
+        "Name": "詩絵バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1147
+    },
+    "13900424": {
+        "Id": 13900424,
+        "Name": "颯バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1146
+    },
+    "13900425": {
+        "Id": 13900425,
+        "Name": "エレンバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1145
+    },
+    "13900426": {
+        "Id": 13900426,
+        "Name": "氷織バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1144
+    },
+    "13900427": {
+        "Id": 13900427,
+        "Name": "シュネーバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1143
+    },
+    "13900428": {
+        "Id": 13900428,
+        "Name": "見波バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1142
+    },
+    "13900429": {
+        "Id": 13900429,
+        "Name": "桐利バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1141
+    },
+    "13900430": {
+        "Id": 13900430,
+        "Name": "乙姫バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1140
+    },
+    "13900431": {
+        "Id": 13900431,
+        "Name": "夕離バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1139
+    },
+    "13900432": {
+        "Id": 13900432,
+        "Name": "紫苑バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1138
+    },
+    "13900433": {
+        "Id": 13900433,
+        "Name": "ヘリーバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1137
+    },
+    "13900434": {
+        "Id": 13900434,
+        "Name": "ヴィーナバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1136
+    },
+    "13900435": {
+        "Id": 13900435,
+        "Name": "セレナバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1135
+    },
+    "13900436": {
+        "Id": 13900436,
+        "Name": "由芽バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1134
+    },
+    "13900437": {
+        "Id": 13900437,
+        "Name": "かなバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1133
+    },
+    "13900438": {
+        "Id": 13900438,
+        "Name": "麻汐バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1132
+    },
+    "13900439": {
+        "Id": 13900439,
+        "Name": "トモバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1131
+    },
+    "13900440": {
+        "Id": 13900440,
+        "Name": "アイネスバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1130
+    },
+    "13900441": {
+        "Id": 13900441,
+        "Name": "ナハトバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1129
+    },
+    "13900442": {
+        "Id": 13900442,
+        "Name": "咲良バレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1128
+    },
+    "13900443": {
+        "Id": 13900443,
+        "Name": "アマデアバレンタイン2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1127
+    },
+    "12902137": {
+        "Id": 12902137,
+        "Name": "ペア・ハートA",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1126
+    },
+    "12902161": {
+        "Id": 12902161,
+        "Name": "ペア・ハートB",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1125
     }
 }

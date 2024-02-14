@@ -1879,5 +1879,43 @@
         "TermSaid": 0,
         "BadgeTargetFlag": 0,
         "SharedGachaPointId": 101
+    },
+    "98": {
+        "Id": 98,
+        "GachaName": "バレンタインドルフィンフェスガチャ　",
+        "Type": 1,
+        "GachaHowToSell1": 9801,
+        "GachaHowToSell2": 9802,
+        "StartDate": 1707800400,
+        "EndDate": 1709182799,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 98,
+        "DisplayPriority": 75978707,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 0
+    },
+    "99": {
+        "Id": 99,
+        "GachaName": "バレンタインピックアップガチャ（復刻）　",
+        "Type": 1,
+        "GachaHowToSell1": 9901,
+        "GachaHowToSell2": 9902,
+        "StartDate": 1707800400,
+        "EndDate": 1709182799,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 99,
+        "DisplayPriority": 75978708,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 0
     }
 }

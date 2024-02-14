@@ -2782,5 +2782,21 @@
         "Value_01": 50,
         "Unit_02": 0,
         "Value_02": 0
+    },
+    "310174": {
+        "Id": 310174,
+        "EffectSystem": 2,
+        "Target": 1,
+        "TargetRange": "-2",
+        "TargetType": 0,
+        "TargetDetailId": "0",
+        "Range": 2,
+        "EffectType": "314",
+        "Probability": 100,
+        "Turn": 0,
+        "Unit_01": 0,
+        "Value_01": 2,
+        "Unit_02": 0,
+        "Value_02": 0
     }
 }

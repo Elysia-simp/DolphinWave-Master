@@ -348,5 +348,25 @@
         "SupportSkillAfterEnhancementIconId": 9,
         "QuestRelease": 1,
         "ChallengingOrder": 1
+    },
+    "10034301001": {
+        "Id": 10034301001,
+        "CardGroupId": 10034301,
+        "EnhancementTarget": 1,
+        "SkillAfterEnhancementId": 1003430111,
+        "SupportSkillAfterEnhancementId": 0,
+        "SupportSkillAfterEnhancementIconId": 0,
+        "QuestRelease": 1,
+        "ChallengingOrder": 1
+    },
+    "10044301001": {
+        "Id": 10044301001,
+        "CardGroupId": 10044301,
+        "EnhancementTarget": 1,
+        "SkillAfterEnhancementId": 1004430111,
+        "SupportSkillAfterEnhancementId": 0,
+        "SupportSkillAfterEnhancementIconId": 0,
+        "QuestRelease": 1,
+        "ChallengingOrder": 1
     }
 }

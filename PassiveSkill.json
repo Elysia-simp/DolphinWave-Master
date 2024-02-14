@@ -5110,5 +5110,41 @@
         "TargetRange": "0",
         "Range": 1,
         "FilterType": "0"
+    },
+    "100084": {
+        "Id": 100084,
+        "Text": "自分ペアの凍結を無効にする",
+        "Count": 0,
+        "ConditionTrigger": 0,
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 0,
+        "ConditionTargetDetailId": 0,
+        "Condition": 0,
+        "ConditionCompare": 0,
+        "ConditionUnit": 0,
+        "ConditionValue": 0,
+        "MainEffectId": 310022,
+        "SubEffectId": 0,
+        "TargetRange": "0",
+        "Range": 1,
+        "FilterType": "0"
+    },
+    "106009": {
+        "Id": 106009,
+        "Text": "ターン開始時、味方全体のシールドを2回復",
+        "Count": 0,
+        "ConditionTrigger": 6,
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 0,
+        "ConditionTargetDetailId": 0,
+        "Condition": 0,
+        "ConditionCompare": 0,
+        "ConditionUnit": 0,
+        "ConditionValue": 0,
+        "MainEffectId": 310174,
+        "SubEffectId": 0,
+        "TargetRange": "0",
+        "Range": 1,
+        "FilterType": "0"
     }
 }
