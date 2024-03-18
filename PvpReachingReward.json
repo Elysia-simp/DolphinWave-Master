@@ -7036,5 +7036,725 @@
         "SeasonId": 10,
         "WinningPoint": 2500000,
         "ItemGroupId": 11441
+    },
+    "11001": {
+        "Id": 11001,
+        "SeasonId": 11,
+        "WinningPoint": 1000,
+        "ItemGroupId": 10930
+    },
+    "11002": {
+        "Id": 11002,
+        "SeasonId": 11,
+        "WinningPoint": 5000,
+        "ItemGroupId": 11396
+    },
+    "11003": {
+        "Id": 11003,
+        "SeasonId": 11,
+        "WinningPoint": 10000,
+        "ItemGroupId": 11397
+    },
+    "11004": {
+        "Id": 11004,
+        "SeasonId": 11,
+        "WinningPoint": 15000,
+        "ItemGroupId": 11398
+    },
+    "11005": {
+        "Id": 11005,
+        "SeasonId": 11,
+        "WinningPoint": 20000,
+        "ItemGroupId": 11399
+    },
+    "11006": {
+        "Id": 11006,
+        "SeasonId": 11,
+        "WinningPoint": 25000,
+        "ItemGroupId": 11400
+    },
+    "11007": {
+        "Id": 11007,
+        "SeasonId": 11,
+        "WinningPoint": 30000,
+        "ItemGroupId": 11401
+    },
+    "11008": {
+        "Id": 11008,
+        "SeasonId": 11,
+        "WinningPoint": 35000,
+        "ItemGroupId": 11402
+    },
+    "11009": {
+        "Id": 11009,
+        "SeasonId": 11,
+        "WinningPoint": 40000,
+        "ItemGroupId": 11403
+    },
+    "11010": {
+        "Id": 11010,
+        "SeasonId": 11,
+        "WinningPoint": 50000,
+        "ItemGroupId": 11398
+    },
+    "11011": {
+        "Id": 11011,
+        "SeasonId": 11,
+        "WinningPoint": 60000,
+        "ItemGroupId": 10700
+    },
+    "11012": {
+        "Id": 11012,
+        "SeasonId": 11,
+        "WinningPoint": 70000,
+        "ItemGroupId": 10701
+    },
+    "11013": {
+        "Id": 11013,
+        "SeasonId": 11,
+        "WinningPoint": 80000,
+        "ItemGroupId": 10702
+    },
+    "11014": {
+        "Id": 11014,
+        "SeasonId": 11,
+        "WinningPoint": 90000,
+        "ItemGroupId": 10703
+    },
+    "11015": {
+        "Id": 11015,
+        "SeasonId": 11,
+        "WinningPoint": 100000,
+        "ItemGroupId": 10704
+    },
+    "11016": {
+        "Id": 11016,
+        "SeasonId": 11,
+        "WinningPoint": 120000,
+        "ItemGroupId": 11404
+    },
+    "11017": {
+        "Id": 11017,
+        "SeasonId": 11,
+        "WinningPoint": 140000,
+        "ItemGroupId": 11079
+    },
+    "11018": {
+        "Id": 11018,
+        "SeasonId": 11,
+        "WinningPoint": 160000,
+        "ItemGroupId": 11398
+    },
+    "11019": {
+        "Id": 11019,
+        "SeasonId": 11,
+        "WinningPoint": 180000,
+        "ItemGroupId": 11405
+    },
+    "11020": {
+        "Id": 11020,
+        "SeasonId": 11,
+        "WinningPoint": 200000,
+        "ItemGroupId": 11406
+    },
+    "11021": {
+        "Id": 11021,
+        "SeasonId": 11,
+        "WinningPoint": 220000,
+        "ItemGroupId": 11407
+    },
+    "11022": {
+        "Id": 11022,
+        "SeasonId": 11,
+        "WinningPoint": 240000,
+        "ItemGroupId": 11408
+    },
+    "11023": {
+        "Id": 11023,
+        "SeasonId": 11,
+        "WinningPoint": 260000,
+        "ItemGroupId": 11409
+    },
+    "11024": {
+        "Id": 11024,
+        "SeasonId": 11,
+        "WinningPoint": 280000,
+        "ItemGroupId": 11398
+    },
+    "11025": {
+        "Id": 11025,
+        "SeasonId": 11,
+        "WinningPoint": 300000,
+        "ItemGroupId": 11410
+    },
+    "11026": {
+        "Id": 11026,
+        "SeasonId": 11,
+        "WinningPoint": 320000,
+        "ItemGroupId": 11411
+    },
+    "11027": {
+        "Id": 11027,
+        "SeasonId": 11,
+        "WinningPoint": 340000,
+        "ItemGroupId": 11412
+    },
+    "11028": {
+        "Id": 11028,
+        "SeasonId": 11,
+        "WinningPoint": 360000,
+        "ItemGroupId": 11413
+    },
+    "11029": {
+        "Id": 11029,
+        "SeasonId": 11,
+        "WinningPoint": 380000,
+        "ItemGroupId": 11414
+    },
+    "11030": {
+        "Id": 11030,
+        "SeasonId": 11,
+        "WinningPoint": 400000,
+        "ItemGroupId": 11415
+    },
+    "11031": {
+        "Id": 11031,
+        "SeasonId": 11,
+        "WinningPoint": 420000,
+        "ItemGroupId": 11079
+    },
+    "11032": {
+        "Id": 11032,
+        "SeasonId": 11,
+        "WinningPoint": 440000,
+        "ItemGroupId": 11398
+    },
+    "11033": {
+        "Id": 11033,
+        "SeasonId": 11,
+        "WinningPoint": 460000,
+        "ItemGroupId": 11416
+    },
+    "11034": {
+        "Id": 11034,
+        "SeasonId": 11,
+        "WinningPoint": 480000,
+        "ItemGroupId": 11417
+    },
+    "11035": {
+        "Id": 11035,
+        "SeasonId": 11,
+        "WinningPoint": 500000,
+        "ItemGroupId": 10059
+    },
+    "11036": {
+        "Id": 11036,
+        "SeasonId": 11,
+        "WinningPoint": 520000,
+        "ItemGroupId": 11418
+    },
+    "11037": {
+        "Id": 11037,
+        "SeasonId": 11,
+        "WinningPoint": 540000,
+        "ItemGroupId": 11419
+    },
+    "11038": {
+        "Id": 11038,
+        "SeasonId": 11,
+        "WinningPoint": 560000,
+        "ItemGroupId": 11420
+    },
+    "11039": {
+        "Id": 11039,
+        "SeasonId": 11,
+        "WinningPoint": 580000,
+        "ItemGroupId": 11398
+    },
+    "11040": {
+        "Id": 11040,
+        "SeasonId": 11,
+        "WinningPoint": 600000,
+        "ItemGroupId": 11421
+    },
+    "11041": {
+        "Id": 11041,
+        "SeasonId": 11,
+        "WinningPoint": 620000,
+        "ItemGroupId": 11422
+    },
+    "11042": {
+        "Id": 11042,
+        "SeasonId": 11,
+        "WinningPoint": 640000,
+        "ItemGroupId": 11423
+    },
+    "11043": {
+        "Id": 11043,
+        "SeasonId": 11,
+        "WinningPoint": 660000,
+        "ItemGroupId": 11424
+    },
+    "11044": {
+        "Id": 11044,
+        "SeasonId": 11,
+        "WinningPoint": 680000,
+        "ItemGroupId": 11425
+    },
+    "11045": {
+        "Id": 11045,
+        "SeasonId": 11,
+        "WinningPoint": 700000,
+        "ItemGroupId": 11426
+    },
+    "11046": {
+        "Id": 11046,
+        "SeasonId": 11,
+        "WinningPoint": 720000,
+        "ItemGroupId": 11427
+    },
+    "11047": {
+        "Id": 11047,
+        "SeasonId": 11,
+        "WinningPoint": 740000,
+        "ItemGroupId": 11428
+    },
+    "11048": {
+        "Id": 11048,
+        "SeasonId": 11,
+        "WinningPoint": 760000,
+        "ItemGroupId": 11398
+    },
+    "11049": {
+        "Id": 11049,
+        "SeasonId": 11,
+        "WinningPoint": 780000,
+        "ItemGroupId": 10505
+    },
+    "11050": {
+        "Id": 11050,
+        "SeasonId": 11,
+        "WinningPoint": 800000,
+        "ItemGroupId": 10506
+    },
+    "11051": {
+        "Id": 11051,
+        "SeasonId": 11,
+        "WinningPoint": 820000,
+        "ItemGroupId": 10507
+    },
+    "11052": {
+        "Id": 11052,
+        "SeasonId": 11,
+        "WinningPoint": 840000,
+        "ItemGroupId": 10508
+    },
+    "11053": {
+        "Id": 11053,
+        "SeasonId": 11,
+        "WinningPoint": 860000,
+        "ItemGroupId": 10509
+    },
+    "11054": {
+        "Id": 11054,
+        "SeasonId": 11,
+        "WinningPoint": 880000,
+        "ItemGroupId": 11398
+    },
+    "11055": {
+        "Id": 11055,
+        "SeasonId": 11,
+        "WinningPoint": 900000,
+        "ItemGroupId": 11429
+    },
+    "11056": {
+        "Id": 11056,
+        "SeasonId": 11,
+        "WinningPoint": 920000,
+        "ItemGroupId": 11430
+    },
+    "11057": {
+        "Id": 11057,
+        "SeasonId": 11,
+        "WinningPoint": 940000,
+        "ItemGroupId": 11431
+    },
+    "11058": {
+        "Id": 11058,
+        "SeasonId": 11,
+        "WinningPoint": 960000,
+        "ItemGroupId": 11432
+    },
+    "11059": {
+        "Id": 11059,
+        "SeasonId": 11,
+        "WinningPoint": 980000,
+        "ItemGroupId": 11433
+    },
+    "11060": {
+        "Id": 11060,
+        "SeasonId": 11,
+        "WinningPoint": 1000000,
+        "ItemGroupId": 10059
+    },
+    "11061": {
+        "Id": 11061,
+        "SeasonId": 11,
+        "WinningPoint": 1025000,
+        "ItemGroupId": 11434
+    },
+    "11062": {
+        "Id": 11062,
+        "SeasonId": 11,
+        "WinningPoint": 1050000,
+        "ItemGroupId": 10553
+    },
+    "11063": {
+        "Id": 11063,
+        "SeasonId": 11,
+        "WinningPoint": 1075000,
+        "ItemGroupId": 11398
+    },
+    "11064": {
+        "Id": 11064,
+        "SeasonId": 11,
+        "WinningPoint": 1100000,
+        "ItemGroupId": 10510
+    },
+    "11065": {
+        "Id": 11065,
+        "SeasonId": 11,
+        "WinningPoint": 1125000,
+        "ItemGroupId": 10511
+    },
+    "11066": {
+        "Id": 11066,
+        "SeasonId": 11,
+        "WinningPoint": 1150000,
+        "ItemGroupId": 10512
+    },
+    "11067": {
+        "Id": 11067,
+        "SeasonId": 11,
+        "WinningPoint": 1175000,
+        "ItemGroupId": 10513
+    },
+    "11068": {
+        "Id": 11068,
+        "SeasonId": 11,
+        "WinningPoint": 1200000,
+        "ItemGroupId": 10514
+    },
+    "11069": {
+        "Id": 11069,
+        "SeasonId": 11,
+        "WinningPoint": 1225000,
+        "ItemGroupId": 11398
+    },
+    "11070": {
+        "Id": 11070,
+        "SeasonId": 11,
+        "WinningPoint": 1250000,
+        "ItemGroupId": 11435
+    },
+    "11071": {
+        "Id": 11071,
+        "SeasonId": 11,
+        "WinningPoint": 1275000,
+        "ItemGroupId": 11436
+    },
+    "11072": {
+        "Id": 11072,
+        "SeasonId": 11,
+        "WinningPoint": 1300000,
+        "ItemGroupId": 11437
+    },
+    "11073": {
+        "Id": 11073,
+        "SeasonId": 11,
+        "WinningPoint": 1325000,
+        "ItemGroupId": 11438
+    },
+    "11074": {
+        "Id": 11074,
+        "SeasonId": 11,
+        "WinningPoint": 1350000,
+        "ItemGroupId": 11439
+    },
+    "11075": {
+        "Id": 11075,
+        "SeasonId": 11,
+        "WinningPoint": 1375000,
+        "ItemGroupId": 11440
+    },
+    "11076": {
+        "Id": 11076,
+        "SeasonId": 11,
+        "WinningPoint": 1400000,
+        "ItemGroupId": 11441
+    },
+    "11077": {
+        "Id": 11077,
+        "SeasonId": 11,
+        "WinningPoint": 1425000,
+        "ItemGroupId": 11398
+    },
+    "11078": {
+        "Id": 11078,
+        "SeasonId": 11,
+        "WinningPoint": 1450000,
+        "ItemGroupId": 10515
+    },
+    "11079": {
+        "Id": 11079,
+        "SeasonId": 11,
+        "WinningPoint": 1475000,
+        "ItemGroupId": 10516
+    },
+    "11080": {
+        "Id": 11080,
+        "SeasonId": 11,
+        "WinningPoint": 1500000,
+        "ItemGroupId": 10059
+    },
+    "11081": {
+        "Id": 11081,
+        "SeasonId": 11,
+        "WinningPoint": 1525000,
+        "ItemGroupId": 10517
+    },
+    "11082": {
+        "Id": 11082,
+        "SeasonId": 11,
+        "WinningPoint": 1550000,
+        "ItemGroupId": 10518
+    },
+    "11083": {
+        "Id": 11083,
+        "SeasonId": 11,
+        "WinningPoint": 1575000,
+        "ItemGroupId": 10519
+    },
+    "11084": {
+        "Id": 11084,
+        "SeasonId": 11,
+        "WinningPoint": 1600000,
+        "ItemGroupId": 11398
+    },
+    "11085": {
+        "Id": 11085,
+        "SeasonId": 11,
+        "WinningPoint": 1625000,
+        "ItemGroupId": 11442
+    },
+    "11086": {
+        "Id": 11086,
+        "SeasonId": 11,
+        "WinningPoint": 1650000,
+        "ItemGroupId": 11443
+    },
+    "11087": {
+        "Id": 11087,
+        "SeasonId": 11,
+        "WinningPoint": 1675000,
+        "ItemGroupId": 11444
+    },
+    "11088": {
+        "Id": 11088,
+        "SeasonId": 11,
+        "WinningPoint": 1700000,
+        "ItemGroupId": 11445
+    },
+    "11089": {
+        "Id": 11089,
+        "SeasonId": 11,
+        "WinningPoint": 1725000,
+        "ItemGroupId": 11446
+    },
+    "11090": {
+        "Id": 11090,
+        "SeasonId": 11,
+        "WinningPoint": 1750000,
+        "ItemGroupId": 11447
+    },
+    "11091": {
+        "Id": 11091,
+        "SeasonId": 11,
+        "WinningPoint": 1775000,
+        "ItemGroupId": 11398
+    },
+    "11092": {
+        "Id": 11092,
+        "SeasonId": 11,
+        "WinningPoint": 1800000,
+        "ItemGroupId": 10804
+    },
+    "11093": {
+        "Id": 11093,
+        "SeasonId": 11,
+        "WinningPoint": 1825000,
+        "ItemGroupId": 11441
+    },
+    "11094": {
+        "Id": 11094,
+        "SeasonId": 11,
+        "WinningPoint": 1850000,
+        "ItemGroupId": 11428
+    },
+    "11095": {
+        "Id": 11095,
+        "SeasonId": 11,
+        "WinningPoint": 1875000,
+        "ItemGroupId": 11434
+    },
+    "11096": {
+        "Id": 11096,
+        "SeasonId": 11,
+        "WinningPoint": 1900000,
+        "ItemGroupId": 11440
+    },
+    "11097": {
+        "Id": 11097,
+        "SeasonId": 11,
+        "WinningPoint": 1925000,
+        "ItemGroupId": 10505
+    },
+    "11098": {
+        "Id": 11098,
+        "SeasonId": 11,
+        "WinningPoint": 1950000,
+        "ItemGroupId": 10506
+    },
+    "11099": {
+        "Id": 11099,
+        "SeasonId": 11,
+        "WinningPoint": 1975000,
+        "ItemGroupId": 10507
+    },
+    "11100": {
+        "Id": 11100,
+        "SeasonId": 11,
+        "WinningPoint": 2000000,
+        "ItemGroupId": 10508
+    },
+    "11101": {
+        "Id": 11101,
+        "SeasonId": 11,
+        "WinningPoint": 2025000,
+        "ItemGroupId": 10509
+    },
+    "11102": {
+        "Id": 11102,
+        "SeasonId": 11,
+        "WinningPoint": 2050000,
+        "ItemGroupId": 11669
+    },
+    "11103": {
+        "Id": 11103,
+        "SeasonId": 11,
+        "WinningPoint": 2075000,
+        "ItemGroupId": 10804
+    },
+    "11104": {
+        "Id": 11104,
+        "SeasonId": 11,
+        "WinningPoint": 2100000,
+        "ItemGroupId": 11441
+    },
+    "11105": {
+        "Id": 11105,
+        "SeasonId": 11,
+        "WinningPoint": 2125000,
+        "ItemGroupId": 10510
+    },
+    "11106": {
+        "Id": 11106,
+        "SeasonId": 11,
+        "WinningPoint": 2150000,
+        "ItemGroupId": 10511
+    },
+    "11107": {
+        "Id": 11107,
+        "SeasonId": 11,
+        "WinningPoint": 2175000,
+        "ItemGroupId": 10512
+    },
+    "11108": {
+        "Id": 11108,
+        "SeasonId": 11,
+        "WinningPoint": 2200000,
+        "ItemGroupId": 10513
+    },
+    "11109": {
+        "Id": 11109,
+        "SeasonId": 11,
+        "WinningPoint": 2225000,
+        "ItemGroupId": 10514
+    },
+    "11110": {
+        "Id": 11110,
+        "SeasonId": 11,
+        "WinningPoint": 2250000,
+        "ItemGroupId": 11670
+    },
+    "11111": {
+        "Id": 11111,
+        "SeasonId": 11,
+        "WinningPoint": 2275000,
+        "ItemGroupId": 10804
+    },
+    "11112": {
+        "Id": 11112,
+        "SeasonId": 11,
+        "WinningPoint": 2300000,
+        "ItemGroupId": 11441
+    },
+    "11113": {
+        "Id": 11113,
+        "SeasonId": 11,
+        "WinningPoint": 2325000,
+        "ItemGroupId": 11671
+    },
+    "11114": {
+        "Id": 11114,
+        "SeasonId": 11,
+        "WinningPoint": 2350000,
+        "ItemGroupId": 11672
+    },
+    "11115": {
+        "Id": 11115,
+        "SeasonId": 11,
+        "WinningPoint": 2375000,
+        "ItemGroupId": 11673
+    },
+    "11116": {
+        "Id": 11116,
+        "SeasonId": 11,
+        "WinningPoint": 2400000,
+        "ItemGroupId": 11674
+    },
+    "11117": {
+        "Id": 11117,
+        "SeasonId": 11,
+        "WinningPoint": 2425000,
+        "ItemGroupId": 11675
+    },
+    "11118": {
+        "Id": 11118,
+        "SeasonId": 11,
+        "WinningPoint": 2450000,
+        "ItemGroupId": 11676
+    },
+    "11119": {
+        "Id": 11119,
+        "SeasonId": 11,
+        "WinningPoint": 2475000,
+        "ItemGroupId": 11448
+    },
+    "11120": {
+        "Id": 11120,
+        "SeasonId": 11,
+        "WinningPoint": 2500000,
+        "ItemGroupId": 11441
     }
 }

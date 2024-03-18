@@ -637,5 +637,68 @@
         "StartDate": 1707850800,
         "EndDate": 1708455599,
         "IsDispLimit": 1
+    },
+    "200424": {
+        "Id": 200424,
+        "Type": 4,
+        "GroupId": 200424,
+        "BGFileName": "hbl200424_bg",
+        "StartDate": 1708873200,
+        "EndDate": 1708959599,
+        "IsDispLimit": 1
+    },
+    "400124": {
+        "Id": 400124,
+        "Type": 4,
+        "GroupId": 400124,
+        "BGFileName": "hbl400124_bg",
+        "StartDate": 1709046000,
+        "EndDate": 1709132399,
+        "IsDispLimit": 1
+    },
+    "67": {
+        "Id": 67,
+        "Type": 5,
+        "GroupId": 40041,
+        "BGFileName": "elb40041_bg",
+        "StartDate": 1708542000,
+        "EndDate": 1709146799,
+        "IsDispLimit": 1
+    },
+    "68": {
+        "Id": 68,
+        "Type": 5,
+        "GroupId": 40042,
+        "BGFileName": "elb40042_bg",
+        "StartDate": 1709233200,
+        "EndDate": 1710097199,
+        "IsDispLimit": 1
+    },
+    "69": {
+        "Id": 69,
+        "Type": 5,
+        "GroupId": 40043,
+        "BGFileName": "elb40043_bg",
+        "StartDate": 1709233200,
+        "EndDate": 1710788399,
+        "IsDispLimit": 1
+    },
+    "100424": {
+        "Id": 100424,
+        "Type": 4,
+        "GroupId": 100424,
+        "BGFileName": "hbl100424_bg",
+        "StartDate": 1710169200,
+        "EndDate": 1710255599,
+        "IsDispLimit": 0
+    },
+    "70": {
+        "Id": 70,
+        "Type": 5,
+        "GroupId": 40044,
+        "BGFileName": "elb40044_bg",
+        "StartDate": 1710183600,
+        "EndDate": 1710788399,
+        "IsDispLimit": 1
     }
 }

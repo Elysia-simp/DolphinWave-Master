@@ -1807,5 +1807,77 @@
         "PickupCardId": 320017,
         "PoseMotionFileName": "adv_plcom_hazirai_00",
         "FaceMotionFileName": 1
+    },
+    "10001": {
+        "Id": 10001,
+        "GachaManagementId": 100,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 400236101,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10301": {
+        "Id": 10301,
+        "GachaManagementId": 103,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 500147203,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10302": {
+        "Id": 10302,
+        "GachaManagementId": 103,
+        "Type": 7,
+        "DisplayedPriority": 2,
+        "PickupCardId": 500247201,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10303": {
+        "Id": 10303,
+        "GachaManagementId": 103,
+        "Type": 8,
+        "DisplayedPriority": 3,
+        "PickupCardId": 240024,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10601": {
+        "Id": 10601,
+        "GachaManagementId": 106,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 500147203,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10602": {
+        "Id": 10602,
+        "GachaManagementId": 106,
+        "Type": 7,
+        "DisplayedPriority": 2,
+        "PickupCardId": 500247201,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10603": {
+        "Id": 10603,
+        "GachaManagementId": 106,
+        "Type": 8,
+        "DisplayedPriority": 3,
+        "PickupCardId": 240024,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "10401": {
+        "Id": 10401,
+        "GachaManagementId": 104,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 100236501,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
     }
 }

@@ -2686,5 +2686,47 @@
         "Type": 8,
         "PrizeId": 320017,
         "Point": 30
+    },
+    "10301": {
+        "Id": 10301,
+        "GachaId": 103,
+        "Type": 7,
+        "PrizeId": 500141203,
+        "Point": 200
+    },
+    "10302": {
+        "Id": 10302,
+        "GachaId": 103,
+        "Type": 7,
+        "PrizeId": 500241201,
+        "Point": 200
+    },
+    "10303": {
+        "Id": 10303,
+        "GachaId": 103,
+        "Type": 8,
+        "PrizeId": 240024,
+        "Point": 100
+    },
+    "10601": {
+        "Id": 10601,
+        "GachaId": 106,
+        "Type": 7,
+        "PrizeId": 500141203,
+        "Point": 200
+    },
+    "10602": {
+        "Id": 10602,
+        "GachaId": 106,
+        "Type": 7,
+        "PrizeId": 500241201,
+        "Point": 200
+    },
+    "10603": {
+        "Id": 10603,
+        "GachaId": 106,
+        "Type": 8,
+        "PrizeId": 240024,
+        "Point": 100
     }
 }

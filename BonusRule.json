@@ -1195,5 +1195,54 @@
         "RuleRange": 407,
         "RuleRange2": 0,
         "PassiveSkillId": 105018
+    },
+    "20170": {
+        "Id": 20170,
+        "RuleDescription": "KIRISHIMAのドルフィンの攻撃力が50%アップ",
+        "RuleRange": 401,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
+    },
+    "20171": {
+        "Id": 20171,
+        "RuleDescription": "KAZAMIのドルフィンの攻撃力が50%アップ",
+        "RuleRange": 402,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
+    },
+    "20172": {
+        "Id": 20172,
+        "RuleDescription": "日向重工のドルフィンの攻撃力が50%アップ",
+        "RuleRange": 403,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
+    },
+    "20173": {
+        "Id": 20173,
+        "RuleDescription": "NereIdesのドルフィンの攻撃力が50%アップ",
+        "RuleRange": 404,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
+    },
+    "20174": {
+        "Id": 20174,
+        "RuleDescription": "浦見製鉄所のドルフィンの攻撃力が50%アップ",
+        "RuleRange": 405,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
+    },
+    "20175": {
+        "Id": 20175,
+        "RuleDescription": "FMワダツミのドルフィンの攻撃力が50%アップ",
+        "RuleRange": 406,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
+    },
+    "20176": {
+        "Id": 20176,
+        "RuleDescription": "ISRWのドルフィンの攻撃力が50%アップ",
+        "RuleRange": 407,
+        "RuleRange2": 102,
+        "PassiveSkillId": 104161
     }
 }

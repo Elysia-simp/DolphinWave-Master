@@ -10456,5 +10456,293 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1125
+    },
+    "13300100": {
+        "Id": 13300100,
+        "Name": "ボスメダル(バレンにゃいん)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1182
+    },
+    "13900444": {
+        "Id": 13900444,
+        "Name": "甘いひととき♡スイートバレンにゃいん制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1181
+    },
+    "13900445": {
+        "Id": 13900445,
+        "Name": "甘いひととき♡スイートバレンにゃいんEXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1180
+    },
+    "12902185": {
+        "Id": 12902185,
+        "Name": "ゆびきり",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1179
+    },
+    "1050014203": {
+        "Id": 1050014203,
+        "Name": "由芽(URAMI戦闘員/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "由芽(URAMI戦闘員/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1186
+    },
+    "1050024201": {
+        "Id": 1050024201,
+        "Name": "かな(URAMI女幹部/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "かな(URAMI女幹部/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1187
+    },
+    "13300101": {
+        "Id": 13300101,
+        "Name": "ボスメダル(悪のURAMI)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1188
+    },
+    "1020043201": {
+        "Id": 1020043201,
+        "Name": "シュネー(秋冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "シュネー(秋冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1189
+    },
+    "11200078": {
+        "Id": 11200078,
+        "Name": "ヴァイスヴルスト",
+        "Type": 12,
+        "ItemText": "シュネー(秋冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1190
+    },
+    "11100070": {
+        "Id": 11100070,
+        "Name": "シュネーの秋冬コーデ服",
+        "Type": 11,
+        "ItemText": "シュネー(秋冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1191
+    },
+    "13900446": {
+        "Id": 13900446,
+        "Name": "チャレンジバトル-15th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1189
+    },
+    "13900447": {
+        "Id": 13900447,
+        "Name": "チャレンジバトル-15th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1188
+    },
+    "13900448": {
+        "Id": 13900448,
+        "Name": "チャレンジバトル-15th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1187
+    },
+    "13900449": {
+        "Id": 13900449,
+        "Name": "チャレンジバトル-15th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1186
+    },
+    "13900450": {
+        "Id": 13900450,
+        "Name": "チャレンジバトル-15th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1185
+    },
+    "13900451": {
+        "Id": 13900451,
+        "Name": "チャレンジバトル-15th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1184
+    },
+    "13900452": {
+        "Id": 13900452,
+        "Name": "チャレンジバトル-15th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1183
+    },
+    "13900453": {
+        "Id": 13900453,
+        "Name": "チャレンジバトル-15th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1182
+    },
+    "13900454": {
+        "Id": 13900454,
+        "Name": "チャレンジバトル-15th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1181
+    },
+    "13900455": {
+        "Id": 13900455,
+        "Name": "チャレンジバトル-15th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1180
+    },
+    "13900456": {
+        "Id": 13900456,
+        "Name": "チャレンジバトル-15th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1179
+    },
+    "13900457": {
+        "Id": 13900457,
+        "Name": "チャレンジバトル-15th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1178
+    },
+    "13900458": {
+        "Id": 13900458,
+        "Name": "悪のURAMIを倒せ！ 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1177
+    },
+    "13900459": {
+        "Id": 13900459,
+        "Name": "悪のURAMIを倒せ！ EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1176
+    },
+    "12902233": {
+        "Id": 12902233,
+        "Name": "苦労人の事務員",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1206
+    },
+    "12902257": {
+        "Id": 12902257,
+        "Name": "生意気なおこさま",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1205
+    },
+    "13200021": {
+        "Id": 13200021,
+        "Name": "ドルフィンフェスガチャチケット(URAMI)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1212
+    },
+    "13200020": {
+        "Id": 13200020,
+        "Name": "イベントBOXガチャチケット(お花見)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(お花見)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1207
+    },
+    "13700023": {
+        "Id": 13700023,
+        "Name": "ボスチケット(お花見)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1208
+    },
+    "12902209": {
+        "Id": 12902209,
+        "Name": "腕上げぺたんこ座り",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1207
+    },
+    "13900460": {
+        "Id": 13900460,
+        "Name": "桜を探して?ドルフィンたちのお花見パーティー制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1175
+    },
+    "13900461": {
+        "Id": 13900461,
+        "Name": "桜を探して?ドルフィンたちのお花見パーティーEXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1174
     }
 }
