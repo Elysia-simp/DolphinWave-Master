@@ -14438,5 +14438,43 @@
         "Value_02": "0",
         "Unit_03": 0,
         "Value_03": "0"
+    },
+    "130115": {
+        "Id": 130115,
+        "EffectSystem": 3,
+        "ForwardAttack": "0",
+        "Target": 3,
+        "TargetRange": "-1",
+        "TargetType": 0,
+        "TargetId": "0",
+        "Range": "2",
+        "EffectType": "211",
+        "Probability": "100",
+        "Turn": "99",
+        "Unit_01": 1,
+        "Value_01": "15",
+        "Unit_02": 0,
+        "Value_02": "0",
+        "Unit_03": 0,
+        "Value_03": "0"
+    },
+    "140073": {
+        "Id": 140073,
+        "EffectSystem": 4,
+        "ForwardAttack": "0",
+        "Target": 1,
+        "TargetRange": "-1",
+        "TargetType": 0,
+        "TargetId": "0",
+        "Range": "1",
+        "EffectType": "314",
+        "Probability": "100",
+        "Turn": "0",
+        "Unit_01": 0,
+        "Value_01": "10",
+        "Unit_02": 0,
+        "Value_02": "0",
+        "Unit_03": 0,
+        "Value_03": "0"
     }
 }

@@ -2031,5 +2031,43 @@
         "TermSaid": 0,
         "BadgeTargetFlag": 0,
         "SharedGachaPointId": 0
+    },
+    "108": {
+        "Id": 108,
+        "GachaName": "ドルフィンフェスガチャ(絶対零度)",
+        "Type": 1,
+        "GachaHowToSell1": 10801,
+        "GachaHowToSell2": 10802,
+        "StartDate": 1710824400,
+        "EndDate": 1712725199,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 108,
+        "DisplayPriority": 75968106,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 108
+    },
+    "109": {
+        "Id": 109,
+        "GachaName": "ドルフィンフェスチケットガチャ(絶対零度)",
+        "Type": 3,
+        "GachaHowToSell1": 10901,
+        "GachaHowToSell2": 10902,
+        "StartDate": 1710824400,
+        "EndDate": 1712725199,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 109,
+        "DisplayPriority": 75968107,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 108
     }
 }

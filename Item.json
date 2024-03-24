@@ -10744,5 +10744,212 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1174
+    },
+    "1020034102": {
+        "Id": 1020034102,
+        "Name": "氷織(アブソリュートモンスター/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "氷織(アブソリュートモンスター/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1215
+    },
+    "1020044102": {
+        "Id": 1020044102,
+        "Name": "シュネー(ジーニアストレーナー/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "シュネー(ジーニアストレーナー/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1216
+    },
+    "13300102": {
+        "Id": 13300102,
+        "Name": "ボスメダル(絶対零度)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1217
+    },
+    "1010033103": {
+        "Id": 1010033103,
+        "Name": "杏里(春コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "杏里(春コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1218
+    },
+    "11200079": {
+        "Id": 11200079,
+        "Name": "チキン南蛮",
+        "Type": 12,
+        "ItemText": "杏里(春コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1219
+    },
+    "11100071": {
+        "Id": 11100071,
+        "Name": "杏里の春コーデ服",
+        "Type": 11,
+        "ItemText": "杏里(春コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1220
+    },
+    "13200022": {
+        "Id": 13200022,
+        "Name": "ドルフィンフェスガチャチケット(絶対零度)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(絶対零度)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1221
+    },
+    "13900462": {
+        "Id": 13900462,
+        "Name": "チャレンジバトル-16th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1220
+    },
+    "13900463": {
+        "Id": 13900463,
+        "Name": "チャレンジバトル-16th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1219
+    },
+    "13900464": {
+        "Id": 13900464,
+        "Name": "チャレンジバトル-16th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1218
+    },
+    "13900465": {
+        "Id": 13900465,
+        "Name": "チャレンジバトル-16th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1217
+    },
+    "13900466": {
+        "Id": 13900466,
+        "Name": "チャレンジバトル-16th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1216
+    },
+    "13900467": {
+        "Id": 13900467,
+        "Name": "チャレンジバトル-16th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1215
+    },
+    "13900468": {
+        "Id": 13900468,
+        "Name": "チャレンジバトル-16th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1214
+    },
+    "13900469": {
+        "Id": 13900469,
+        "Name": "チャレンジバトル-16th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1213
+    },
+    "13900470": {
+        "Id": 13900470,
+        "Name": "チャレンジバトル-16th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1212
+    },
+    "13900471": {
+        "Id": 13900471,
+        "Name": "チャレンジバトル-16th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1211
+    },
+    "13900472": {
+        "Id": 13900472,
+        "Name": "チャレンジバトル-16th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1210
+    },
+    "13900473": {
+        "Id": 13900473,
+        "Name": "チャレンジバトル-16th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1209
+    },
+    "13900474": {
+        "Id": 13900474,
+        "Name": "絶対零度の必勝理論 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1208
+    },
+    "13900475": {
+        "Id": 13900475,
+        "Name": "絶対零度の必勝理論 EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1207
+    },
+    "12902281": {
+        "Id": 12902281,
+        "Name": "絶対的勝利",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1206
+    },
+    "12902305": {
+        "Id": 12902305,
+        "Name": "理論的勝利",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1205
     }
 }

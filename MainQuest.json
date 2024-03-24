@@ -1393,5 +1393,50 @@
         "KeyQuestId": 0,
         "StageLimitCountGroupId": 0,
         "BannerVisible": 1
+    },
+    "20070101": {
+        "Id": 20070101,
+        "Part": 2,
+        "Chapeter": 7,
+        "Title": "メインストーリー第2部7章",
+        "ChapeterType": 1,
+        "No": 1,
+        "StartDate": -32400,
+        "EndDate": 1893423600,
+        "Banner": 54,
+        "Banner02": 20070101,
+        "KeyQuestId": 20060101,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 0
+    },
+    "20070201": {
+        "Id": 20070201,
+        "Part": 2,
+        "Chapeter": 7,
+        "Title": "サイドストーリー第2部7章",
+        "ChapeterType": 2,
+        "No": 1,
+        "StartDate": -32400,
+        "EndDate": 1893423600,
+        "Banner": 40,
+        "Banner02": 20070201,
+        "KeyQuestId": 20070101,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 0
+    },
+    "3018": {
+        "Id": 3018,
+        "Part": 0,
+        "Chapeter": 3018,
+        "Title": "絶対零度の必勝理論",
+        "ChapeterType": 0,
+        "No": 0,
+        "StartDate": 1710824400,
+        "EndDate": 1712725199,
+        "Banner": 52,
+        "Banner02": 3018,
+        "KeyQuestId": 0,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 1
     }
 }
