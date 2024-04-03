@@ -1,0 +1,119 @@
+{
+    "1": {
+        "Id": 1,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 100,
+        "TargetMoveSpeedMagnification": 100,
+        "ParfectBonus": 3000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 100
+    },
+    "2": {
+        "Id": 2,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 100,
+        "TargetMoveSpeedMagnification": 130,
+        "ParfectBonus": 5000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 100
+    },
+    "3": {
+        "Id": 3,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 100,
+        "TargetMoveSpeedMagnification": 160,
+        "ParfectBonus": 7000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 100
+    },
+    "4": {
+        "Id": 4,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 100,
+        "TargetMoveSpeedMagnification": 180,
+        "ParfectBonus": 10000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 100
+    },
+    "5": {
+        "Id": 5,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 90,
+        "TargetMoveSpeedMagnification": 195,
+        "ParfectBonus": 30000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 90
+    },
+    "6": {
+        "Id": 6,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 80,
+        "TargetMoveSpeedMagnification": 210,
+        "ParfectBonus": 50000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 80
+    },
+    "7": {
+        "Id": 7,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 70,
+        "TargetMoveSpeedMagnification": 225,
+        "ParfectBonus": 70000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 70
+    },
+    "8": {
+        "Id": 8,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 60,
+        "TargetMoveSpeedMagnification": 240,
+        "ParfectBonus": 100000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 60
+    },
+    "9": {
+        "Id": 9,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 50,
+        "TargetMoveSpeedMagnification": 255,
+        "ParfectBonus": 300000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 50
+    },
+    "10": {
+        "Id": 10,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 40,
+        "TargetMoveSpeedMagnification": 270,
+        "ParfectBonus": 500000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 40
+    },
+    "11": {
+        "Id": 11,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 30,
+        "TargetMoveSpeedMagnification": 285,
+        "ParfectBonus": 700000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 30
+    },
+    "12": {
+        "Id": 12,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 20,
+        "TargetMoveSpeedMagnification": 300,
+        "ParfectBonus": 1000000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 20
+    },
+    "13": {
+        "Id": 13,
+        "ScoreMagnification": 100,
+        "WaveTimeLimitMagnification": 10,
+        "TargetMoveSpeedMagnification": 315,
+        "ParfectBonus": 1000000,
+        "FastHitBonus": 777,
+        "FastHitTimeLimitMagnification": 10
+    }
+}

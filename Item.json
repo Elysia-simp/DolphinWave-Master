@@ -10951,5 +10951,221 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1205
+    },
+    "1070034402": {
+        "Id": 1070034402,
+        "Name": "咲良(シークレットサービス/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "咲良(シークレットサービス/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1239
+    },
+    "1070044402": {
+        "Id": 1070044402,
+        "Name": "アマデア(エキセントリックレディ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "アマデア(エキセントリックレディ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1240
+    },
+    "13300103": {
+        "Id": 13300103,
+        "Name": "ボスメダル(警備録)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1241
+    },
+    "1030023401": {
+        "Id": 1030023401,
+        "Name": "桐利(冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "桐利(冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1242
+    },
+    "11200080": {
+        "Id": 11200080,
+        "Name": "クレープ",
+        "Type": 12,
+        "ItemText": "桐利(冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1243
+    },
+    "11100072": {
+        "Id": 11100072,
+        "Name": "桐利の冬コーデ服",
+        "Type": 11,
+        "ItemText": "桐利(冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1244
+    },
+    "13200023": {
+        "Id": 13200023,
+        "Name": "ドルフィンフェスガチャチケット(警備録)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(警備録)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1245
+    },
+    "13900476": {
+        "Id": 13900476,
+        "Name": "ISRW警備録～注目を浴びたい博士の警護は大変～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1244
+    },
+    "13900477": {
+        "Id": 13900477,
+        "Name": "ISRW警備録～注目を浴びたい博士の警護は大変～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1243
+    },
+    "13900478": {
+        "Id": 13900478,
+        "Name": "チャレンジバトル-17th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1242
+    },
+    "13900479": {
+        "Id": 13900479,
+        "Name": "チャレンジバトル-17th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1241
+    },
+    "13900480": {
+        "Id": 13900480,
+        "Name": "チャレンジバトル-17th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1240
+    },
+    "13900481": {
+        "Id": 13900481,
+        "Name": "チャレンジバトル-17th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1239
+    },
+    "13900482": {
+        "Id": 13900482,
+        "Name": "チャレンジバトル-17th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1238
+    },
+    "13900483": {
+        "Id": 13900483,
+        "Name": "チャレンジバトル-17th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1237
+    },
+    "13900484": {
+        "Id": 13900484,
+        "Name": "チャレンジバトル-17th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1236
+    },
+    "13900485": {
+        "Id": 13900485,
+        "Name": "チャレンジバトル-17th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1235
+    },
+    "13900486": {
+        "Id": 13900486,
+        "Name": "チャレンジバトル-17th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1234
+    },
+    "13900487": {
+        "Id": 13900487,
+        "Name": "チャレンジバトル-17th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1233
+    },
+    "13900488": {
+        "Id": 13900488,
+        "Name": "チャレンジバトル-17th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1232
+    },
+    "13900489": {
+        "Id": 13900489,
+        "Name": "チャレンジバトル-17th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1231
+    },
+    "12902329": {
+        "Id": 12902329,
+        "Name": "寡黙なテストライダー",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1230
+    },
+    "12902353": {
+        "Id": 12902353,
+        "Name": "天才美女研究者",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1229
+    },
+    "13300104": {
+        "Id": 13300104,
+        "Name": "スーパードルフィンコイン",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1267
     }
 }

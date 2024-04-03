@@ -1,0 +1,32 @@
+{
+    "1001": {
+        "Id": 1001,
+        "ActorId": 3001,
+        "BreakTapNumPhone": 36,
+        "BreakTapNumPC": 36,
+        "NormalStateScorePhone": 150,
+        "NormalStateScorePC": 150,
+        "BreakStateScorePhone": 250,
+        "BreakStateScorePC": 250
+    },
+    "1011": {
+        "Id": 1011,
+        "ActorId": 3011,
+        "BreakTapNumPhone": 36,
+        "BreakTapNumPC": 36,
+        "NormalStateScorePhone": 250,
+        "NormalStateScorePC": 250,
+        "BreakStateScorePhone": 400,
+        "BreakStateScorePC": 400
+    },
+    "1021": {
+        "Id": 1021,
+        "ActorId": 3021,
+        "BreakTapNumPhone": 36,
+        "BreakTapNumPC": 36,
+        "NormalStateScorePhone": 800,
+        "NormalStateScorePC": 800,
+        "BreakStateScorePhone": 1020,
+        "BreakStateScorePC": 1020
+    }
+}

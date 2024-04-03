@@ -1,0 +1,802 @@
+{
+    "11001": {
+        "Id": 11001,
+        "ActorId": 2021,
+        "TargetFixRouteId": 11001,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "11002": {
+        "Id": 11002,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11002,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "11003": {
+        "Id": 11003,
+        "ActorId": 2021,
+        "TargetFixRouteId": 11003,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "11004": {
+        "Id": 11004,
+        "ActorId": 2021,
+        "TargetFixRouteId": 11004,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "11111": {
+        "Id": 11111,
+        "ActorId": 2021,
+        "TargetFixRouteId": 11111,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "11112": {
+        "Id": 11112,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11112,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "11121": {
+        "Id": 11121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "11122": {
+        "Id": 11122,
+        "ActorId": 2021,
+        "TargetFixRouteId": 11122,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "11131": {
+        "Id": 11131,
+        "ActorId": 2021,
+        "TargetFixRouteId": 11131,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "11132": {
+        "Id": 11132,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11132,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "21001": {
+        "Id": 21001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "21111": {
+        "Id": 21111,
+        "ActorId": 2021,
+        "TargetFixRouteId": 21111,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "21112": {
+        "Id": 21112,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21112,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "21121": {
+        "Id": 21121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "21122": {
+        "Id": 21122,
+        "ActorId": 2001,
+        "TargetFixRouteId": 21122,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "21131": {
+        "Id": 21131,
+        "ActorId": 2021,
+        "TargetFixRouteId": 21131,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "21132": {
+        "Id": 21132,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21132,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "21211": {
+        "Id": 21211,
+        "ActorId": 2021,
+        "TargetFixRouteId": 21211,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "21212": {
+        "Id": 21212,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21212,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "21213": {
+        "Id": 21213,
+        "ActorId": 2001,
+        "TargetFixRouteId": 21213,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "31111": {
+        "Id": 31111,
+        "ActorId": 2001,
+        "TargetFixRouteId": 31111,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "32001": {
+        "Id": 32001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "32002": {
+        "Id": 32002,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32002,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "32112": {
+        "Id": 32112,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32112,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "32121": {
+        "Id": 32121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "32122": {
+        "Id": 32122,
+        "ActorId": 2001,
+        "TargetFixRouteId": 32122,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "32131": {
+        "Id": 32131,
+        "ActorId": 2001,
+        "TargetFixRouteId": 32131,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "32132": {
+        "Id": 32132,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32132,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "32141": {
+        "Id": 32141,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32141,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "32142": {
+        "Id": 32142,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32142,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "43001": {
+        "Id": 43001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 43001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "43002": {
+        "Id": 43002,
+        "ActorId": 2001,
+        "TargetFixRouteId": 43002,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "43111": {
+        "Id": 43111,
+        "ActorId": 2011,
+        "TargetFixRouteId": 43111,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "43112": {
+        "Id": 43112,
+        "ActorId": 2011,
+        "TargetFixRouteId": 43112,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "44211": {
+        "Id": 44211,
+        "ActorId": 2011,
+        "TargetFixRouteId": 44211,
+        "Score": 850,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "44212": {
+        "Id": 44212,
+        "ActorId": 2011,
+        "TargetFixRouteId": 44212,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "44213": {
+        "Id": 44213,
+        "ActorId": 2011,
+        "TargetFixRouteId": 44213,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "44311": {
+        "Id": 44311,
+        "ActorId": 2001,
+        "TargetFixRouteId": 44311,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "44312": {
+        "Id": 44312,
+        "ActorId": 2001,
+        "TargetFixRouteId": 44312,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "44313": {
+        "Id": 44313,
+        "ActorId": 2011,
+        "TargetFixRouteId": 44313,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "51213": {
+        "Id": 51213,
+        "ActorId": 2001,
+        "TargetFixRouteId": 51213,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "54001": {
+        "Id": 54001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "54111": {
+        "Id": 54111,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54111,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "54112": {
+        "Id": 54112,
+        "ActorId": 2001,
+        "TargetFixRouteId": 54112,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "54121": {
+        "Id": 54121,
+        "ActorId": 2021,
+        "TargetFixRouteId": 54121,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "54122": {
+        "Id": 54122,
+        "ActorId": 2021,
+        "TargetFixRouteId": 54122,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "54131": {
+        "Id": 54131,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54131,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "54132": {
+        "Id": 54132,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54132,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "54211": {
+        "Id": 54211,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54211,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "54212": {
+        "Id": 54212,
+        "ActorId": 2001,
+        "TargetFixRouteId": 54212,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "61001": {
+        "Id": 61001,
+        "ActorId": 2001,
+        "TargetFixRouteId": 61001,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "61211": {
+        "Id": 61211,
+        "ActorId": 2021,
+        "TargetFixRouteId": 61211,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "61213": {
+        "Id": 61213,
+        "ActorId": 2011,
+        "TargetFixRouteId": 61213,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "62111": {
+        "Id": 62111,
+        "ActorId": 2011,
+        "TargetFixRouteId": 62111,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "62112": {
+        "Id": 62112,
+        "ActorId": 2001,
+        "TargetFixRouteId": 62112,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "64001": {
+        "Id": 64001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 64001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "64121": {
+        "Id": 64121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 64121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "64122": {
+        "Id": 64122,
+        "ActorId": 2011,
+        "TargetFixRouteId": 64122,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "64211": {
+        "Id": 64211,
+        "ActorId": 2001,
+        "TargetFixRouteId": 64211,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "64002": {
+        "Id": 64002,
+        "ActorId": 2001,
+        "TargetFixRouteId": 64002,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "71004": {
+        "Id": 71004,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11004,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "71112": {
+        "Id": 71112,
+        "ActorId": 2001,
+        "TargetFixRouteId": 11002,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "71003": {
+        "Id": 71003,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11003,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "72001": {
+        "Id": 72001,
+        "ActorId": 2021,
+        "TargetFixRouteId": 32001,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "74211": {
+        "Id": 74211,
+        "ActorId": 2021,
+        "TargetFixRouteId": 54211,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "74001": {
+        "Id": 74001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 64001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "71122": {
+        "Id": 71122,
+        "ActorId": 2001,
+        "TargetFixRouteId": 11122,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "71131": {
+        "Id": 71131,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21131,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "71121": {
+        "Id": 71121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 11121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "74111": {
+        "Id": 74111,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54111,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "82112": {
+        "Id": 82112,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32112,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "84132": {
+        "Id": 84132,
+        "ActorId": 2021,
+        "TargetFixRouteId": 54132,
+        "Score": 350,
+        "MoveSpeed": 500,
+        "GoldenScore": 0
+    },
+    "84131": {
+        "Id": 84131,
+        "ActorId": 2001,
+        "TargetFixRouteId": 54131,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "81211": {
+        "Id": 81211,
+        "ActorId": 2001,
+        "TargetFixRouteId": 61211,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "81122": {
+        "Id": 81122,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21122,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "821211": {
+        "Id": 821211,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21211,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "83002": {
+        "Id": 83002,
+        "ActorId": 2011,
+        "TargetFixRouteId": 43002,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "82122": {
+        "Id": 82122,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32122,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "84212": {
+        "Id": 84212,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54212,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "82132": {
+        "Id": 82132,
+        "ActorId": 2001,
+        "TargetFixRouteId": 32132,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "94002": {
+        "Id": 94002,
+        "ActorId": 2011,
+        "TargetFixRouteId": 64002,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "91001": {
+        "Id": 91001,
+        "ActorId": 2001,
+        "TargetFixRouteId": 61001,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "94121": {
+        "Id": 94121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "94122": {
+        "Id": 94122,
+        "ActorId": 2001,
+        "TargetFixRouteId": 54122,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "91111": {
+        "Id": 91111,
+        "ActorId": 2011,
+        "TargetFixRouteId": 31111,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "91112": {
+        "Id": 91112,
+        "ActorId": 2001,
+        "TargetFixRouteId": 21112,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "93111": {
+        "Id": 93111,
+        "ActorId": 2011,
+        "TargetFixRouteId": 43111,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "94212": {
+        "Id": 94212,
+        "ActorId": 2011,
+        "TargetFixRouteId": 44212,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "921001": {
+        "Id": 921001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "93001": {
+        "Id": 93001,
+        "ActorId": 2001,
+        "TargetFixRouteId": 43001,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "101002": {
+        "Id": 101002,
+        "ActorId": 2011,
+        "TargetFixRouteId": 64121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "101132": {
+        "Id": 101132,
+        "ActorId": 2001,
+        "TargetFixRouteId": 11132,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "102131": {
+        "Id": 102131,
+        "ActorId": 2011,
+        "TargetFixRouteId": 32131,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "104311": {
+        "Id": 104311,
+        "ActorId": 2001,
+        "TargetFixRouteId": 44311,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "101213": {
+        "Id": 101213,
+        "ActorId": 2011,
+        "TargetFixRouteId": 51213,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "102112": {
+        "Id": 102112,
+        "ActorId": 2001,
+        "TargetFixRouteId": 32112,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "101121": {
+        "Id": 101121,
+        "ActorId": 2011,
+        "TargetFixRouteId": 21121,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "104001": {
+        "Id": 104001,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54001,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    },
+    "102111": {
+        "Id": 102111,
+        "ActorId": 2001,
+        "TargetFixRouteId": 62111,
+        "Score": 850,
+        "MoveSpeed": 700,
+        "GoldenScore": 1850
+    },
+    "104112": {
+        "Id": 104112,
+        "ActorId": 2011,
+        "TargetFixRouteId": 54112,
+        "Score": 600,
+        "MoveSpeed": 600,
+        "GoldenScore": 1600
+    }
+}

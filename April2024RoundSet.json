@@ -1,0 +1,52 @@
+{
+    "1": {
+        "Id": 1,
+        "NormalRoundId1": 11,
+        "NormalRoundId2": 12,
+        "NormalRoundId3": 0,
+        "NormalRoundId4": 0,
+        "NormalRoundId5": 0,
+        "BonusRoundWaveId1": 19,
+        "IsRoundSetInsideShuffle": 0
+    },
+    "2": {
+        "Id": 2,
+        "NormalRoundId1": 21,
+        "NormalRoundId2": 22,
+        "NormalRoundId3": 0,
+        "NormalRoundId4": 0,
+        "NormalRoundId5": 0,
+        "BonusRoundWaveId1": 19,
+        "IsRoundSetInsideShuffle": 0
+    },
+    "3": {
+        "Id": 3,
+        "NormalRoundId1": 31,
+        "NormalRoundId2": 32,
+        "NormalRoundId3": 0,
+        "NormalRoundId4": 0,
+        "NormalRoundId5": 0,
+        "BonusRoundWaveId1": 29,
+        "IsRoundSetInsideShuffle": 0
+    },
+    "4": {
+        "Id": 4,
+        "NormalRoundId1": 41,
+        "NormalRoundId2": 42,
+        "NormalRoundId3": 43,
+        "NormalRoundId4": 44,
+        "NormalRoundId5": 0,
+        "BonusRoundWaveId1": 29,
+        "IsRoundSetInsideShuffle": 0
+    },
+    "5": {
+        "Id": 5,
+        "NormalRoundId1": 41,
+        "NormalRoundId2": 42,
+        "NormalRoundId3": 43,
+        "NormalRoundId4": 44,
+        "NormalRoundId5": 0,
+        "BonusRoundWaveId1": 39,
+        "IsRoundSetInsideShuffle": 1
+    }
+}

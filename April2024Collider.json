@@ -1,0 +1,83 @@
+{
+    "1011": {
+        "Id": 1011,
+        "Name": "通常弾",
+        "Shape": 1,
+        "RadiusX": 55,
+        "RadiusY": 55,
+        "OffsetX": 0,
+        "OffsetY": 0
+    },
+    "1012": {
+        "Id": 1012,
+        "Name": "爆発弾",
+        "Shape": 1,
+        "RadiusX": 150,
+        "RadiusY": 150,
+        "OffsetX": 0,
+        "OffsetY": 0
+    },
+    "1013": {
+        "Id": 1013,
+        "Name": "拡張弾",
+        "Shape": 1,
+        "RadiusX": 165,
+        "RadiusY": 165,
+        "OffsetX": 0,
+        "OffsetY": 0
+    },
+    "1014": {
+        "Id": 1014,
+        "Name": "ボーナス弾",
+        "Shape": 1,
+        "RadiusX": 100,
+        "RadiusY": 100,
+        "OffsetX": 0,
+        "OffsetY": 0
+    },
+    "2001": {
+        "Id": 2001,
+        "Name": "ターゲット(小)",
+        "Shape": 2,
+        "RadiusX": 55,
+        "RadiusY": 70,
+        "OffsetX": 0,
+        "OffsetY": 0
+    },
+    "2002": {
+        "Id": 2002,
+        "Name": "ターゲット(小・ゴールデン)",
+        "Shape": 2,
+        "RadiusX": 55,
+        "RadiusY": 70,
+        "OffsetX": 0,
+        "OffsetY": 0
+    },
+    "2011": {
+        "Id": 2011,
+        "Name": "ターゲット(通常)",
+        "Shape": 2,
+        "RadiusX": 62,
+        "RadiusY": 87,
+        "OffsetX": 0,
+        "OffsetY": 20
+    },
+    "2012": {
+        "Id": 2012,
+        "Name": "ターゲット(通常・ゴールデン)",
+        "Shape": 2,
+        "RadiusX": 62,
+        "RadiusY": 87,
+        "OffsetX": 0,
+        "OffsetY": 20
+    },
+    "2021": {
+        "Id": 2021,
+        "Name": "ターゲット(大)",
+        "Shape": 2,
+        "RadiusX": 78,
+        "RadiusY": 105,
+        "OffsetX": 0,
+        "OffsetY": 20
+    }
+}

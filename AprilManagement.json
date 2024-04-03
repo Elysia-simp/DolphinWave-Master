@@ -1,6 +1,7 @@
 {
     "1": {
         "Id": 1,
+        "MiniGameId": 2023,
         "StartDate": 1680267600,
         "EndDate": 1681102799,
         "ItemId": 13300046,
@@ -9,9 +10,19 @@
     },
     "2": {
         "Id": 2,
+        "MiniGameId": 2023,
         "StartDate": 1697778000,
         "EndDate": 1700024399,
         "ItemId": 13300046,
+        "Rate": 10,
+        "ItemMax": 999
+    },
+    "3": {
+        "Id": 3,
+        "MiniGameId": 2024,
+        "StartDate": 1711890000,
+        "EndDate": 1712725199,
+        "ItemId": 13300104,
         "Rate": 10,
         "ItemMax": 999
     }

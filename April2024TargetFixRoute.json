@@ -1,0 +1,302 @@
+{
+    "11001": {
+        "Id": 11001,
+        "SpawnPos": "a7",
+        "MoveRoute": "A6,F0,K7,L6,G0"
+    },
+    "11002": {
+        "Id": 11002,
+        "SpawnPos": "a4",
+        "MoveRoute": "G0,L3,G7,A3"
+    },
+    "11003": {
+        "Id": 11003,
+        "SpawnPos": "z0",
+        "MoveRoute": "L0,A0,L7,A7"
+    },
+    "11004": {
+        "Id": 11004,
+        "SpawnPos": "z3",
+        "MoveRoute": "L2,J0,C7,A4,D0,I7"
+    },
+    "11111": {
+        "Id": 11111,
+        "SpawnPos": "z7",
+        "MoveRoute": "D0,A5,L7"
+    },
+    "11112": {
+        "Id": 11112,
+        "SpawnPos": "a3",
+        "MoveRoute": "A3,L3"
+    },
+    "11121": {
+        "Id": 11121,
+        "SpawnPos": "z4",
+        "MoveRoute": "J7,G0,B7,A0,L6"
+    },
+    "11122": {
+        "Id": 11122,
+        "SpawnPos": "a2",
+        "MoveRoute": "A3,G7,L3,G0"
+    },
+    "11131": {
+        "Id": 11131,
+        "SpawnPos": "a7",
+        "MoveRoute": "A6,F0,K7,L6,G0"
+    },
+    "11132": {
+        "Id": 11132,
+        "SpawnPos": "a0",
+        "MoveRoute": "A1,G7,K0,L1,F7,B0"
+    },
+    "21001": {
+        "Id": 21001,
+        "SpawnPos": "a5",
+        "MoveRoute": "A3,C0,F7,A5,L2,I0,F7"
+    },
+    "21111": {
+        "Id": 21111,
+        "SpawnPos": "a3",
+        "MoveRoute": "D0,H7,L3,A3"
+    },
+    "21112": {
+        "Id": 21112,
+        "SpawnPos": "z7",
+        "MoveRoute": "A7,D0,L7"
+    },
+    "21121": {
+        "Id": 21121,
+        "SpawnPos": "a0",
+        "MoveRoute": "A1,G7,K0,L1,F7,B0"
+    },
+    "21122": {
+        "Id": 21122,
+        "SpawnPos": "z3",
+        "MoveRoute": "L2,J0,C7,A4,D0,I7"
+    },
+    "21131": {
+        "Id": 21131,
+        "SpawnPos": "a7",
+        "MoveRoute": "A4,C0,D7,E0,I7,L4,C7,A4"
+    },
+    "21132": {
+        "Id": 21132,
+        "SpawnPos": "z1",
+        "MoveRoute": "F7,J0,L3"
+    },
+    "21211": {
+        "Id": 21211,
+        "SpawnPos": "a0",
+        "MoveRoute": "L0,L7,A7,A0"
+    },
+    "21212": {
+        "Id": 21212,
+        "SpawnPos": "a6",
+        "MoveRoute": "C5,J5,J2,C2"
+    },
+    "21213": {
+        "Id": 21213,
+        "SpawnPos": "z3",
+        "MoveRoute": "H3,E3,E4,H4"
+    },
+    "31111": {
+        "Id": 31111,
+        "SpawnPos": "a4",
+        "MoveRoute": "G0,L3,G7,A3"
+    },
+    "32001": {
+        "Id": 32001,
+        "SpawnPos": "a5",
+        "MoveRoute": "C2,D7,F5,H6,K4,L6,H2,F7,A4"
+    },
+    "32002": {
+        "Id": 32002,
+        "SpawnPos": "z4",
+        "MoveRoute": "L4,H1,H7,D0,D7,A4,D4,F1,G6,H1,K6"
+    },
+    "32112": {
+        "Id": 32112,
+        "SpawnPos": "a0",
+        "MoveRoute": "C5,F2,G5,I2,K5,L7,K5,I2,G5,F2,C5,A0"
+    },
+    "32121": {
+        "Id": 32121,
+        "SpawnPos": "a2",
+        "MoveRoute": "B0,C1,B4,D5,C7,F4,H3,I0,L5,H7,F1,C3,B0"
+    },
+    "32122": {
+        "Id": 32122,
+        "SpawnPos": "a4",
+        "MoveRoute": "A4,F5,G7,I5,L2,D0"
+    },
+    "32131": {
+        "Id": 32131,
+        "SpawnPos": "z6",
+        "MoveRoute": "J5,K7,G7,F2,B5,B0,B5,F2,G7,K4,H2,L0"
+    },
+    "32132": {
+        "Id": 32132,
+        "SpawnPos": "z0",
+        "MoveRoute": "H0,I3,D0,G7,K5,J4,L2"
+    },
+    "32141": {
+        "Id": 32141,
+        "SpawnPos": "a0",
+        "MoveRoute": "C0,D3,F3,G6,L6,J6,I3,F3,E0,A0"
+    },
+    "32142": {
+        "Id": 32142,
+        "SpawnPos": "z0",
+        "MoveRoute": "L0,J0,I3,G3,F6,A6,C6,D3,G3,H0,L0"
+    },
+    "43001": {
+        "Id": 43001,
+        "SpawnPos": "z3",
+        "MoveRoute": "F7,J4,D2,A7,D2,J4,L3"
+    },
+    "43002": {
+        "Id": 43002,
+        "SpawnPos": "a0",
+        "MoveRoute": "A0,G0,C5,H5,F0,L3,F7"
+    },
+    "43111": {
+        "Id": 43111,
+        "SpawnPos": "a0",
+        "MoveRoute": "A0,B0,D3,F0,L0,L7,H7,H1,K1,K6,I6,I2,J2,J4,J2,I2,I6,K6,K1,H1,H7,L7,L0,F0,D3,B0"
+    },
+    "43112": {
+        "Id": 43112,
+        "SpawnPos": "z7",
+        "MoveRoute": "L7,K7,I4,G7,A7,A0,E0,E6,B6,B1,D1,D5,C5,C3,C5,D5,D1,B1,B6,E6,E0,A0,A7,G7,I4,K7"
+    },
+    "44211": {
+        "Id": 44211,
+        "SpawnPos": "a0",
+        "MoveRoute": "F0,G0,H1,H2,G3,F3,E2,E1"
+    },
+    "44212": {
+        "Id": 44212,
+        "SpawnPos": "a3",
+        "MoveRoute": "C4,D4,E5,E6,D7,C7,B6,B5"
+    },
+    "44213": {
+        "Id": 44213,
+        "SpawnPos": "z3",
+        "MoveRoute": "I4,J4,K5,K6,J7,I7,H6,H5"
+    },
+    "44311": {
+        "Id": 44311,
+        "SpawnPos": "a1",
+        "MoveRoute": "A1,B0,C0,D1,E2,F3,G3,H2,I1,J0,K0,L1,K0,J0,I1,H2,G3,F3,E2,D1,C0,B0"
+    },
+    "44312": {
+        "Id": 44312,
+        "SpawnPos": "a6",
+        "MoveRoute": "A6,B5,C5,D6,E7,F8,G8,H7,I6,J5,K5,L6,K5,J5,I6,H7,G8,F8,E7,D6,C5,B5"
+    },
+    "44313": {
+        "Id": 44313,
+        "SpawnPos": "z0",
+        "MoveRoute": "L0,I0,I2,L2,L4,I4,I6,L6,L7,I7,H6,G5,F5,E6,D7,A7,A6,D6,D4,A4,A2,D2,D0,A0,D0,D2,A2,A4,D4,D6,A6,A7,D7,E6,F5,G5,H6,I7,L7,L6,I6,I4,L4,L2,I2,I0"
+    },
+    "51213": {
+        "Id": 51213,
+        "SpawnPos": "a7",
+        "MoveRoute": "A7,L7,L0,A0"
+    },
+    "54001": {
+        "Id": 54001,
+        "SpawnPos": "z7",
+        "MoveRoute": "L6,K5,J3,I2,H1,F1,E2,E4,F5,G5,H4,H2,G1,E1,D2,C3,B5,A6,A5,B4,D2,F1,G1,H2,H4,G5,F5,E4,E2,F1,G1,I2,K4,L5"
+    },
+    "54111": {
+        "Id": 54111,
+        "SpawnPos": "a4",
+        "MoveRoute": "B3,C2,D1,E2,F4,G5,H6,I6,J5,K4,K3,J2,I1,H2,G4,F5,E6,D6,C5,B4"
+    },
+    "54112": {
+        "Id": 54112,
+        "SpawnPos": "z5",
+        "MoveRoute": "H7,E7,A3,A2,B2,C4,E7,H7,L3,L2,K2,K4"
+    },
+    "54121": {
+        "Id": 54121,
+        "SpawnPos": "a3",
+        "MoveRoute": "A3,A2,B1,C0,D0,E1,F2,F3,F2,E1,D0,C0,B1,A2,A3,B4,C4,D5,F7"
+    },
+    "54122": {
+        "Id": 54122,
+        "SpawnPos": "z3",
+        "MoveRoute": "L3,L2,K1,J0,I0,H1,G2,G3,G2,H1,I0,J0,K1,L2,L3,K4,J4,I5,G7"
+    },
+    "54131": {
+        "Id": 54131,
+        "SpawnPos": "z7",
+        "MoveRoute": "L7,K6,J5,I5,H6,G7,G6,H4,I3,J3,K4,L6,L7,L4,K3,J2,I2,H3,G4,G7,G2,H1,I0,J0,K1,L2,L7"
+    },
+    "54132": {
+        "Id": 54132,
+        "SpawnPos": "a7",
+        "MoveRoute": "A7,B6,C5,D5,E6,F7,F6,E5,D4,C4,B5,A6,A7,A4,B3,C2,D2,E3,F4,F7,F5,E4,D3,C3,B4,A5"
+    },
+    "54211": {
+        "Id": 54211,
+        "SpawnPos": "a4",
+        "MoveRoute": "A2,A1,B0,C0,D1,D3,C4,B4,A3,A1,B0,D0,I6,J7,K7,L6,L5,K4,J4,H7,F7"
+    },
+    "54212": {
+        "Id": 54212,
+        "SpawnPos": "a0",
+        "MoveRoute": "B4,C5,D6,E6,F5,F3,E2,D2,B4,B5,C6,D7,F7,H6,J4,J2,I1,H0,F0"
+    },
+    "61001": {
+        "Id": 61001,
+        "SpawnPos": "z4",
+        "MoveRoute": "J7,G0,B7,A0,L6"
+    },
+    "61211": {
+        "Id": 61211,
+        "SpawnPos": "a3",
+        "MoveRoute": "A3,L3"
+    },
+    "61213": {
+        "Id": 61213,
+        "SpawnPos": "z0",
+        "MoveRoute": "L0,K0,J0,I1,H2,H3,I4,J4,K4,L3,L2,K1,J1,I2,H3,H4,H5,H6,I7,J7,K7,L6,L5,K4,J4,I4,G6,E7,C7,A6,A5,B4,C4,D4,E5,E6,D6,C6,B5,A4,A3,A2,B1,C0,D0,E1,E2,D3,C3,B3,A2,A0,A2,C4,E7,H7,J4,L2"
+    },
+    "62111": {
+        "Id": 62111,
+        "SpawnPos": "z6",
+        "MoveRoute": "L6,I6,H7,E7,D6,A6,C6,E7,F6,G6,H7,I6"
+    },
+    "62112": {
+        "Id": 62112,
+        "SpawnPos": "z3",
+        "MoveRoute": "L2,J0,H2,H3,F3,F0,D0,D7,B7,B0,A0,A7,B7,B0,D0,D7,F7,F4,H4,H5,J7,L5,J4,J3"
+    },
+    "64001": {
+        "Id": 64001,
+        "SpawnPos": "z6",
+        "MoveRoute": "L2,H7,G7,F6,F5,G4,H4,I5,J5,K4,K3,J2,I2,H3,G4,F5,E6,D6,C5,B4,C3,D2,E2,F3,G4,G5"
+    },
+    "64121": {
+        "Id": 64121,
+        "SpawnPos": "z6",
+        "MoveRoute": "H0,J4,J3,I1,D0,C1,B2,B5,C6,D7,H7,K1,K4"
+    },
+    "64122": {
+        "Id": 64122,
+        "SpawnPos": "a7",
+        "MoveRoute": "A7,B7,D4,F7,L7,L0,J0,K1,L2,L3,L5,K6,J7,G7,G0,L0,L7"
+    },
+    "64211": {
+        "Id": 64211,
+        "SpawnPos": "a5",
+        "MoveRoute": "C7,G0,J7,J0,F7,C0"
+    },
+    "64002": {
+        "Id": 64002,
+        "SpawnPos": "a5",
+        "MoveRoute": "A4,F0,E1,E2,F3,G4,H4,I4,J4,K3,L2,G7,H6,H5,G4,F3,E3,D3,C3,B4,A5"
+    }
+}
