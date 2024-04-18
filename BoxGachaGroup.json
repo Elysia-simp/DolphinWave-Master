@@ -19942,5 +19942,2777 @@
         "SetCount": 40,
         "Weight": 1,
         "ResetItemFlg": 0
+    },
+    "11401001": {
+        "Id": 11401001,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "イースターエッグを探せ！",
+        "ItemGroupId": 12622,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11401002": {
+        "Id": 11401002,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "スタミナ剤(小)",
+        "ItemGroupId": 10060,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11401003": {
+        "Id": 11401003,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "スタミナ剤(中)",
+        "ItemGroupId": 10602,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11401004": {
+        "Id": 11401004,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "虹色のキセキ",
+        "ItemGroupId": 10541,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401005": {
+        "Id": 11401005,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "金色のキセキ",
+        "ItemGroupId": 10796,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401006": {
+        "Id": 11401006,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "銀色のキセキ",
+        "ItemGroupId": 10797,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401007": {
+        "Id": 11401007,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "銅色のキセキ",
+        "ItemGroupId": 10798,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401008": {
+        "Id": 11401008,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "トレーニング教本・最上級",
+        "ItemGroupId": 10492,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401009": {
+        "Id": 11401009,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "トレーニング教本・上級",
+        "ItemGroupId": 10491,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401010": {
+        "Id": 11401010,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "トレーニング教本・中級",
+        "ItemGroupId": 11813,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401011": {
+        "Id": 11401011,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "トレーニング教本・初級",
+        "ItemGroupId": 10733,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401012": {
+        "Id": 11401012,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "メモリーチップ・Ⅳ",
+        "ItemGroupId": 10548,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401013": {
+        "Id": 11401013,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "メモリーチップ・Ⅲ",
+        "ItemGroupId": 10547,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401014": {
+        "Id": 11401014,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "メモリーチップ・Ⅱ",
+        "ItemGroupId": 10546,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401015": {
+        "Id": 11401015,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "メモリーチップ・Ⅰ",
+        "ItemGroupId": 10545,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401016": {
+        "Id": 11401016,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "マシンツール・Ⅳ",
+        "ItemGroupId": 10879,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401017": {
+        "Id": 11401017,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "マシンツール・Ⅲ",
+        "ItemGroupId": 11814,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401018": {
+        "Id": 11401018,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "マシンツール・Ⅱ",
+        "ItemGroupId": 11815,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401019": {
+        "Id": 11401019,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "マシンツール・Ⅰ",
+        "ItemGroupId": 11816,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401020": {
+        "Id": 11401020,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "カナロアカード",
+        "ItemGroupId": 10553,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401021": {
+        "Id": 11401021,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "カナロアチケット",
+        "ItemGroupId": 10919,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401022": {
+        "Id": 11401022,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "カナロアクーポン",
+        "ItemGroupId": 11817,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401023": {
+        "Id": 11401023,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "カラーポイント",
+        "ItemGroupId": 10479,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401024": {
+        "Id": 11401024,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "ロッカーキー",
+        "ItemGroupId": 11818,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11401025": {
+        "Id": 11401025,
+        "BoxGachaGroupId": 11401,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10006,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402001": {
+        "Id": 11402001,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "イースターエッグを探せ！",
+        "ItemGroupId": 12622,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11402002": {
+        "Id": 11402002,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "スタミナ剤(小)",
+        "ItemGroupId": 10060,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11402003": {
+        "Id": 11402003,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "スタミナ剤(中)",
+        "ItemGroupId": 10602,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11402004": {
+        "Id": 11402004,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "ガチャチケット",
+        "ItemGroupId": 10059,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11402005": {
+        "Id": 11402005,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "虹色のキセキ",
+        "ItemGroupId": 10541,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402006": {
+        "Id": 11402006,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "金色のキセキ",
+        "ItemGroupId": 10796,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402007": {
+        "Id": 11402007,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "銀色のキセキ",
+        "ItemGroupId": 10797,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402008": {
+        "Id": 11402008,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "銅色のキセキ",
+        "ItemGroupId": 10798,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402009": {
+        "Id": 11402009,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "トレーニング教本・最上級",
+        "ItemGroupId": 10492,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402010": {
+        "Id": 11402010,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "トレーニング教本・上級",
+        "ItemGroupId": 10491,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402011": {
+        "Id": 11402011,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "トレーニング教本・中級",
+        "ItemGroupId": 11813,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402012": {
+        "Id": 11402012,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "トレーニング教本・初級",
+        "ItemGroupId": 10733,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402013": {
+        "Id": 11402013,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "メモリーチップ・Ⅳ",
+        "ItemGroupId": 10548,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402014": {
+        "Id": 11402014,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "メモリーチップ・Ⅲ",
+        "ItemGroupId": 10547,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402015": {
+        "Id": 11402015,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "メモリーチップ・Ⅱ",
+        "ItemGroupId": 10546,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402016": {
+        "Id": 11402016,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "メモリーチップ・Ⅰ",
+        "ItemGroupId": 10545,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402017": {
+        "Id": 11402017,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "マシンツール・Ⅳ",
+        "ItemGroupId": 10879,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402018": {
+        "Id": 11402018,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "マシンツール・Ⅲ",
+        "ItemGroupId": 11814,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402019": {
+        "Id": 11402019,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "マシンツール・Ⅱ",
+        "ItemGroupId": 11815,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402020": {
+        "Id": 11402020,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "マシンツール・Ⅰ",
+        "ItemGroupId": 11816,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402021": {
+        "Id": 11402021,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "カナロアカード",
+        "ItemGroupId": 10553,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402022": {
+        "Id": 11402022,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "カナロアチケット",
+        "ItemGroupId": 10919,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402023": {
+        "Id": 11402023,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "カナロアクーポン",
+        "ItemGroupId": 11817,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402024": {
+        "Id": 11402024,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "カラーポイント",
+        "ItemGroupId": 10479,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402025": {
+        "Id": 11402025,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "ロッカーキー",
+        "ItemGroupId": 11818,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11402026": {
+        "Id": 11402026,
+        "BoxGachaGroupId": 11402,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10006,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403001": {
+        "Id": 11403001,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "イースターエッグを探せ！",
+        "ItemGroupId": 12622,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11403002": {
+        "Id": 11403002,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "だっこ",
+        "ItemGroupId": 12623,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11403003": {
+        "Id": 11403003,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "拡張メモリーチップ・URの破片",
+        "ItemGroupId": 11823,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11403004": {
+        "Id": 11403004,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガチャチケット",
+        "ItemGroupId": 10059,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11403005": {
+        "Id": 11403005,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "虹色のキセキ",
+        "ItemGroupId": 10541,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403006": {
+        "Id": 11403006,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "金色のキセキ",
+        "ItemGroupId": 10796,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403007": {
+        "Id": 11403007,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "銀色のキセキ",
+        "ItemGroupId": 10797,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403008": {
+        "Id": 11403008,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "銅色のキセキ",
+        "ItemGroupId": 10798,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403009": {
+        "Id": 11403009,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ライダーTD★6",
+        "ItemGroupId": 10504,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403010": {
+        "Id": 11403010,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ライダーTD★5",
+        "ItemGroupId": 10503,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403011": {
+        "Id": 11403011,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ライダーTD★4",
+        "ItemGroupId": 10502,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403012": {
+        "Id": 11403012,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ライダーTD★3",
+        "ItemGroupId": 10501,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403013": {
+        "Id": 11403013,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ライダーTD★2",
+        "ItemGroupId": 10500,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403014": {
+        "Id": 11403014,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ライダーTD★1",
+        "ItemGroupId": 10499,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403015": {
+        "Id": 11403015,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガンナーTD★6",
+        "ItemGroupId": 10498,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403016": {
+        "Id": 11403016,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガンナーTD★5",
+        "ItemGroupId": 10497,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403017": {
+        "Id": 11403017,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガンナーTD★4",
+        "ItemGroupId": 10496,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403018": {
+        "Id": 11403018,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガンナーTD★3",
+        "ItemGroupId": 10495,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403019": {
+        "Id": 11403019,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガンナーTD★2",
+        "ItemGroupId": 10494,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403020": {
+        "Id": 11403020,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ガンナーTD★1",
+        "ItemGroupId": 10493,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403021": {
+        "Id": 11403021,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "フィットネスベルト★6",
+        "ItemGroupId": 11490,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403022": {
+        "Id": 11403022,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "バーベル★6",
+        "ItemGroupId": 11491,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403023": {
+        "Id": 11403023,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "シットアップベンチ★6",
+        "ItemGroupId": 11492,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403024": {
+        "Id": 11403024,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "アブホイール★6",
+        "ItemGroupId": 11493,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403025": {
+        "Id": 11403025,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ケトルベル★6",
+        "ItemGroupId": 11494,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403026": {
+        "Id": 11403026,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "フィットネスベルト★5",
+        "ItemGroupId": 11495,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403027": {
+        "Id": 11403027,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "バーベル★5",
+        "ItemGroupId": 11496,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403028": {
+        "Id": 11403028,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "シットアップベンチ★5",
+        "ItemGroupId": 11497,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403029": {
+        "Id": 11403029,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "アブホイール★5",
+        "ItemGroupId": 11498,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403030": {
+        "Id": 11403030,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ケトルベル★5",
+        "ItemGroupId": 11499,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403031": {
+        "Id": 11403031,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "メディシンボール★4",
+        "ItemGroupId": 11500,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403032": {
+        "Id": 11403032,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "プッシュアップバー★4",
+        "ItemGroupId": 11501,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403033": {
+        "Id": 11403033,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "トレーニングロープ★4",
+        "ItemGroupId": 11502,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403034": {
+        "Id": 11403034,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ダンベル★4",
+        "ItemGroupId": 11503,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403035": {
+        "Id": 11403035,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "リストウェイト★4",
+        "ItemGroupId": 11504,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403036": {
+        "Id": 11403036,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "メディシンボール★3",
+        "ItemGroupId": 11505,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403037": {
+        "Id": 11403037,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "プッシュアップバー★3",
+        "ItemGroupId": 11506,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403038": {
+        "Id": 11403038,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "トレーニングロープ★3",
+        "ItemGroupId": 11507,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403039": {
+        "Id": 11403039,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ダンベル★3",
+        "ItemGroupId": 11508,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403040": {
+        "Id": 11403040,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "リスト/アンクルウェイト★3",
+        "ItemGroupId": 11509,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403041": {
+        "Id": 11403041,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ハンドグリップ★2",
+        "ItemGroupId": 11510,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403042": {
+        "Id": 11403042,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "バランスボール★2",
+        "ItemGroupId": 11511,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403043": {
+        "Id": 11403043,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "フラフープ★2",
+        "ItemGroupId": 11512,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403044": {
+        "Id": 11403044,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "フィットネスチューブ★2",
+        "ItemGroupId": 11513,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403045": {
+        "Id": 11403045,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ヨガマット★2",
+        "ItemGroupId": 11514,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403046": {
+        "Id": 11403046,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ハンドグリップ★1",
+        "ItemGroupId": 10704,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403047": {
+        "Id": 11403047,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "バランスボール★1",
+        "ItemGroupId": 10703,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403048": {
+        "Id": 11403048,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "フラフープ★1",
+        "ItemGroupId": 10702,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403049": {
+        "Id": 11403049,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "フィットネスチューブ★1",
+        "ItemGroupId": 10701,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403050": {
+        "Id": 11403050,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ヨガマット★1",
+        "ItemGroupId": 10700,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403051": {
+        "Id": 11403051,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "トレーニング教本・最上級",
+        "ItemGroupId": 10492,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403052": {
+        "Id": 11403052,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "トレーニング教本・上級",
+        "ItemGroupId": 10491,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403053": {
+        "Id": 11403053,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "トレーニング教本・中級",
+        "ItemGroupId": 11813,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403054": {
+        "Id": 11403054,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "トレーニング教本・初級",
+        "ItemGroupId": 10733,
+        "SetCount": 4,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403055": {
+        "Id": 11403055,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "メモリーチップ・Ⅳ",
+        "ItemGroupId": 10548,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403056": {
+        "Id": 11403056,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "メモリーチップ・Ⅲ",
+        "ItemGroupId": 10547,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403057": {
+        "Id": 11403057,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "メモリーチップ・Ⅱ",
+        "ItemGroupId": 10546,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403058": {
+        "Id": 11403058,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "メモリーチップ・Ⅰ",
+        "ItemGroupId": 10545,
+        "SetCount": 4,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403059": {
+        "Id": 11403059,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "マシンツール・Ⅳ",
+        "ItemGroupId": 10879,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403060": {
+        "Id": 11403060,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "マシンツール・Ⅲ",
+        "ItemGroupId": 11814,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403061": {
+        "Id": 11403061,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "マシンツール・Ⅱ",
+        "ItemGroupId": 11815,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403062": {
+        "Id": 11403062,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "マシンツール・Ⅰ",
+        "ItemGroupId": 11816,
+        "SetCount": 4,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403063": {
+        "Id": 11403063,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "カナロアカード",
+        "ItemGroupId": 10553,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403064": {
+        "Id": 11403064,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "カナロアチケット",
+        "ItemGroupId": 10919,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403065": {
+        "Id": 11403065,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "カナロアクーポン",
+        "ItemGroupId": 11817,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403066": {
+        "Id": 11403066,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "カラーポイント",
+        "ItemGroupId": 10479,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403067": {
+        "Id": 11403067,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ロッカーキー",
+        "ItemGroupId": 11818,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11403068": {
+        "Id": 11403068,
+        "BoxGachaGroupId": 11403,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10006,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404001": {
+        "Id": 11404001,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ドルフィンSPメダルの破片",
+        "ItemGroupId": 11356,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11404002": {
+        "Id": 11404002,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガチャチケット",
+        "ItemGroupId": 10059,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11404003": {
+        "Id": 11404003,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "拡張メモリーチップ・URの破片",
+        "ItemGroupId": 11823,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11404004": {
+        "Id": 11404004,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "拡張メモリーチップ・SSRの破片",
+        "ItemGroupId": 11824,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11404005": {
+        "Id": 11404005,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "拡張メモリーチップ・SR",
+        "ItemGroupId": 11825,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 1
+    },
+    "11404006": {
+        "Id": 11404006,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "虹色のキセキ",
+        "ItemGroupId": 10541,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404007": {
+        "Id": 11404007,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "金色のキセキ",
+        "ItemGroupId": 10796,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404008": {
+        "Id": 11404008,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "銀色のキセキ",
+        "ItemGroupId": 10797,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404009": {
+        "Id": 11404009,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "銅色のキセキ",
+        "ItemGroupId": 10798,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404010": {
+        "Id": 11404010,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ライダーTD★6",
+        "ItemGroupId": 10504,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404011": {
+        "Id": 11404011,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ライダーTD★5",
+        "ItemGroupId": 10503,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404012": {
+        "Id": 11404012,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ライダーTD★4",
+        "ItemGroupId": 10502,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404013": {
+        "Id": 11404013,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ライダーTD★3",
+        "ItemGroupId": 10501,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404014": {
+        "Id": 11404014,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ライダーTD★2",
+        "ItemGroupId": 10500,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404015": {
+        "Id": 11404015,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ライダーTD★1",
+        "ItemGroupId": 10499,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404016": {
+        "Id": 11404016,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガンナーTD★6",
+        "ItemGroupId": 10498,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404017": {
+        "Id": 11404017,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガンナーTD★5",
+        "ItemGroupId": 10497,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404018": {
+        "Id": 11404018,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガンナーTD★4",
+        "ItemGroupId": 10496,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404019": {
+        "Id": 11404019,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガンナーTD★3",
+        "ItemGroupId": 10495,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404020": {
+        "Id": 11404020,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガンナーTD★2",
+        "ItemGroupId": 10494,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404021": {
+        "Id": 11404021,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ガンナーTD★1",
+        "ItemGroupId": 10493,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404022": {
+        "Id": 11404022,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "フィットネスベルト★6",
+        "ItemGroupId": 11490,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404023": {
+        "Id": 11404023,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "バーベル★6",
+        "ItemGroupId": 11491,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404024": {
+        "Id": 11404024,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "シットアップベンチ★6",
+        "ItemGroupId": 11492,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404025": {
+        "Id": 11404025,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "アブホイール★6",
+        "ItemGroupId": 11493,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404026": {
+        "Id": 11404026,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ケトルベル★6",
+        "ItemGroupId": 11494,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404027": {
+        "Id": 11404027,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "フィットネスベルト★5",
+        "ItemGroupId": 11495,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404028": {
+        "Id": 11404028,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "バーベル★5",
+        "ItemGroupId": 11496,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404029": {
+        "Id": 11404029,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "シットアップベンチ★5",
+        "ItemGroupId": 11497,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404030": {
+        "Id": 11404030,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "アブホイール★5",
+        "ItemGroupId": 11498,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404031": {
+        "Id": 11404031,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ケトルベル★5",
+        "ItemGroupId": 11499,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404032": {
+        "Id": 11404032,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "メディシンボール★4",
+        "ItemGroupId": 11500,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404033": {
+        "Id": 11404033,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "プッシュアップバー★4",
+        "ItemGroupId": 11501,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404034": {
+        "Id": 11404034,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "トレーニングロープ★4",
+        "ItemGroupId": 11502,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404035": {
+        "Id": 11404035,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ダンベル★4",
+        "ItemGroupId": 11503,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404036": {
+        "Id": 11404036,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "リストウェイト★4",
+        "ItemGroupId": 11504,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404037": {
+        "Id": 11404037,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "メディシンボール★3",
+        "ItemGroupId": 11505,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404038": {
+        "Id": 11404038,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "プッシュアップバー★3",
+        "ItemGroupId": 11506,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404039": {
+        "Id": 11404039,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "トレーニングロープ★3",
+        "ItemGroupId": 11507,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404040": {
+        "Id": 11404040,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ダンベル★3",
+        "ItemGroupId": 11508,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404041": {
+        "Id": 11404041,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "リスト/アンクルウェイト★3",
+        "ItemGroupId": 11509,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404042": {
+        "Id": 11404042,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ハンドグリップ★2",
+        "ItemGroupId": 11510,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404043": {
+        "Id": 11404043,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "バランスボール★2",
+        "ItemGroupId": 11511,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404044": {
+        "Id": 11404044,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "フラフープ★2",
+        "ItemGroupId": 11512,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404045": {
+        "Id": 11404045,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "フィットネスチューブ★2",
+        "ItemGroupId": 11513,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404046": {
+        "Id": 11404046,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ヨガマット★2",
+        "ItemGroupId": 11514,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404047": {
+        "Id": 11404047,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ハンドグリップ★1",
+        "ItemGroupId": 10704,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404048": {
+        "Id": 11404048,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "バランスボール★1",
+        "ItemGroupId": 10703,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404049": {
+        "Id": 11404049,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "フラフープ★1",
+        "ItemGroupId": 10702,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404050": {
+        "Id": 11404050,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "フィットネスチューブ★1",
+        "ItemGroupId": 10701,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404051": {
+        "Id": 11404051,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ヨガマット★1",
+        "ItemGroupId": 10700,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404052": {
+        "Id": 11404052,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WAVEエナジージュエル★6",
+        "ItemGroupId": 11460,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404053": {
+        "Id": 11404053,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WAVEエナジージュエル★5",
+        "ItemGroupId": 11461,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404054": {
+        "Id": 11404054,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WAVEエナジージュエル★4",
+        "ItemGroupId": 11462,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404055": {
+        "Id": 11404055,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WAVEエナジージュエル★3",
+        "ItemGroupId": 11463,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404056": {
+        "Id": 11404056,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WAVEエナジージュエル★2",
+        "ItemGroupId": 11464,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404057": {
+        "Id": 11404057,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WAVEエナジージュエル★1",
+        "ItemGroupId": 11465,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404058": {
+        "Id": 11404058,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "SUNエナジージュエル★6",
+        "ItemGroupId": 11466,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404059": {
+        "Id": 11404059,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "SUNエナジージュエル★5",
+        "ItemGroupId": 11467,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404060": {
+        "Id": 11404060,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "SUNエナジージュエル★4",
+        "ItemGroupId": 11468,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404061": {
+        "Id": 11404061,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "SUNエナジージュエル★3",
+        "ItemGroupId": 11469,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404062": {
+        "Id": 11404062,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "SUNエナジージュエル★2",
+        "ItemGroupId": 11470,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404063": {
+        "Id": 11404063,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "SUNエナジージュエル★1",
+        "ItemGroupId": 11471,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404064": {
+        "Id": 11404064,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "GEARエナジージュエル★6",
+        "ItemGroupId": 11472,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404065": {
+        "Id": 11404065,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "GEARエナジージュエル★5",
+        "ItemGroupId": 11473,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404066": {
+        "Id": 11404066,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "GEARエナジージュエル★4",
+        "ItemGroupId": 11474,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404067": {
+        "Id": 11404067,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "GEARエナジージュエル★3",
+        "ItemGroupId": 11475,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404068": {
+        "Id": 11404068,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "GEARエナジージュエル★2",
+        "ItemGroupId": 11476,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404069": {
+        "Id": 11404069,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "GEARエナジージュエル★1",
+        "ItemGroupId": 11477,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404070": {
+        "Id": 11404070,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "MOONエナジージュエル★6",
+        "ItemGroupId": 11478,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404071": {
+        "Id": 11404071,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "MOONエナジージュエル★5",
+        "ItemGroupId": 11479,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404072": {
+        "Id": 11404072,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "MOONエナジージュエル★4",
+        "ItemGroupId": 11480,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404073": {
+        "Id": 11404073,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "MOONエナジージュエル★3",
+        "ItemGroupId": 11481,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404074": {
+        "Id": 11404074,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "MOONエナジージュエル★2",
+        "ItemGroupId": 11482,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404075": {
+        "Id": 11404075,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "MOONエナジージュエル★1",
+        "ItemGroupId": 11483,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404076": {
+        "Id": 11404076,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WINDエナジージュエル★6",
+        "ItemGroupId": 11484,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404077": {
+        "Id": 11404077,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WINDエナジージュエル★5",
+        "ItemGroupId": 11485,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404078": {
+        "Id": 11404078,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WINDエナジージュエル★4",
+        "ItemGroupId": 11486,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404079": {
+        "Id": 11404079,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WINDエナジージュエル★3",
+        "ItemGroupId": 11487,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404080": {
+        "Id": 11404080,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WINDエナジージュエル★2",
+        "ItemGroupId": 11488,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404081": {
+        "Id": 11404081,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "WINDエナジージュエル★1",
+        "ItemGroupId": 11489,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404082": {
+        "Id": 11404082,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "トレーニング教本・最上級",
+        "ItemGroupId": 10492,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404083": {
+        "Id": 11404083,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "トレーニング教本・上級",
+        "ItemGroupId": 10491,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404084": {
+        "Id": 11404084,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "トレーニング教本・中級",
+        "ItemGroupId": 11813,
+        "SetCount": 4,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404085": {
+        "Id": 11404085,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "トレーニング教本・初級",
+        "ItemGroupId": 10733,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404086": {
+        "Id": 11404086,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "メモリーチップ・Ⅳ",
+        "ItemGroupId": 10548,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404087": {
+        "Id": 11404087,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "メモリーチップ・Ⅲ",
+        "ItemGroupId": 10547,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404088": {
+        "Id": 11404088,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "メモリーチップ・Ⅱ",
+        "ItemGroupId": 10546,
+        "SetCount": 4,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404089": {
+        "Id": 11404089,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "メモリーチップ・Ⅰ",
+        "ItemGroupId": 10545,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404090": {
+        "Id": 11404090,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "マシンツール・Ⅳ",
+        "ItemGroupId": 10879,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404091": {
+        "Id": 11404091,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "マシンツール・Ⅲ",
+        "ItemGroupId": 11814,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404092": {
+        "Id": 11404092,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "マシンツール・Ⅱ",
+        "ItemGroupId": 11815,
+        "SetCount": 4,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404093": {
+        "Id": 11404093,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "マシンツール・Ⅰ",
+        "ItemGroupId": 11816,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404094": {
+        "Id": 11404094,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "カナロアカード",
+        "ItemGroupId": 10553,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404095": {
+        "Id": 11404095,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "カナロアチケット",
+        "ItemGroupId": 10919,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404096": {
+        "Id": 11404096,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "カナロアクーポン",
+        "ItemGroupId": 11817,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404097": {
+        "Id": 11404097,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "カラーポイント",
+        "ItemGroupId": 10479,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404098": {
+        "Id": 11404098,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ロッカーキー",
+        "ItemGroupId": 11818,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404099": {
+        "Id": 11404099,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10006,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404100": {
+        "Id": 11404100,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10562,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11404101": {
+        "Id": 11404101,
+        "BoxGachaGroupId": 11404,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10001,
+        "SetCount": 15,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405001": {
+        "Id": 11405001,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ライダーTD★6",
+        "ItemGroupId": 10679,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405002": {
+        "Id": 11405002,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ライダーTD★5",
+        "ItemGroupId": 10678,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405003": {
+        "Id": 11405003,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ライダーTD★4",
+        "ItemGroupId": 10677,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405004": {
+        "Id": 11405004,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ライダーTD★3",
+        "ItemGroupId": 10676,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405005": {
+        "Id": 11405005,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ライダーTD★2",
+        "ItemGroupId": 10675,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405006": {
+        "Id": 11405006,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ライダーTD★1",
+        "ItemGroupId": 10674,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405007": {
+        "Id": 11405007,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ガンナーTD★6",
+        "ItemGroupId": 10673,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405008": {
+        "Id": 11405008,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ガンナーTD★5",
+        "ItemGroupId": 10672,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405009": {
+        "Id": 11405009,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ガンナーTD★4",
+        "ItemGroupId": 10671,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405010": {
+        "Id": 11405010,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ガンナーTD★3",
+        "ItemGroupId": 10670,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405011": {
+        "Id": 11405011,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ガンナーTD★2",
+        "ItemGroupId": 10669,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405012": {
+        "Id": 11405012,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ガンナーTD★1",
+        "ItemGroupId": 10668,
+        "SetCount": 1,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405013": {
+        "Id": 11405013,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "フィットネスベルト★6",
+        "ItemGroupId": 11826,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405014": {
+        "Id": 11405014,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "バーベル★6",
+        "ItemGroupId": 11827,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405015": {
+        "Id": 11405015,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "シットアップベンチ★6",
+        "ItemGroupId": 11828,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405016": {
+        "Id": 11405016,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "アブホイール★6",
+        "ItemGroupId": 11829,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405017": {
+        "Id": 11405017,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ケトルベル★6",
+        "ItemGroupId": 11830,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405018": {
+        "Id": 11405018,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "フィットネスベルト★5",
+        "ItemGroupId": 11831,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405019": {
+        "Id": 11405019,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "バーベル★5",
+        "ItemGroupId": 11832,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405020": {
+        "Id": 11405020,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "シットアップベンチ★5",
+        "ItemGroupId": 11833,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405021": {
+        "Id": 11405021,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "アブホイール★5",
+        "ItemGroupId": 11834,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405022": {
+        "Id": 11405022,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ケトルベル★5",
+        "ItemGroupId": 11835,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405023": {
+        "Id": 11405023,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "メディシンボール★4",
+        "ItemGroupId": 11836,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405024": {
+        "Id": 11405024,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "プッシュアップバー★4",
+        "ItemGroupId": 11837,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405025": {
+        "Id": 11405025,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "トレーニングロープ★4",
+        "ItemGroupId": 11838,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405026": {
+        "Id": 11405026,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ダンベル★4",
+        "ItemGroupId": 11839,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405027": {
+        "Id": 11405027,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "リストウェイト★4",
+        "ItemGroupId": 11840,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405028": {
+        "Id": 11405028,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "メディシンボール★3",
+        "ItemGroupId": 11841,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405029": {
+        "Id": 11405029,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "プッシュアップバー★3",
+        "ItemGroupId": 11842,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405030": {
+        "Id": 11405030,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "トレーニングロープ★3",
+        "ItemGroupId": 11843,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405031": {
+        "Id": 11405031,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ダンベル★3",
+        "ItemGroupId": 11844,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405032": {
+        "Id": 11405032,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "リスト/アンクルウェイト★3",
+        "ItemGroupId": 11845,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405033": {
+        "Id": 11405033,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ハンドグリップ★2",
+        "ItemGroupId": 11846,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405034": {
+        "Id": 11405034,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "バランスボール★2",
+        "ItemGroupId": 11847,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405035": {
+        "Id": 11405035,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "フラフープ★2",
+        "ItemGroupId": 11848,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405036": {
+        "Id": 11405036,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "フィットネスチューブ★2",
+        "ItemGroupId": 11849,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405037": {
+        "Id": 11405037,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ヨガマット★2",
+        "ItemGroupId": 11850,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405038": {
+        "Id": 11405038,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ハンドグリップ★1",
+        "ItemGroupId": 11851,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405039": {
+        "Id": 11405039,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "バランスボール★1",
+        "ItemGroupId": 11852,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405040": {
+        "Id": 11405040,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "フラフープ★1",
+        "ItemGroupId": 11853,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405041": {
+        "Id": 11405041,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "フィットネスチューブ★1",
+        "ItemGroupId": 11854,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405042": {
+        "Id": 11405042,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ヨガマット★1",
+        "ItemGroupId": 11855,
+        "SetCount": 2,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405043": {
+        "Id": 11405043,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WAVEエナジージュエル★6",
+        "ItemGroupId": 11856,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405044": {
+        "Id": 11405044,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WAVEエナジージュエル★5",
+        "ItemGroupId": 11857,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405045": {
+        "Id": 11405045,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WAVEエナジージュエル★4",
+        "ItemGroupId": 11858,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405046": {
+        "Id": 11405046,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WAVEエナジージュエル★3",
+        "ItemGroupId": 11859,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405047": {
+        "Id": 11405047,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WAVEエナジージュエル★2",
+        "ItemGroupId": 11860,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405048": {
+        "Id": 11405048,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WAVEエナジージュエル★1",
+        "ItemGroupId": 11861,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405049": {
+        "Id": 11405049,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "SUNエナジージュエル★6",
+        "ItemGroupId": 11862,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405050": {
+        "Id": 11405050,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "SUNエナジージュエル★5",
+        "ItemGroupId": 11863,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405051": {
+        "Id": 11405051,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "SUNエナジージュエル★4",
+        "ItemGroupId": 11864,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405052": {
+        "Id": 11405052,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "SUNエナジージュエル★3",
+        "ItemGroupId": 11865,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405053": {
+        "Id": 11405053,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "SUNエナジージュエル★2",
+        "ItemGroupId": 11866,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405054": {
+        "Id": 11405054,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "SUNエナジージュエル★1",
+        "ItemGroupId": 11867,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405055": {
+        "Id": 11405055,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "GEARエナジージュエル★6",
+        "ItemGroupId": 11868,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405056": {
+        "Id": 11405056,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "GEARエナジージュエル★5",
+        "ItemGroupId": 11869,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405057": {
+        "Id": 11405057,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "GEARエナジージュエル★4",
+        "ItemGroupId": 11870,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405058": {
+        "Id": 11405058,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "GEARエナジージュエル★3",
+        "ItemGroupId": 11871,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405059": {
+        "Id": 11405059,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "GEARエナジージュエル★2",
+        "ItemGroupId": 11872,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405060": {
+        "Id": 11405060,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "GEARエナジージュエル★1",
+        "ItemGroupId": 11873,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405061": {
+        "Id": 11405061,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "MOONエナジージュエル★6",
+        "ItemGroupId": 11874,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405062": {
+        "Id": 11405062,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "MOONエナジージュエル★5",
+        "ItemGroupId": 11875,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405063": {
+        "Id": 11405063,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "MOONエナジージュエル★4",
+        "ItemGroupId": 11876,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405064": {
+        "Id": 11405064,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "MOONエナジージュエル★3",
+        "ItemGroupId": 11877,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405065": {
+        "Id": 11405065,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "MOONエナジージュエル★2",
+        "ItemGroupId": 11878,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405066": {
+        "Id": 11405066,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "MOONエナジージュエル★1",
+        "ItemGroupId": 11879,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405067": {
+        "Id": 11405067,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WINDエナジージュエル★6",
+        "ItemGroupId": 11880,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405068": {
+        "Id": 11405068,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WINDエナジージュエル★5",
+        "ItemGroupId": 11881,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405069": {
+        "Id": 11405069,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WINDエナジージュエル★4",
+        "ItemGroupId": 11882,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405070": {
+        "Id": 11405070,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WINDエナジージュエル★3",
+        "ItemGroupId": 11883,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405071": {
+        "Id": 11405071,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WINDエナジージュエル★2",
+        "ItemGroupId": 11884,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405072": {
+        "Id": 11405072,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "WINDエナジージュエル★1",
+        "ItemGroupId": 11885,
+        "SetCount": 7,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405073": {
+        "Id": 11405073,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "トレーニング教本・最上級",
+        "ItemGroupId": 10800,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405074": {
+        "Id": 11405074,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "トレーニング教本・上級",
+        "ItemGroupId": 11886,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405075": {
+        "Id": 11405075,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "トレーニング教本・中級",
+        "ItemGroupId": 10201,
+        "SetCount": 10,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405076": {
+        "Id": 11405076,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "トレーニング教本・初級",
+        "ItemGroupId": 11887,
+        "SetCount": 20,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405077": {
+        "Id": 11405077,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "メモリーチップ・Ⅳ",
+        "ItemGroupId": 10801,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405078": {
+        "Id": 11405078,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "メモリーチップ・Ⅲ",
+        "ItemGroupId": 11888,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405079": {
+        "Id": 11405079,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "メモリーチップ・Ⅱ",
+        "ItemGroupId": 10202,
+        "SetCount": 10,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405080": {
+        "Id": 11405080,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "メモリーチップ・Ⅰ",
+        "ItemGroupId": 11889,
+        "SetCount": 20,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405081": {
+        "Id": 11405081,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "マシンツール・Ⅳ",
+        "ItemGroupId": 10802,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405082": {
+        "Id": 11405082,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "マシンツール・Ⅲ",
+        "ItemGroupId": 11890,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405083": {
+        "Id": 11405083,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "マシンツール・Ⅱ",
+        "ItemGroupId": 10203,
+        "SetCount": 10,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405084": {
+        "Id": 11405084,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "マシンツール・Ⅰ",
+        "ItemGroupId": 11891,
+        "SetCount": 20,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405085": {
+        "Id": 11405085,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "カナロアクーポン",
+        "ItemGroupId": 23001009,
+        "SetCount": 3,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405086": {
+        "Id": 11405086,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10006,
+        "SetCount": 5,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405087": {
+        "Id": 11405087,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10562,
+        "SetCount": 10,
+        "Weight": 1,
+        "ResetItemFlg": 0
+    },
+    "11405088": {
+        "Id": 11405088,
+        "BoxGachaGroupId": 11405,
+        "GachaItemGroupName": "ペイ",
+        "ItemGroupId": 10001,
+        "SetCount": 40,
+        "Weight": 1,
+        "ResetItemFlg": 0
     }
 }

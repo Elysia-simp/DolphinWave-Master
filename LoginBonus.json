@@ -754,5 +754,23 @@
         "StartDate": 1711738800,
         "EndDate": 1712689199,
         "IsDispLimit": 1
+    },
+    "400324": {
+        "Id": 400324,
+        "Type": 4,
+        "GroupId": 400324,
+        "BGFileName": "hbl400324_bg",
+        "StartDate": 1712934000,
+        "EndDate": 1713020399,
+        "IsDispLimit": 1
+    },
+    "74": {
+        "Id": 74,
+        "Type": 5,
+        "GroupId": 40048,
+        "BGFileName": "elb40048_bg",
+        "StartDate": 1712775600,
+        "EndDate": 1713553199,
+        "IsDispLimit": 1
     }
 }

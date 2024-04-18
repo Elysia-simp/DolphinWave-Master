@@ -11167,5 +11167,68 @@
         "SalePrice": 10,
         "SalePossible": true,
         "DisplayPriority": 1267
+    },
+    "13300105": {
+        "Id": 13300105,
+        "Name": "1.5Anniv.記念メダル",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1268
+    },
+    "13200024": {
+        "Id": 13200024,
+        "Name": "イベントBOXガチャチケット(イースター)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(イースター)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1269
+    },
+    "13700024": {
+        "Id": 13700024,
+        "Name": "ボスチケット(イースター)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1270
+    },
+    "13900490": {
+        "Id": 13900490,
+        "Name": "指令！イースターイベントを企画せよ！制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1269
+    },
+    "13900491": {
+        "Id": 13900491,
+        "Name": "指令！イースターイベントを企画せよ！EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1268
+    },
+    "12902377": {
+        "Id": 12902377,
+        "Name": "だっこ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1267
+    },
+    "13300106": {
+        "Id": 13300106,
+        "Name": "URドルフィンセレクトチケット(水着)2",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURドルフィンと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1274
     }
 }
