@@ -5326,5 +5326,661 @@
         "ChallengeAchievementRewardScore": 100000000,
         "ChallengeAchievementRewardItemId": 12600003,
         "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018001": {
+        "Id": 5018001,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 1,
+        "ChallengeAchievementRewardScore": 500000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 100000
+    },
+    "5018002": {
+        "Id": 5018002,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 2,
+        "ChallengeAchievementRewardScore": 750000,
+        "ChallengeAchievementRewardItemId": 14000001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018003": {
+        "Id": 5018003,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 3,
+        "ChallengeAchievementRewardScore": 1000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018004": {
+        "Id": 5018004,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 4,
+        "ChallengeAchievementRewardScore": 1500000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018005": {
+        "Id": 5018005,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 5,
+        "ChallengeAchievementRewardScore": 2000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 150000
+    },
+    "5018006": {
+        "Id": 5018006,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 6,
+        "ChallengeAchievementRewardScore": 2500000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018007": {
+        "Id": 5018007,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 7,
+        "ChallengeAchievementRewardScore": 3000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018008": {
+        "Id": 5018008,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 8,
+        "ChallengeAchievementRewardScore": 3500000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 200000
+    },
+    "5018009": {
+        "Id": 5018009,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 9,
+        "ChallengeAchievementRewardScore": 4000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5018010": {
+        "Id": 5018010,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 10,
+        "ChallengeAchievementRewardScore": 4500000,
+        "ChallengeAchievementRewardItemId": 12300001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5018011": {
+        "Id": 5018011,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 11,
+        "ChallengeAchievementRewardScore": 5000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018012": {
+        "Id": 5018012,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 12,
+        "ChallengeAchievementRewardScore": 6000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 250000
+    },
+    "5018013": {
+        "Id": 5018013,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 13,
+        "ChallengeAchievementRewardScore": 7000000,
+        "ChallengeAchievementRewardItemId": 10400001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5018014": {
+        "Id": 5018014,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 14,
+        "ChallengeAchievementRewardScore": 8000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018015": {
+        "Id": 5018015,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 15,
+        "ChallengeAchievementRewardScore": 9000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5018016": {
+        "Id": 5018016,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 16,
+        "ChallengeAchievementRewardScore": 10000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018017": {
+        "Id": 5018017,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 17,
+        "ChallengeAchievementRewardScore": 12000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018018": {
+        "Id": 5018018,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 18,
+        "ChallengeAchievementRewardScore": 14000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018019": {
+        "Id": 5018019,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 19,
+        "ChallengeAchievementRewardScore": 16000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018020": {
+        "Id": 5018020,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 20,
+        "ChallengeAchievementRewardScore": 18000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 500000
+    },
+    "5018021": {
+        "Id": 5018021,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 21,
+        "ChallengeAchievementRewardScore": 20000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018022": {
+        "Id": 5018022,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 22,
+        "ChallengeAchievementRewardScore": 22000000,
+        "ChallengeAchievementRewardItemId": 12300001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5018023": {
+        "Id": 5018023,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 23,
+        "ChallengeAchievementRewardScore": 24000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018024": {
+        "Id": 5018024,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 24,
+        "ChallengeAchievementRewardScore": 26000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5018025": {
+        "Id": 5018025,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 25,
+        "ChallengeAchievementRewardScore": 28000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018026": {
+        "Id": 5018026,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 26,
+        "ChallengeAchievementRewardScore": 30000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5018027": {
+        "Id": 5018027,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 27,
+        "ChallengeAchievementRewardScore": 34000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5018028": {
+        "Id": 5018028,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 28,
+        "ChallengeAchievementRewardScore": 38000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018029": {
+        "Id": 5018029,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 29,
+        "ChallengeAchievementRewardScore": 42000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018030": {
+        "Id": 5018030,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 30,
+        "ChallengeAchievementRewardScore": 46000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 800000
+    },
+    "5018031": {
+        "Id": 5018031,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 31,
+        "ChallengeAchievementRewardScore": 50000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5018032": {
+        "Id": 5018032,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 32,
+        "ChallengeAchievementRewardScore": 55000000,
+        "ChallengeAchievementRewardItemId": 12300001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5018033": {
+        "Id": 5018033,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 33,
+        "ChallengeAchievementRewardScore": 60000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5018034": {
+        "Id": 5018034,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 34,
+        "ChallengeAchievementRewardScore": 65000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5018035": {
+        "Id": 5018035,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 35,
+        "ChallengeAchievementRewardScore": 70000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018036": {
+        "Id": 5018036,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 36,
+        "ChallengeAchievementRewardScore": 75000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018037": {
+        "Id": 5018037,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 37,
+        "ChallengeAchievementRewardScore": 80000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5018038": {
+        "Id": 5018038,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 38,
+        "ChallengeAchievementRewardScore": 85000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5018039": {
+        "Id": 5018039,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 39,
+        "ChallengeAchievementRewardScore": 90000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5018040": {
+        "Id": 5018040,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 40,
+        "ChallengeAchievementRewardScore": 95000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5018041": {
+        "Id": 5018041,
+        "RewardGroupId": 5018,
+        "ChallengeAchievementRewardOrder": 41,
+        "ChallengeAchievementRewardScore": 100000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019001": {
+        "Id": 5019001,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 1,
+        "ChallengeAchievementRewardScore": 500000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 100000
+    },
+    "5019002": {
+        "Id": 5019002,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 2,
+        "ChallengeAchievementRewardScore": 750000,
+        "ChallengeAchievementRewardItemId": 14000001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019003": {
+        "Id": 5019003,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 3,
+        "ChallengeAchievementRewardScore": 1000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019004": {
+        "Id": 5019004,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 4,
+        "ChallengeAchievementRewardScore": 1500000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019005": {
+        "Id": 5019005,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 5,
+        "ChallengeAchievementRewardScore": 2000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 150000
+    },
+    "5019006": {
+        "Id": 5019006,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 6,
+        "ChallengeAchievementRewardScore": 2500000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019007": {
+        "Id": 5019007,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 7,
+        "ChallengeAchievementRewardScore": 3000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019008": {
+        "Id": 5019008,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 8,
+        "ChallengeAchievementRewardScore": 3500000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 200000
+    },
+    "5019009": {
+        "Id": 5019009,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 9,
+        "ChallengeAchievementRewardScore": 4000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5019010": {
+        "Id": 5019010,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 10,
+        "ChallengeAchievementRewardScore": 4500000,
+        "ChallengeAchievementRewardItemId": 12300001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5019011": {
+        "Id": 5019011,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 11,
+        "ChallengeAchievementRewardScore": 5000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019012": {
+        "Id": 5019012,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 12,
+        "ChallengeAchievementRewardScore": 6000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 250000
+    },
+    "5019013": {
+        "Id": 5019013,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 13,
+        "ChallengeAchievementRewardScore": 7000000,
+        "ChallengeAchievementRewardItemId": 10400001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5019014": {
+        "Id": 5019014,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 14,
+        "ChallengeAchievementRewardScore": 8000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019015": {
+        "Id": 5019015,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 15,
+        "ChallengeAchievementRewardScore": 9000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5019016": {
+        "Id": 5019016,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 16,
+        "ChallengeAchievementRewardScore": 10000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019017": {
+        "Id": 5019017,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 17,
+        "ChallengeAchievementRewardScore": 12000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019018": {
+        "Id": 5019018,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 18,
+        "ChallengeAchievementRewardScore": 14000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019019": {
+        "Id": 5019019,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 19,
+        "ChallengeAchievementRewardScore": 16000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019020": {
+        "Id": 5019020,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 20,
+        "ChallengeAchievementRewardScore": 18000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 500000
+    },
+    "5019021": {
+        "Id": 5019021,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 21,
+        "ChallengeAchievementRewardScore": 20000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019022": {
+        "Id": 5019022,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 22,
+        "ChallengeAchievementRewardScore": 22000000,
+        "ChallengeAchievementRewardItemId": 12300001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5019023": {
+        "Id": 5019023,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 23,
+        "ChallengeAchievementRewardScore": 24000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019024": {
+        "Id": 5019024,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 24,
+        "ChallengeAchievementRewardScore": 26000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5019025": {
+        "Id": 5019025,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 25,
+        "ChallengeAchievementRewardScore": 28000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019026": {
+        "Id": 5019026,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 26,
+        "ChallengeAchievementRewardScore": 30000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5019027": {
+        "Id": 5019027,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 27,
+        "ChallengeAchievementRewardScore": 34000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5019028": {
+        "Id": 5019028,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 28,
+        "ChallengeAchievementRewardScore": 38000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019029": {
+        "Id": 5019029,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 29,
+        "ChallengeAchievementRewardScore": 42000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019030": {
+        "Id": 5019030,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 30,
+        "ChallengeAchievementRewardScore": 46000000,
+        "ChallengeAchievementRewardItemId": 10200001,
+        "ChallengeAchievementRewardQuantity": 800000
+    },
+    "5019031": {
+        "Id": 5019031,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 31,
+        "ChallengeAchievementRewardScore": 50000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5019032": {
+        "Id": 5019032,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 32,
+        "ChallengeAchievementRewardScore": 55000000,
+        "ChallengeAchievementRewardItemId": 12300001,
+        "ChallengeAchievementRewardQuantity": 100
+    },
+    "5019033": {
+        "Id": 5019033,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 33,
+        "ChallengeAchievementRewardScore": 60000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5019034": {
+        "Id": 5019034,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 34,
+        "ChallengeAchievementRewardScore": 65000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5019035": {
+        "Id": 5019035,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 35,
+        "ChallengeAchievementRewardScore": 70000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019036": {
+        "Id": 5019036,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 36,
+        "ChallengeAchievementRewardScore": 75000000,
+        "ChallengeAchievementRewardItemId": 12400001,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019037": {
+        "Id": 5019037,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 37,
+        "ChallengeAchievementRewardScore": 80000000,
+        "ChallengeAchievementRewardItemId": 11100004,
+        "ChallengeAchievementRewardQuantity": 2
+    },
+    "5019038": {
+        "Id": 5019038,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 38,
+        "ChallengeAchievementRewardScore": 85000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
+    },
+    "5019039": {
+        "Id": 5019039,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 39,
+        "ChallengeAchievementRewardScore": 90000000,
+        "ChallengeAchievementRewardItemId": 13300067,
+        "ChallengeAchievementRewardQuantity": 20
+    },
+    "5019040": {
+        "Id": 5019040,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 40,
+        "ChallengeAchievementRewardScore": 95000000,
+        "ChallengeAchievementRewardItemId": 13200001,
+        "ChallengeAchievementRewardQuantity": 1
+    },
+    "5019041": {
+        "Id": 5019041,
+        "RewardGroupId": 5019,
+        "ChallengeAchievementRewardOrder": 41,
+        "ChallengeAchievementRewardScore": 100000000,
+        "ChallengeAchievementRewardItemId": 12600003,
+        "ChallengeAchievementRewardQuantity": 5
     }
 }

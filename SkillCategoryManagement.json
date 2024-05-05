@@ -873,5 +873,12 @@
         "SkillCategoryId": 1501,
         "EffectName": "スキル追加発動",
         "EffectText": "スキル追加発動の説明文"
+    },
+    "224": {
+        "Id": 224,
+        "EffectType": 224,
+        "SkillCategoryId": 1101,
+        "EffectName": "疲弊",
+        "EffectText": "味方全体の防御力が大きく下がる"
     }
 }

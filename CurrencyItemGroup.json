@@ -4443,5 +4443,1125 @@
         "ItemId": 13200023,
         "Type": 32,
         "Count": 5
+    },
+    "100001": {
+        "Id": 100001,
+        "ItemGroupId": 100,
+        "ItemId": 13200025,
+        "Type": 32,
+        "Count": 50
+    },
+    "101001": {
+        "Id": 101001,
+        "ItemGroupId": 101,
+        "ItemId": 13200025,
+        "Type": 32,
+        "Count": 20
+    },
+    "102001": {
+        "Id": 102001,
+        "ItemGroupId": 102,
+        "ItemId": 13200025,
+        "Type": 32,
+        "Count": 5
+    },
+    "500201001": {
+        "Id": 500201001,
+        "ItemGroupId": 500201,
+        "ItemId": 13200027,
+        "Type": 32,
+        "Count": 5
+    },
+    "500202001": {
+        "Id": 500202001,
+        "ItemGroupId": 500202,
+        "ItemId": 13200027,
+        "Type": 32,
+        "Count": 10
+    },
+    "500202002": {
+        "Id": 500202002,
+        "ItemGroupId": 500202,
+        "ItemId": 12600003,
+        "Type": 26,
+        "Count": 24
+    },
+    "500203001": {
+        "Id": 500203001,
+        "ItemGroupId": 500203,
+        "ItemId": 13200027,
+        "Type": 32,
+        "Count": 20
+    },
+    "500203002": {
+        "Id": 500203002,
+        "ItemGroupId": 500203,
+        "ItemId": 11100004,
+        "Type": 11,
+        "Count": 5
+    },
+    "500204001": {
+        "Id": 500204001,
+        "ItemGroupId": 500204,
+        "ItemId": 13200027,
+        "Type": 32,
+        "Count": 25
+    },
+    "500205001": {
+        "Id": 500205001,
+        "ItemGroupId": 500205,
+        "ItemId": 13200027,
+        "Type": 32,
+        "Count": 40
+    },
+    "500205002": {
+        "Id": 500205002,
+        "ItemGroupId": 500205,
+        "ItemId": 13200026,
+        "Type": 32,
+        "Count": 1
+    },
+    "103002": {
+        "Id": 103002,
+        "ItemGroupId": 103,
+        "ItemId": 11300001,
+        "Type": 13,
+        "Count": 1
+    },
+    "104002": {
+        "Id": 104002,
+        "ItemGroupId": 104,
+        "ItemId": 11400014,
+        "Type": 14,
+        "Count": 1
+    },
+    "105002": {
+        "Id": 105002,
+        "ItemGroupId": 105,
+        "ItemId": 11200001,
+        "Type": 12,
+        "Count": 5
+    },
+    "105003": {
+        "Id": 105003,
+        "ItemGroupId": 105,
+        "ItemId": 11200002,
+        "Type": 12,
+        "Count": 5
+    },
+    "105004": {
+        "Id": 105004,
+        "ItemGroupId": 105,
+        "ItemId": 11200003,
+        "Type": 12,
+        "Count": 5
+    },
+    "105005": {
+        "Id": 105005,
+        "ItemGroupId": 105,
+        "ItemId": 11200004,
+        "Type": 12,
+        "Count": 5
+    },
+    "105006": {
+        "Id": 105006,
+        "ItemGroupId": 105,
+        "ItemId": 11200005,
+        "Type": 12,
+        "Count": 5
+    },
+    "105007": {
+        "Id": 105007,
+        "ItemGroupId": 105,
+        "ItemId": 11200006,
+        "Type": 12,
+        "Count": 5
+    },
+    "105008": {
+        "Id": 105008,
+        "ItemGroupId": 105,
+        "ItemId": 11210001,
+        "Type": 12,
+        "Count": 5
+    },
+    "105009": {
+        "Id": 105009,
+        "ItemGroupId": 105,
+        "ItemId": 11210002,
+        "Type": 12,
+        "Count": 5
+    },
+    "105010": {
+        "Id": 105010,
+        "ItemGroupId": 105,
+        "ItemId": 11210003,
+        "Type": 12,
+        "Count": 5
+    },
+    "105011": {
+        "Id": 105011,
+        "ItemGroupId": 105,
+        "ItemId": 11210004,
+        "Type": 12,
+        "Count": 5
+    },
+    "105012": {
+        "Id": 105012,
+        "ItemGroupId": 105,
+        "ItemId": 11210005,
+        "Type": 12,
+        "Count": 5
+    },
+    "105013": {
+        "Id": 105013,
+        "ItemGroupId": 105,
+        "ItemId": 11210006,
+        "Type": 12,
+        "Count": 5
+    },
+    "105014": {
+        "Id": 105014,
+        "ItemGroupId": 105,
+        "ItemId": 11201001,
+        "Type": 12,
+        "Count": 10
+    },
+    "105015": {
+        "Id": 105015,
+        "ItemGroupId": 105,
+        "ItemId": 11201002,
+        "Type": 12,
+        "Count": 10
+    },
+    "105016": {
+        "Id": 105016,
+        "ItemGroupId": 105,
+        "ItemId": 11201003,
+        "Type": 12,
+        "Count": 10
+    },
+    "105017": {
+        "Id": 105017,
+        "ItemGroupId": 105,
+        "ItemId": 11201004,
+        "Type": 12,
+        "Count": 10
+    },
+    "105018": {
+        "Id": 105018,
+        "ItemGroupId": 105,
+        "ItemId": 11201005,
+        "Type": 12,
+        "Count": 10
+    },
+    "105019": {
+        "Id": 105019,
+        "ItemGroupId": 105,
+        "ItemId": 11202001,
+        "Type": 12,
+        "Count": 15
+    },
+    "105020": {
+        "Id": 105020,
+        "ItemGroupId": 105,
+        "ItemId": 11202002,
+        "Type": 12,
+        "Count": 15
+    },
+    "105021": {
+        "Id": 105021,
+        "ItemGroupId": 105,
+        "ItemId": 11202003,
+        "Type": 12,
+        "Count": 15
+    },
+    "105022": {
+        "Id": 105022,
+        "ItemGroupId": 105,
+        "ItemId": 11202004,
+        "Type": 12,
+        "Count": 15
+    },
+    "105023": {
+        "Id": 105023,
+        "ItemGroupId": 105,
+        "ItemId": 11202005,
+        "Type": 12,
+        "Count": 15
+    },
+    "105024": {
+        "Id": 105024,
+        "ItemGroupId": 105,
+        "ItemId": 11203001,
+        "Type": 12,
+        "Count": 20
+    },
+    "105025": {
+        "Id": 105025,
+        "ItemGroupId": 105,
+        "ItemId": 11203002,
+        "Type": 12,
+        "Count": 20
+    },
+    "105026": {
+        "Id": 105026,
+        "ItemGroupId": 105,
+        "ItemId": 11203003,
+        "Type": 12,
+        "Count": 20
+    },
+    "105027": {
+        "Id": 105027,
+        "ItemGroupId": 105,
+        "ItemId": 11203004,
+        "Type": 12,
+        "Count": 20
+    },
+    "105028": {
+        "Id": 105028,
+        "ItemGroupId": 105,
+        "ItemId": 11203005,
+        "Type": 12,
+        "Count": 20
+    },
+    "105029": {
+        "Id": 105029,
+        "ItemGroupId": 105,
+        "ItemId": 11204001,
+        "Type": 12,
+        "Count": 25
+    },
+    "105030": {
+        "Id": 105030,
+        "ItemGroupId": 105,
+        "ItemId": 11204002,
+        "Type": 12,
+        "Count": 25
+    },
+    "105031": {
+        "Id": 105031,
+        "ItemGroupId": 105,
+        "ItemId": 11204003,
+        "Type": 12,
+        "Count": 25
+    },
+    "105032": {
+        "Id": 105032,
+        "ItemGroupId": 105,
+        "ItemId": 11204004,
+        "Type": 12,
+        "Count": 25
+    },
+    "105033": {
+        "Id": 105033,
+        "ItemGroupId": 105,
+        "ItemId": 11204005,
+        "Type": 12,
+        "Count": 25
+    },
+    "105034": {
+        "Id": 105034,
+        "ItemGroupId": 105,
+        "ItemId": 11205001,
+        "Type": 12,
+        "Count": 30
+    },
+    "105035": {
+        "Id": 105035,
+        "ItemGroupId": 105,
+        "ItemId": 11205002,
+        "Type": 12,
+        "Count": 30
+    },
+    "105036": {
+        "Id": 105036,
+        "ItemGroupId": 105,
+        "ItemId": 11205003,
+        "Type": 12,
+        "Count": 30
+    },
+    "105037": {
+        "Id": 105037,
+        "ItemGroupId": 105,
+        "ItemId": 11205004,
+        "Type": 12,
+        "Count": 30
+    },
+    "105038": {
+        "Id": 105038,
+        "ItemGroupId": 105,
+        "ItemId": 11205005,
+        "Type": 12,
+        "Count": 30
+    },
+    "105039": {
+        "Id": 105039,
+        "ItemGroupId": 105,
+        "ItemId": 11206001,
+        "Type": 12,
+        "Count": 40
+    },
+    "105040": {
+        "Id": 105040,
+        "ItemGroupId": 105,
+        "ItemId": 11206002,
+        "Type": 12,
+        "Count": 40
+    },
+    "105041": {
+        "Id": 105041,
+        "ItemGroupId": 105,
+        "ItemId": 11206003,
+        "Type": 12,
+        "Count": 40
+    },
+    "105042": {
+        "Id": 105042,
+        "ItemGroupId": 105,
+        "ItemId": 11206004,
+        "Type": 12,
+        "Count": 40
+    },
+    "105043": {
+        "Id": 105043,
+        "ItemGroupId": 105,
+        "ItemId": 11206005,
+        "Type": 12,
+        "Count": 40
+    },
+    "105044": {
+        "Id": 105044,
+        "ItemGroupId": 105,
+        "ItemId": 11100004,
+        "Type": 11,
+        "Count": 55
+    },
+    "105045": {
+        "Id": 105045,
+        "ItemGroupId": 105,
+        "ItemId": 11110004,
+        "Type": 11,
+        "Count": 340
+    },
+    "105046": {
+        "Id": 105046,
+        "ItemGroupId": 105,
+        "ItemId": 11110005,
+        "Type": 11,
+        "Count": 220
+    },
+    "105047": {
+        "Id": 105047,
+        "ItemGroupId": 105,
+        "ItemId": 11110006,
+        "Type": 11,
+        "Count": 190
+    },
+    "105048": {
+        "Id": 105048,
+        "ItemGroupId": 105,
+        "ItemId": 11120004,
+        "Type": 11,
+        "Count": 340
+    },
+    "105049": {
+        "Id": 105049,
+        "ItemGroupId": 105,
+        "ItemId": 11120005,
+        "Type": 11,
+        "Count": 220
+    },
+    "105050": {
+        "Id": 105050,
+        "ItemGroupId": 105,
+        "ItemId": 11120006,
+        "Type": 11,
+        "Count": 190
+    },
+    "105051": {
+        "Id": 105051,
+        "ItemGroupId": 105,
+        "ItemId": 11130004,
+        "Type": 11,
+        "Count": 340
+    },
+    "105052": {
+        "Id": 105052,
+        "ItemGroupId": 105,
+        "ItemId": 11130005,
+        "Type": 11,
+        "Count": 220
+    },
+    "105053": {
+        "Id": 105053,
+        "ItemGroupId": 105,
+        "ItemId": 11130006,
+        "Type": 11,
+        "Count": 190
+    },
+    "105054": {
+        "Id": 105054,
+        "ItemGroupId": 105,
+        "ItemId": 11140004,
+        "Type": 11,
+        "Count": 340
+    },
+    "105055": {
+        "Id": 105055,
+        "ItemGroupId": 105,
+        "ItemId": 11140005,
+        "Type": 11,
+        "Count": 220
+    },
+    "105056": {
+        "Id": 105056,
+        "ItemGroupId": 105,
+        "ItemId": 11140006,
+        "Type": 11,
+        "Count": 190
+    },
+    "105057": {
+        "Id": 105057,
+        "ItemGroupId": 105,
+        "ItemId": 11150004,
+        "Type": 11,
+        "Count": 340
+    },
+    "105058": {
+        "Id": 105058,
+        "ItemGroupId": 105,
+        "ItemId": 11150005,
+        "Type": 11,
+        "Count": 220
+    },
+    "105059": {
+        "Id": 105059,
+        "ItemGroupId": 105,
+        "ItemId": 11150006,
+        "Type": 11,
+        "Count": 190
+    },
+    "105060": {
+        "Id": 105060,
+        "ItemGroupId": 105,
+        "ItemId": 11000004,
+        "Type": 10,
+        "Count": 500
+    },
+    "105061": {
+        "Id": 105061,
+        "ItemGroupId": 105,
+        "ItemId": 12600003,
+        "Type": 26,
+        "Count": 200
+    },
+    "105062": {
+        "Id": 105062,
+        "ItemGroupId": 105,
+        "ItemId": 10200001,
+        "Type": 2,
+        "Count": 10000000
+    },
+    "107002": {
+        "Id": 107002,
+        "ItemGroupId": 107,
+        "ItemId": 13300111,
+        "Type": 33,
+        "Count": 1
+    },
+    "113001": {
+        "Id": 113001,
+        "ItemGroupId": 113,
+        "ItemId": 13200030,
+        "Type": 32,
+        "Count": 50
+    },
+    "114001": {
+        "Id": 114001,
+        "ItemGroupId": 114,
+        "ItemId": 13200030,
+        "Type": 32,
+        "Count": 20
+    },
+    "115001": {
+        "Id": 115001,
+        "ItemGroupId": 115,
+        "ItemId": 13200030,
+        "Type": 32,
+        "Count": 5
+    },
+    "116002": {
+        "Id": 116002,
+        "ItemGroupId": 116,
+        "ItemId": 11300001,
+        "Type": 13,
+        "Count": 1
+    },
+    "117002": {
+        "Id": 117002,
+        "ItemGroupId": 117,
+        "ItemId": 11400014,
+        "Type": 14,
+        "Count": 1
+    },
+    "118002": {
+        "Id": 118002,
+        "ItemGroupId": 118,
+        "ItemId": 11200001,
+        "Type": 12,
+        "Count": 5
+    },
+    "118003": {
+        "Id": 118003,
+        "ItemGroupId": 118,
+        "ItemId": 11200002,
+        "Type": 12,
+        "Count": 5
+    },
+    "118004": {
+        "Id": 118004,
+        "ItemGroupId": 118,
+        "ItemId": 11200003,
+        "Type": 12,
+        "Count": 5
+    },
+    "118005": {
+        "Id": 118005,
+        "ItemGroupId": 118,
+        "ItemId": 11200004,
+        "Type": 12,
+        "Count": 5
+    },
+    "118006": {
+        "Id": 118006,
+        "ItemGroupId": 118,
+        "ItemId": 11200005,
+        "Type": 12,
+        "Count": 5
+    },
+    "118007": {
+        "Id": 118007,
+        "ItemGroupId": 118,
+        "ItemId": 11200006,
+        "Type": 12,
+        "Count": 5
+    },
+    "118008": {
+        "Id": 118008,
+        "ItemGroupId": 118,
+        "ItemId": 11210001,
+        "Type": 12,
+        "Count": 5
+    },
+    "118009": {
+        "Id": 118009,
+        "ItemGroupId": 118,
+        "ItemId": 11210002,
+        "Type": 12,
+        "Count": 5
+    },
+    "118010": {
+        "Id": 118010,
+        "ItemGroupId": 118,
+        "ItemId": 11210003,
+        "Type": 12,
+        "Count": 5
+    },
+    "118011": {
+        "Id": 118011,
+        "ItemGroupId": 118,
+        "ItemId": 11210004,
+        "Type": 12,
+        "Count": 5
+    },
+    "118012": {
+        "Id": 118012,
+        "ItemGroupId": 118,
+        "ItemId": 11210005,
+        "Type": 12,
+        "Count": 5
+    },
+    "118013": {
+        "Id": 118013,
+        "ItemGroupId": 118,
+        "ItemId": 11210006,
+        "Type": 12,
+        "Count": 5
+    },
+    "118014": {
+        "Id": 118014,
+        "ItemGroupId": 118,
+        "ItemId": 11201001,
+        "Type": 12,
+        "Count": 10
+    },
+    "118015": {
+        "Id": 118015,
+        "ItemGroupId": 118,
+        "ItemId": 11201002,
+        "Type": 12,
+        "Count": 10
+    },
+    "118016": {
+        "Id": 118016,
+        "ItemGroupId": 118,
+        "ItemId": 11201003,
+        "Type": 12,
+        "Count": 10
+    },
+    "118017": {
+        "Id": 118017,
+        "ItemGroupId": 118,
+        "ItemId": 11201004,
+        "Type": 12,
+        "Count": 10
+    },
+    "118018": {
+        "Id": 118018,
+        "ItemGroupId": 118,
+        "ItemId": 11201005,
+        "Type": 12,
+        "Count": 10
+    },
+    "118019": {
+        "Id": 118019,
+        "ItemGroupId": 118,
+        "ItemId": 11202001,
+        "Type": 12,
+        "Count": 15
+    },
+    "118020": {
+        "Id": 118020,
+        "ItemGroupId": 118,
+        "ItemId": 11202002,
+        "Type": 12,
+        "Count": 15
+    },
+    "118021": {
+        "Id": 118021,
+        "ItemGroupId": 118,
+        "ItemId": 11202003,
+        "Type": 12,
+        "Count": 15
+    },
+    "118022": {
+        "Id": 118022,
+        "ItemGroupId": 118,
+        "ItemId": 11202004,
+        "Type": 12,
+        "Count": 15
+    },
+    "118023": {
+        "Id": 118023,
+        "ItemGroupId": 118,
+        "ItemId": 11202005,
+        "Type": 12,
+        "Count": 15
+    },
+    "118024": {
+        "Id": 118024,
+        "ItemGroupId": 118,
+        "ItemId": 11203001,
+        "Type": 12,
+        "Count": 20
+    },
+    "118025": {
+        "Id": 118025,
+        "ItemGroupId": 118,
+        "ItemId": 11203002,
+        "Type": 12,
+        "Count": 20
+    },
+    "118026": {
+        "Id": 118026,
+        "ItemGroupId": 118,
+        "ItemId": 11203003,
+        "Type": 12,
+        "Count": 20
+    },
+    "118027": {
+        "Id": 118027,
+        "ItemGroupId": 118,
+        "ItemId": 11203004,
+        "Type": 12,
+        "Count": 20
+    },
+    "118028": {
+        "Id": 118028,
+        "ItemGroupId": 118,
+        "ItemId": 11203005,
+        "Type": 12,
+        "Count": 20
+    },
+    "118029": {
+        "Id": 118029,
+        "ItemGroupId": 118,
+        "ItemId": 11204001,
+        "Type": 12,
+        "Count": 25
+    },
+    "118030": {
+        "Id": 118030,
+        "ItemGroupId": 118,
+        "ItemId": 11204002,
+        "Type": 12,
+        "Count": 25
+    },
+    "118031": {
+        "Id": 118031,
+        "ItemGroupId": 118,
+        "ItemId": 11204003,
+        "Type": 12,
+        "Count": 25
+    },
+    "118032": {
+        "Id": 118032,
+        "ItemGroupId": 118,
+        "ItemId": 11204004,
+        "Type": 12,
+        "Count": 25
+    },
+    "118033": {
+        "Id": 118033,
+        "ItemGroupId": 118,
+        "ItemId": 11204005,
+        "Type": 12,
+        "Count": 25
+    },
+    "118034": {
+        "Id": 118034,
+        "ItemGroupId": 118,
+        "ItemId": 11205001,
+        "Type": 12,
+        "Count": 30
+    },
+    "118035": {
+        "Id": 118035,
+        "ItemGroupId": 118,
+        "ItemId": 11205002,
+        "Type": 12,
+        "Count": 30
+    },
+    "118036": {
+        "Id": 118036,
+        "ItemGroupId": 118,
+        "ItemId": 11205003,
+        "Type": 12,
+        "Count": 30
+    },
+    "118037": {
+        "Id": 118037,
+        "ItemGroupId": 118,
+        "ItemId": 11205004,
+        "Type": 12,
+        "Count": 30
+    },
+    "118038": {
+        "Id": 118038,
+        "ItemGroupId": 118,
+        "ItemId": 11205005,
+        "Type": 12,
+        "Count": 30
+    },
+    "118039": {
+        "Id": 118039,
+        "ItemGroupId": 118,
+        "ItemId": 11206001,
+        "Type": 12,
+        "Count": 40
+    },
+    "118040": {
+        "Id": 118040,
+        "ItemGroupId": 118,
+        "ItemId": 11206002,
+        "Type": 12,
+        "Count": 40
+    },
+    "118041": {
+        "Id": 118041,
+        "ItemGroupId": 118,
+        "ItemId": 11206003,
+        "Type": 12,
+        "Count": 40
+    },
+    "118042": {
+        "Id": 118042,
+        "ItemGroupId": 118,
+        "ItemId": 11206004,
+        "Type": 12,
+        "Count": 40
+    },
+    "118043": {
+        "Id": 118043,
+        "ItemGroupId": 118,
+        "ItemId": 11206005,
+        "Type": 12,
+        "Count": 40
+    },
+    "118044": {
+        "Id": 118044,
+        "ItemGroupId": 118,
+        "ItemId": 10200001,
+        "Type": 2,
+        "Count": 5000000
+    },
+    "119002": {
+        "Id": 119002,
+        "ItemGroupId": 119,
+        "ItemId": 13300083,
+        "Type": 33,
+        "Count": 1
+    },
+    "119003": {
+        "Id": 119003,
+        "ItemGroupId": 119,
+        "ItemId": 11000004,
+        "Type": 10,
+        "Count": 550
+    },
+    "119004": {
+        "Id": 119004,
+        "ItemGroupId": 119,
+        "ItemId": 11400004,
+        "Type": 14,
+        "Count": 550
+    },
+    "119005": {
+        "Id": 119005,
+        "ItemGroupId": 119,
+        "ItemId": 11500004,
+        "Type": 15,
+        "Count": 550
+    },
+    "119006": {
+        "Id": 119006,
+        "ItemGroupId": 119,
+        "ItemId": 12600003,
+        "Type": 26,
+        "Count": 400
+    },
+    "119007": {
+        "Id": 119007,
+        "ItemGroupId": 119,
+        "ItemId": 11110001,
+        "Type": 11,
+        "Count": 15
+    },
+    "119008": {
+        "Id": 119008,
+        "ItemGroupId": 119,
+        "ItemId": 11110002,
+        "Type": 11,
+        "Count": 10
+    },
+    "119009": {
+        "Id": 119009,
+        "ItemGroupId": 119,
+        "ItemId": 11110003,
+        "Type": 11,
+        "Count": 5
+    },
+    "119010": {
+        "Id": 119010,
+        "ItemGroupId": 119,
+        "ItemId": 11110004,
+        "Type": 11,
+        "Count": 65
+    },
+    "119011": {
+        "Id": 119011,
+        "ItemGroupId": 119,
+        "ItemId": 11110005,
+        "Type": 11,
+        "Count": 40
+    },
+    "119012": {
+        "Id": 119012,
+        "ItemGroupId": 119,
+        "ItemId": 11110006,
+        "Type": 11,
+        "Count": 20
+    },
+    "119013": {
+        "Id": 119013,
+        "ItemGroupId": 119,
+        "ItemId": 11120001,
+        "Type": 11,
+        "Count": 15
+    },
+    "119014": {
+        "Id": 119014,
+        "ItemGroupId": 119,
+        "ItemId": 11120002,
+        "Type": 11,
+        "Count": 10
+    },
+    "119015": {
+        "Id": 119015,
+        "ItemGroupId": 119,
+        "ItemId": 11120003,
+        "Type": 11,
+        "Count": 5
+    },
+    "119016": {
+        "Id": 119016,
+        "ItemGroupId": 119,
+        "ItemId": 11120004,
+        "Type": 11,
+        "Count": 65
+    },
+    "119017": {
+        "Id": 119017,
+        "ItemGroupId": 119,
+        "ItemId": 11120005,
+        "Type": 11,
+        "Count": 40
+    },
+    "119018": {
+        "Id": 119018,
+        "ItemGroupId": 119,
+        "ItemId": 11120006,
+        "Type": 11,
+        "Count": 20
+    },
+    "119019": {
+        "Id": 119019,
+        "ItemGroupId": 119,
+        "ItemId": 11130001,
+        "Type": 11,
+        "Count": 15
+    },
+    "119020": {
+        "Id": 119020,
+        "ItemGroupId": 119,
+        "ItemId": 11130002,
+        "Type": 11,
+        "Count": 10
+    },
+    "119021": {
+        "Id": 119021,
+        "ItemGroupId": 119,
+        "ItemId": 11130003,
+        "Type": 11,
+        "Count": 5
+    },
+    "119022": {
+        "Id": 119022,
+        "ItemGroupId": 119,
+        "ItemId": 11130004,
+        "Type": 11,
+        "Count": 65
+    },
+    "119023": {
+        "Id": 119023,
+        "ItemGroupId": 119,
+        "ItemId": 11130005,
+        "Type": 11,
+        "Count": 40
+    },
+    "119024": {
+        "Id": 119024,
+        "ItemGroupId": 119,
+        "ItemId": 11130006,
+        "Type": 11,
+        "Count": 20
+    },
+    "119025": {
+        "Id": 119025,
+        "ItemGroupId": 119,
+        "ItemId": 11140001,
+        "Type": 11,
+        "Count": 15
+    },
+    "119026": {
+        "Id": 119026,
+        "ItemGroupId": 119,
+        "ItemId": 11140002,
+        "Type": 11,
+        "Count": 10
+    },
+    "119027": {
+        "Id": 119027,
+        "ItemGroupId": 119,
+        "ItemId": 11140003,
+        "Type": 11,
+        "Count": 5
+    },
+    "119028": {
+        "Id": 119028,
+        "ItemGroupId": 119,
+        "ItemId": 11140004,
+        "Type": 11,
+        "Count": 65
+    },
+    "119029": {
+        "Id": 119029,
+        "ItemGroupId": 119,
+        "ItemId": 11140005,
+        "Type": 11,
+        "Count": 40
+    },
+    "119030": {
+        "Id": 119030,
+        "ItemGroupId": 119,
+        "ItemId": 11140006,
+        "Type": 11,
+        "Count": 20
+    },
+    "119031": {
+        "Id": 119031,
+        "ItemGroupId": 119,
+        "ItemId": 11150001,
+        "Type": 11,
+        "Count": 15
+    },
+    "119032": {
+        "Id": 119032,
+        "ItemGroupId": 119,
+        "ItemId": 11150002,
+        "Type": 11,
+        "Count": 10
+    },
+    "119033": {
+        "Id": 119033,
+        "ItemGroupId": 119,
+        "ItemId": 11150003,
+        "Type": 11,
+        "Count": 5
+    },
+    "119034": {
+        "Id": 119034,
+        "ItemGroupId": 119,
+        "ItemId": 11150004,
+        "Type": 11,
+        "Count": 65
+    },
+    "119035": {
+        "Id": 119035,
+        "ItemGroupId": 119,
+        "ItemId": 11150005,
+        "Type": 11,
+        "Count": 40
+    },
+    "119036": {
+        "Id": 119036,
+        "ItemGroupId": 119,
+        "ItemId": 11150006,
+        "Type": 11,
+        "Count": 20
+    },
+    "119037": {
+        "Id": 119037,
+        "ItemGroupId": 119,
+        "ItemId": 11100003,
+        "Type": 11,
+        "Count": 35
+    },
+    "119038": {
+        "Id": 119038,
+        "ItemGroupId": 119,
+        "ItemId": 10200001,
+        "Type": 2,
+        "Count": 5000000
     }
 }

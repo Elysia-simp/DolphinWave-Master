@@ -371,7 +371,7 @@
         "Banner": 224,
         "Banner02": 1009,
         "KeyQuestId": 0,
-        "StageLimitCountGroupId": 20405,
+        "StageLimitCountGroupId": 20409,
         "BannerVisible": 0
     },
     "2001": {
@@ -1453,5 +1453,65 @@
         "KeyQuestId": 0,
         "StageLimitCountGroupId": 0,
         "BannerVisible": 1
+    },
+    "20080101": {
+        "Id": 20080101,
+        "Part": 2,
+        "Chapeter": 8,
+        "Title": "メインストーリー第2部8章",
+        "ChapeterType": 1,
+        "No": 1,
+        "StartDate": -32400,
+        "EndDate": 1893423600,
+        "Banner": 608,
+        "Banner02": 20080101,
+        "KeyQuestId": 20070101,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 0
+    },
+    "20080201": {
+        "Id": 20080201,
+        "Part": 2,
+        "Chapeter": 8,
+        "Title": "サイドストーリー第2部8章",
+        "ChapeterType": 2,
+        "No": 1,
+        "StartDate": -32400,
+        "EndDate": 1893423600,
+        "Banner": 52,
+        "Banner02": 20080201,
+        "KeyQuestId": 20080101,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 0
+    },
+    "2027": {
+        "Id": 2027,
+        "Part": 0,
+        "Chapeter": 2027,
+        "Title": "ハイスピコラボカップ",
+        "ChapeterType": 0,
+        "No": 0,
+        "StartDate": 1714626000,
+        "EndDate": 1716353999,
+        "Banner": 49,
+        "Banner02": 2027,
+        "KeyQuestId": 0,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 0
+    },
+    "2028": {
+        "Id": 2028,
+        "Part": 0,
+        "Chapeter": 2028,
+        "Title": "ハイスピコラボカップEX",
+        "ChapeterType": 0,
+        "No": 0,
+        "StartDate": 1714626000,
+        "EndDate": 1716353999,
+        "Banner": 49,
+        "Banner02": 2028,
+        "KeyQuestId": 0,
+        "StageLimitCountGroupId": 0,
+        "BannerVisible": 0
     }
 }

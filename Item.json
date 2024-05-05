@@ -11230,5 +11230,725 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1274
+    },
+    "1040014102": {
+        "Id": 1040014102,
+        "Name": "紫苑(スイムエプロン/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "紫苑(スイムエプロン/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1278
+    },
+    "1040024102": {
+        "Id": 1040024102,
+        "Name": "ヘリー(ビビッドウェーブ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヘリー(ビビッドウェーブ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1279
+    },
+    "1030014402": {
+        "Id": 1030014402,
+        "Name": "見波(SPユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "見波(SPユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1280
+    },
+    "13300107": {
+        "Id": 13300107,
+        "Name": "カナロアのパフェ",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1281
+    },
+    "13300108": {
+        "Id": 13300108,
+        "Name": "思い出のアルバム",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1282
+    },
+    "13300109": {
+        "Id": 13300109,
+        "Name": "ジェットバトルのルールブック",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1283
+    },
+    "13300110": {
+        "Id": 13300110,
+        "Name": "ワダツミメダル",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1284
+    },
+    "1070023101": {
+        "Id": 1070023101,
+        "Name": "ナハト(パーティードレス)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ナハト(パーティードレス)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1285
+    },
+    "11200081": {
+        "Id": 11200081,
+        "Name": "1.5周年記念フォト",
+        "Type": 12,
+        "ItemText": "ナハト(パーティードレス)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1286
+    },
+    "11100073": {
+        "Id": 11100073,
+        "Name": "ナハトのパーティードレス",
+        "Type": 11,
+        "ItemText": "ナハト(パーティードレス)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1287
+    },
+    "13700025": {
+        "Id": 13700025,
+        "Name": "ボスチケット(メモリーズ)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1288
+    },
+    "13200025": {
+        "Id": 13200025,
+        "Name": "ドルフィンフェスガチャチケット(Galatea)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(Galatea)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1289
+    },
+    "13200026": {
+        "Id": 13200026,
+        "Name": "復刻ドルフィンフェス確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "復刻ドルフィンフェス確定チケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1290
+    },
+    "13200027": {
+        "Id": 13200027,
+        "Name": "復刻ドルフィンフェスガチャチケット",
+        "Type": 32,
+        "ItemText": "復刻ドルフィンフェスチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1291
+    },
+    "13300111": {
+        "Id": 13300111,
+        "Name": "URドルフィンセレクトチケット",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURドルフィンと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1292
+    },
+    "13200028": {
+        "Id": 13200028,
+        "Name": "URドルフィン確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "URドルフィン確定チケットガチャが引けるチケット※交換制限は月次リセットされません",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1293
+    },
+    "13200029": {
+        "Id": 13200029,
+        "Name": "レギュラーガチャチケット",
+        "Type": 32,
+        "ItemText": "レギュラーチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1294
+    },
+    "13900492": {
+        "Id": 13900492,
+        "Name": "ワダツミメモリーズ～ジェットバトルで紡いだ絆～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1292
+    },
+    "13900493": {
+        "Id": 13900493,
+        "Name": "ワダツミメモリーズ～ジェットバトルで紡いだ絆～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1291
+    },
+    "13900494": {
+        "Id": 13900494,
+        "Name": "チャレンジバトル-18th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1290
+    },
+    "13900495": {
+        "Id": 13900495,
+        "Name": "チャレンジバトル-18th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1289
+    },
+    "13900496": {
+        "Id": 13900496,
+        "Name": "チャレンジバトル-18th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1288
+    },
+    "13900497": {
+        "Id": 13900497,
+        "Name": "チャレンジバトル-18th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1287
+    },
+    "13900498": {
+        "Id": 13900498,
+        "Name": "チャレンジバトル-18th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1286
+    },
+    "13900499": {
+        "Id": 13900499,
+        "Name": "チャレンジバトル-18th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1285
+    },
+    "13900500": {
+        "Id": 13900500,
+        "Name": "チャレンジバトル-18th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1284
+    },
+    "13900501": {
+        "Id": 13900501,
+        "Name": "チャレンジバトル-18th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1283
+    },
+    "13900502": {
+        "Id": 13900502,
+        "Name": "チャレンジバトル-18th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1282
+    },
+    "13900503": {
+        "Id": 13900503,
+        "Name": "チャレンジバトル-18th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1281
+    },
+    "13900504": {
+        "Id": 13900504,
+        "Name": "チャレンジバトル-18th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1280
+    },
+    "13900505": {
+        "Id": 13900505,
+        "Name": "チャレンジバトル-18th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1279
+    },
+    "13900506": {
+        "Id": 13900506,
+        "Name": "チャレンジバトル-18th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1278
+    },
+    "13900507": {
+        "Id": 13900507,
+        "Name": "チャレンジバトル-18th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1277
+    },
+    "13900508": {
+        "Id": 13900508,
+        "Name": "チャレンジバトル-18th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1276
+    },
+    "13900509": {
+        "Id": 13900509,
+        "Name": "チャレンジバトル-18th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1275
+    },
+    "13900510": {
+        "Id": 13900510,
+        "Name": "チャレンジバトル-18th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1274
+    },
+    "13900511": {
+        "Id": 13900511,
+        "Name": "チャレンジバトル-18th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1273
+    },
+    "13900512": {
+        "Id": 13900512,
+        "Name": "チャレンジバトル-18th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1272
+    },
+    "13900513": {
+        "Id": 13900513,
+        "Name": "チャレンジバトル-18th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1271
+    },
+    "13900514": {
+        "Id": 13900514,
+        "Name": "チャレンジバトル-18th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1270
+    },
+    "12902401": {
+        "Id": 12902401,
+        "Name": "ミステリアスなモデル",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1265
+    },
+    "12902425": {
+        "Id": 12902425,
+        "Name": "カリスマデザイナー",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1264
+    },
+    "13900519": {
+        "Id": 13900519,
+        "Name": "トータルバトル-Swim Dolphin-制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1263
+    },
+    "1010014502": {
+        "Id": 1010014502,
+        "Name": "入華(凛のリンクスーツ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "入華(凛のリンクスーツ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1326
+    },
+    "1010044502": {
+        "Id": 1010044502,
+        "Name": "詩絵(ソフィアのリンクスーツ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "詩絵(ソフィアのリンクスーツ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1327
+    },
+    "1020043501": {
+        "Id": 1020043501,
+        "Name": "シュネー(永遠のリンクスーツ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "シュネー(永遠のリンクスーツ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1328
+    },
+    "11200082": {
+        "Id": 11200082,
+        "Name": "アナログゲーム",
+        "Type": 12,
+        "ItemText": "シュネー(永遠のリンクスーツ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1329
+    },
+    "11100074": {
+        "Id": 11100074,
+        "Name": "永遠のリンクスーツ",
+        "Type": 11,
+        "ItemText": "シュネー(永遠のリンクスーツ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1330
+    },
+    "13700026": {
+        "Id": 13700026,
+        "Name": "ボスチケット(エトワール前編)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1331
+    },
+    "13200030": {
+        "Id": 13200030,
+        "Name": "コラボガチャチケット(ハイスピ)",
+        "Type": 32,
+        "ItemText": "ハイスピコラボチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1332
+    },
+    "13300112": {
+        "Id": 13300112,
+        "Name": "ハイスピコラボカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1333
+    },
+    "13900520": {
+        "Id": 13900520,
+        "Name": "目指せドルフィンの一番星！～前編～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1332
+    },
+    "13900521": {
+        "Id": 13900521,
+        "Name": "目指せドルフィンの一番星！～前編～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1331
+    },
+    "13900522": {
+        "Id": 13900522,
+        "Name": "チャレンジバトル-Golden-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1330
+    },
+    "13900523": {
+        "Id": 13900523,
+        "Name": "チャレンジバトル-Golden-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1329
+    },
+    "13900524": {
+        "Id": 13900524,
+        "Name": "チャレンジバトル-Golden-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1328
+    },
+    "13900525": {
+        "Id": 13900525,
+        "Name": "チャレンジバトル-Golden-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1327
+    },
+    "13900526": {
+        "Id": 13900526,
+        "Name": "チャレンジバトル-Golden-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1326
+    },
+    "13900527": {
+        "Id": 13900527,
+        "Name": "チャレンジバトル-Golden-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1325
+    },
+    "13900528": {
+        "Id": 13900528,
+        "Name": "チャレンジバトル-Golden-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1324
+    },
+    "13900529": {
+        "Id": 13900529,
+        "Name": "チャレンジバトル-Golden-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1323
+    },
+    "13900530": {
+        "Id": 13900530,
+        "Name": "チャレンジバトル-Golden-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1322
+    },
+    "13900531": {
+        "Id": 13900531,
+        "Name": "チャレンジバトル-Golden-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1321
+    },
+    "13900532": {
+        "Id": 13900532,
+        "Name": "チャレンジバトル-Golden-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1320
+    },
+    "13900533": {
+        "Id": 13900533,
+        "Name": "チャレンジバトル-Golden-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1319
+    },
+    "13900534": {
+        "Id": 13900534,
+        "Name": "チャレンジバトル-Golden-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1318
+    },
+    "13900535": {
+        "Id": 13900535,
+        "Name": "チャレンジバトル-Golden-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1317
+    },
+    "13900536": {
+        "Id": 13900536,
+        "Name": "チャレンジバトル-Golden-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1316
+    },
+    "13900537": {
+        "Id": 13900537,
+        "Name": "チャレンジバトル-Golden-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1315
+    },
+    "13900538": {
+        "Id": 13900538,
+        "Name": "チャレンジバトル-Golden-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1314
+    },
+    "13900539": {
+        "Id": 13900539,
+        "Name": "チャレンジバトル-Golden-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1313
+    },
+    "13900540": {
+        "Id": 13900540,
+        "Name": "チャレンジバトル-Golden-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1312
+    },
+    "13900541": {
+        "Id": 13900541,
+        "Name": "チャレンジバトル-Golden-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1311
+    },
+    "13900542": {
+        "Id": 13900542,
+        "Name": "チャレンジバトル-Golden-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1310
+    },
+    "13900543": {
+        "Id": 13900543,
+        "Name": "ハイスピードエトワールコラボカップ 優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1309
+    },
+    "13900544": {
+        "Id": 13900544,
+        "Name": "ハイスピードエトワールコラボカップ 優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1308
+    },
+    "13200031": {
+        "Id": 13200031,
+        "Name": "イベントBOXガチャチケット(エトワール前編)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(エトワール前編)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1359
+    },
+    "12902449": {
+        "Id": 12902449,
+        "Name": "ハイスピードエトワール：凛",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1358
+    },
+    "12902473": {
+        "Id": 12902473,
+        "Name": "ハイスピードエトワール：ソフィア",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1357
+    },
+    "12902497": {
+        "Id": 12902497,
+        "Name": "ハイスピードエトワール：永遠",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1356
     }
 }

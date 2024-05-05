@@ -178,5 +178,14 @@
         "ConditionTargetDetailId": 1,
         "MainEffectId": 520011,
         "SubEffectId": 0
+    },
+    "301009": {
+        "Id": 301009,
+        "MachineSkillText": "時間が夜の時、マシンのSPチャージ力が2アップ",
+        "MachineIconId": 103,
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520010,
+        "SubEffectId": 0
     }
 }

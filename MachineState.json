@@ -42,5 +42,27 @@
         "MaxCriticalAtk": 0,
         "MaxHpHeal": 0,
         "MaxSpCharge": 0
+    },
+    "3": {
+        "Id": 3,
+        "GroupId": 1,
+        "MinLevel": 120,
+        "MaxLevel": 140,
+        "MinHp": 7000,
+        "MinAtk": 1200,
+        "MinDef": 500,
+        "MinStun": 0,
+        "MinCritical": 0,
+        "MinCriticalAtk": 0,
+        "MinHpHeal": 0,
+        "MinSpCharge": 0,
+        "MaxHp": 9000,
+        "MaxAtk": 1400,
+        "MaxDef": 600,
+        "MaxStun": 0,
+        "MaxCritical": 0,
+        "MaxCriticalAtk": 0,
+        "MaxHpHeal": 0,
+        "MaxSpCharge": 0
     }
 }

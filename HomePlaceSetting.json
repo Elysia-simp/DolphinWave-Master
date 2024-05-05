@@ -134,5 +134,29 @@
         "PlaceInfo3": "95,100,0,-90",
         "UseWindSim": true,
         "WazaDataName": "home_special_plcom,home_map_volleyball"
+    },
+    "171": {
+        "Id": 171,
+        "PlaceInfo1": "130,-16,18,-217",
+        "PlaceInfo2": "190,-12,18,-215",
+        "PlaceInfo3": "-32,-7,18,-195",
+        "UseWindSim": false,
+        "WazaDataName": ""
+    },
+    "181": {
+        "Id": 181,
+        "PlaceInfo1": "130,-16,18,-217",
+        "PlaceInfo2": "190,-12,18,-215",
+        "PlaceInfo3": "-32,-7,18,-195",
+        "UseWindSim": false,
+        "WazaDataName": ""
+    },
+    "191": {
+        "Id": 191,
+        "PlaceInfo1": "120,995,4,-80",
+        "PlaceInfo2": "90,-150,15,0",
+        "PlaceInfo3": "55,1006,93.256,226",
+        "UseWindSim": true,
+        "WazaDataName": ""
     }
 }
