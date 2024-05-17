@@ -11950,5 +11950,293 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1356
+    },
+    "1070014501": {
+        "Id": 1070014501,
+        "Name": "アイネス(カナタのリンクスーツ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "アイネス(カナタのリンクスーツ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1364
+    },
+    "1060024502": {
+        "Id": 1060024502,
+        "Name": "トモ(悠然のリンクスーツ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "トモ(悠然のリンクスーツ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1365
+    },
+    "13300113": {
+        "Id": 13300113,
+        "Name": "武戦レーシングマシンの模型",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1366
+    },
+    "13300114": {
+        "Id": 13300114,
+        "Name": "タイヤの模型",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1367
+    },
+    "13300115": {
+        "Id": 13300115,
+        "Name": "ヘルメットの模型",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1368
+    },
+    "13700027": {
+        "Id": 13700027,
+        "Name": "ボスチケット(エトワール後編)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1369
+    },
+    "13200032": {
+        "Id": 13200032,
+        "Name": "コラボガチャチケット(ハイスピ第2弾)",
+        "Type": 32,
+        "ItemText": "ハイスピコラボチケットガチャ(第2弾)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1370
+    },
+    "13900545": {
+        "Id": 13900545,
+        "Name": "目指せドルフィンの一番星！～後編～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1369
+    },
+    "13900546": {
+        "Id": 13900546,
+        "Name": "目指せドルフィンの一番星！～後編～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1368
+    },
+    "13900547": {
+        "Id": 13900547,
+        "Name": "チャレンジバトル-19th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1367
+    },
+    "13900548": {
+        "Id": 13900548,
+        "Name": "チャレンジバトル-19th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1366
+    },
+    "13900549": {
+        "Id": 13900549,
+        "Name": "チャレンジバトル-19th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1365
+    },
+    "13900550": {
+        "Id": 13900550,
+        "Name": "チャレンジバトル-19th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1364
+    },
+    "13900551": {
+        "Id": 13900551,
+        "Name": "チャレンジバトル-19th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1363
+    },
+    "13900552": {
+        "Id": 13900552,
+        "Name": "チャレンジバトル-19th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1362
+    },
+    "13900553": {
+        "Id": 13900553,
+        "Name": "チャレンジバトル-19th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1361
+    },
+    "13900554": {
+        "Id": 13900554,
+        "Name": "チャレンジバトル-19th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1360
+    },
+    "13900555": {
+        "Id": 13900555,
+        "Name": "チャレンジバトル-19th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1359
+    },
+    "13900556": {
+        "Id": 13900556,
+        "Name": "チャレンジバトル-19th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1358
+    },
+    "13900557": {
+        "Id": 13900557,
+        "Name": "チャレンジバトル-19th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1357
+    },
+    "13900558": {
+        "Id": 13900558,
+        "Name": "チャレンジバトル-19th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1356
+    },
+    "13900559": {
+        "Id": 13900559,
+        "Name": "チャレンジバトル-19th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1355
+    },
+    "13900560": {
+        "Id": 13900560,
+        "Name": "チャレンジバトル-19th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1354
+    },
+    "13900561": {
+        "Id": 13900561,
+        "Name": "チャレンジバトル-19th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1353
+    },
+    "13900562": {
+        "Id": 13900562,
+        "Name": "チャレンジバトル-19th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1352
+    },
+    "13900563": {
+        "Id": 13900563,
+        "Name": "チャレンジバトル-19th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1351
+    },
+    "13900564": {
+        "Id": 13900564,
+        "Name": "チャレンジバトル-19th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1350
+    },
+    "13900565": {
+        "Id": 13900565,
+        "Name": "チャレンジバトル-19th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1349
+    },
+    "13900566": {
+        "Id": 13900566,
+        "Name": "チャレンジバトル-19th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1348
+    },
+    "13900567": {
+        "Id": 13900567,
+        "Name": "チャレンジバトル-19th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1347
+    },
+    "12902521": {
+        "Id": 12902521,
+        "Name": "ハイスピードエトワール：カナタ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1346
+    },
+    "12902545": {
+        "Id": 12902545,
+        "Name": "ハイスピードエトワール：悠然",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1345
     }
 }

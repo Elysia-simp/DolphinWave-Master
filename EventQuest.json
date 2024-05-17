@@ -518,5 +518,25 @@
         "CollectItemGrDisplayId": 4027,
         "ShopId": 0,
         "BgmId": 4
+    },
+    "4028": {
+        "Id": 4028,
+        "EventType": 1,
+        "StartDate": 1715576400,
+        "EndDate": 1716353999,
+        "RewardEndDate": 1716353999,
+        "Enable": true,
+        "DisplayPriority": 0,
+        "Banner": 4028,
+        "SplitBannerPriority": 4028,
+        "EventTypeId1": 128,
+        "EventTypeId2": 129,
+        "EventTypeId3": 130,
+        "EventTypeId4": 0,
+        "EventTypeId5": 0,
+        "EventTypeId6": 0,
+        "CollectItemGrDisplayId": 4028,
+        "ShopId": 130,
+        "BgmId": 4
     }
 }

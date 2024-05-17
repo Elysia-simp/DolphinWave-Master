@@ -2373,5 +2373,43 @@
         "TermSaid": 0,
         "BadgeTargetFlag": 0,
         "SharedGachaPointId": 0
+    },
+    "126": {
+        "Id": 126,
+        "GachaName": "ハイスピードエトワールコラボガチャ第2弾",
+        "Type": 1,
+        "GachaHowToSell1": 12601,
+        "GachaHowToSell2": 12602,
+        "StartDate": 1715576400,
+        "EndDate": 1716353999,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 126,
+        "DisplayPriority": 75948707,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 126
+    },
+    "127": {
+        "Id": 127,
+        "GachaName": "ハイスピードエトワールコラボチケットガチャ第2弾",
+        "Type": 3,
+        "GachaHowToSell1": 12701,
+        "GachaHowToSell2": 12702,
+        "StartDate": 1715576400,
+        "EndDate": 1716353999,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 127,
+        "DisplayPriority": 75948708,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 126
     }
 }

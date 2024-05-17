@@ -1,26 +1,26 @@
 {
-  "releaseNo": 24050200,
-  "version": 126,
+  "releaseNo": 24051300,
+  "version": 79,
   "spareNo": 0,
   "resources": {
     "masters": [
       {
-        "path": "/Assets/Cmn/Master/Accessory.pak.d772a2450b4e85396875bb398cd7b1daddf2cfe0",
+        "path": "/Assets/Cmn/Master/Accessory.pak.3193bab42042da623941cd4a270b871ef95b60a8",
         "name": "/Assets/Cmn/Master/Accessory.pak",
-        "size": 1942016,
-        "sha1": "d772a2450b4e85396875bb398cd7b1daddf2cfe0"
+        "size": 1948848,
+        "sha1": "3193bab42042da623941cd4a270b871ef95b60a8"
       },
       {
-        "path": "/Assets/Cmn/Master/Achievement.pak.df43eeee5d3ad9a6345d3bf42953b190ab965089",
+        "path": "/Assets/Cmn/Master/Achievement.pak.eae79d3d875f1ae9c86baf694244b0b0372acfc1",
         "name": "/Assets/Cmn/Master/Achievement.pak",
-        "size": 1992416,
-        "sha1": "df43eeee5d3ad9a6345d3bf42953b190ab965089"
+        "size": 2021264,
+        "sha1": "eae79d3d875f1ae9c86baf694244b0b0372acfc1"
       },
       {
-        "path": "/Assets/Cmn/Master/ActiveSkill.pak.31ecf0a7db28d74097aeaa04cd9732b9871853aa",
+        "path": "/Assets/Cmn/Master/ActiveSkill.pak.48a8449dc82e382796569a6291c236a07818b2a5",
         "name": "/Assets/Cmn/Master/ActiveSkill.pak",
-        "size": 5744,
-        "sha1": "31ecf0a7db28d74097aeaa04cd9732b9871853aa"
+        "size": 6448,
+        "sha1": "48a8449dc82e382796569a6291c236a07818b2a5"
       },
       {
         "path": "/Assets/Cmn/Master/ActiveSkillBuildupPattern.pak.b6706486b9d1cf0a0462d694a90b22771030162e",
@@ -227,10 +227,10 @@
         "sha1": "8980b59668fcef87a1445c7bc6e312a078cff1bf"
       },
       {
-        "path": "/Assets/Cmn/Master/BottomsCostume.pak.921f08c768e0219b2a40727f1d93992c72482d28",
+        "path": "/Assets/Cmn/Master/BottomsCostume.pak.c8566e4a05f92e52a656f8739720a954fb88236d",
         "name": "/Assets/Cmn/Master/BottomsCostume.pak",
-        "size": 845600,
-        "sha1": "921f08c768e0219b2a40727f1d93992c72482d28"
+        "size": 850880,
+        "sha1": "c8566e4a05f92e52a656f8739720a954fb88236d"
       },
       {
         "path": "/Assets/Cmn/Master/BoxGacha.pak.fd54690dd392a0c05a633313894965e680d71da5",
@@ -281,10 +281,10 @@
         "sha1": "14c247994ac10c3ef1775aeb2996968517a81d1a"
       },
       {
-        "path": "/Assets/Cmn/Master/CardGacha.pak.e29b98ce8cd2c4b6133b1248002867dab306dbe9",
+        "path": "/Assets/Cmn/Master/CardGacha.pak.1384d8c6aa784b6a70ae052da2ff1a54225afc9b",
         "name": "/Assets/Cmn/Master/CardGacha.pak",
-        "size": 53904,
-        "sha1": "e29b98ce8cd2c4b6133b1248002867dab306dbe9"
+        "size": 54992,
+        "sha1": "1384d8c6aa784b6a70ae052da2ff1a54225afc9b"
       },
       {
         "path": "/Assets/Cmn/Master/CardLevelLimit.pak.9707ff9d61b6e0e5ecdfdee11af0ea261371a97c",
@@ -293,16 +293,16 @@
         "sha1": "9707ff9d61b6e0e5ecdfdee11af0ea261371a97c"
       },
       {
-        "path": "/Assets/Cmn/Master/CardWeightGroup.pak.eedbb6b484f8c47fc46b8c5c226dea520b7f29b0",
+        "path": "/Assets/Cmn/Master/CardWeightGroup.pak.5245e4e40c04b640e4a0ca6967db6188ebbbfd96",
         "name": "/Assets/Cmn/Master/CardWeightGroup.pak",
-        "size": 1499264,
-        "sha1": "eedbb6b484f8c47fc46b8c5c226dea520b7f29b0"
+        "size": 1534480,
+        "sha1": "5245e4e40c04b640e4a0ca6967db6188ebbbfd96"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeAchievementReward.pak.c93ca051195e23c2947528d9380112ab61dfcd6b",
+        "path": "/Assets/Cmn/Master/ChallengeAchievementReward.pak.e0a429909758d4dd6a4fd34d68a854e99943786a",
         "name": "/Assets/Cmn/Master/ChallengeAchievementReward.pak",
-        "size": 132912,
-        "sha1": "c93ca051195e23c2947528d9380112ab61dfcd6b"
+        "size": 140192,
+        "sha1": "e0a429909758d4dd6a4fd34d68a854e99943786a"
       },
       {
         "path": "/Assets/Cmn/Master/ChallengeActionBonusMag.pak.e099fe2a0e03b9a82c1b6fafa915e25f7471a5f0",
@@ -311,10 +311,10 @@
         "sha1": "e099fe2a0e03b9a82c1b6fafa915e25f7471a5f0"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeBossTxt.pak.5d6e5a5577680a0cc898cf07e5e4753531e96268",
+        "path": "/Assets/Cmn/Master/ChallengeBossTxt.pak.74f746a5c26c333bc48ebd691d0051aa9b7977ab",
         "name": "/Assets/Cmn/Master/ChallengeBossTxt.pak",
-        "size": 6992,
-        "sha1": "5d6e5a5577680a0cc898cf07e5e4753531e96268"
+        "size": 7360,
+        "sha1": "74f746a5c26c333bc48ebd691d0051aa9b7977ab"
       },
       {
         "path": "/Assets/Cmn/Master/ChallengeBreakBonusMag.pak.3ab50c1a61fc5a9730915d2af793b6de77e85d93",
@@ -335,40 +335,40 @@
         "sha1": "680dd74409f1a33f709f2aa0edd9027178c085e6"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeEnemySet.pak.502ebae074e13f52cc1972afe6ceb5769952c3b6",
+        "path": "/Assets/Cmn/Master/ChallengeEnemySet.pak.af212560e52984fa3567f3d22f478fc7bcb1e202",
         "name": "/Assets/Cmn/Master/ChallengeEnemySet.pak",
-        "size": 136272,
-        "sha1": "502ebae074e13f52cc1972afe6ceb5769952c3b6"
+        "size": 143456,
+        "sha1": "af212560e52984fa3567f3d22f478fc7bcb1e202"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeGroupRankingReward.pak.8ec939fc471aa5372b6b341685672745fb324c5a",
+        "path": "/Assets/Cmn/Master/ChallengeGroupRankingReward.pak.4fcb87dd6996f8e9ea06286a117d10f269ec95b2",
         "name": "/Assets/Cmn/Master/ChallengeGroupRankingReward.pak",
-        "size": 4128,
-        "sha1": "8ec939fc471aa5372b6b341685672745fb324c5a"
+        "size": 6176,
+        "sha1": "4fcb87dd6996f8e9ea06286a117d10f269ec95b2"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeQuest.pak.c5680c9945fd025cb5ed9666af268eacc66e5e9c",
+        "path": "/Assets/Cmn/Master/ChallengeQuest.pak.753b1ffd4caeeebef8d25641cc17eed1084e72c2",
         "name": "/Assets/Cmn/Master/ChallengeQuest.pak",
-        "size": 3200,
-        "sha1": "c5680c9945fd025cb5ed9666af268eacc66e5e9c"
+        "size": 3360,
+        "sha1": "753b1ffd4caeeebef8d25641cc17eed1084e72c2"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeRankingReward.pak.be5e1340ccf8c316712d8eaaaa1348d8ab0e7286",
+        "path": "/Assets/Cmn/Master/ChallengeRankingReward.pak.c10ef9d60ad55a1ba64e850bddc67b097065862b",
         "name": "/Assets/Cmn/Master/ChallengeRankingReward.pak",
-        "size": 47840,
-        "sha1": "be5e1340ccf8c316712d8eaaaa1348d8ab0e7286"
+        "size": 50368,
+        "sha1": "c10ef9d60ad55a1ba64e850bddc67b097065862b"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeScoreReward.pak.0ce5faf6b18cb2f47d3c72980200c23b3caa7364",
+        "path": "/Assets/Cmn/Master/ChallengeScoreReward.pak.125c3ab836973619f40fc13ec677d87f337e7beb",
         "name": "/Assets/Cmn/Master/ChallengeScoreReward.pak",
-        "size": 692016,
-        "sha1": "0ce5faf6b18cb2f47d3c72980200c23b3caa7364"
+        "size": 729136,
+        "sha1": "125c3ab836973619f40fc13ec677d87f337e7beb"
       },
       {
-        "path": "/Assets/Cmn/Master/ChallengeStageManagement.pak.3bf25dd63018848dca92866ff2b4099960841ec8",
+        "path": "/Assets/Cmn/Master/ChallengeStageManagement.pak.1fd64a6627df6a08d2a1602e50c2f105a8704962",
         "name": "/Assets/Cmn/Master/ChallengeStageManagement.pak",
-        "size": 16704,
-        "sha1": "3bf25dd63018848dca92866ff2b4099960841ec8"
+        "size": 17584,
+        "sha1": "1fd64a6627df6a08d2a1602e50c2f105a8704962"
       },
       {
         "path": "/Assets/Cmn/Master/CharaCardExperience.pak.84870dd07485973eca1972582bee3d594d82b704",
@@ -377,10 +377,10 @@
         "sha1": "84870dd07485973eca1972582bee3d594d82b704"
       },
       {
-        "path": "/Assets/Cmn/Master/CharaCardGroup.pak.5b0325aba270134b1240af3b2ac178735db7ce99",
+        "path": "/Assets/Cmn/Master/CharaCardGroup.pak.b836c0f5fbffcfb142151a2b85250aa117c86c85",
         "name": "/Assets/Cmn/Master/CharaCardGroup.pak",
-        "size": 290720,
-        "sha1": "5b0325aba270134b1240af3b2ac178735db7ce99"
+        "size": 291872,
+        "sha1": "b836c0f5fbffcfb142151a2b85250aa117c86c85"
       },
       {
         "path": "/Assets/Cmn/Master/CharaCardPotentialItem.pak.30a88880878e3082efac7257cf9ad1ce98bc54ee",
@@ -401,10 +401,10 @@
         "sha1": "95b71ef52ca698e6af891ae0868eb4c01e31e121"
       },
       {
-        "path": "/Assets/Cmn/Master/CharaCardState.pak.2a5d403ffcbcf42e2f60f257f543e65c16f47d7d",
+        "path": "/Assets/Cmn/Master/CharaCardState.pak.2b2a58c2a8df9c92f6f750187aa2b85dc04cffdf",
         "name": "/Assets/Cmn/Master/CharaCardState.pak",
-        "size": 1412800,
-        "sha1": "2a5d403ffcbcf42e2f60f257f543e65c16f47d7d"
+        "size": 1424368,
+        "sha1": "2b2a58c2a8df9c92f6f750187aa2b85dc04cffdf"
       },
       {
         "path": "/Assets/Cmn/Master/CharaChat.pak.a73cdc3c18ca848dd4c8bd7bdbc374e8b85489a8",
@@ -425,10 +425,10 @@
         "sha1": "7905988f8e2f873df48ff542d77da38762a33e66"
       },
       {
-        "path": "/Assets/Cmn/Master/CharaImagePlaceSetting.pak.e1d4d4ef50283a211117fd2a56b3987ae5e1b18f",
+        "path": "/Assets/Cmn/Master/CharaImagePlaceSetting.pak.3f0a5d19c758f0eff1367ff3c4d59c56b898d477",
         "name": "/Assets/Cmn/Master/CharaImagePlaceSetting.pak",
-        "size": 11056,
-        "sha1": "e1d4d4ef50283a211117fd2a56b3987ae5e1b18f"
+        "size": 11168,
+        "sha1": "3f0a5d19c758f0eff1367ff3c4d59c56b898d477"
       },
       {
         "path": "/Assets/Cmn/Master/CharaRelationship.pak.11ca1cb33b15480ad5617e228b3b4d7ce10038aa",
@@ -449,10 +449,10 @@
         "sha1": "e0aa8f64f0236c17061d14fd4c9ce51e9fdcbc0a"
       },
       {
-        "path": "/Assets/Cmn/Master/CharacterHair.pak.3f60661e844c718c531e80429906bf2533a6e164",
+        "path": "/Assets/Cmn/Master/CharacterHair.pak.46ece65209585484fb48477c71ed3e69bd1a12a6",
         "name": "/Assets/Cmn/Master/CharacterHair.pak",
-        "size": 277072,
-        "sha1": "3f60661e844c718c531e80429906bf2533a6e164"
+        "size": 286528,
+        "sha1": "46ece65209585484fb48477c71ed3e69bd1a12a6"
       },
       {
         "path": "/Assets/Cmn/Master/ClosePointChara.pak.18563702c2080238ce60f382e6d0ae1ccef85797",
@@ -461,10 +461,10 @@
         "sha1": "18563702c2080238ce60f382e6d0ae1ccef85797"
       },
       {
-        "path": "/Assets/Cmn/Master/ClosePointGroup.pak.1a2c3674f68c3ada748d408476b63adaa3c45c19",
+        "path": "/Assets/Cmn/Master/ClosePointGroup.pak.efa8cc6223c290e06c25b3a6da2e17704b4011f0",
         "name": "/Assets/Cmn/Master/ClosePointGroup.pak",
-        "size": 12128,
-        "sha1": "1a2c3674f68c3ada748d408476b63adaa3c45c19"
+        "size": 12448,
+        "sha1": "efa8cc6223c290e06c25b3a6da2e17704b4011f0"
       },
       {
         "path": "/Assets/Cmn/Master/ClosenessExperience.pak.3a78f3d53fe7aab64e64e3edf39032a581e998ed",
@@ -485,10 +485,10 @@
         "sha1": "98704ad020b95b922cd4b981adb95937ef8dbdf1"
       },
       {
-        "path": "/Assets/Cmn/Master/CollectItemGrDisplay.pak.a946d081c93087e09c90139bb0f702f6c9f7e759",
+        "path": "/Assets/Cmn/Master/CollectItemGrDisplay.pak.690e0e8a528aa78a7bbf884d266fd1ed14f8cdca",
         "name": "/Assets/Cmn/Master/CollectItemGrDisplay.pak",
-        "size": 7296,
-        "sha1": "a946d081c93087e09c90139bb0f702f6c9f7e759"
+        "size": 7456,
+        "sha1": "690e0e8a528aa78a7bbf884d266fd1ed14f8cdca"
       },
       {
         "path": "/Assets/Cmn/Master/ColorPointManagement.pak.c73e9d47b1b664017cc015d6752c12b1f8bba828",
@@ -521,28 +521,28 @@
         "sha1": "58ed1e2f71fb063f8e75c62d633c9df222156276"
       },
       {
-        "path": "/Assets/Cmn/Master/Costume.pak.6755acb4df715f1e9ecf98af53b0db43d82cfcb2",
+        "path": "/Assets/Cmn/Master/Costume.pak.dae3ea1226ee13118b5d01c59435bb83b33f5b93",
         "name": "/Assets/Cmn/Master/Costume.pak",
-        "size": 286880,
-        "sha1": "6755acb4df715f1e9ecf98af53b0db43d82cfcb2"
+        "size": 291952,
+        "sha1": "dae3ea1226ee13118b5d01c59435bb83b33f5b93"
       },
       {
-        "path": "/Assets/Cmn/Master/CostumeOpen.pak.3d2489b8f8a37205c0f126abcc11bfefc4772c05",
+        "path": "/Assets/Cmn/Master/CostumeOpen.pak.2bcf29d68ac49a38737b8a66d1099fc0c3c4cb9f",
         "name": "/Assets/Cmn/Master/CostumeOpen.pak",
-        "size": 25536,
-        "sha1": "3d2489b8f8a37205c0f126abcc11bfefc4772c05"
+        "size": 25760,
+        "sha1": "2bcf29d68ac49a38737b8a66d1099fc0c3c4cb9f"
       },
       {
-        "path": "/Assets/Cmn/Master/CurrencyItemGroup.pak.6692c544aa0e738fc2590eb26710c75bd3448da0",
+        "path": "/Assets/Cmn/Master/CurrencyItemGroup.pak.1dd1a196789bdce05ca3547cbfcff99f7baf643f",
         "name": "/Assets/Cmn/Master/CurrencyItemGroup.pak",
-        "size": 43200,
-        "sha1": "6692c544aa0e738fc2590eb26710c75bd3448da0"
+        "size": 43360,
+        "sha1": "1dd1a196789bdce05ca3547cbfcff99f7baf643f"
       },
       {
-        "path": "/Assets/Cmn/Master/CurrencyShop.pak.3fd54d417cad3c2771e278a23b473cff41fd8299",
+        "path": "/Assets/Cmn/Master/CurrencyShop.pak.097eaace2b968c4203d2f659584b0252faa34748",
         "name": "/Assets/Cmn/Master/CurrencyShop.pak",
-        "size": 56128,
-        "sha1": "3fd54d417cad3c2771e278a23b473cff41fd8299"
+        "size": 57584,
+        "sha1": "097eaace2b968c4203d2f659584b0252faa34748"
       },
       {
         "path": "/Assets/Cmn/Master/DailyChat.pak.afa6c3fa60da213b7a26792618a3687fcbd56740",
@@ -593,34 +593,34 @@
         "sha1": "17ded13eb4bf15c030afc86516da0ec825afa6f1"
       },
       {
-        "path": "/Assets/Cmn/Master/DioramaPose.pak.019a6a55540578fba35e94f5e3eecc0b8bfb17d9",
+        "path": "/Assets/Cmn/Master/DioramaPose.pak.c589afb10c1c3da188ce74e7b9792bc8fe08238e",
         "name": "/Assets/Cmn/Master/DioramaPose.pak",
-        "size": 350272,
-        "sha1": "019a6a55540578fba35e94f5e3eecc0b8bfb17d9"
+        "size": 358256,
+        "sha1": "c589afb10c1c3da188ce74e7b9792bc8fe08238e"
       },
       {
-        "path": "/Assets/Cmn/Master/DropBonusCharacterCard.pak.a8929abd4b732507cb45790bd513eb83320c3070",
+        "path": "/Assets/Cmn/Master/DropBonusCharacterCard.pak.6f5e10583b8da803142a28ca16bebe27d1c52bdb",
         "name": "/Assets/Cmn/Master/DropBonusCharacterCard.pak",
-        "size": 6592,
-        "sha1": "a8929abd4b732507cb45790bd513eb83320c3070"
+        "size": 6848,
+        "sha1": "6f5e10583b8da803142a28ca16bebe27d1c52bdb"
       },
       {
-        "path": "/Assets/Cmn/Master/DropBonusEquipmentCard.pak.16be3afd0d089766c277b2d68b29b38d180c8a83",
+        "path": "/Assets/Cmn/Master/DropBonusEquipmentCard.pak.b5f2b1c6c45e7946091768ad099bab5a4a55a298",
         "name": "/Assets/Cmn/Master/DropBonusEquipmentCard.pak",
-        "size": 5104,
-        "sha1": "16be3afd0d089766c277b2d68b29b38d180c8a83"
+        "size": 5328,
+        "sha1": "b5f2b1c6c45e7946091768ad099bab5a4a55a298"
       },
       {
-        "path": "/Assets/Cmn/Master/DropItemGroup.pak.b64b58f892b190236ff5da4a94c079c2e272dc47",
+        "path": "/Assets/Cmn/Master/DropItemGroup.pak.1d6a3f787bef8a8e86e322eb6f27878e83c12baa",
         "name": "/Assets/Cmn/Master/DropItemGroup.pak",
-        "size": 859424,
-        "sha1": "b64b58f892b190236ff5da4a94c079c2e272dc47"
+        "size": 868912,
+        "sha1": "1d6a3f787bef8a8e86e322eb6f27878e83c12baa"
       },
       {
-        "path": "/Assets/Cmn/Master/EnemySet.pak.da5f111abab0c1bc07cb1d3ce23af9ed629f17a0",
+        "path": "/Assets/Cmn/Master/EnemySet.pak.6e0b9301ac5db28d06a72da7cfa768b1908602bd",
         "name": "/Assets/Cmn/Master/EnemySet.pak",
-        "size": 7025296,
-        "sha1": "da5f111abab0c1bc07cb1d3ce23af9ed629f17a0"
+        "size": 7094736,
+        "sha1": "6e0b9301ac5db28d06a72da7cfa768b1908602bd"
       },
       {
         "path": "/Assets/Cmn/Master/EntryRule.pak.149b2ba951e1b35e673fb7c416ede4f269fd686e",
@@ -641,10 +641,10 @@
         "sha1": "7577ac9c3c33bca0f35cb19f252de1d51e64789c"
       },
       {
-        "path": "/Assets/Cmn/Master/EquipmentCard.pak.7660c5137ac47f412178371f575605cc4bf933a6",
+        "path": "/Assets/Cmn/Master/EquipmentCard.pak.bc0a5aff0ef91b4d8ef4b865b1c1e8e9ca7bdfef",
         "name": "/Assets/Cmn/Master/EquipmentCard.pak",
-        "size": 171440,
-        "sha1": "7660c5137ac47f412178371f575605cc4bf933a6"
+        "size": 173360,
+        "sha1": "bc0a5aff0ef91b4d8ef4b865b1c1e8e9ca7bdfef"
       },
       {
         "path": "/Assets/Cmn/Master/EquipmentLevelLimit.pak.869255114689f0cdcc8ffc656d3405cef620e7fd",
@@ -665,34 +665,34 @@
         "sha1": "7e3934b4ddb4d63ed4d7aa1ff491236d11fc58c2"
       },
       {
-        "path": "/Assets/Cmn/Master/EventLoginBonus.pak.94edc915d5b589e603ceb4f9e34ece8fb9665e30",
+        "path": "/Assets/Cmn/Master/EventLoginBonus.pak.7256b10ab31cb0bba8e93788648aa13012a30e6e",
         "name": "/Assets/Cmn/Master/EventLoginBonus.pak",
-        "size": 69472,
-        "sha1": "94edc915d5b589e603ceb4f9e34ece8fb9665e30"
+        "size": 70448,
+        "sha1": "7256b10ab31cb0bba8e93788648aa13012a30e6e"
       },
       {
-        "path": "/Assets/Cmn/Master/EventQuest.pak.e5e51ca183e5f1dbe185c449b785fd91c7c9a337",
+        "path": "/Assets/Cmn/Master/EventQuest.pak.29fb059942ca7dcb8ed7b5ce8dd2db14d672c178",
         "name": "/Assets/Cmn/Master/EventQuest.pak",
-        "size": 6608,
-        "sha1": "e5e51ca183e5f1dbe185c449b785fd91c7c9a337"
+        "size": 6880,
+        "sha1": "29fb059942ca7dcb8ed7b5ce8dd2db14d672c178"
       },
       {
-        "path": "/Assets/Cmn/Master/EventQuestBossManagement.pak.d02e9102a093897ace748353e6caadeb84d0946b",
+        "path": "/Assets/Cmn/Master/EventQuestBossManagement.pak.eac592628f1ffe49f07fd0ecd1a22598f3b42476",
         "name": "/Assets/Cmn/Master/EventQuestBossManagement.pak",
-        "size": 15584,
-        "sha1": "d02e9102a093897ace748353e6caadeb84d0946b"
+        "size": 16192,
+        "sha1": "eac592628f1ffe49f07fd0ecd1a22598f3b42476"
       },
       {
-        "path": "/Assets/Cmn/Master/ExchangeMedal.pak.10a352056efe32c223867535bb102a1508fd7a2b",
+        "path": "/Assets/Cmn/Master/ExchangeMedal.pak.dfc85806b82f0ab2ae4a62465ca30ea2414013c0",
         "name": "/Assets/Cmn/Master/ExchangeMedal.pak",
-        "size": 1222240,
-        "sha1": "10a352056efe32c223867535bb102a1508fd7a2b"
+        "size": 1247968,
+        "sha1": "dfc85806b82f0ab2ae4a62465ca30ea2414013c0"
       },
       {
-        "path": "/Assets/Cmn/Master/ExchangeMedalManagement.pak.2fd463e97b3883d4c3c2bac62b80a48d1b359492",
+        "path": "/Assets/Cmn/Master/ExchangeMedalManagement.pak.4c48f9f7a9cec7c51e5fa1a22c12d57b7b5472b1",
         "name": "/Assets/Cmn/Master/ExchangeMedalManagement.pak",
-        "size": 8176,
-        "sha1": "2fd463e97b3883d4c3c2bac62b80a48d1b359492"
+        "size": 8368,
+        "sha1": "4c48f9f7a9cec7c51e5fa1a22c12d57b7b5472b1"
       },
       {
         "path": "/Assets/Cmn/Master/ExclusiveAccessory.pak.8a0f70496ac8038e767d54cc4a8dd0340e6ae0b5",
@@ -725,28 +725,28 @@
         "sha1": "012fd473f6c0ac06a46993494d82eaf9d600c147"
       },
       {
-        "path": "/Assets/Cmn/Master/GachaManagement.pak.dd42a8d2faa455f85f4fd943574cfad21b2bf785",
+        "path": "/Assets/Cmn/Master/GachaManagement.pak.263d9ef1969f4d906fe269bd19fdbbd0cbb5cf28",
         "name": "/Assets/Cmn/Master/GachaManagement.pak",
-        "size": 35488,
-        "sha1": "dd42a8d2faa455f85f4fd943574cfad21b2bf785"
+        "size": 36096,
+        "sha1": "263d9ef1969f4d906fe269bd19fdbbd0cbb5cf28"
       },
       {
-        "path": "/Assets/Cmn/Master/GachaPickupDisplayedCard.pak.c9b0c8f3759462a53b88318724e8834afd472856",
+        "path": "/Assets/Cmn/Master/GachaPickupDisplayedCard.pak.db0eb91edf580a173d953563aacfa351ab765f9c",
         "name": "/Assets/Cmn/Master/GachaPickupDisplayedCard.pak",
-        "size": 34128,
-        "sha1": "c9b0c8f3759462a53b88318724e8834afd472856"
+        "size": 35440,
+        "sha1": "db0eb91edf580a173d953563aacfa351ab765f9c"
       },
       {
-        "path": "/Assets/Cmn/Master/GachaTrade.pak.5ae115ca2ed63bf4cfd9ce7cffc50e56d707a9a5",
+        "path": "/Assets/Cmn/Master/GachaTrade.pak.777b89ac084baf66219f037485c2c725830fb846",
         "name": "/Assets/Cmn/Master/GachaTrade.pak",
-        "size": 19216,
-        "sha1": "5ae115ca2ed63bf4cfd9ce7cffc50e56d707a9a5"
+        "size": 19680,
+        "sha1": "777b89ac084baf66219f037485c2c725830fb846"
       },
       {
-        "path": "/Assets/Cmn/Master/GachaWeightGroup.pak.40396df0599e564979cbc586e7fbdb70a024240c",
+        "path": "/Assets/Cmn/Master/GachaWeightGroup.pak.9f8b97b7cdc9b71e00f2b4315621e8f7101ebd15",
         "name": "/Assets/Cmn/Master/GachaWeightGroup.pak",
-        "size": 102400,
-        "sha1": "40396df0599e564979cbc586e7fbdb70a024240c"
+        "size": 104752,
+        "sha1": "9f8b97b7cdc9b71e00f2b4315621e8f7101ebd15"
       },
       {
         "path": "/Assets/Cmn/Master/Genre.pak.7266aac16c2db35d78bb8c494bf4845617118189",
@@ -755,22 +755,22 @@
         "sha1": "7266aac16c2db35d78bb8c494bf4845617118189"
       },
       {
-        "path": "/Assets/Cmn/Master/GroupChat.pak.6ca7f69bb19ad9a55835a8ee2d45e9a605113796",
+        "path": "/Assets/Cmn/Master/GroupChat.pak.16fe8f7ed00e70e429b6f802254f10fccfd716b4",
         "name": "/Assets/Cmn/Master/GroupChat.pak",
-        "size": 6816,
-        "sha1": "6ca7f69bb19ad9a55835a8ee2d45e9a605113796"
+        "size": 6976,
+        "sha1": "16fe8f7ed00e70e429b6f802254f10fccfd716b4"
       },
       {
-        "path": "/Assets/Cmn/Master/GroupChatMessage.pak.739512ca9b3f7ae557fb557dedbf5999bfe8aca2",
+        "path": "/Assets/Cmn/Master/GroupChatMessage.pak.678e00a19aaec2e1fe7ab02b1c2397b64337dfac",
         "name": "/Assets/Cmn/Master/GroupChatMessage.pak",
-        "size": 285136,
-        "sha1": "739512ca9b3f7ae557fb557dedbf5999bfe8aca2"
+        "size": 293360,
+        "sha1": "678e00a19aaec2e1fe7ab02b1c2397b64337dfac"
       },
       {
-        "path": "/Assets/Cmn/Master/GroupChatName.pak.ae1a88e64fa9d07984c239a88c68c97b168a3bf6",
+        "path": "/Assets/Cmn/Master/GroupChatName.pak.d1eaa7f8039e92ca55f8e005e58201c7275f982f",
         "name": "/Assets/Cmn/Master/GroupChatName.pak",
-        "size": 2928,
-        "sha1": "ae1a88e64fa9d07984c239a88c68c97b168a3bf6"
+        "size": 3040,
+        "sha1": "d1eaa7f8039e92ca55f8e005e58201c7275f982f"
       },
       {
         "path": "/Assets/Cmn/Master/HelpBody.pak.94f2671b816d679f16bbfb698adae03d659d5553",
@@ -785,10 +785,10 @@
         "sha1": "03c44bc6c7a06ce419ead6995d6fb0aa32e91e9f"
       },
       {
-        "path": "/Assets/Cmn/Master/HomeBanner.pak.339e01c0aaec9838f2fb01a0d381d9e0cd001f5e",
+        "path": "/Assets/Cmn/Master/HomeBanner.pak.9d116256f7ab409bd82f7eca13ef8c3f1efdd7c9",
         "name": "/Assets/Cmn/Master/HomeBanner.pak",
-        "size": 19824,
-        "sha1": "339e01c0aaec9838f2fb01a0d381d9e0cd001f5e"
+        "size": 20288,
+        "sha1": "9d116256f7ab409bd82f7eca13ef8c3f1efdd7c9"
       },
       {
         "path": "/Assets/Cmn/Master/HomeCharaEntryList.pak.e9a28831f662e8d9427a37e08a0c686cca4680f5",
@@ -815,16 +815,16 @@
         "sha1": "beca39b85b8d8942efb1a44477a8253b98a7892b"
       },
       {
-        "path": "/Assets/Cmn/Master/Item.pak.1ad412867b8e4cb8001bc7099d725cedcd2e900f",
+        "path": "/Assets/Cmn/Master/Item.pak.033e8f645b1bc370a8df0ce87c34b149f3abda0b",
         "name": "/Assets/Cmn/Master/Item.pak",
-        "size": 220640,
-        "sha1": "1ad412867b8e4cb8001bc7099d725cedcd2e900f"
+        "size": 225392,
+        "sha1": "033e8f645b1bc370a8df0ce87c34b149f3abda0b"
       },
       {
-        "path": "/Assets/Cmn/Master/ItemGroup.pak.fe3ce44d31ed1a622f7cb5789f768e353b5f7abf",
+        "path": "/Assets/Cmn/Master/ItemGroup.pak.c30b87805ef825ee1be4d91327e069e8198722fc",
         "name": "/Assets/Cmn/Master/ItemGroup.pak",
-        "size": 194880,
-        "sha1": "fe3ce44d31ed1a622f7cb5789f768e353b5f7abf"
+        "size": 195488,
+        "sha1": "c30b87805ef825ee1be4d91327e069e8198722fc"
       },
       {
         "path": "/Assets/Cmn/Master/ItemSellAdditional.pak.432da0ff2a6ef58bfd1ec262155134a7e2d4da40",
@@ -851,16 +851,16 @@
         "sha1": "bc89a8a1b4576331aa5cd1fb93cff5be89c946d0"
       },
       {
-        "path": "/Assets/Cmn/Master/Live2DPlaceSetting.pak.6db6f378e8d081a130c54c81af071bf0fb005ef3",
+        "path": "/Assets/Cmn/Master/Live2DPlaceSetting.pak.f6cbd58b6df061b6f2b64694f39ac21b70cc0dc6",
         "name": "/Assets/Cmn/Master/Live2DPlaceSetting.pak",
-        "size": 7312,
-        "sha1": "6db6f378e8d081a130c54c81af071bf0fb005ef3"
+        "size": 7424,
+        "sha1": "f6cbd58b6df061b6f2b64694f39ac21b70cc0dc6"
       },
       {
-        "path": "/Assets/Cmn/Master/LoginBonus.pak.732f704cdb86c9b88932bb34d897c631bb847d29",
+        "path": "/Assets/Cmn/Master/LoginBonus.pak.884266bfef8793c7d54ebf45210e3bf98b61ef6b",
         "name": "/Assets/Cmn/Master/LoginBonus.pak",
-        "size": 8048,
-        "sha1": "732f704cdb86c9b88932bb34d897c631bb847d29"
+        "size": 8128,
+        "sha1": "884266bfef8793c7d54ebf45210e3bf98b61ef6b"
       },
       {
         "path": "/Assets/Cmn/Master/LoginGift.pak.d5224d3843ba4b108de818b0ecf51f4c09a13976",
@@ -977,10 +977,10 @@
         "sha1": "cd68c6efe714868a1d6f33a6dad71154d0312c02"
       },
       {
-        "path": "/Assets/Cmn/Master/OtherStory.pak.4b1d4330791ebc7f01f9d5d644c7e9fee968298d",
+        "path": "/Assets/Cmn/Master/OtherStory.pak.78debb9b421579cbe4c52f91e3a554ea2746b282",
         "name": "/Assets/Cmn/Master/OtherStory.pak",
-        "size": 52752,
-        "sha1": "4b1d4330791ebc7f01f9d5d644c7e9fee968298d"
+        "size": 53584,
+        "sha1": "78debb9b421579cbe4c52f91e3a554ea2746b282"
       },
       {
         "path": "/Assets/Cmn/Master/PassiveCategoryManagement.pak.69e18082bf334ea3a29d0d120e93500c3c07cd87",
@@ -989,10 +989,10 @@
         "sha1": "69e18082bf334ea3a29d0d120e93500c3c07cd87"
       },
       {
-        "path": "/Assets/Cmn/Master/PassiveSkill.pak.58f344f10f2acd8d76f59261c254f47f54988cfb",
+        "path": "/Assets/Cmn/Master/PassiveSkill.pak.5e1c6537d955b023e3598f38302c33187225aaf6",
         "name": "/Assets/Cmn/Master/PassiveSkill.pak",
-        "size": 107744,
-        "sha1": "58f344f10f2acd8d76f59261c254f47f54988cfb"
+        "size": 108992,
+        "sha1": "5e1c6537d955b023e3598f38302c33187225aaf6"
       },
       {
         "path": "/Assets/Cmn/Master/PassiveSkillCategory.pak.4746eefe54404282e949455749bccadabe3e632e",
@@ -1001,10 +1001,10 @@
         "sha1": "4746eefe54404282e949455749bccadabe3e632e"
       },
       {
-        "path": "/Assets/Cmn/Master/PassiveSkillEffect.pak.1f13f1f7cc4022889b3563185ebbbc0e91c2493d",
+        "path": "/Assets/Cmn/Master/PassiveSkillEffect.pak.6bf92f40a17b75ec2e61b1dac97e361de66b2afe",
         "name": "/Assets/Cmn/Master/PassiveSkillEffect.pak",
-        "size": 35952,
-        "sha1": "1f13f1f7cc4022889b3563185ebbbc0e91c2493d"
+        "size": 36256,
+        "sha1": "6bf92f40a17b75ec2e61b1dac97e361de66b2afe"
       },
       {
         "path": "/Assets/Cmn/Master/PlaceSet.pak.afaf6d8ea3c6d09e6cf7912f47dd7a16156cbd58",
@@ -1109,10 +1109,10 @@
         "sha1": "249af3115282ed58a1bea9a26e50e887fe417745"
       },
       {
-        "path": "/Assets/Cmn/Master/SkillBase.pak.e5b124264542b8774a0b9148e92f28e963e9a99b",
+        "path": "/Assets/Cmn/Master/SkillBase.pak.c40744f3a1fe265e3cbdd6cc2d6394d58c716632",
         "name": "/Assets/Cmn/Master/SkillBase.pak",
-        "size": 1342384,
-        "sha1": "e5b124264542b8774a0b9148e92f28e963e9a99b"
+        "size": 1355344,
+        "sha1": "c40744f3a1fe265e3cbdd6cc2d6394d58c716632"
       },
       {
         "path": "/Assets/Cmn/Master/SkillCategory.pak.66bafdc3ab285f72d31e4cb1ca9502b0a54e8532",
@@ -1139,10 +1139,10 @@
         "sha1": "6ebfd08fae9ae3dfddb8922679cd52bc824fc8ba"
       },
       {
-        "path": "/Assets/Cmn/Master/SpecialAd.pak.a8c46fe39945fdb448012e0e6d886f1a7b789f24",
+        "path": "/Assets/Cmn/Master/SpecialAd.pak.cc514dff995dcc46220cb1769141556945d9ad26",
         "name": "/Assets/Cmn/Master/SpecialAd.pak",
-        "size": 4064,
-        "sha1": "a8c46fe39945fdb448012e0e6d886f1a7b789f24"
+        "size": 4128,
+        "sha1": "cc514dff995dcc46220cb1769141556945d9ad26"
       },
       {
         "path": "/Assets/Cmn/Master/SpecialLoginBonus.pak.21322d294dcb6bdbca13b70e093d73591786a5ec",
@@ -1163,10 +1163,10 @@
         "sha1": "137758580ad7fe8c81010cdfc329502d4b223a41"
       },
       {
-        "path": "/Assets/Cmn/Master/StageManagement.pak.4edb9123ec6e0330d49db8fcbff7869f23035299",
+        "path": "/Assets/Cmn/Master/StageManagement.pak.67e42e101245e15e9535bc81d1c7d6c7d77c3322",
         "name": "/Assets/Cmn/Master/StageManagement.pak",
-        "size": 720832,
-        "sha1": "4edb9123ec6e0330d49db8fcbff7869f23035299"
+        "size": 728912,
+        "sha1": "67e42e101245e15e9535bc81d1c7d6c7d77c3322"
       },
       {
         "path": "/Assets/Cmn/Master/StageMission.pak.442d7ccdd65b5d3c2b81a6b7321271e0c421d6df",
@@ -1175,10 +1175,10 @@
         "sha1": "442d7ccdd65b5d3c2b81a6b7321271e0c421d6df"
       },
       {
-        "path": "/Assets/Cmn/Master/StaminaCampaign.pak.25f975389754b4208e9c336591897e2a2175716a",
+        "path": "/Assets/Cmn/Master/StaminaCampaign.pak.2a3a333b061b10a84f7ca7e50a13f45911c5ba87",
         "name": "/Assets/Cmn/Master/StaminaCampaign.pak",
-        "size": 15376,
-        "sha1": "25f975389754b4208e9c336591897e2a2175716a"
+        "size": 15824,
+        "sha1": "2a3a333b061b10a84f7ca7e50a13f45911c5ba87"
       },
       {
         "path": "/Assets/Cmn/Master/StaminaRecovery.pak.b5b157393969eb71c4646b23dec420d28ecb0338",
@@ -1241,10 +1241,10 @@
         "sha1": "ae2f9044649e67833a2a76efc7909d2b0ca5ca02"
       },
       {
-        "path": "/Assets/Cmn/Master/TargetGroup.pak.4cc8df78b73dc02a86face42200e76e83154ab5a",
+        "path": "/Assets/Cmn/Master/TargetGroup.pak.9cf170c85ddc1965547c3951610bf115c2fb6726",
         "name": "/Assets/Cmn/Master/TargetGroup.pak",
-        "size": 194016,
-        "sha1": "4cc8df78b73dc02a86face42200e76e83154ab5a"
+        "size": 196928,
+        "sha1": "9cf170c85ddc1965547c3951610bf115c2fb6726"
       },
       {
         "path": "/Assets/Cmn/Master/TeamStory.pak.3f57b472329b977f2aa6966cee2aba2d2d089592",
@@ -1265,22 +1265,22 @@
         "sha1": "6cdbb767327108850bda6d4dd09f5c6d492469c0"
       },
       {
-        "path": "/Assets/Cmn/Master/TitleDisplay.pak.8e1ea2b4c8e69b98bf5b757b0b3f6163aeca6bf8",
+        "path": "/Assets/Cmn/Master/TitleDisplay.pak.aec7e8bbf7afd1091ef0ca2a26a4219776007a8b",
         "name": "/Assets/Cmn/Master/TitleDisplay.pak",
-        "size": 17248,
-        "sha1": "8e1ea2b4c8e69b98bf5b757b0b3f6163aeca6bf8"
+        "size": 18016,
+        "sha1": "aec7e8bbf7afd1091ef0ca2a26a4219776007a8b"
       },
       {
-        "path": "/Assets/Cmn/Master/TitleDisplayChange.pak.5d0194d7c91e2f1c7d579039d0955bfd0589158d",
+        "path": "/Assets/Cmn/Master/TitleDisplayChange.pak.9c95567adb733b80fe70825f4ec3a3515b7182a5",
         "name": "/Assets/Cmn/Master/TitleDisplayChange.pak",
-        "size": 2672,
-        "sha1": "5d0194d7c91e2f1c7d579039d0955bfd0589158d"
+        "size": 2720,
+        "sha1": "9c95567adb733b80fe70825f4ec3a3515b7182a5"
       },
       {
-        "path": "/Assets/Cmn/Master/TopsCostume.pak.54c7eb39e38e7f8cfaaa881ce05f5f4c561f845d",
+        "path": "/Assets/Cmn/Master/TopsCostume.pak.4c1481579c7f332ec40632400000410259b6d1a9",
         "name": "/Assets/Cmn/Master/TopsCostume.pak",
-        "size": 847776,
-        "sha1": "54c7eb39e38e7f8cfaaa881ce05f5f4c561f845d"
+        "size": 853056,
+        "sha1": "4c1481579c7f332ec40632400000410259b6d1a9"
       },
       {
         "path": "/Assets/Cmn/Master/TournamentEnemy.pak.0b2d9618502ec09e50231e0caacdadf4a5d0cf41",
@@ -1975,10 +1975,10 @@
         "sha1": "0a7d6b192b805d3dccc1b032703711224f6eb1c2"
       },
       {
-        "path": "/Assets/Cmn/Common/cmnMotion.zip.18f2f623643b416f63c8aaa0be2854ae9cf1f61c",
+        "path": "/Assets/Cmn/Common/cmnMotion.zip.2882607c968fae25cc2d6d423e373f91eee58139",
         "name": "/Assets/Cmn/Common/cmnMotion.zip",
-        "size": 21193257,
-        "sha1": "18f2f623643b416f63c8aaa0be2854ae9cf1f61c"
+        "size": 21328353,
+        "sha1": "2882607c968fae25cc2d6d423e373f91eee58139"
       },
       {
         "path": "/Assets/Cmn/Common/comuMotion.zip.98565497fbd73f0c59fcd36b6025fc0fdede8358",
@@ -9301,10 +9301,10 @@
         "sha1": "4e09a28d24c15e10a668514ddb1e69f617ba9c05"
       },
       {
-        "path": "/Assets/Pc/Common/particle.zip.bb4e53d3aa4c55ce89af687287f10dfc68c685ec",
+        "path": "/Assets/Pc/Common/particle.zip.2243832e892a033dbda84e60503150545e9f4012",
         "name": "/Assets/Pc/Common/particle.zip",
-        "size": 46971631,
-        "sha1": "bb4e53d3aa4c55ce89af687287f10dfc68c685ec"
+        "size": 47202597,
+        "sha1": "2243832e892a033dbda84e60503150545e9f4012"
       },
       {
         "path": "/Assets/Pc/Costume/costumeCharaSkin_pl02001_un01005.zip.559d547924ee4cba4b1e27a23f947900aadd73af",
@@ -24067,10 +24067,10 @@
         "sha1": "0638c38403c821a1f41d344156f9255247649512"
       },
       {
-        "path": "/Assets/Pc/UI/ui_mp01.zip.522ecc43eeb45d355fb5755cd1df703decb04c77",
+        "path": "/Assets/Pc/UI/ui_mp01.zip.6e193234e5f2b2ec5cbc67cef9b7cfc7b8477277",
         "name": "/Assets/Pc/UI/ui_mp01.zip",
-        "size": 604270,
-        "sha1": "522ecc43eeb45d355fb5755cd1df703decb04c77"
+        "size": 559903,
+        "sha1": "6e193234e5f2b2ec5cbc67cef9b7cfc7b8477277"
       },
       {
         "path": "/Assets/Pc/UI/ui_ms01.zip.ab7b2747940f0188b0ad1fd79dd9f9a7e5b770ef",
@@ -25363,10 +25363,10 @@
         "sha1": "2030f4c04a54b9df08ebb867b74cced910f0a450"
       },
       {
-        "path": "/Assets/Pc/ItemIcon/ItemIconGroup00133.zip.34f8cca54ed0ef6d1f333e5e1fb8caecf980165a",
+        "path": "/Assets/Pc/ItemIcon/ItemIconGroup00133.zip.29de600a2ca5a3586cd66be60d9789f3974927c0",
         "name": "/Assets/Pc/ItemIcon/ItemIconGroup00133.zip",
-        "size": 6173851,
-        "sha1": "34f8cca54ed0ef6d1f333e5e1fb8caecf980165a"
+        "size": 6338933,
+        "sha1": "29de600a2ca5a3586cd66be60d9789f3974927c0"
       },
       {
         "path": "/Assets/Pc/ItemIcon/ItemIconGroup10200.zip.6cea969a1369b0fe8fb868ea12d8b28064f1ba47",
@@ -25915,10 +25915,10 @@
         "sha1": "3cabab28b8465a0b0bcf4eb2f3dcd52a111c4883"
       },
       {
-        "path": "/Assets/Pc/UI/DioramaPose.zip.4fa39d6d592f5e706e33343f70e09d0da435be0b",
+        "path": "/Assets/Pc/UI/DioramaPose.zip.8ea5c9a859db34dfcf227bd40d27c83556b0bc76",
         "name": "/Assets/Pc/UI/DioramaPose.zip",
-        "size": 677210,
-        "sha1": "4fa39d6d592f5e706e33343f70e09d0da435be0b"
+        "size": 689999,
+        "sha1": "8ea5c9a859db34dfcf227bd40d27c83556b0bc76"
       },
       {
         "path": "/Assets/Pc/UI_OtherStoryPanel/OtherStory_pnl4002.zip.46856f50b9e57fc9ca0377e732fde9b2fba6f657",
@@ -26587,10 +26587,10 @@
         "sha1": "01a1dbc0ae42a1e13d96f7ff6e49ca5d1b9fb6fb"
       },
       {
-        "path": "/Assets/Pc/ClothesIcon/clothesIcon_ac201.zip.8f9034f5eeb2e4b3584c717b2e12db1818e1128e",
+        "path": "/Assets/Pc/ClothesIcon/clothesIcon_ac201.zip.425a0f71f23c81eb3ab67e1ba700b58268cb4e89",
         "name": "/Assets/Pc/ClothesIcon/clothesIcon_ac201.zip",
-        "size": 330084,
-        "sha1": "8f9034f5eeb2e4b3584c717b2e12db1818e1128e"
+        "size": 339857,
+        "sha1": "425a0f71f23c81eb3ab67e1ba700b58268cb4e89"
       },
       {
         "path": "/Assets/Pc/ClothesIcon/clothesIcon_cos02.zip.d82d9ab64e780d2bef1a675c71f845b77b9c1ff9",
@@ -28681,10 +28681,10 @@
         "sha1": "23d3110b9f7c1ce0d000b69378c3a2bbc7aa04b6"
       },
       {
-        "path": "/Assets/Pc/ItemIcon/ItemIconGroup00132.zip.f80b4cffefab670c68d9c02d532062ccd1328962",
+        "path": "/Assets/Pc/ItemIcon/ItemIconGroup00132.zip.53ef5cfc8a50e9b8ea0f6b9a0da34a5fd330655d",
         "name": "/Assets/Pc/ItemIcon/ItemIconGroup00132.zip",
-        "size": 1921815,
-        "sha1": "f80b4cffefab670c68d9c02d532062ccd1328962"
+        "size": 1984341,
+        "sha1": "53ef5cfc8a50e9b8ea0f6b9a0da34a5fd330655d"
       },
       {
         "path": "/Assets/Pc/ItemIcon/TicketIcon13200004.zip.0f14b1d762f2d4b31b85b659a29e1c9f2bad5ed5",
@@ -29521,10 +29521,10 @@
         "sha1": "9c119d5831dbfd162b41b5237e0fb3333b387703"
       },
       {
-        "path": "/Assets/Pc/ClothesIcon/clothesIcon_hr040.zip.4d893d31965a1fa448d7645ebdf99665d1eea554",
+        "path": "/Assets/Pc/ClothesIcon/clothesIcon_hr040.zip.991b831db536b8d2019f347e8a42a64677fe9869",
         "name": "/Assets/Pc/ClothesIcon/clothesIcon_hr040.zip",
-        "size": 64317,
-        "sha1": "4d893d31965a1fa448d7645ebdf99665d1eea554"
+        "size": 78936,
+        "sha1": "991b831db536b8d2019f347e8a42a64677fe9869"
       },
       {
         "path": "/Assets/Pc/ClothesIcon/clothesIcon_hr060.zip.b8c8431e4e1bd40bbd41dc272f715b61b73fea64",
@@ -32875,22 +32875,22 @@
         "sha1": "a2256520bb8e3907c1b0abe37554d479322a9138"
       },
       {
-        "path": "/Assets/Pc/ClothesIcon/clothesIcon_cos99.zip.e4c6185747233a2ac30514421a763c05b4d66aae",
+        "path": "/Assets/Pc/ClothesIcon/clothesIcon_cos99.zip.da3d1f6c53e9d5f9269fbab5f80f3f5d18f96e5e",
         "name": "/Assets/Pc/ClothesIcon/clothesIcon_cos99.zip",
-        "size": 43223,
-        "sha1": "e4c6185747233a2ac30514421a763c05b4d66aae"
+        "size": 51988,
+        "sha1": "da3d1f6c53e9d5f9269fbab5f80f3f5d18f96e5e"
       },
       {
-        "path": "/Assets/Pc/ClothesIcon/clothesIcon_cosbottoms99.zip.f1c493b96d98f56d37f9c30f1aa43b0e03750883",
+        "path": "/Assets/Pc/ClothesIcon/clothesIcon_cosbottoms99.zip.8cd7defaaf781bf89e38719719968730b46edee5",
         "name": "/Assets/Pc/ClothesIcon/clothesIcon_cosbottoms99.zip",
-        "size": 115429,
-        "sha1": "f1c493b96d98f56d37f9c30f1aa43b0e03750883"
+        "size": 124096,
+        "sha1": "8cd7defaaf781bf89e38719719968730b46edee5"
       },
       {
-        "path": "/Assets/Pc/ClothesIcon/clothesIcon_costop99.zip.dac34260f514f11a532bf7030b7256a81bf7a374",
+        "path": "/Assets/Pc/ClothesIcon/clothesIcon_costop99.zip.5a723bfe1171f8096c7abb34205d5873d16552cd",
         "name": "/Assets/Pc/ClothesIcon/clothesIcon_costop99.zip",
-        "size": 126013,
-        "sha1": "dac34260f514f11a532bf7030b7256a81bf7a374"
+        "size": 136992,
+        "sha1": "5a723bfe1171f8096c7abb34205d5873d16552cd"
       },
       {
         "path": "/Assets/Pc/Costume/costumeCharaSkin_pl02001_un99002.zip.84c8de009a8390c6f450857cc9bd7d05ebc61faf",
@@ -33631,10 +33631,10 @@
         "sha1": "b904bf22e0eeab9b55565a67c33efdb53fc0141a"
       },
       {
-        "path": "/Assets/Pc/CharaCard/charaCardIcon_pl6002.zip.d66b9af5e88e6b3cc38d1c7879ddce6a37cf44bc",
+        "path": "/Assets/Pc/CharaCard/charaCardIcon_pl6002.zip.152ec0d29b11668f9eefc21b55f00a972f283883",
         "name": "/Assets/Pc/CharaCard/charaCardIcon_pl6002.zip",
-        "size": 815871,
-        "sha1": "d66b9af5e88e6b3cc38d1c7879ddce6a37cf44bc"
+        "size": 921070,
+        "sha1": "152ec0d29b11668f9eefc21b55f00a972f283883"
       },
       {
         "path": "/Assets/Pc/CharaCard/charaCardIcon_pl99113.zip.d6dd92c65bf87568a50461c3dd79b718b814c51c",
@@ -34555,10 +34555,10 @@
         "sha1": "83336c57af10a67402444931d966db8e6288974b"
       },
       {
-        "path": "/Assets/Pc/ItemIcon/ItemIconGroup10600.zip.f460b34d10b7a6686fa5d18c56b80a1f5b83518f",
+        "path": "/Assets/Pc/ItemIcon/ItemIconGroup10600.zip.fd58b5d0903a8c1716b018e3fb19c0ca558de9f7",
         "name": "/Assets/Pc/ItemIcon/ItemIconGroup10600.zip",
-        "size": 1237360,
-        "sha1": "f460b34d10b7a6686fa5d18c56b80a1f5b83518f"
+        "size": 1322152,
+        "sha1": "fd58b5d0903a8c1716b018e3fb19c0ca558de9f7"
       },
       {
         "path": "/Assets/Pc/Machine/machineColor_06001_01.zip.982213ef35a9d2b6c210afbba09fe97c68a2bb33",
@@ -42355,10 +42355,10 @@
         "sha1": "3e745b4c2dc5a7f8baf0da70a6cfb1073defcd06"
       },
       {
-        "path": "/Assets/Pc/CharaCard/charaCardIcon_pl7001.zip.4f92754814b2f2c5d08be9d0005976d1e7466897",
+        "path": "/Assets/Pc/CharaCard/charaCardIcon_pl7001.zip.44b2e4c8e9abb2e4650223fe0292a532a1095ec1",
         "name": "/Assets/Pc/CharaCard/charaCardIcon_pl7001.zip",
-        "size": 446200,
-        "sha1": "4f92754814b2f2c5d08be9d0005976d1e7466897"
+        "size": 558967,
+        "sha1": "44b2e4c8e9abb2e4650223fe0292a532a1095ec1"
       },
       {
         "path": "/Assets/Pc/CharaCard/charaCardIcon_pl7002.zip.f688afc2e5cf26853e79e35499dd67f899b8fa23",
@@ -44977,10 +44977,10 @@
         "sha1": "1415f406a9ed5b301e9f7237fdf00709db93845e"
       },
       {
-        "path": "/Assets/Pc/ClothesIcon/clothesIcon_hr020.zip.d3bfe36a8d05a50b0dc1aeea4c5bc32841dd834f",
+        "path": "/Assets/Pc/ClothesIcon/clothesIcon_hr020.zip.6a9ec45675bbe7db8db2999ddd6ffb3ab15cdd94",
         "name": "/Assets/Pc/ClothesIcon/clothesIcon_hr020.zip",
-        "size": 94595,
-        "sha1": "d3bfe36a8d05a50b0dc1aeea4c5bc32841dd834f"
+        "size": 109182,
+        "sha1": "6a9ec45675bbe7db8db2999ddd6ffb3ab15cdd94"
       },
       {
         "path": "/Assets/Pc/Costume/costumeCharaSkin_pl02001_un99008.zip.cc667e945d0508084bc9c8666050d514b4305e7e",
@@ -49603,10 +49603,10 @@
         "sha1": "4e25a76a007935306c82143d7df0c22654262c2b"
       },
       {
-        "path": "/Assets/Pc/ItemIcon/ItemIconGroup10700.zip.b56ddc5901690b840f244b2a322a21ec32ab9ee9",
+        "path": "/Assets/Pc/ItemIcon/ItemIconGroup10700.zip.681c1642d9330aaf73e655cf232624157249889c",
         "name": "/Assets/Pc/ItemIcon/ItemIconGroup10700.zip",
-        "size": 1809135,
-        "sha1": "b56ddc5901690b840f244b2a322a21ec32ab9ee9"
+        "size": 1893751,
+        "sha1": "681c1642d9330aaf73e655cf232624157249889c"
       },
       {
         "path": "/Assets/Pc/ItemIcon/TicketIcon13200011.zip.0e24532c992725490191cac77dce2464e58b7bcc",
@@ -57859,10 +57859,10 @@
         "sha1": "7f13c04c5c1e4ee8a1b5d0b24eb863377b288f26"
       },
       {
-        "path": "/Assets/Pc/UI/ui_chat01_GroupIcon.zip.eb3020ede05becd9fbc0ccbef1d4a8f89af525f2",
+        "path": "/Assets/Pc/UI/ui_chat01_GroupIcon.zip.082d5395e1aac9c8445e92050862f1378004701a",
         "name": "/Assets/Pc/UI/ui_chat01_GroupIcon.zip",
-        "size": 472453,
-        "sha1": "eb3020ede05becd9fbc0ccbef1d4a8f89af525f2"
+        "size": 488890,
+        "sha1": "082d5395e1aac9c8445e92050862f1378004701a"
       },
       {
         "path": "/Assets/Pc/UI_GachaPeace/ui_cg02_groupTex51.zip.4fb910fcd9cd2e6a670ed3fa58ad57518d1c30ba",
@@ -63079,16 +63079,16 @@
         "sha1": "018ba77b2bb0cb6f785a417d3b832e1cc42e36a0"
       },
       {
-        "path": "/Assets/Cmn/Message/advMessage_EventEVENT_27.zip.e816a74e77e7ed1d77e2568c651d631f5bf49f65",
+        "path": "/Assets/Cmn/Message/advMessage_EventEVENT_27.zip.ec466612ac266662ef4bc63aebd628b76f2b294c",
         "name": "/Assets/Cmn/Message/advMessage_EventEVENT_27.zip",
-        "size": 23472,
-        "sha1": "e816a74e77e7ed1d77e2568c651d631f5bf49f65"
+        "size": 12011,
+        "sha1": "ec466612ac266662ef4bc63aebd628b76f2b294c"
       },
       {
-        "path": "/Assets/Cmn/Message/advMessage_GachaLoginLOGIN_56.zip.6236050c390dd6ec2cfd30fa8c958859a52f4a38",
+        "path": "/Assets/Cmn/Message/advMessage_GachaLoginLOGIN_56.zip.3b0040456e682a9bc23896ec9f4285f42226c95f",
         "name": "/Assets/Cmn/Message/advMessage_GachaLoginLOGIN_56.zip",
-        "size": 2155,
-        "sha1": "6236050c390dd6ec2cfd30fa8c958859a52f4a38"
+        "size": 2123,
+        "sha1": "3b0040456e682a9bc23896ec9f4285f42226c95f"
       },
       {
         "path": "/Assets/Cmn/Movie/gacha_tMovie_123.zip.2b55e00f7dc196d30a24f3cb6a53a19fffc60074",
@@ -63157,10 +63157,10 @@
         "sha1": "b9c61d9e8ca5087643ec780869ee4ba736eb3855"
       },
       {
-        "path": "/Assets/Pc/Banner/Challenge/challengeBnr5019.zip.d6d159359431c2947e102e9d50f7900d265f1b37",
+        "path": "/Assets/Pc/Banner/Challenge/challengeBnr5019.zip.d3bbc5af34c01c9c8d7524629d04d70711de245d",
         "name": "/Assets/Pc/Banner/Challenge/challengeBnr5019.zip",
-        "size": 4573933,
-        "sha1": "d6d159359431c2947e102e9d50f7900d265f1b37"
+        "size": 4573981,
+        "sha1": "d3bbc5af34c01c9c8d7524629d04d70711de245d"
       },
       {
         "path": "/Assets/Pc/Banner/Event/eventBnr4027.zip.9f23ab4c1a57fd95990fad55f989e5cd6051f996",
@@ -64373,6 +64373,870 @@
         "name": "/Assets/Pc/UI_VisualPanel/StoryVisualPanel_stvi_img_4027.zip",
         "size": 3400466,
         "sha1": "dc977bea57f6f7456917f17a9996c9f845641305"
+      },
+      {
+        "path": "/Assets/Cmn/AdventureScript/script_other4028.zip.ccd7a61ebbd4bdbdfdc159708f14f8542dce8b00",
+        "name": "/Assets/Cmn/AdventureScript/script_other4028.zip",
+        "size": 16579,
+        "sha1": "ccd7a61ebbd4bdbdfdc159708f14f8542dce8b00"
+      },
+      {
+        "path": "/Assets/Cmn/AdventureScript/script_other572.zip.55e77de26b097e451de515f6c6a449df335891b3",
+        "name": "/Assets/Cmn/AdventureScript/script_other572.zip",
+        "size": 2641,
+        "sha1": "55e77de26b097e451de515f6c6a449df335891b3"
+      },
+      {
+        "path": "/Assets/Cmn/CharaSound/btlArtsSE_pl06002_H05.zip.ce10f55c9a34d0a9fc1464395f5f19dcd8cda7a0",
+        "name": "/Assets/Cmn/CharaSound/btlArtsSE_pl06002_H05.zip",
+        "size": 256491,
+        "sha1": "ce10f55c9a34d0a9fc1464395f5f19dcd8cda7a0"
+      },
+      {
+        "path": "/Assets/Cmn/CharaSound/btlArtsSE_pl07001_H03.zip.0f1d03dd042e3f0ac3b8755854ed469b8e524329",
+        "name": "/Assets/Cmn/CharaSound/btlArtsSE_pl07001_H03.zip",
+        "size": 256491,
+        "sha1": "0f1d03dd042e3f0ac3b8755854ed469b8e524329"
+      },
+      {
+        "path": "/Assets/Cmn/Message/advMessage_EventEVENT_28.zip.d25a3d392d1b2788d55167263cc47ad2e58a41e0",
+        "name": "/Assets/Cmn/Message/advMessage_EventEVENT_28.zip",
+        "size": 12139,
+        "sha1": "d25a3d392d1b2788d55167263cc47ad2e58a41e0"
+      },
+      {
+        "path": "/Assets/Cmn/Message/advMessage_GachaLoginLOGIN_57.zip.c88bc2801a931908fbf1afaebcec84d59f1cf4ff",
+        "name": "/Assets/Cmn/Message/advMessage_GachaLoginLOGIN_57.zip",
+        "size": 1755,
+        "sha1": "c88bc2801a931908fbf1afaebcec84d59f1cf4ff"
+      },
+      {
+        "path": "/Assets/Cmn/Movie/gacha_tMovie_126.zip.2f02d23e313daf4571c7c0b770b7a1dfa8d0a921",
+        "name": "/Assets/Cmn/Movie/gacha_tMovie_126.zip",
+        "size": 35386332,
+        "sha1": "2f02d23e313daf4571c7c0b770b7a1dfa8d0a921"
+      },
+      {
+        "path": "/Assets/Pc/Accessory/accessoryColor_ab01051.zip.3eca186f588ce2f6f98239f6870138770fc1ab75",
+        "name": "/Assets/Pc/Accessory/accessoryColor_ab01051.zip",
+        "size": 544125,
+        "sha1": "3eca186f588ce2f6f98239f6870138770fc1ab75"
+      },
+      {
+        "path": "/Assets/Pc/Accessory/accessoryMdl_ab01051.zip.f819d21555962f2c849f6f523fb7b14b002330da",
+        "name": "/Assets/Pc/Accessory/accessoryMdl_ab01051.zip",
+        "size": 115196,
+        "sha1": "f819d21555962f2c849f6f523fb7b14b002330da"
+      },
+      {
+        "path": "/Assets/Pc/AdvBackGround/Adv_bg556.zip.33603c75cdadf87ffe65af7242130c6a9b3c3ec8",
+        "name": "/Assets/Pc/AdvBackGround/Adv_bg556.zip",
+        "size": 2869169,
+        "sha1": "33603c75cdadf87ffe65af7242130c6a9b3c3ec8"
+      },
+      {
+        "path": "/Assets/Pc/BackGround/BG_elb40052_bg.zip.5ad3bd78e0a71154b2009ab1af31f5c3b70fb82a",
+        "name": "/Assets/Pc/BackGround/BG_elb40052_bg.zip",
+        "size": 3521325,
+        "sha1": "5ad3bd78e0a71154b2009ab1af31f5c3b70fb82a"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Challenge/challengeBnr5020.zip.456f01bf9019eea39832f63fe14f970d3bc71d7f",
+        "name": "/Assets/Pc/Banner/Challenge/challengeBnr5020.zip",
+        "size": 4494603,
+        "sha1": "456f01bf9019eea39832f63fe14f970d3bc71d7f"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Event/eventBnr4028.zip.b0ef33587930184d581e4431b1a01cb572b65ef5",
+        "name": "/Assets/Pc/Banner/Event/eventBnr4028.zip",
+        "size": 4417228,
+        "sha1": "b0ef33587930184d581e4431b1a01cb572b65ef5"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Gacha/gachaBnr126.zip.053f46e3a78fba5a5dfd9e313e923c4028979fb3",
+        "name": "/Assets/Pc/Banner/Gacha/gachaBnr126.zip",
+        "size": 180282,
+        "sha1": "053f46e3a78fba5a5dfd9e313e923c4028979fb3"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Gacha/gachaBnr127.zip.1b09627765ce7c76c77e619ba229f711e5e87519",
+        "name": "/Assets/Pc/Banner/Gacha/gachaBnr127.zip",
+        "size": 3680696,
+        "sha1": "1b09627765ce7c76c77e619ba229f711e5e87519"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Home/homeBnr0148.zip.f1dbbd468ca8c68056e7908c2de60872cc655eee",
+        "name": "/Assets/Pc/Banner/Home/homeBnr0148.zip",
+        "size": 103443,
+        "sha1": "f1dbbd468ca8c68056e7908c2de60872cc655eee"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Home/homeBnr0149.zip.32f0f3d2a67f09b486f76f627e9bf03095cf2275",
+        "name": "/Assets/Pc/Banner/Home/homeBnr0149.zip",
+        "size": 100451,
+        "sha1": "32f0f3d2a67f09b486f76f627e9bf03095cf2275"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Home/homeCampaignIcon_shop000120.zip.9ebdeaac8c087733d2957b3ce735ef069a63e601",
+        "name": "/Assets/Pc/Banner/Home/homeCampaignIcon_shop000120.zip",
+        "size": 12137,
+        "sha1": "9ebdeaac8c087733d2957b3ce735ef069a63e601"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Home/homeCampaignIcon_shop000121.zip.baf4b448f35bceacbbc127fb4dc97c7bfc0a6fd0",
+        "name": "/Assets/Pc/Banner/Home/homeCampaignIcon_shop000121.zip",
+        "size": 12137,
+        "sha1": "baf4b448f35bceacbbc127fb4dc97c7bfc0a6fd0"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Home/homeCampaignIcon_shop000122.zip.9895e1fd63c1516c04c952ea3ef90ef43934f938",
+        "name": "/Assets/Pc/Banner/Home/homeCampaignIcon_shop000122.zip",
+        "size": 12089,
+        "sha1": "9895e1fd63c1516c04c952ea3ef90ef43934f938"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopItem_pnl000120.zip.9be26e16e09d45ed4be580a50a8be1b8b8fd2735",
+        "name": "/Assets/Pc/Banner/Shop/shopItem_pnl000120.zip",
+        "size": 116926,
+        "sha1": "9be26e16e09d45ed4be580a50a8be1b8b8fd2735"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopItem_pnl000121.zip.2da58832c3f4240b8265351617fe448019ecaf77",
+        "name": "/Assets/Pc/Banner/Shop/shopItem_pnl000121.zip",
+        "size": 116062,
+        "sha1": "2da58832c3f4240b8265351617fe448019ecaf77"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopItem_pnl000122.zip.ba7c8c79a733525d748e09439c9e426059026dd0",
+        "name": "/Assets/Pc/Banner/Shop/shopItem_pnl000122.zip",
+        "size": 118318,
+        "sha1": "ba7c8c79a733525d748e09439c9e426059026dd0"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopMdlIcon_13300113.zip.02c8ec909af55628d12c23b249c874d17527030a",
+        "name": "/Assets/Pc/Banner/Shop/shopMdlIcon_13300113.zip",
+        "size": 14603,
+        "sha1": "02c8ec909af55628d12c23b249c874d17527030a"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopMdlIcon_13300114.zip.3f51776b54cb5c643a276ce0763839c68e493492",
+        "name": "/Assets/Pc/Banner/Shop/shopMdlIcon_13300114.zip",
+        "size": 12715,
+        "sha1": "3f51776b54cb5c643a276ce0763839c68e493492"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopMdlIcon_13300115.zip.2e3eff5968df811d7f70486abb2de56540f81b2e",
+        "name": "/Assets/Pc/Banner/Shop/shopMdlIcon_13300115.zip",
+        "size": 13275,
+        "sha1": "2e3eff5968df811d7f70486abb2de56540f81b2e"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopSPPnl_000120.zip.b6ed56841cc25c71e12fb233709bb5933158dd56",
+        "name": "/Assets/Pc/Banner/Shop/shopSPPnl_000120.zip",
+        "size": 942424,
+        "sha1": "b6ed56841cc25c71e12fb233709bb5933158dd56"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopSPPnl_000121.zip.074d83bcade574ff584bfdfa3cb29df6aa52fa18",
+        "name": "/Assets/Pc/Banner/Shop/shopSPPnl_000121.zip",
+        "size": 922787,
+        "sha1": "074d83bcade574ff584bfdfa3cb29df6aa52fa18"
+      },
+      {
+        "path": "/Assets/Pc/Banner/Shop/shopSPPnl_000122.zip.82e944376eb9738fbc3311e2c97ffec08f39a63d",
+        "name": "/Assets/Pc/Banner/Shop/shopSPPnl_000122.zip",
+        "size": 962573,
+        "sha1": "82e944376eb9738fbc3311e2c97ffec08f39a63d"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardBatle/charaCardBatle_60024502.zip.5842a8cdd88b0c14e82df5bf5717dfe917026461",
+        "name": "/Assets/Pc/CharaCardBatle/charaCardBatle_60024502.zip",
+        "size": 152681,
+        "sha1": "5842a8cdd88b0c14e82df5bf5717dfe917026461"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardBatle/charaCardBatle_70014501.zip.45ffc897b00835dff83c8018710da6e3e07b0a48",
+        "name": "/Assets/Pc/CharaCardBatle/charaCardBatle_70014501.zip",
+        "size": 163081,
+        "sha1": "45ffc897b00835dff83c8018710da6e3e07b0a48"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardImage/charaCardImageL_60024502.zip.3eab3fadae154bb5ead7a002e6a871737b717603",
+        "name": "/Assets/Pc/CharaCardImage/charaCardImageL_60024502.zip",
+        "size": 1615487,
+        "sha1": "3eab3fadae154bb5ead7a002e6a871737b717603"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardImage/charaCardImageL_70014501.zip.60327cfbda0cbbb1b9c225178710ccf566655577",
+        "name": "/Assets/Pc/CharaCardImage/charaCardImageL_70014501.zip",
+        "size": 1567488,
+        "sha1": "60327cfbda0cbbb1b9c225178710ccf566655577"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardImage/charaCardImage_60024502.zip.904ffcb7b7e2793aabb010e9d601e75ad393b71f",
+        "name": "/Assets/Pc/CharaCardImage/charaCardImage_60024502.zip",
+        "size": 1155239,
+        "sha1": "904ffcb7b7e2793aabb010e9d601e75ad393b71f"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardImage/charaCardImage_70014501.zip.17d111337e7f18ec758653a885097f26425e112f",
+        "name": "/Assets/Pc/CharaCardImage/charaCardImage_70014501.zip",
+        "size": 1065033,
+        "sha1": "17d111337e7f18ec758653a885097f26425e112f"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardImage/charaCardLive2D_60024502.zip.9f78770e5bb3ff236353e8ead855632ff46f9daf",
+        "name": "/Assets/Pc/CharaCardImage/charaCardLive2D_60024502.zip",
+        "size": 3119961,
+        "sha1": "9f78770e5bb3ff236353e8ead855632ff46f9daf"
+      },
+      {
+        "path": "/Assets/Pc/CharaCardImage/charaCardLive2D_70014501.zip.7897a11bb93150ccb9e8ea479ee0aad68c2004dc",
+        "name": "/Assets/Pc/CharaCardImage/charaCardLive2D_70014501.zip",
+        "size": 3079114,
+        "sha1": "7897a11bb93150ccb9e8ea479ee0aad68c2004dc"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeCharaSkin_pl02001_un99016.zip.f71093eb20f5644c7a55ea8cdb10891075bdc058",
+        "name": "/Assets/Pc/Costume/costumeCharaSkin_pl02001_un99016.zip",
+        "size": 1780974,
+        "sha1": "f71093eb20f5644c7a55ea8cdb10891075bdc058"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeCharaSkin_pl02003_un99016.zip.24726dcb3fa14b9720e883fe62ff35aa97d818a2",
+        "name": "/Assets/Pc/Costume/costumeCharaSkin_pl02003_un99016.zip",
+        "size": 2220176,
+        "sha1": "24726dcb3fa14b9720e883fe62ff35aa97d818a2"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeCharaSkin_pl02004_un99016.zip.54c73ce4fdb41a5777f5d6bf10457338f6708bbf",
+        "name": "/Assets/Pc/Costume/costumeCharaSkin_pl02004_un99016.zip",
+        "size": 2037518,
+        "sha1": "54c73ce4fdb41a5777f5d6bf10457338f6708bbf"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeCharaSkin_pl05002_un99016.zip.25f346b8aecef292df20b0e5c4908df439794d0d",
+        "name": "/Assets/Pc/Costume/costumeCharaSkin_pl05002_un99016.zip",
+        "size": 2124738,
+        "sha1": "25f346b8aecef292df20b0e5c4908df439794d0d"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeColor_un99016.zip.b92560478d7a8af95fbce653dc4d62668a8ace60",
+        "name": "/Assets/Pc/Costume/costumeColor_un99016.zip",
+        "size": 6551922,
+        "sha1": "b92560478d7a8af95fbce653dc4d62668a8ace60"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeMdl_un99016.zip.b7b248475539c09b1456879707107d455d95cb0e",
+        "name": "/Assets/Pc/Costume/costumeMdl_un99016.zip",
+        "size": 6667330,
+        "sha1": "b7b248475539c09b1456879707107d455d95cb0e"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl02001_un99018.zip.e0d6435d1353cffc6f02d127c7050877ff1d37f0",
+        "name": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl02001_un99018.zip",
+        "size": 1118177,
+        "sha1": "e0d6435d1353cffc6f02d127c7050877ff1d37f0"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl02003_un99018.zip.22214e3643e884ff446ea1da865ecebb23201aa7",
+        "name": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl02003_un99018.zip",
+        "size": 1388774,
+        "sha1": "22214e3643e884ff446ea1da865ecebb23201aa7"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl02004_un99018.zip.8610b27a5cdbcedc96d14cae908356a3b01afb1e",
+        "name": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl02004_un99018.zip",
+        "size": 1316589,
+        "sha1": "8610b27a5cdbcedc96d14cae908356a3b01afb1e"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl05002_un99018.zip.fd11a0aa4684be5171312149c82e1099240e06db",
+        "name": "/Assets/Pc/Costume/costumeTopsCharaSkin_pl05002_un99018.zip",
+        "size": 1339463,
+        "sha1": "fd11a0aa4684be5171312149c82e1099240e06db"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeTopsColor_un99018.zip.af548071889474e28cc53cce915bde783383c2fc",
+        "name": "/Assets/Pc/Costume/costumeTopsColor_un99018.zip",
+        "size": 5133031,
+        "sha1": "af548071889474e28cc53cce915bde783383c2fc"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeTopsMdl_un99018.zip.16ae9674d958e2499217de4a3f74c63f3921d416",
+        "name": "/Assets/Pc/Costume/costumeTopsMdl_un99018.zip",
+        "size": 4345748,
+        "sha1": "16ae9674d958e2499217de4a3f74c63f3921d416"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl02001_un99018.zip.840815e4e9b6718f9d677ed8d4211bd0aeb9b681",
+        "name": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl02001_un99018.zip",
+        "size": 522706,
+        "sha1": "840815e4e9b6718f9d677ed8d4211bd0aeb9b681"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl02003_un99018.zip.03c2133b45d44ffe037ee0b3e99d993b12cb7d86",
+        "name": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl02003_un99018.zip",
+        "size": 662959,
+        "sha1": "03c2133b45d44ffe037ee0b3e99d993b12cb7d86"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl02004_un99018.zip.a6f4a8d3a7a863c38f02ae4b307dd1090fc760eb",
+        "name": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl02004_un99018.zip",
+        "size": 603371,
+        "sha1": "a6f4a8d3a7a863c38f02ae4b307dd1090fc760eb"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl05002_un99018.zip.cacd3bcc0cd358b66e89537edc29a58ad7126cf3",
+        "name": "/Assets/Pc/Costume/costumeUnderCharaSkin_pl05002_un99018.zip",
+        "size": 631733,
+        "sha1": "cacd3bcc0cd358b66e89537edc29a58ad7126cf3"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeUnderColor_un99018.zip.7e6a90644962d079dda681de79c09d2bd4fc8666",
+        "name": "/Assets/Pc/Costume/costumeUnderColor_un99018.zip",
+        "size": 2736333,
+        "sha1": "7e6a90644962d079dda681de79c09d2bd4fc8666"
+      },
+      {
+        "path": "/Assets/Pc/Costume/costumeUnderMdl_un99018.zip.116138c140206bb83c6c8f2a53bba6d1c31602d0",
+        "name": "/Assets/Pc/Costume/costumeUnderMdl_un99018.zip",
+        "size": 1961005,
+        "sha1": "116138c140206bb83c6c8f2a53bba6d1c31602d0"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900545.zip.4fd64dd312074254694819ff52a2bccb6ddfbbea",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900545.zip",
+        "size": 39709,
+        "sha1": "4fd64dd312074254694819ff52a2bccb6ddfbbea"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900546.zip.82018fe4bea12a5caae6e024eaadfb129cc1e22a",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900546.zip",
+        "size": 41453,
+        "sha1": "82018fe4bea12a5caae6e024eaadfb129cc1e22a"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900547.zip.cbdc1488abd34e1228f0334ff389448611aa0ab5",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900547.zip",
+        "size": 43133,
+        "sha1": "cbdc1488abd34e1228f0334ff389448611aa0ab5"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900548.zip.fac2aa1114714d8864a09df575f1e5c20ed60a25",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900548.zip",
+        "size": 43549,
+        "sha1": "fac2aa1114714d8864a09df575f1e5c20ed60a25"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900549.zip.9de2589d4e9196e4a68b2af0f39eba8937c2b1f4",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900549.zip",
+        "size": 43741,
+        "sha1": "9de2589d4e9196e4a68b2af0f39eba8937c2b1f4"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900550.zip.212fb0440f78e084e4118dc2f8a5e2fd67c74e50",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900550.zip",
+        "size": 43021,
+        "sha1": "212fb0440f78e084e4118dc2f8a5e2fd67c74e50"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900551.zip.e18fd8ac51d45f34886a7288cf4dbfa7ae211adb",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900551.zip",
+        "size": 41933,
+        "sha1": "e18fd8ac51d45f34886a7288cf4dbfa7ae211adb"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900552.zip.b94aa96a2fa880a67e9247dddb6777e6e4236696",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900552.zip",
+        "size": 41981,
+        "sha1": "b94aa96a2fa880a67e9247dddb6777e6e4236696"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900553.zip.06c70735bd5b6938405816c4721c870ea2f5cb66",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900553.zip",
+        "size": 42221,
+        "sha1": "06c70735bd5b6938405816c4721c870ea2f5cb66"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900554.zip.68123b5fc4709353470ae7f81599d245d303d8ec",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900554.zip",
+        "size": 42013,
+        "sha1": "68123b5fc4709353470ae7f81599d245d303d8ec"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900555.zip.da2ca869c1cfa5f5e8668245cfeafd8deacee4f7",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900555.zip",
+        "size": 42189,
+        "sha1": "da2ca869c1cfa5f5e8668245cfeafd8deacee4f7"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900556.zip.9e025f3be176380d9edbd18277697186de4b2eb1",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900556.zip",
+        "size": 41965,
+        "sha1": "9e025f3be176380d9edbd18277697186de4b2eb1"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900557.zip.e18764c97ffaca1153676ca1dc5ba7447a007dfa",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900557.zip",
+        "size": 42733,
+        "sha1": "e18764c97ffaca1153676ca1dc5ba7447a007dfa"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900558.zip.73ed319fe0ec59c0eae95a268324d9558ce8c7aa",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900558.zip",
+        "size": 42717,
+        "sha1": "73ed319fe0ec59c0eae95a268324d9558ce8c7aa"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900559.zip.794a570eaa85ef9a045136b57b3bb9ad1a68f3c9",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900559.zip",
+        "size": 43725,
+        "sha1": "794a570eaa85ef9a045136b57b3bb9ad1a68f3c9"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900560.zip.d4483d90fce8cb4732ed8081bd568d853af0ed9c",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900560.zip",
+        "size": 43805,
+        "sha1": "d4483d90fce8cb4732ed8081bd568d853af0ed9c"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900561.zip.ee919668ea4d6297043645f16d0917e9127fe4d8",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900561.zip",
+        "size": 43757,
+        "sha1": "ee919668ea4d6297043645f16d0917e9127fe4d8"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900562.zip.ed13cc3466d55a7037c3800a85e73c4ebe9fe602",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900562.zip",
+        "size": 43405,
+        "sha1": "ed13cc3466d55a7037c3800a85e73c4ebe9fe602"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900563.zip.d5cc874097b4cf0a629a5259853bb5bc5be92704",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900563.zip",
+        "size": 43229,
+        "sha1": "d5cc874097b4cf0a629a5259853bb5bc5be92704"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900564.zip.7901d1c2bb29e3c10b602ebebf78361b50c2953f",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900564.zip",
+        "size": 43197,
+        "sha1": "7901d1c2bb29e3c10b602ebebf78361b50c2953f"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900565.zip.07c5aff0e8cee108eb9ea889687335cb56f2e884",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900565.zip",
+        "size": 43405,
+        "sha1": "07c5aff0e8cee108eb9ea889687335cb56f2e884"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900566.zip.84508ed4200077169ec52a7881181fe83db91567",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900566.zip",
+        "size": 43261,
+        "sha1": "84508ed4200077169ec52a7881181fe83db91567"
+      },
+      {
+        "path": "/Assets/Pc/Emblem/Emblem_ttl_l13900567.zip.f1615478504d038e8e760ad101e1222b27b72913",
+        "name": "/Assets/Pc/Emblem/Emblem_ttl_l13900567.zip",
+        "size": 43261,
+        "sha1": "f1615478504d038e8e760ad101e1222b27b72913"
+      },
+      {
+        "path": "/Assets/Pc/EquipmentCard/equipmentCardIcon540032.zip.af242678b754693ff1b9fef03d0f39dbd859d576",
+        "name": "/Assets/Pc/EquipmentCard/equipmentCardIcon540032.zip",
+        "size": 1214850,
+        "sha1": "af242678b754693ff1b9fef03d0f39dbd859d576"
+      },
+      {
+        "path": "/Assets/Pc/EquipmentCard/equipmentCardIcon540033.zip.ee1d30db9e9dfb4e8db7bd78f63105460c03e425",
+        "name": "/Assets/Pc/EquipmentCard/equipmentCardIcon540033.zip",
+        "size": 1200285,
+        "sha1": "ee1d30db9e9dfb4e8db7bd78f63105460c03e425"
+      },
+      {
+        "path": "/Assets/Pc/EquipmentCardImage/equipmentCardImage_540032.zip.ee33446ba7c45dbc64cba16d93135c276f44e26f",
+        "name": "/Assets/Pc/EquipmentCardImage/equipmentCardImage_540032.zip",
+        "size": 3692610,
+        "sha1": "ee33446ba7c45dbc64cba16d93135c276f44e26f"
+      },
+      {
+        "path": "/Assets/Pc/EquipmentCardImage/equipmentCardImage_540033.zip.60b1b8298607bcb1d7bc619a527a8f3df7368e49",
+        "name": "/Assets/Pc/EquipmentCardImage/equipmentCardImage_540033.zip",
+        "size": 3628814,
+        "sha1": "60b1b8298607bcb1d7bc619a527a8f3df7368e49"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01001_hr02007.zip.e83d3a1a637890b754a327e1672b411c76c6dd16",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01001_hr02007.zip",
+        "size": 430004,
+        "sha1": "e83d3a1a637890b754a327e1672b411c76c6dd16"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01001_hr04006.zip.2dcbd10ad4d54e70c21fe7774cfdbc6e99e5c450",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01001_hr04006.zip",
+        "size": 479219,
+        "sha1": "2dcbd10ad4d54e70c21fe7774cfdbc6e99e5c450"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01002_hr02007.zip.5d3976c3c39c4ca36af4f900c3d72fd44c4f6382",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01002_hr02007.zip",
+        "size": 436868,
+        "sha1": "5d3976c3c39c4ca36af4f900c3d72fd44c4f6382"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01002_hr04006.zip.c94554310fcd80868625832b215c7d6fc18b30f2",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01002_hr04006.zip",
+        "size": 486931,
+        "sha1": "c94554310fcd80868625832b215c7d6fc18b30f2"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01003_hr02007.zip.a05b8a4e0f61a7f207117d3932d5a29227ecaf96",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01003_hr02007.zip",
+        "size": 420175,
+        "sha1": "a05b8a4e0f61a7f207117d3932d5a29227ecaf96"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01003_hr04006.zip.9652acaa98dcc68f7a5010fffa3b823db4e37b42",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01003_hr04006.zip",
+        "size": 459833,
+        "sha1": "9652acaa98dcc68f7a5010fffa3b823db4e37b42"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01004_hr02007.zip.85adb561b4297a330adc90e153fa6ce94d62cfa1",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01004_hr02007.zip",
+        "size": 446585,
+        "sha1": "85adb561b4297a330adc90e153fa6ce94d62cfa1"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl01004_hr04006.zip.9f0e92ce5f135e1697c9901bd1ba23834ce9b072",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl01004_hr04006.zip",
+        "size": 504856,
+        "sha1": "9f0e92ce5f135e1697c9901bd1ba23834ce9b072"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02001_hr02007.zip.fdd2f641115883d571199389fef5efd38aaa95b9",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02001_hr02007.zip",
+        "size": 463726,
+        "sha1": "fdd2f641115883d571199389fef5efd38aaa95b9"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02001_hr04006.zip.d1d44d7ccee25dc4dfab0e6e0bbe30cb95f26fdf",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02001_hr04006.zip",
+        "size": 521085,
+        "sha1": "d1d44d7ccee25dc4dfab0e6e0bbe30cb95f26fdf"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02002_hr02007.zip.172a0227c5f426aec555658bc66e8b345f63c999",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02002_hr02007.zip",
+        "size": 444500,
+        "sha1": "172a0227c5f426aec555658bc66e8b345f63c999"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02002_hr04006.zip.b1d4965d07bb88f4c215c055189328d0655be4a5",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02002_hr04006.zip",
+        "size": 501880,
+        "sha1": "b1d4965d07bb88f4c215c055189328d0655be4a5"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02003_hr02007.zip.a893a5bb23323096d2f706a3d942a8b8aa058b68",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02003_hr02007.zip",
+        "size": 439156,
+        "sha1": "a893a5bb23323096d2f706a3d942a8b8aa058b68"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02003_hr04006.zip.f9a6bdb75f2a9d074dfe21bbaa90a62c9370f2c7",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02003_hr04006.zip",
+        "size": 490115,
+        "sha1": "f9a6bdb75f2a9d074dfe21bbaa90a62c9370f2c7"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02004_hr02007.zip.3d2b09b846e6504516b1b71abcf6cef43b977b3d",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02004_hr02007.zip",
+        "size": 453113,
+        "sha1": "3d2b09b846e6504516b1b71abcf6cef43b977b3d"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl02004_hr04006.zip.e0fb185ea11acbbc3b5235fd924a330a7a09298e",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl02004_hr04006.zip",
+        "size": 511037,
+        "sha1": "e0fb185ea11acbbc3b5235fd924a330a7a09298e"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03001_hr02007.zip.154d87f163187a16d58e7a853e6955de0faf1c3a",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03001_hr02007.zip",
+        "size": 388245,
+        "sha1": "154d87f163187a16d58e7a853e6955de0faf1c3a"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03001_hr04006.zip.ffdbc8f58732ff14849b8ed9401241a012317891",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03001_hr04006.zip",
+        "size": 421711,
+        "sha1": "ffdbc8f58732ff14849b8ed9401241a012317891"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03002_hr02007.zip.d7bed89dd4dab4d493c65063d0a49ee076cd906f",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03002_hr02007.zip",
+        "size": 448329,
+        "sha1": "d7bed89dd4dab4d493c65063d0a49ee076cd906f"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03002_hr04006.zip.9a190450080b85940b07ba4d2f6ce4a9ae8113b2",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03002_hr04006.zip",
+        "size": 512429,
+        "sha1": "9a190450080b85940b07ba4d2f6ce4a9ae8113b2"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03003_hr02007.zip.56c3adec94787a2fa117f00c01353c5f11d5cad2",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03003_hr02007.zip",
+        "size": 411418,
+        "sha1": "56c3adec94787a2fa117f00c01353c5f11d5cad2"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03003_hr04006.zip.29140d9d93f80f50dc20e8f68536d6ecf5dbfb2f",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03003_hr04006.zip",
+        "size": 454457,
+        "sha1": "29140d9d93f80f50dc20e8f68536d6ecf5dbfb2f"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03004_hr02007.zip.f30042715262c9afe0f3166747b8afa073495b2e",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03004_hr02007.zip",
+        "size": 433092,
+        "sha1": "f30042715262c9afe0f3166747b8afa073495b2e"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl03004_hr04006.zip.99f278f170e5409847fd9afeb777cc08b3c3e158",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl03004_hr04006.zip",
+        "size": 487555,
+        "sha1": "99f278f170e5409847fd9afeb777cc08b3c3e158"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04001_hr02007.zip.174c97d4f99c698dd0b52a0a3d6aea0c8df41356",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04001_hr02007.zip",
+        "size": 465118,
+        "sha1": "174c97d4f99c698dd0b52a0a3d6aea0c8df41356"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04001_hr04006.zip.0a274a79b623a200d9d19f80cb1411d97e1ab1c0",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04001_hr04006.zip",
+        "size": 534562,
+        "sha1": "0a274a79b623a200d9d19f80cb1411d97e1ab1c0"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04002_hr02007.zip.39c3b0dda9053ce663f486411b121a01e504f467",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04002_hr02007.zip",
+        "size": 449129,
+        "sha1": "39c3b0dda9053ce663f486411b121a01e504f467"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04002_hr04006.zip.bbd5cb7202ec728eb1b5f448d5d7f894ef5e7207",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04002_hr04006.zip",
+        "size": 506888,
+        "sha1": "bbd5cb7202ec728eb1b5f448d5d7f894ef5e7207"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04003_hr02007.zip.9d7c5398831d15a3031322075bfacfd1ca8949ab",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04003_hr02007.zip",
+        "size": 453945,
+        "sha1": "9d7c5398831d15a3031322075bfacfd1ca8949ab"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04003_hr04006.zip.8b68488f6f9abec833a6b68db49600d8f19b3891",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04003_hr04006.zip",
+        "size": 512797,
+        "sha1": "8b68488f6f9abec833a6b68db49600d8f19b3891"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04004_hr02007.zip.5f8e8cc35f26434699b8bc614525ad6d072d04b7",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04004_hr02007.zip",
+        "size": 439940,
+        "sha1": "5f8e8cc35f26434699b8bc614525ad6d072d04b7"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl04004_hr04006.zip.4253918e9308e65a4d541ad8367a269a8da451b9",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl04004_hr04006.zip",
+        "size": 513293,
+        "sha1": "4253918e9308e65a4d541ad8367a269a8da451b9"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl05001_hr02007.zip.94b4c95b6048ac4a1c21513f1a828cc48679fb07",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl05001_hr02007.zip",
+        "size": 381829,
+        "sha1": "94b4c95b6048ac4a1c21513f1a828cc48679fb07"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl05001_hr04006.zip.98439cf317b66ece56e823f52c5404a6d3cc3d14",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl05001_hr04006.zip",
+        "size": 411946,
+        "sha1": "98439cf317b66ece56e823f52c5404a6d3cc3d14"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl05002_hr02007.zip.b6c27ba8c630f4445a17525e3d3870f3d2067fc9",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl05002_hr02007.zip",
+        "size": 418543,
+        "sha1": "b6c27ba8c630f4445a17525e3d3870f3d2067fc9"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl05002_hr04006.zip.62863cd5904e1a5c21817f527d2a02488ca6c91b",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl05002_hr04006.zip",
+        "size": 477566,
+        "sha1": "62863cd5904e1a5c21817f527d2a02488ca6c91b"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl06001_hr02007.zip.5f2fafd134fc3d3e6f40a1ce80b351c173f800d1",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl06001_hr02007.zip",
+        "size": 428079,
+        "sha1": "5f2fafd134fc3d3e6f40a1ce80b351c173f800d1"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl06001_hr04006.zip.b82e8b44c9884c31c19711e1281139a6259fb91d",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl06001_hr04006.zip",
+        "size": 478259,
+        "sha1": "b82e8b44c9884c31c19711e1281139a6259fb91d"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl06002_hr02007.zip.80e8e491ac980dc9382d9bf47dd2e504c3da9d1e",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl06002_hr02007.zip",
+        "size": 431716,
+        "sha1": "80e8e491ac980dc9382d9bf47dd2e504c3da9d1e"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl06002_hr04006.zip.120711421974fd41e10a01735f93dd8a5bff96f7",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl06002_hr04006.zip",
+        "size": 485155,
+        "sha1": "120711421974fd41e10a01735f93dd8a5bff96f7"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07001_hr02007.zip.e968b29c4a3123d4b24489334fffd75d9e241307",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07001_hr02007.zip",
+        "size": 406010,
+        "sha1": "e968b29c4a3123d4b24489334fffd75d9e241307"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07001_hr04006.zip.4744c069d0efd497e960f8bb08ebb3bc8f4abda8",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07001_hr04006.zip",
+        "size": 444244,
+        "sha1": "4744c069d0efd497e960f8bb08ebb3bc8f4abda8"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07002_hr02007.zip.0dd1dc91d952355a06c47529f941a3323abaf4c4",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07002_hr02007.zip",
+        "size": 452969,
+        "sha1": "0dd1dc91d952355a06c47529f941a3323abaf4c4"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07002_hr04006.zip.7f8607c3b701c1d67dc02d60d1d0b25d72d16a83",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07002_hr04006.zip",
+        "size": 512109,
+        "sha1": "7f8607c3b701c1d67dc02d60d1d0b25d72d16a83"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07003_hr02007.zip.95fa83b2c21130de63e585e4532c46e4420ec633",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07003_hr02007.zip",
+        "size": 425167,
+        "sha1": "95fa83b2c21130de63e585e4532c46e4420ec633"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07003_hr04006.zip.208dcdec7d3446491b8d994a03fd3c98208c7c50",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07003_hr04006.zip",
+        "size": 478659,
+        "sha1": "208dcdec7d3446491b8d994a03fd3c98208c7c50"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07004_hr02007.zip.131fa0b80f5197ba2273486a4366e3f8dc7f5f2f",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07004_hr02007.zip",
+        "size": 421791,
+        "sha1": "131fa0b80f5197ba2273486a4366e3f8dc7f5f2f"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl07004_hr04006.zip.e751bba8b4d2c5c1b5874ee8dd855187a7b9cd49",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl07004_hr04006.zip",
+        "size": 461689,
+        "sha1": "e751bba8b4d2c5c1b5874ee8dd855187a7b9cd49"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl51001_hr02007.zip.296961bcbadfdecf6797ae54f9759c6e31f17d24",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl51001_hr02007.zip",
+        "size": 2679,
+        "sha1": "296961bcbadfdecf6797ae54f9759c6e31f17d24"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl51001_hr04006.zip.297b3b06c507bd92a15f393cd46da28be7465001",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl51001_hr04006.zip",
+        "size": 2679,
+        "sha1": "297b3b06c507bd92a15f393cd46da28be7465001"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl51002_hr02007.zip.baac5a0df40e20ee455d37e562366666d48b4765",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl51002_hr02007.zip",
+        "size": 2679,
+        "sha1": "baac5a0df40e20ee455d37e562366666d48b4765"
+      },
+      {
+        "path": "/Assets/Pc/Hair/charaHairTex_pl51002_hr04006.zip.128ea7d748c6e054094a7d2a14255ea407153580",
+        "name": "/Assets/Pc/Hair/charaHairTex_pl51002_hr04006.zip",
+        "size": 2695,
+        "sha1": "128ea7d748c6e054094a7d2a14255ea407153580"
+      },
+      {
+        "path": "/Assets/Pc/Hair/hairColor_hr02007.zip.0b37cbbded72759c6d4616d573ba05dcf524e1f9",
+        "name": "/Assets/Pc/Hair/hairColor_hr02007.zip",
+        "size": 2237226,
+        "sha1": "0b37cbbded72759c6d4616d573ba05dcf524e1f9"
+      },
+      {
+        "path": "/Assets/Pc/Hair/hairColor_hr04006.zip.f6a37f1a2eacf10c6edcf3cece166a28c1260811",
+        "name": "/Assets/Pc/Hair/hairColor_hr04006.zip",
+        "size": 2537748,
+        "sha1": "f6a37f1a2eacf10c6edcf3cece166a28c1260811"
+      },
+      {
+        "path": "/Assets/Pc/Hair/hairModel_hr02007.zip.6961bf107deb0350f2c99a0ed8e888bd39954549",
+        "name": "/Assets/Pc/Hair/hairModel_hr02007.zip",
+        "size": 1802793,
+        "sha1": "6961bf107deb0350f2c99a0ed8e888bd39954549"
+      },
+      {
+        "path": "/Assets/Pc/Hair/hairModel_hr04006.zip.adb208997a51560732e768f5abda9974eeec51e4",
+        "name": "/Assets/Pc/Hair/hairModel_hr04006.zip",
+        "size": 2772362,
+        "sha1": "adb208997a51560732e768f5abda9974eeec51e4"
+      },
+      {
+        "path": "/Assets/Pc/ItemIcon/TicketIcon13200032.zip.7c8f1b1a7c97bde698a275e9df960c5c030c8d43",
+        "name": "/Assets/Pc/ItemIcon/TicketIcon13200032.zip",
+        "size": 3557,
+        "sha1": "7c8f1b1a7c97bde698a275e9df960c5c030c8d43"
+      },
+      {
+        "path": "/Assets/Pc/SkillIcon/SkillIcon_60024502.zip.2972d62db7b1fee0ae3b32735dd4469cf7065870",
+        "name": "/Assets/Pc/SkillIcon/SkillIcon_60024502.zip",
+        "size": 152478,
+        "sha1": "2972d62db7b1fee0ae3b32735dd4469cf7065870"
+      },
+      {
+        "path": "/Assets/Pc/SkillIcon/SkillIcon_70014501.zip.fc4506bc29c18210244346d3ac9fdd17c27b79d6",
+        "name": "/Assets/Pc/SkillIcon/SkillIcon_70014501.zip",
+        "size": 210461,
+        "sha1": "fc4506bc29c18210244346d3ac9fdd17c27b79d6"
+      },
+      {
+        "path": "/Assets/Pc/TitleTexture/ui_TitleTexture10059.zip.80959851df9aef4fbf6d206b97f8c9a63795746d",
+        "name": "/Assets/Pc/TitleTexture/ui_TitleTexture10059.zip",
+        "size": 3557561,
+        "sha1": "80959851df9aef4fbf6d206b97f8c9a63795746d"
+      },
+      {
+        "path": "/Assets/Pc/UI_OtherStoryPanel/OtherStory_pnl4028.zip.a1f7625aac379ea2085a33b5ada76e1182887e82",
+        "name": "/Assets/Pc/UI_OtherStoryPanel/OtherStory_pnl4028.zip",
+        "size": 124616,
+        "sha1": "a1f7625aac379ea2085a33b5ada76e1182887e82"
+      },
+      {
+        "path": "/Assets/Pc/UI_VisualPanel/StoryVisualPanel_stvi_img_4028.zip.6ed88491620548a9e59171d33d9e11373a4d3718",
+        "name": "/Assets/Pc/UI_VisualPanel/StoryVisualPanel_stvi_img_4028.zip",
+        "size": 3473542,
+        "sha1": "6ed88491620548a9e59171d33d9e11373a4d3718"
       }
     ]
   }

@@ -3614,5 +3614,37 @@
         "Value_01": 50,
         "Unit_02": 0,
         "Value_02": 0
+    },
+    "310226": {
+        "Id": 310226,
+        "EffectSystem": 2,
+        "Target": 2,
+        "TargetRange": "-1",
+        "TargetType": 0,
+        "TargetDetailId": "0",
+        "Range": 2,
+        "EffectType": "120",
+        "Probability": 100,
+        "Turn": 0,
+        "Unit_01": 1,
+        "Value_01": 5,
+        "Unit_02": 0,
+        "Value_02": 0
+    },
+    "310227": {
+        "Id": 310227,
+        "EffectSystem": 2,
+        "Target": 2,
+        "TargetRange": "-1",
+        "TargetType": 0,
+        "TargetDetailId": "0",
+        "Range": 2,
+        "EffectType": "120",
+        "Probability": 100,
+        "Turn": 0,
+        "Unit_01": 1,
+        "Value_01": 10,
+        "Unit_02": 0,
+        "Value_02": 0
     }
 }
