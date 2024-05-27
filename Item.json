@@ -12238,5 +12238,104 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1345
+    },
+    "1010034302": {
+        "Id": 1010034302,
+        "Name": "杏里(パッションユニフォーム/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "杏里(パッションユニフォーム/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1396
+    },
+    "1030024301": {
+        "Id": 1030024301,
+        "Name": "桐利(スクールギャル/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "桐利(スクールギャル/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1397
+    },
+    "13300116": {
+        "Id": 13300116,
+        "Name": "ボスメダル(不死鳥)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1398
+    },
+    "1020033301": {
+        "Id": 1020033301,
+        "Name": "氷織(夏コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "氷織(夏コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1399
+    },
+    "11200083": {
+        "Id": 11200083,
+        "Name": "いちご大福",
+        "Type": 12,
+        "ItemText": "氷織(夏コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1400
+    },
+    "11100075": {
+        "Id": 11100075,
+        "Name": "氷織の夏コーデ服",
+        "Type": 11,
+        "ItemText": "氷織(夏コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1401
+    },
+    "13200033": {
+        "Id": 13200033,
+        "Name": "ドルフィンフェスガチャチケット(不死鳥)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(不死鳥)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1402
+    },
+    "13900568": {
+        "Id": 13900568,
+        "Name": "復活の不死鳥!不屈の精神を持つ者制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1401
+    },
+    "13900569": {
+        "Id": 13900569,
+        "Name": "復活の不死鳥!不屈の精神を持つ者EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1400
+    },
+    "12902569": {
+        "Id": 12902569,
+        "Name": "KIRISHIMAのエースライダー",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1399
+    },
+    "12902593": {
+        "Id": 12902593,
+        "Name": "ポジティブなギャル",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1398
     }
 }
