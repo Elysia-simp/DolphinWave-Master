@@ -12337,5 +12337,311 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1398
+    },
+    "1020014301": {
+        "Id": 1020014301,
+        "Name": "颯(シルフィード/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "颯(シルフィード/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1408
+    },
+    "1020024301": {
+        "Id": 1020024301,
+        "Name": "エレン(ノブレスオブリージュ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "エレン(ノブレスオブリージュ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1409
+    },
+    "13300117": {
+        "Id": 13300117,
+        "Name": "ボスメダル(風を統べる者)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1410
+    },
+    "1040033302": {
+        "Id": 1040033302,
+        "Name": "ヴィーナ(冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヴィーナ(冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1411
+    },
+    "11200084": {
+        "Id": 11200084,
+        "Name": "愛",
+        "Type": 12,
+        "ItemText": "ヴィーナ(冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1412
+    },
+    "11100076": {
+        "Id": 11100076,
+        "Name": "ヴィーナの冬コーデ服",
+        "Type": 11,
+        "ItemText": "ヴィーナ(冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1413
+    },
+    "13200034": {
+        "Id": 13200034,
+        "Name": "ドルフィンフェスガチャチケット(風を統べる者)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(風を統べる者)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1414
+    },
+    "13900570": {
+        "Id": 13900570,
+        "Name": "チャレンジバトル-20th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1413
+    },
+    "13900571": {
+        "Id": 13900571,
+        "Name": "チャレンジバトル-20th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1412
+    },
+    "13900572": {
+        "Id": 13900572,
+        "Name": "チャレンジバトル-20th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1411
+    },
+    "13900573": {
+        "Id": 13900573,
+        "Name": "チャレンジバトル-20th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1410
+    },
+    "13900574": {
+        "Id": 13900574,
+        "Name": "チャレンジバトル-20th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1409
+    },
+    "13900575": {
+        "Id": 13900575,
+        "Name": "チャレンジバトル-20th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1408
+    },
+    "13900576": {
+        "Id": 13900576,
+        "Name": "チャレンジバトル-20th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1407
+    },
+    "13900577": {
+        "Id": 13900577,
+        "Name": "チャレンジバトル-20th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1406
+    },
+    "13900578": {
+        "Id": 13900578,
+        "Name": "チャレンジバトル-20th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1405
+    },
+    "13900579": {
+        "Id": 13900579,
+        "Name": "チャレンジバトル-20th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1404
+    },
+    "13900580": {
+        "Id": 13900580,
+        "Name": "チャレンジバトル-20th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1403
+    },
+    "13900581": {
+        "Id": 13900581,
+        "Name": "チャレンジバトル-20th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1402
+    },
+    "13900582": {
+        "Id": 13900582,
+        "Name": "チャレンジバトル-20th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1401
+    },
+    "13900583": {
+        "Id": 13900583,
+        "Name": "チャレンジバトル-20th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1400
+    },
+    "13900584": {
+        "Id": 13900584,
+        "Name": "チャレンジバトル-20th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1399
+    },
+    "13900585": {
+        "Id": 13900585,
+        "Name": "チャレンジバトル-20th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1398
+    },
+    "13900586": {
+        "Id": 13900586,
+        "Name": "チャレンジバトル-20th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1397
+    },
+    "13900587": {
+        "Id": 13900587,
+        "Name": "チャレンジバトル-20th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1396
+    },
+    "13900588": {
+        "Id": 13900588,
+        "Name": "チャレンジバトル-20th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1395
+    },
+    "13900589": {
+        "Id": 13900589,
+        "Name": "チャレンジバトル-20th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1394
+    },
+    "13900590": {
+        "Id": 13900590,
+        "Name": "チャレンジバトル-20th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1393
+    },
+    "13900591": {
+        "Id": 13900591,
+        "Name": "『風』を統べる者 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1392
+    },
+    "13900592": {
+        "Id": 13900592,
+        "Name": "『風』を統べる者 EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1391
+    },
+    "13900593": {
+        "Id": 13900593,
+        "Name": "トータルバトル-Moon＆Wave- 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1390
+    },
+    "13900594": {
+        "Id": 13900594,
+        "Name": "トータルバトル-Moon＆Wave-EX 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1389
+    },
+    "12902617": {
+        "Id": 12902617,
+        "Name": "風の申し子",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1387
+    },
+    "12902641": {
+        "Id": 12902641,
+        "Name": "高貴なお嬢様",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1386
     }
 }

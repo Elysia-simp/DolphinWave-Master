@@ -1738,5 +1738,425 @@
         "MissionSet": 6010005,
         "Mission": 3070,
         "MissionDisplayOrder": 601000505
+    },
+    "601101": {
+        "Id": 601101,
+        "MissionSet": 6011,
+        "Mission": 2055,
+        "MissionDisplayOrder": 601101
+    },
+    "601102": {
+        "Id": 601102,
+        "MissionSet": 6011,
+        "Mission": 2050,
+        "MissionDisplayOrder": 601102
+    },
+    "601103": {
+        "Id": 601103,
+        "MissionSet": 6011,
+        "Mission": 2045,
+        "MissionDisplayOrder": 601103
+    },
+    "601104": {
+        "Id": 601104,
+        "MissionSet": 6011,
+        "Mission": 2040,
+        "MissionDisplayOrder": 601104
+    },
+    "601105": {
+        "Id": 601105,
+        "MissionSet": 6011,
+        "Mission": 2035,
+        "MissionDisplayOrder": 601105
+    },
+    "601106": {
+        "Id": 601106,
+        "MissionSet": 6011,
+        "Mission": 3150,
+        "MissionDisplayOrder": 601106
+    },
+    "601107": {
+        "Id": 601107,
+        "MissionSet": 6011,
+        "Mission": 3200,
+        "MissionDisplayOrder": 601107
+    },
+    "601108": {
+        "Id": 601108,
+        "MissionSet": 6011,
+        "Mission": 3250,
+        "MissionDisplayOrder": 601108
+    },
+    "601109": {
+        "Id": 601109,
+        "MissionSet": 6011,
+        "Mission": 3300,
+        "MissionDisplayOrder": 601109
+    },
+    "601110": {
+        "Id": 601110,
+        "MissionSet": 6011,
+        "Mission": 3350,
+        "MissionDisplayOrder": 601110
+    },
+    "601100101": {
+        "Id": 601100101,
+        "MissionSet": 6011001,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601100101
+    },
+    "601100102": {
+        "Id": 601100102,
+        "MissionSet": 6011001,
+        "Mission": 2008,
+        "MissionDisplayOrder": 601100102
+    },
+    "601100103": {
+        "Id": 601100103,
+        "MissionSet": 6011001,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601100103
+    },
+    "601100104": {
+        "Id": 601100104,
+        "MissionSet": 6011001,
+        "Mission": 3040,
+        "MissionDisplayOrder": 601100104
+    },
+    "601100105": {
+        "Id": 601100105,
+        "MissionSet": 6011001,
+        "Mission": 3070,
+        "MissionDisplayOrder": 601100105
+    },
+    "601100201": {
+        "Id": 601100201,
+        "MissionSet": 6011002,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601100201
+    },
+    "601100202": {
+        "Id": 601100202,
+        "MissionSet": 6011002,
+        "Mission": 2008,
+        "MissionDisplayOrder": 601100202
+    },
+    "601100203": {
+        "Id": 601100203,
+        "MissionSet": 6011002,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601100203
+    },
+    "601100204": {
+        "Id": 601100204,
+        "MissionSet": 6011002,
+        "Mission": 3040,
+        "MissionDisplayOrder": 601100204
+    },
+    "601100205": {
+        "Id": 601100205,
+        "MissionSet": 6011002,
+        "Mission": 3070,
+        "MissionDisplayOrder": 601100205
+    },
+    "601100301": {
+        "Id": 601100301,
+        "MissionSet": 6011003,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601100301
+    },
+    "601100302": {
+        "Id": 601100302,
+        "MissionSet": 6011003,
+        "Mission": 2008,
+        "MissionDisplayOrder": 601100302
+    },
+    "601100303": {
+        "Id": 601100303,
+        "MissionSet": 6011003,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601100303
+    },
+    "601100304": {
+        "Id": 601100304,
+        "MissionSet": 6011003,
+        "Mission": 3040,
+        "MissionDisplayOrder": 601100304
+    },
+    "601100305": {
+        "Id": 601100305,
+        "MissionSet": 6011003,
+        "Mission": 3070,
+        "MissionDisplayOrder": 601100305
+    },
+    "601100401": {
+        "Id": 601100401,
+        "MissionSet": 6011004,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601100401
+    },
+    "601100402": {
+        "Id": 601100402,
+        "MissionSet": 6011004,
+        "Mission": 2008,
+        "MissionDisplayOrder": 601100402
+    },
+    "601100403": {
+        "Id": 601100403,
+        "MissionSet": 6011004,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601100403
+    },
+    "601100404": {
+        "Id": 601100404,
+        "MissionSet": 6011004,
+        "Mission": 3040,
+        "MissionDisplayOrder": 601100404
+    },
+    "601100405": {
+        "Id": 601100405,
+        "MissionSet": 6011004,
+        "Mission": 3070,
+        "MissionDisplayOrder": 601100405
+    },
+    "601100501": {
+        "Id": 601100501,
+        "MissionSet": 6011005,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601100501
+    },
+    "601100502": {
+        "Id": 601100502,
+        "MissionSet": 6011005,
+        "Mission": 2008,
+        "MissionDisplayOrder": 601100502
+    },
+    "601100503": {
+        "Id": 601100503,
+        "MissionSet": 6011005,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601100503
+    },
+    "601100504": {
+        "Id": 601100504,
+        "MissionSet": 6011005,
+        "Mission": 3040,
+        "MissionDisplayOrder": 601100504
+    },
+    "601100505": {
+        "Id": 601100505,
+        "MissionSet": 6011005,
+        "Mission": 3070,
+        "MissionDisplayOrder": 601100505
+    },
+    "601201": {
+        "Id": 601201,
+        "MissionSet": 6012,
+        "Mission": 2050,
+        "MissionDisplayOrder": 601201
+    },
+    "601202": {
+        "Id": 601202,
+        "MissionSet": 6012,
+        "Mission": 2040,
+        "MissionDisplayOrder": 601202
+    },
+    "601203": {
+        "Id": 601203,
+        "MissionSet": 6012,
+        "Mission": 2030,
+        "MissionDisplayOrder": 601203
+    },
+    "601204": {
+        "Id": 601204,
+        "MissionSet": 6012,
+        "Mission": 2025,
+        "MissionDisplayOrder": 601204
+    },
+    "601205": {
+        "Id": 601205,
+        "MissionSet": 6012,
+        "Mission": 2020,
+        "MissionDisplayOrder": 601205
+    },
+    "601206": {
+        "Id": 601206,
+        "MissionSet": 6012,
+        "Mission": 3200,
+        "MissionDisplayOrder": 601206
+    },
+    "601207": {
+        "Id": 601207,
+        "MissionSet": 6012,
+        "Mission": 3250,
+        "MissionDisplayOrder": 601207
+    },
+    "601208": {
+        "Id": 601208,
+        "MissionSet": 6012,
+        "Mission": 3300,
+        "MissionDisplayOrder": 601208
+    },
+    "601209": {
+        "Id": 601209,
+        "MissionSet": 6012,
+        "Mission": 3350,
+        "MissionDisplayOrder": 601209
+    },
+    "601210": {
+        "Id": 601210,
+        "MissionSet": 6012,
+        "Mission": 3400,
+        "MissionDisplayOrder": 601210
+    },
+    "601200101": {
+        "Id": 601200101,
+        "MissionSet": 6012001,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601200101
+    },
+    "601200102": {
+        "Id": 601200102,
+        "MissionSet": 6012001,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601200102
+    },
+    "601200103": {
+        "Id": 601200103,
+        "MissionSet": 6012001,
+        "Mission": 2004,
+        "MissionDisplayOrder": 601200103
+    },
+    "601200104": {
+        "Id": 601200104,
+        "MissionSet": 6012001,
+        "Mission": 3050,
+        "MissionDisplayOrder": 601200104
+    },
+    "601200105": {
+        "Id": 601200105,
+        "MissionSet": 6012001,
+        "Mission": 3080,
+        "MissionDisplayOrder": 601200105
+    },
+    "601200201": {
+        "Id": 601200201,
+        "MissionSet": 6012002,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601200201
+    },
+    "601200202": {
+        "Id": 601200202,
+        "MissionSet": 6012002,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601200202
+    },
+    "601200203": {
+        "Id": 601200203,
+        "MissionSet": 6012002,
+        "Mission": 2004,
+        "MissionDisplayOrder": 601200203
+    },
+    "601200204": {
+        "Id": 601200204,
+        "MissionSet": 6012002,
+        "Mission": 3050,
+        "MissionDisplayOrder": 601200204
+    },
+    "601200205": {
+        "Id": 601200205,
+        "MissionSet": 6012002,
+        "Mission": 3080,
+        "MissionDisplayOrder": 601200205
+    },
+    "601200301": {
+        "Id": 601200301,
+        "MissionSet": 6012003,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601200301
+    },
+    "601200302": {
+        "Id": 601200302,
+        "MissionSet": 6012003,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601200302
+    },
+    "601200303": {
+        "Id": 601200303,
+        "MissionSet": 6012003,
+        "Mission": 2004,
+        "MissionDisplayOrder": 601200303
+    },
+    "601200304": {
+        "Id": 601200304,
+        "MissionSet": 6012003,
+        "Mission": 3050,
+        "MissionDisplayOrder": 601200304
+    },
+    "601200305": {
+        "Id": 601200305,
+        "MissionSet": 6012003,
+        "Mission": 3080,
+        "MissionDisplayOrder": 601200305
+    },
+    "601200401": {
+        "Id": 601200401,
+        "MissionSet": 6012004,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601200401
+    },
+    "601200402": {
+        "Id": 601200402,
+        "MissionSet": 6012004,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601200402
+    },
+    "601200403": {
+        "Id": 601200403,
+        "MissionSet": 6012004,
+        "Mission": 2004,
+        "MissionDisplayOrder": 601200403
+    },
+    "601200404": {
+        "Id": 601200404,
+        "MissionSet": 6012004,
+        "Mission": 3050,
+        "MissionDisplayOrder": 601200404
+    },
+    "601200405": {
+        "Id": 601200405,
+        "MissionSet": 6012004,
+        "Mission": 3080,
+        "MissionDisplayOrder": 601200405
+    },
+    "601200501": {
+        "Id": 601200501,
+        "MissionSet": 6012005,
+        "Mission": 1000,
+        "MissionDisplayOrder": 601200501
+    },
+    "601200502": {
+        "Id": 601200502,
+        "MissionSet": 6012005,
+        "Mission": 2006,
+        "MissionDisplayOrder": 601200502
+    },
+    "601200503": {
+        "Id": 601200503,
+        "MissionSet": 6012005,
+        "Mission": 2004,
+        "MissionDisplayOrder": 601200503
+    },
+    "601200504": {
+        "Id": 601200504,
+        "MissionSet": 6012005,
+        "Mission": 3050,
+        "MissionDisplayOrder": 601200504
+    },
+    "601200505": {
+        "Id": 601200505,
+        "MissionSet": 6012005,
+        "Mission": 3080,
+        "MissionDisplayOrder": 601200505
     }
 }

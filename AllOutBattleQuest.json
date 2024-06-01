@@ -88,5 +88,41 @@
         "Banner02": "600502",
         "BannerVisible": 0,
         "KeyQuestId": 6001
+    },
+    "6011": {
+        "Id": 6011,
+        "QuestType": 0,
+        "StartDate": 1717131600,
+        "EndDate": 2556111599,
+        "Order": 11,
+        "QuestName": "Moon＆Wave",
+        "BattlePower": 30000,
+        "CoolTimeNumber": 2,
+        "DolphinCoolPoint": 8,
+        "MemoryCoolPoint": 20,
+        "QuestMissionSetId": 6011,
+        "BuffSetId": 6001,
+        "Banner": "601101",
+        "Banner02": "601102",
+        "BannerVisible": 0,
+        "KeyQuestId": 6001
+    },
+    "6012": {
+        "Id": 6012,
+        "QuestType": 0,
+        "StartDate": 1717131600,
+        "EndDate": 2556111599,
+        "Order": 12,
+        "QuestName": "Moon＆Wave EX",
+        "BattlePower": 45000,
+        "CoolTimeNumber": 2,
+        "DolphinCoolPoint": 6,
+        "MemoryCoolPoint": 15,
+        "QuestMissionSetId": 6012,
+        "BuffSetId": 6001,
+        "Banner": "601201",
+        "Banner02": "601202",
+        "BannerVisible": 0,
+        "KeyQuestId": 6001
     }
 }

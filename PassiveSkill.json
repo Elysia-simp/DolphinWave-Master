@@ -6496,5 +6496,41 @@
         "TargetRange": "-3",
         "Range": 1,
         "FilterType": "0"
+    },
+    "104183": {
+        "Id": 104183,
+        "Text": "自分がGEAR属性の時、自分の攻撃力が25%アップ/自分のクリティカル威力が10%アップ",
+        "Count": 0,
+        "ConditionTrigger": 4,
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 3,
+        "Condition": 0,
+        "ConditionCompare": 0,
+        "ConditionUnit": 0,
+        "ConditionValue": 0,
+        "MainEffectId": 310094,
+        "SubEffectId": 310036,
+        "TargetRange": "-2",
+        "Range": 1,
+        "FilterType": "0"
+    },
+    "104184": {
+        "Id": 104184,
+        "Text": "自分がGEAR属性の時、自分の攻撃力が30%アップ/自分のクリティカル威力が15%アップ",
+        "Count": 0,
+        "ConditionTrigger": 4,
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 3,
+        "Condition": 0,
+        "ConditionCompare": 0,
+        "ConditionUnit": 0,
+        "ConditionValue": 0,
+        "MainEffectId": 310092,
+        "SubEffectId": 310138,
+        "TargetRange": "-2",
+        "Range": 1,
+        "FilterType": "0"
     }
 }

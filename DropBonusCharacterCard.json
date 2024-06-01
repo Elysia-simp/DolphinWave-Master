@@ -1654,5 +1654,41 @@
         "SpSkillLevel04": 20,
         "SpSkillLevel05": 25,
         "SpSkillLevel06": 30
+    },
+    "302101": {
+        "Id": 302101,
+        "QuestId": 3021,
+        "CharacterCardGroupId": 20014301,
+        "TargetItemId": 13300117,
+        "SpSkillLevel01": 25,
+        "SpSkillLevel02": 30,
+        "SpSkillLevel03": 35,
+        "SpSkillLevel04": 40,
+        "SpSkillLevel05": 45,
+        "SpSkillLevel06": 50
+    },
+    "302102": {
+        "Id": 302102,
+        "QuestId": 3021,
+        "CharacterCardGroupId": 20024301,
+        "TargetItemId": 13300117,
+        "SpSkillLevel01": 25,
+        "SpSkillLevel02": 30,
+        "SpSkillLevel03": 35,
+        "SpSkillLevel04": 40,
+        "SpSkillLevel05": 45,
+        "SpSkillLevel06": 50
+    },
+    "302103": {
+        "Id": 302103,
+        "QuestId": 3021,
+        "CharacterCardGroupId": 40033302,
+        "TargetItemId": 13300117,
+        "SpSkillLevel01": 5,
+        "SpSkillLevel02": 10,
+        "SpSkillLevel03": 15,
+        "SpSkillLevel04": 20,
+        "SpSkillLevel05": 25,
+        "SpSkillLevel06": 30
     }
 }
