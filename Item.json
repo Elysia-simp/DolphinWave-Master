@@ -12643,5 +12643,824 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1386
+    },
+    "1050014101": {
+        "Id": 1050014101,
+        "Name": "由芽(ウェディングビキニ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "由芽(ウェディングビキニ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1443
+    },
+    "1010024102": {
+        "Id": 1010024102,
+        "Name": "みちる(ウェディングビキニ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "みちる(ウェディングビキニ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1444
+    },
+    "13300118": {
+        "Id": 13300118,
+        "Name": "リングピロー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1445
+    },
+    "13300119": {
+        "Id": 13300119,
+        "Name": "ウェルカムドール",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1446
+    },
+    "13300120": {
+        "Id": 13300120,
+        "Name": "サンクスプレート",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1447
+    },
+    "1030033102": {
+        "Id": 1030033102,
+        "Name": "乙姫(ウェディングタキシード)専用SPメダル",
+        "Type": 13,
+        "ItemText": "乙姫(ウェディングタキシード)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1448
+    },
+    "11200085": {
+        "Id": 11200085,
+        "Name": "ポケットチーフ",
+        "Type": 12,
+        "ItemText": "乙姫(ウェディングタキシード)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1449
+    },
+    "11100077": {
+        "Id": 11100077,
+        "Name": "乙姫のウェディングタキシード",
+        "Type": 11,
+        "ItemText": "乙姫(ウェディングタキシード)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1450
+    },
+    "13700028": {
+        "Id": 13700028,
+        "Name": "ボスチケット(WD2024)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1451
+    },
+    "13200035": {
+        "Id": 13200035,
+        "Name": "ドルフィンフェスガチャチケット(WD2024)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(WD2024)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1452
+    },
+    "13200036": {
+        "Id": 13200036,
+        "Name": "URドルフィン確定ガチャチケット(WD2023)",
+        "Type": 32,
+        "ItemText": "URドルフィン確定チケットガチャ(WD2023)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1453
+    },
+    "13300121": {
+        "Id": 13300121,
+        "Name": "ウェディングカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1454
+    },
+    "14100063": {
+        "Id": 14100063,
+        "Name": "入華のリング2024",
+        "Type": 41,
+        "ItemText": "ルビーのエンゲージリング。\nジェットバトルに対する情熱を\n表しているような色の宝石だ。\nわたしのユニフォームの色\nみたいでキレイですね！\nと、入華は言っていたらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1455
+    },
+    "14100064": {
+        "Id": 14100064,
+        "Name": "みちるのリング2024",
+        "Type": 41,
+        "ItemText": "深い青色のサファイアを\nあしらったエンゲージリング。\nやはり青色はクールだと\nみちるは喜んでいたようで\nその様子はとてもキュート\nだったと詩絵は語っていた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1456
+    },
+    "14100065": {
+        "Id": 14100065,
+        "Name": "杏里のリング2024",
+        "Type": 41,
+        "ItemText": "緑色のジルコンを\nあしらったエンゲージリング。\nこれを見ているとなんだか\n心が安らぐ感じがして\nイヤなことも忘れられそうだと\n杏里は言っていた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1457
+    },
+    "14100066": {
+        "Id": 14100066,
+        "Name": "詩絵のリング2024",
+        "Type": 41,
+        "ItemText": "純白の中に、虹色の輝きを\n携えた白蝶貝をあしらった\nエンゲージリング。\n全てを包み込むような\n純白の輝きが詩絵の\nイメージにぴったりだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1458
+    },
+    "14100067": {
+        "Id": 14100067,
+        "Name": "颯のリング2024",
+        "Type": 41,
+        "ItemText": "ラベンダー色の珍しい\n翡翠をあしらったリング。\nエレンは髪の色みたいと\n話していたが、颯は\nこのリングに風を感じると\n嬉しそうにしていたらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1459
+    },
+    "14100068": {
+        "Id": 14100068,
+        "Name": "エレンのリング2024",
+        "Type": 41,
+        "ItemText": "純金で仕上げた上品な\nエンゲージリング。\n宝石なんて必要ない！\nこの風見エレンこそが\n高貴な宝石なのよ！\nと、エレンは自慢していた。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1460
+    },
+    "14100069": {
+        "Id": 14100069,
+        "Name": "氷織のリング2024",
+        "Type": 41,
+        "ItemText": "黒く輝くブラックダイヤを\nあしらったエンゲージリング。\nその宝石は荘厳な雰囲気で\n氷織の勝利を渇望する\n固い意志を表したような\n輝きを放っている。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1461
+    },
+    "14100070": {
+        "Id": 14100070,
+        "Name": "シュネーのリング2024",
+        "Type": 41,
+        "ItemText": "シュネーの瞳のような澄んだ\n青い輝きを持つアクアマリンを\nあしらったエンゲージリング。\n聡明という石言葉を持ち、\n海のような青色のアクアマリン\nはシュネーにぴったりだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1462
+    },
+    "14100071": {
+        "Id": 14100071,
+        "Name": "見波のリング2024",
+        "Type": 41,
+        "ItemText": "光によって色を変える宝石\nアレキサンドライトを\nあしらったエンゲージリング。\n照らされる光によって姿を\n変える宝石にシンパシーを\n見波は感じているようだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1463
+    },
+    "14100072": {
+        "Id": 14100072,
+        "Name": "桐利のリング2024",
+        "Type": 41,
+        "ItemText": "燃えるような赤色の中に\n虹色が揺らめくファイア\nオパールをあしらったリング。\n炎上の後からでも復活する\n不死鳥のような輝きは\n桐利にぴったりかもしれない。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1464
+    },
+    "14100073": {
+        "Id": 14100073,
+        "Name": "乙姫のリング2024",
+        "Type": 41,
+        "ItemText": "濃い青色のアイオライトを\nあしらったエンゲージリング。\n光の差す方向によって\n色を変化させることから\n正しい方向を示す力のある\n乙姫の目標に合った指輪だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1465
+    },
+    "14100074": {
+        "Id": 14100074,
+        "Name": "夕離のリング2024",
+        "Type": 41,
+        "ItemText": "不思議な模様のマラカイト。\n危険な愛情を表す宝石だが\nその愛情の危険というのは\nどのような意味を持つのか\n調べてみると夕離の新しい\n一面が見られるのかも。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1466
+    },
+    "14100075": {
+        "Id": 14100075,
+        "Name": "紫苑のリング2024",
+        "Type": 41,
+        "ItemText": "黄色のシトリンをあしらった\nエンゲージリング。\n太陽のように輝くその宝石は\n金運をも招いてくれるらしい。\n人間関係にも効果があるらしく\n紫苑の願いが表れている。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1467
+    },
+    "14100076": {
+        "Id": 14100076,
+        "Name": "ヘリーのリング2024",
+        "Type": 41,
+        "ItemText": "母岩が付いた状態である\nボルダーオパールをあしらった\nエンゲージリング。\nアイデアや閃きに役に立ち\n思考をポジティブな方向に\n変えてくれると言われている。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1468
+    },
+    "14100077": {
+        "Id": 14100077,
+        "Name": "ヴィーナのリング2024",
+        "Type": 41,
+        "ItemText": "純白の真珠をあしらった\nエンゲージリング。\nヴィーナを見ると真珠を\n思い浮かべる人はなぜか多く\nヴィーナ自身もイメージに\n合った宝石だと言っている。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1469
+    },
+    "14100078": {
+        "Id": 14100078,
+        "Name": "セレナのリング2024",
+        "Type": 41,
+        "ItemText": "幻想的な輝きが揺らめく\n虹色のムーンストーンを\nあしらったエンゲージリング。\n直感で選んだらしいが\nセレナの才能に呼応して\n出てきたのかもしれない。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1470
+    },
+    "14100079": {
+        "Id": 14100079,
+        "Name": "由芽のリング2024",
+        "Type": 41,
+        "ItemText": "紫色のアメジストをあしらった\nエンゲージリング。\nアメジストは酔い止めとして\n用いられていたらしい。\nお酒は２０歳を超えてから\n適量を飲みましょう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1471
+    },
+    "14100080": {
+        "Id": 14100080,
+        "Name": "かなのリング2024",
+        "Type": 41,
+        "ItemText": "淡く儚いピンク色の\nクンツァイトのリング。\nかなはピンク色が好きらしく\nこの宝石を選んだようだが\nエンゲージリングというものの\n意味はわかってないようだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1472
+    },
+    "14100081": {
+        "Id": 14100081,
+        "Name": "麻汐のリング2024",
+        "Type": 41,
+        "ItemText": "紅いスピネルをあしらった\nエンゲージリング。\nルビーと間違われる宝石だが\n麻汐の情熱やポジティブさ\n好奇心を表したようなリングで\n麻汐も気に入っているようだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1473
+    },
+    "14100082": {
+        "Id": 14100082,
+        "Name": "トモのリング2024",
+        "Type": 41,
+        "ItemText": "美しい澄んだ紫色の\nマリアライトをあしらった\nエンゲージリング。\n夢を叶える助けとなると\n言われている石で、トモは\nアイドルの夢を託している。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1474
+    },
+    "14100083": {
+        "Id": 14100083,
+        "Name": "アイネスのリング2024",
+        "Type": 41,
+        "ItemText": "人工的に作られたダイヤを\nあしらったエンゲージリング。\n人工ダイヤは本物に劣らず\n見分けることも難しい。\n本物と見分けがつかないなら\n価値は同じなのだろうか？",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1475
+    },
+    "14100084": {
+        "Id": 14100084,
+        "Name": "ナハトのリング2024",
+        "Type": 41,
+        "ItemText": "ナハトの髪の色のような\nかわいらしいピンク色の\nロードクロサイトのリング。\nナハトがこのリングを見て\n思い浮かんだ言葉は\n「恋」だったそうだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1476
+    },
+    "14100085": {
+        "Id": 14100085,
+        "Name": "咲良のリング2024",
+        "Type": 41,
+        "ItemText": "歴史が新しい希少石である\nグランディディエライトを\nあしらったエンゲージリング。\nワダツミという新たな土地での\n暮らしを見つめなおす気持ちに\n咲良はなったという。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1477
+    },
+    "14100086": {
+        "Id": 14100086,
+        "Name": "アマデアのリング2024",
+        "Type": 41,
+        "ItemText": "フローライトのリング。\n天才の石、創造性の意味を\n持つことから、アマデアは\n自分自身を表していると\n自信満々に語っていたが\n他にも石の意味があるとか？",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1478
+    },
+    "14200063": {
+        "Id": 14200063,
+        "Name": "【ウェディング2024】咲宮　入華",
+        "Type": 42,
+        "ItemText": "交換すると入華の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1479
+    },
+    "14200064": {
+        "Id": 14200064,
+        "Name": "【ウェディング2024】都条　みちる",
+        "Type": 42,
+        "ItemText": "交換するとみちるの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1480
+    },
+    "14200065": {
+        "Id": 14200065,
+        "Name": "【ウェディング2024】陽南　杏里",
+        "Type": 42,
+        "ItemText": "交換すると杏里の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1481
+    },
+    "14200066": {
+        "Id": 14200066,
+        "Name": "【ウェディング2024】彩戸　詩絵",
+        "Type": 42,
+        "ItemText": "交換すると詩絵の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1482
+    },
+    "14200067": {
+        "Id": 14200067,
+        "Name": "【ウェディング2024】相馬　颯",
+        "Type": 42,
+        "ItemText": "交換すると颯の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1483
+    },
+    "14200068": {
+        "Id": 14200068,
+        "Name": "【ウェディング2024】風見　エレン",
+        "Type": 42,
+        "ItemText": "交換するとエレンの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1484
+    },
+    "14200069": {
+        "Id": 14200069,
+        "Name": "【ウェディング2024】永雪　氷織",
+        "Type": 42,
+        "ItemText": "交換すると氷織の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1485
+    },
+    "14200070": {
+        "Id": 14200070,
+        "Name": "【ウェディング2024】シュネー・ヴァイスベルグ",
+        "Type": 42,
+        "ItemText": "交換するとシュネーの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1486
+    },
+    "14200071": {
+        "Id": 14200071,
+        "Name": "【ウェディング2024】黒瀬　見波",
+        "Type": 42,
+        "ItemText": "交換すると見波の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1487
+    },
+    "14200072": {
+        "Id": 14200072,
+        "Name": "【ウェディング2024】伊澄　桐利",
+        "Type": 42,
+        "ItemText": "交換すると桐利の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1488
+    },
+    "14200073": {
+        "Id": 14200073,
+        "Name": "【ウェディング2024】刃兼　乙姫",
+        "Type": 42,
+        "ItemText": "交換すると乙姫の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1489
+    },
+    "14200074": {
+        "Id": 14200074,
+        "Name": "【ウェディング2024】暮無　夕離",
+        "Type": 42,
+        "ItemText": "交換すると夕離の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1490
+    },
+    "14200075": {
+        "Id": 14200075,
+        "Name": "【ウェディング2024】住乃絵　紫苑",
+        "Type": 42,
+        "ItemText": "交換すると紫苑の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1491
+    },
+    "14200076": {
+        "Id": 14200076,
+        "Name": "【ウェディング2024】ヘリー・ルイス",
+        "Type": 42,
+        "ItemText": "交換するとヘリーの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1492
+    },
+    "14200077": {
+        "Id": 14200077,
+        "Name": "【ウェディング2024】ヴィーナ",
+        "Type": 42,
+        "ItemText": "交換するとヴィーナの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1493
+    },
+    "14200078": {
+        "Id": 14200078,
+        "Name": "【ウェディング2024】セレナ・ルイス",
+        "Type": 42,
+        "ItemText": "交換するとセレナの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1494
+    },
+    "14200079": {
+        "Id": 14200079,
+        "Name": "【ウェディング2024】山葉　由芽",
+        "Type": 42,
+        "ItemText": "交換すると由芽の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1495
+    },
+    "14200080": {
+        "Id": 14200080,
+        "Name": "【ウェディング2024】浦見　かな",
+        "Type": 42,
+        "ItemText": "交換するとかなの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1496
+    },
+    "14200081": {
+        "Id": 14200081,
+        "Name": "【ウェディング2024】村早　麻汐",
+        "Type": 42,
+        "ItemText": "交換すると麻汐の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1497
+    },
+    "14200082": {
+        "Id": 14200082,
+        "Name": "【ウェディング2024】久々利　トモ",
+        "Type": 42,
+        "ItemText": "交換するとトモの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1498
+    },
+    "14200083": {
+        "Id": 14200083,
+        "Name": "【ウェディング2024】アイネス",
+        "Type": 42,
+        "ItemText": "交換するとアイネスの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1499
+    },
+    "14200084": {
+        "Id": 14200084,
+        "Name": "【ウェディング2024】ナハト",
+        "Type": 42,
+        "ItemText": "交換するとナハトの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1500
+    },
+    "14200085": {
+        "Id": 14200085,
+        "Name": "【ウェディング2024】咲良・アントニー",
+        "Type": 42,
+        "ItemText": "交換すると咲良の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1501
+    },
+    "14200086": {
+        "Id": 14200086,
+        "Name": "【ウェディング2024】アマデア・ウォルファ",
+        "Type": 42,
+        "ItemText": "交換するとアマデアの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1502
+    },
+    "13900595": {
+        "Id": 13900595,
+        "Name": "NereIdesブライダルコンペティション2024 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1501
+    },
+    "13900596": {
+        "Id": 13900596,
+        "Name": "NereIdesブライダルコンペティション2024 EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1500
+    },
+    "13900597": {
+        "Id": 13900597,
+        "Name": "UJAJウェディングカップ優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1499
+    },
+    "13900598": {
+        "Id": 13900598,
+        "Name": "UJAJウェディングカップ優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1498
+    },
+    "13900599": {
+        "Id": 13900599,
+        "Name": "入華ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1497
+    },
+    "13900600": {
+        "Id": 13900600,
+        "Name": "みちるウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1496
+    },
+    "13900601": {
+        "Id": 13900601,
+        "Name": "杏里ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1495
+    },
+    "13900602": {
+        "Id": 13900602,
+        "Name": "詩絵ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1494
+    },
+    "13900603": {
+        "Id": 13900603,
+        "Name": "颯ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1493
+    },
+    "13900604": {
+        "Id": 13900604,
+        "Name": "エレンウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1492
+    },
+    "13900605": {
+        "Id": 13900605,
+        "Name": "氷織ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1491
+    },
+    "13900606": {
+        "Id": 13900606,
+        "Name": "シュネーウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1490
+    },
+    "13900607": {
+        "Id": 13900607,
+        "Name": "見波ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1489
+    },
+    "13900608": {
+        "Id": 13900608,
+        "Name": "桐利ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1488
+    },
+    "13900609": {
+        "Id": 13900609,
+        "Name": "乙姫ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1487
+    },
+    "13900610": {
+        "Id": 13900610,
+        "Name": "夕離ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1486
+    },
+    "13900611": {
+        "Id": 13900611,
+        "Name": "紫苑ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1485
+    },
+    "13900612": {
+        "Id": 13900612,
+        "Name": "ヘリーウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1484
+    },
+    "13900613": {
+        "Id": 13900613,
+        "Name": "ヴィーナウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1483
+    },
+    "13900614": {
+        "Id": 13900614,
+        "Name": "セレナウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1482
+    },
+    "13900615": {
+        "Id": 13900615,
+        "Name": "由芽ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1481
+    },
+    "13900616": {
+        "Id": 13900616,
+        "Name": "かなウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1480
+    },
+    "13900617": {
+        "Id": 13900617,
+        "Name": "麻汐ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1479
+    },
+    "13900618": {
+        "Id": 13900618,
+        "Name": "トモウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1478
+    },
+    "13900619": {
+        "Id": 13900619,
+        "Name": "アイネスウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1477
+    },
+    "13900620": {
+        "Id": 13900620,
+        "Name": "ナハトウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1476
+    },
+    "13900621": {
+        "Id": 13900621,
+        "Name": "咲良ウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1475
+    },
+    "13900622": {
+        "Id": 13900622,
+        "Name": "アマデアウェディング2024",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1474
+    },
+    "13300122": {
+        "Id": 13300122,
+        "Name": "ウェディングメッセージカード2024",
+        "Type": 33,
+        "ItemText": "ショップで特別な称号と交換できるアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1531
+    },
+    "12902665": {
+        "Id": 12902665,
+        "Name": "ペア・お姫様だっこA",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1529
+    },
+    "12902689": {
+        "Id": 12902689,
+        "Name": "ペア・お姫様だっこB",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1528
     }
 }

@@ -609,8 +609,8 @@
     },
     "59": {
         "Id": 59,
-        "StartDate": 1685422800,
-        "EndDate": 1688101199,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
         "Tab": 1,
         "GroupId": 10042,
         "MonthlyReset": 0
@@ -1206,5 +1206,69 @@
         "Tab": 2,
         "GroupId": 20017,
         "MonthlyReset": 1
+    },
+    "134": {
+        "Id": 134,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10095,
+        "MonthlyReset": 0
+    },
+    "135": {
+        "Id": 135,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10096,
+        "MonthlyReset": 0
+    },
+    "136": {
+        "Id": 136,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10097,
+        "MonthlyReset": 0
+    },
+    "137": {
+        "Id": 137,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10098,
+        "MonthlyReset": 0
+    },
+    "138": {
+        "Id": 138,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10099,
+        "MonthlyReset": 0
+    },
+    "139": {
+        "Id": 139,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10100,
+        "MonthlyReset": 0
+    },
+    "140": {
+        "Id": 140,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10101,
+        "MonthlyReset": 0
+    },
+    "160": {
+        "Id": 160,
+        "StartDate": 1717995600,
+        "EndDate": 1720414799,
+        "Tab": 1,
+        "GroupId": 10103,
+        "MonthlyReset": 0
     }
 }

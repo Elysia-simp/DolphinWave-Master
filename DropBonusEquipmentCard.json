@@ -1307,5 +1307,27 @@
         "TotalGetCount03": 30,
         "TotalGetCount04": 35,
         "TotalGetCount05Over": 45
+    },
+    "401204": {
+        "Id": 401204,
+        "QuestId": 4012,
+        "EquipmentCardId": 140027,
+        "TargetItemId": 13300054,
+        "TotalGetCount01": 15,
+        "TotalGetCount02": 20,
+        "TotalGetCount03": 25,
+        "TotalGetCount04": 30,
+        "TotalGetCount05Over": 35
+    },
+    "402901": {
+        "Id": 402901,
+        "QuestId": 4029,
+        "EquipmentCardId": 140027,
+        "TargetItemId": 13300119,
+        "TotalGetCount01": 25,
+        "TotalGetCount02": 30,
+        "TotalGetCount03": 35,
+        "TotalGetCount04": 40,
+        "TotalGetCount05Over": 50
     }
 }

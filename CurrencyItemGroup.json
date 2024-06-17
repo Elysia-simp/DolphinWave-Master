@@ -5626,5 +5626,33 @@
         "ItemId": 13200034,
         "Type": 32,
         "Count": 5
+    },
+    "129001": {
+        "Id": 129001,
+        "ItemGroupId": 129,
+        "ItemId": 13200035,
+        "Type": 32,
+        "Count": 50
+    },
+    "130001": {
+        "Id": 130001,
+        "ItemGroupId": 130,
+        "ItemId": 13200035,
+        "Type": 32,
+        "Count": 20
+    },
+    "131001": {
+        "Id": 131001,
+        "ItemGroupId": 131,
+        "ItemId": 13200035,
+        "Type": 32,
+        "Count": 5
+    },
+    "132002": {
+        "Id": 132002,
+        "ItemGroupId": 132,
+        "ItemId": 13200036,
+        "Type": 32,
+        "Count": 1
     }
 }
