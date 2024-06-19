@@ -13462,5 +13462,77 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1528
+    },
+    "12902713": {
+        "Id": 12902713,
+        "Name": "しゃがみ両手添え",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1529
+    },
+    "12902737": {
+        "Id": 12902737,
+        "Name": "寝転び",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1528
+    },
+    "12902761": {
+        "Id": 12902761,
+        "Name": "丸まって寝転び",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1527
+    },
+    "12902785": {
+        "Id": 12902785,
+        "Name": "仰向け",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1526
+    },
+    "13200037": {
+        "Id": 13200037,
+        "Name": "イベントBOXガチャチケット(ロデオ)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(ロデオ)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1540
+    },
+    "13700029": {
+        "Id": 13700029,
+        "Name": "ボスチケット(ロデオ)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1541
+    },
+    "13900623": {
+        "Id": 13900623,
+        "Name": "暴れ牛を乗りこなせ!ワダツミロデオ大会制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1540
+    },
+    "13900624": {
+        "Id": 13900624,
+        "Name": "暴れ牛を乗りこなせ!ワダツミロデオ大会EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1539
     }
 }

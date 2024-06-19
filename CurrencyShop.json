@@ -3094,5 +3094,29 @@
         "EffectiveDays": 0,
         "Banner": 132,
         "DisplayPriority": 75939004
+    },
+    "133": {
+        "Id": 133,
+        "StoreSku": "jp.hpgames.dolphin.n2_pack_104",
+        "Name": "ポーズパック・Ⅴ",
+        "Description": "お1人様1回まで!有償Mストーン500個とおまけでポーズが入手できるパック",
+        "Currency": 500,
+        "FreeCurrency": 0,
+        "AndroidPrice": 1000,
+        "IosPrice": 1000,
+        "DMMPrice": 1000,
+        "CountLimitType": 1,
+        "StartDate": 1718773200,
+        "EndDate": 2556111599,
+        "LimitCount": 1,
+        "RefreshTime": 0,
+        "Enable": true,
+        "Type": 3,
+        "BonusItemGroup": 133,
+        "BonusItemText": " ",
+        "SpecialPackLoginBonusId": 0,
+        "EffectiveDays": 0,
+        "Banner": 133,
+        "DisplayPriority": 75937901
     }
 }

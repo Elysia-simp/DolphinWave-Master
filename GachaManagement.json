@@ -2601,5 +2601,43 @@
         "TermSaid": 0,
         "BadgeTargetFlag": 0,
         "SharedGachaPointId": 0
+    },
+    "138": {
+        "Id": 138,
+        "GachaName": "カウガール限定ドルフィン確定ガチャ",
+        "Type": 1,
+        "GachaHowToSell1": 13801,
+        "GachaHowToSell2": 0,
+        "StartDate": 1718773200,
+        "EndDate": 1720414799,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 138,
+        "DisplayPriority": 75938106,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 0
+    },
+    "139": {
+        "Id": 139,
+        "GachaName": "イベントBOXガチャ(ロデオ)",
+        "Type": 7,
+        "GachaHowToSell1": 0,
+        "GachaHowToSell2": 0,
+        "StartDate": 1718773200,
+        "EndDate": 1721019599,
+        "StepLimitDate": 0,
+        "StepUpLimitRound": 0,
+        "Gachavalue": 0,
+        "Campaignflag": 0,
+        "GachaImage": 139,
+        "DisplayPriority": 75938100,
+        "Enable": true,
+        "TermSaid": 0,
+        "BadgeTargetFlag": 0,
+        "SharedGachaPointId": 0
     }
 }

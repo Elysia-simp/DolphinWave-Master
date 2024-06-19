@@ -187150,5 +187150,1933 @@
         "Type": 7,
         "ObjectId": 100441501,
         "Status": 1
+    },
+    "13801001": {
+        "Id": 13801001,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100141103,
+        "Status": 1
+    },
+    "13801002": {
+        "Id": 13801002,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100241103,
+        "Status": 1
+    },
+    "13801003": {
+        "Id": 13801003,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100341102,
+        "Status": 1
+    },
+    "13801004": {
+        "Id": 13801004,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100441102,
+        "Status": 1
+    },
+    "13801005": {
+        "Id": 13801005,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400141503,
+        "Status": 1
+    },
+    "13801006": {
+        "Id": 13801006,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400241502,
+        "Status": 1
+    },
+    "13801007": {
+        "Id": 13801007,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400341502,
+        "Status": 1
+    },
+    "13801008": {
+        "Id": 13801008,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400441502,
+        "Status": 1
+    },
+    "13801009": {
+        "Id": 13801009,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 500141202,
+        "Status": 1
+    },
+    "13801010": {
+        "Id": 13801010,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 500241202,
+        "Status": 1
+    },
+    "13801011": {
+        "Id": 13801011,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200141402,
+        "Status": 1
+    },
+    "13801012": {
+        "Id": 13801012,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200241402,
+        "Status": 1
+    },
+    "13801013": {
+        "Id": 13801013,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200341402,
+        "Status": 1
+    },
+    "13801014": {
+        "Id": 13801014,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200441402,
+        "Status": 1
+    },
+    "13801015": {
+        "Id": 13801015,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300141302,
+        "Status": 1
+    },
+    "13801016": {
+        "Id": 13801016,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300241302,
+        "Status": 1
+    },
+    "13801017": {
+        "Id": 13801017,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300341302,
+        "Status": 1
+    },
+    "13801018": {
+        "Id": 13801018,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300441302,
+        "Status": 1
+    },
+    "13801019": {
+        "Id": 13801019,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400141201,
+        "Status": 1
+    },
+    "13801020": {
+        "Id": 13801020,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400341201,
+        "Status": 1
+    },
+    "13801021": {
+        "Id": 13801021,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400241201,
+        "Status": 1
+    },
+    "13801022": {
+        "Id": 13801022,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400441201,
+        "Status": 1
+    },
+    "13801023": {
+        "Id": 13801023,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200341101,
+        "Status": 1
+    },
+    "13801024": {
+        "Id": 13801024,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200441101,
+        "Status": 1
+    },
+    "13801025": {
+        "Id": 13801025,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300141401,
+        "Status": 1
+    },
+    "13801026": {
+        "Id": 13801026,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300241401,
+        "Status": 1
+    },
+    "13801027": {
+        "Id": 13801027,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100141501,
+        "Status": 1
+    },
+    "13801028": {
+        "Id": 13801028,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100241501,
+        "Status": 1
+    },
+    "13801029": {
+        "Id": 13801029,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100341301,
+        "Status": 1
+    },
+    "13801030": {
+        "Id": 13801030,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100441301,
+        "Status": 1
+    },
+    "13801031": {
+        "Id": 13801031,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 500141301,
+        "Status": 1
+    },
+    "13801032": {
+        "Id": 13801032,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 500241301,
+        "Status": 1
+    },
+    "13801033": {
+        "Id": 13801033,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200141101,
+        "Status": 1
+    },
+    "13801034": {
+        "Id": 13801034,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200241101,
+        "Status": 1
+    },
+    "13801035": {
+        "Id": 13801035,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300341401,
+        "Status": 1
+    },
+    "13801036": {
+        "Id": 13801036,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300441401,
+        "Status": 1
+    },
+    "13801037": {
+        "Id": 13801037,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 600141501,
+        "Status": 1
+    },
+    "13801038": {
+        "Id": 13801038,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 600241501,
+        "Status": 1
+    },
+    "13801039": {
+        "Id": 13801039,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100341101,
+        "Status": 1
+    },
+    "13801040": {
+        "Id": 13801040,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400241101,
+        "Status": 1
+    },
+    "13801041": {
+        "Id": 13801041,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400341501,
+        "Status": 1
+    },
+    "13801042": {
+        "Id": 13801042,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 100441501,
+        "Status": 1
+    },
+    "13801043": {
+        "Id": 13801043,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300141101,
+        "Status": 1
+    },
+    "13801044": {
+        "Id": 13801044,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400441101,
+        "Status": 1
+    },
+    "13801045": {
+        "Id": 13801045,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 400141401,
+        "Status": 1
+    },
+    "13801046": {
+        "Id": 13801046,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 600241401,
+        "Status": 1
+    },
+    "13801047": {
+        "Id": 13801047,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 500141201,
+        "Status": 1
+    },
+    "13801048": {
+        "Id": 13801048,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200241201,
+        "Status": 1
+    },
+    "13801049": {
+        "Id": 13801049,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 600141301,
+        "Status": 1
+    },
+    "13801050": {
+        "Id": 13801050,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200441301,
+        "Status": 1
+    },
+    "13801051": {
+        "Id": 13801051,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 200341501,
+        "Status": 1
+    },
+    "13801052": {
+        "Id": 13801052,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 500241501,
+        "Status": 1
+    },
+    "13801053": {
+        "Id": 13801053,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 700141301,
+        "Status": 1
+    },
+    "13801054": {
+        "Id": 13801054,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 700241301,
+        "Status": 1
+    },
+    "13801055": {
+        "Id": 13801055,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 700341401,
+        "Status": 1
+    },
+    "13801056": {
+        "Id": 13801056,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 700441401,
+        "Status": 1
+    },
+    "13801057": {
+        "Id": 13801057,
+        "CardWeightGroupId": 13801,
+        "Weight": 35,
+        "Type": 7,
+        "ObjectId": 300341101,
+        "Status": 1
+    },
+    "13802001": {
+        "Id": 13802001,
+        "CardWeightGroupId": 13802,
+        "Weight": 1,
+        "Type": 7,
+        "ObjectId": 700331501,
+        "Status": 2
+    },
+    "13803001": {
+        "Id": 13803001,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 100131401,
+        "Status": 1
+    },
+    "13803002": {
+        "Id": 13803002,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 100231401,
+        "Status": 1
+    },
+    "13803003": {
+        "Id": 13803003,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 100331301,
+        "Status": 1
+    },
+    "13803004": {
+        "Id": 13803004,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 100431301,
+        "Status": 1
+    },
+    "13803005": {
+        "Id": 13803005,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 200131201,
+        "Status": 1
+    },
+    "13803006": {
+        "Id": 13803006,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 200231201,
+        "Status": 1
+    },
+    "13803007": {
+        "Id": 13803007,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 200331101,
+        "Status": 1
+    },
+    "13803008": {
+        "Id": 13803008,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 200431101,
+        "Status": 1
+    },
+    "13803009": {
+        "Id": 13803009,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 300131501,
+        "Status": 1
+    },
+    "13803010": {
+        "Id": 13803010,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 300231501,
+        "Status": 1
+    },
+    "13803011": {
+        "Id": 13803011,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 300331101,
+        "Status": 1
+    },
+    "13803012": {
+        "Id": 13803012,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 300431101,
+        "Status": 1
+    },
+    "13803013": {
+        "Id": 13803013,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 400131201,
+        "Status": 1
+    },
+    "13803014": {
+        "Id": 13803014,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 400231201,
+        "Status": 1
+    },
+    "13803015": {
+        "Id": 13803015,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 400331301,
+        "Status": 1
+    },
+    "13803016": {
+        "Id": 13803016,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 400431301,
+        "Status": 1
+    },
+    "13803017": {
+        "Id": 13803017,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 500131501,
+        "Status": 1
+    },
+    "13803018": {
+        "Id": 13803018,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 500231501,
+        "Status": 1
+    },
+    "13803019": {
+        "Id": 13803019,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 600131401,
+        "Status": 1
+    },
+    "13803020": {
+        "Id": 13803020,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 600231401,
+        "Status": 1
+    },
+    "13803021": {
+        "Id": 13803021,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 700131201,
+        "Status": 1
+    },
+    "13803022": {
+        "Id": 13803022,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 700231201,
+        "Status": 1
+    },
+    "13803023": {
+        "Id": 13803023,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 700331201,
+        "Status": 1
+    },
+    "13803024": {
+        "Id": 13803024,
+        "CardWeightGroupId": 13803,
+        "Weight": 208,
+        "Type": 7,
+        "ObjectId": 700431201,
+        "Status": 1
+    },
+    "13804001": {
+        "Id": 13804001,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 100121501,
+        "Status": 1
+    },
+    "13804002": {
+        "Id": 13804002,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 100221501,
+        "Status": 1
+    },
+    "13804003": {
+        "Id": 13804003,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 100321201,
+        "Status": 1
+    },
+    "13804004": {
+        "Id": 13804004,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 100421201,
+        "Status": 1
+    },
+    "13804005": {
+        "Id": 13804005,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 200121102,
+        "Status": 1
+    },
+    "13804006": {
+        "Id": 13804006,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 200221102,
+        "Status": 1
+    },
+    "13804007": {
+        "Id": 13804007,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 200321301,
+        "Status": 1
+    },
+    "13804008": {
+        "Id": 13804008,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 200421301,
+        "Status": 1
+    },
+    "13804009": {
+        "Id": 13804009,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 300121401,
+        "Status": 1
+    },
+    "13804010": {
+        "Id": 13804010,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 300221401,
+        "Status": 1
+    },
+    "13804011": {
+        "Id": 13804011,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 300321201,
+        "Status": 1
+    },
+    "13804012": {
+        "Id": 13804012,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 300421201,
+        "Status": 1
+    },
+    "13804013": {
+        "Id": 13804013,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 400121102,
+        "Status": 1
+    },
+    "13804014": {
+        "Id": 13804014,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 400221102,
+        "Status": 1
+    },
+    "13804015": {
+        "Id": 13804015,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 400321401,
+        "Status": 1
+    },
+    "13804016": {
+        "Id": 13804016,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 400421401,
+        "Status": 1
+    },
+    "13804017": {
+        "Id": 13804017,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 500121301,
+        "Status": 1
+    },
+    "13804018": {
+        "Id": 13804018,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 500221301,
+        "Status": 1
+    },
+    "13804019": {
+        "Id": 13804019,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 600121501,
+        "Status": 1
+    },
+    "13804020": {
+        "Id": 13804020,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 600221501,
+        "Status": 1
+    },
+    "13804021": {
+        "Id": 13804021,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 700121501,
+        "Status": 1
+    },
+    "13804022": {
+        "Id": 13804022,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 700221501,
+        "Status": 1
+    },
+    "13804023": {
+        "Id": 13804023,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 700321501,
+        "Status": 1
+    },
+    "13804024": {
+        "Id": 13804024,
+        "CardWeightGroupId": 13804,
+        "Weight": 1666,
+        "Type": 7,
+        "ObjectId": 700421501,
+        "Status": 1
+    },
+    "13805001": {
+        "Id": 13805001,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140011,
+        "Status": 1
+    },
+    "13805002": {
+        "Id": 13805002,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140012,
+        "Status": 1
+    },
+    "13805003": {
+        "Id": 13805003,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440011,
+        "Status": 1
+    },
+    "13805004": {
+        "Id": 13805004,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440012,
+        "Status": 1
+    },
+    "13805005": {
+        "Id": 13805005,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340011,
+        "Status": 1
+    },
+    "13805006": {
+        "Id": 13805006,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340012,
+        "Status": 1
+    },
+    "13805007": {
+        "Id": 13805007,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540011,
+        "Status": 1
+    },
+    "13805008": {
+        "Id": 13805008,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540012,
+        "Status": 1
+    },
+    "13805009": {
+        "Id": 13805009,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240011,
+        "Status": 1
+    },
+    "13805010": {
+        "Id": 13805010,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540013,
+        "Status": 1
+    },
+    "13805011": {
+        "Id": 13805011,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140013,
+        "Status": 1
+    },
+    "13805012": {
+        "Id": 13805012,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240013,
+        "Status": 1
+    },
+    "13805013": {
+        "Id": 13805013,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340013,
+        "Status": 1
+    },
+    "13805014": {
+        "Id": 13805014,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240012,
+        "Status": 1
+    },
+    "13805015": {
+        "Id": 13805015,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440013,
+        "Status": 1
+    },
+    "13805016": {
+        "Id": 13805016,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340014,
+        "Status": 1
+    },
+    "13805017": {
+        "Id": 13805017,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540014,
+        "Status": 1
+    },
+    "13805018": {
+        "Id": 13805018,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240014,
+        "Status": 1
+    },
+    "13805019": {
+        "Id": 13805019,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440014,
+        "Status": 1
+    },
+    "13805020": {
+        "Id": 13805020,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140014,
+        "Status": 1
+    },
+    "13805021": {
+        "Id": 13805021,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440017,
+        "Status": 1
+    },
+    "13805022": {
+        "Id": 13805022,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140016,
+        "Status": 1
+    },
+    "13805023": {
+        "Id": 13805023,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340016,
+        "Status": 1
+    },
+    "13805024": {
+        "Id": 13805024,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340017,
+        "Status": 1
+    },
+    "13805025": {
+        "Id": 13805025,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240017,
+        "Status": 1
+    },
+    "13805026": {
+        "Id": 13805026,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240018,
+        "Status": 1
+    },
+    "13805027": {
+        "Id": 13805027,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140017,
+        "Status": 1
+    },
+    "13805028": {
+        "Id": 13805028,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440018,
+        "Status": 1
+    },
+    "13805029": {
+        "Id": 13805029,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540017,
+        "Status": 1
+    },
+    "13805030": {
+        "Id": 13805030,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340018,
+        "Status": 1
+    },
+    "13805031": {
+        "Id": 13805031,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340019,
+        "Status": 1
+    },
+    "13805032": {
+        "Id": 13805032,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140018,
+        "Status": 1
+    },
+    "13805033": {
+        "Id": 13805033,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440019,
+        "Status": 1
+    },
+    "13805034": {
+        "Id": 13805034,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540019,
+        "Status": 1
+    },
+    "13805035": {
+        "Id": 13805035,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440020,
+        "Status": 1
+    },
+    "13805036": {
+        "Id": 13805036,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240020,
+        "Status": 1
+    },
+    "13805037": {
+        "Id": 13805037,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140019,
+        "Status": 1
+    },
+    "13805038": {
+        "Id": 13805038,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540022,
+        "Status": 1
+    },
+    "13805039": {
+        "Id": 13805039,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 140020,
+        "Status": 1
+    },
+    "13805040": {
+        "Id": 13805040,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 440022,
+        "Status": 1
+    },
+    "13805041": {
+        "Id": 13805041,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 240021,
+        "Status": 1
+    },
+    "13805042": {
+        "Id": 13805042,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340022,
+        "Status": 1
+    },
+    "13805043": {
+        "Id": 13805043,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 540024,
+        "Status": 1
+    },
+    "13805044": {
+        "Id": 13805044,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340024,
+        "Status": 1
+    },
+    "13805045": {
+        "Id": 13805045,
+        "CardWeightGroupId": 13805,
+        "Weight": 66,
+        "Type": 8,
+        "ObjectId": 340023,
+        "Status": 1
+    },
+    "13806001": {
+        "Id": 13806001,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230011,
+        "Status": 1
+    },
+    "13806002": {
+        "Id": 13806002,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330011,
+        "Status": 1
+    },
+    "13806003": {
+        "Id": 13806003,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530011,
+        "Status": 1
+    },
+    "13806004": {
+        "Id": 13806004,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130011,
+        "Status": 1
+    },
+    "13806005": {
+        "Id": 13806005,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430011,
+        "Status": 1
+    },
+    "13806006": {
+        "Id": 13806006,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530012,
+        "Status": 1
+    },
+    "13806007": {
+        "Id": 13806007,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130012,
+        "Status": 1
+    },
+    "13806008": {
+        "Id": 13806008,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230012,
+        "Status": 1
+    },
+    "13806009": {
+        "Id": 13806009,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330012,
+        "Status": 1
+    },
+    "13806010": {
+        "Id": 13806010,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530013,
+        "Status": 1
+    },
+    "13806011": {
+        "Id": 13806011,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430012,
+        "Status": 1
+    },
+    "13806012": {
+        "Id": 13806012,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330013,
+        "Status": 1
+    },
+    "13806013": {
+        "Id": 13806013,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230013,
+        "Status": 1
+    },
+    "13806014": {
+        "Id": 13806014,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130013,
+        "Status": 1
+    },
+    "13806015": {
+        "Id": 13806015,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530014,
+        "Status": 1
+    },
+    "13806016": {
+        "Id": 13806016,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430013,
+        "Status": 1
+    },
+    "13806017": {
+        "Id": 13806017,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330014,
+        "Status": 1
+    },
+    "13806018": {
+        "Id": 13806018,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230014,
+        "Status": 1
+    },
+    "13806019": {
+        "Id": 13806019,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430014,
+        "Status": 1
+    },
+    "13806020": {
+        "Id": 13806020,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130014,
+        "Status": 1
+    },
+    "13806021": {
+        "Id": 13806021,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430016,
+        "Status": 1
+    },
+    "13806022": {
+        "Id": 13806022,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130015,
+        "Status": 1
+    },
+    "13806023": {
+        "Id": 13806023,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330015,
+        "Status": 1
+    },
+    "13806024": {
+        "Id": 13806024,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330016,
+        "Status": 1
+    },
+    "13806025": {
+        "Id": 13806025,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230015,
+        "Status": 1
+    },
+    "13806026": {
+        "Id": 13806026,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230016,
+        "Status": 1
+    },
+    "13806027": {
+        "Id": 13806027,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130016,
+        "Status": 1
+    },
+    "13806028": {
+        "Id": 13806028,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430017,
+        "Status": 1
+    },
+    "13806029": {
+        "Id": 13806029,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530015,
+        "Status": 1
+    },
+    "13806030": {
+        "Id": 13806030,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330017,
+        "Status": 1
+    },
+    "13806031": {
+        "Id": 13806031,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330018,
+        "Status": 1
+    },
+    "13806032": {
+        "Id": 13806032,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130017,
+        "Status": 1
+    },
+    "13806033": {
+        "Id": 13806033,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430018,
+        "Status": 1
+    },
+    "13806034": {
+        "Id": 13806034,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530016,
+        "Status": 1
+    },
+    "13806035": {
+        "Id": 13806035,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430019,
+        "Status": 1
+    },
+    "13806036": {
+        "Id": 13806036,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230017,
+        "Status": 1
+    },
+    "13806037": {
+        "Id": 13806037,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130018,
+        "Status": 1
+    },
+    "13806038": {
+        "Id": 13806038,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530017,
+        "Status": 1
+    },
+    "13806039": {
+        "Id": 13806039,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130019,
+        "Status": 1
+    },
+    "13806040": {
+        "Id": 13806040,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430020,
+        "Status": 1
+    },
+    "13806041": {
+        "Id": 13806041,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 230018,
+        "Status": 1
+    },
+    "13806042": {
+        "Id": 13806042,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 330019,
+        "Status": 1
+    },
+    "13806043": {
+        "Id": 13806043,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 530018,
+        "Status": 1
+    },
+    "13806044": {
+        "Id": 13806044,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 430021,
+        "Status": 1
+    },
+    "13806045": {
+        "Id": 13806045,
+        "CardWeightGroupId": 13806,
+        "Weight": 222,
+        "Type": 8,
+        "ObjectId": 130020,
+        "Status": 1
+    },
+    "13807001": {
+        "Id": 13807001,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220011,
+        "Status": 1
+    },
+    "13807002": {
+        "Id": 13807002,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120011,
+        "Status": 1
+    },
+    "13807003": {
+        "Id": 13807003,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320011,
+        "Status": 1
+    },
+    "13807004": {
+        "Id": 13807004,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420011,
+        "Status": 1
+    },
+    "13807005": {
+        "Id": 13807005,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520011,
+        "Status": 1
+    },
+    "13807006": {
+        "Id": 13807006,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220012,
+        "Status": 1
+    },
+    "13807007": {
+        "Id": 13807007,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120012,
+        "Status": 1
+    },
+    "13807008": {
+        "Id": 13807008,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320012,
+        "Status": 1
+    },
+    "13807009": {
+        "Id": 13807009,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420012,
+        "Status": 1
+    },
+    "13807010": {
+        "Id": 13807010,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520012,
+        "Status": 1
+    },
+    "13807011": {
+        "Id": 13807011,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220013,
+        "Status": 1
+    },
+    "13807012": {
+        "Id": 13807012,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120013,
+        "Status": 1
+    },
+    "13807013": {
+        "Id": 13807013,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320013,
+        "Status": 1
+    },
+    "13807014": {
+        "Id": 13807014,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420013,
+        "Status": 1
+    },
+    "13807015": {
+        "Id": 13807015,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520013,
+        "Status": 1
+    },
+    "13807016": {
+        "Id": 13807016,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220014,
+        "Status": 1
+    },
+    "13807017": {
+        "Id": 13807017,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120014,
+        "Status": 1
+    },
+    "13807018": {
+        "Id": 13807018,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320014,
+        "Status": 1
+    },
+    "13807019": {
+        "Id": 13807019,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420014,
+        "Status": 1
+    },
+    "13807020": {
+        "Id": 13807020,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520014,
+        "Status": 1
+    },
+    "13807021": {
+        "Id": 13807021,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420016,
+        "Status": 1
+    },
+    "13807022": {
+        "Id": 13807022,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120015,
+        "Status": 1
+    },
+    "13807023": {
+        "Id": 13807023,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320015,
+        "Status": 1
+    },
+    "13807024": {
+        "Id": 13807024,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320016,
+        "Status": 1
+    },
+    "13807025": {
+        "Id": 13807025,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220015,
+        "Status": 1
+    },
+    "13807026": {
+        "Id": 13807026,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220016,
+        "Status": 1
+    },
+    "13807027": {
+        "Id": 13807027,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120016,
+        "Status": 1
+    },
+    "13807028": {
+        "Id": 13807028,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420017,
+        "Status": 1
+    },
+    "13807029": {
+        "Id": 13807029,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520015,
+        "Status": 1
+    },
+    "13807030": {
+        "Id": 13807030,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320017,
+        "Status": 1
+    },
+    "13807031": {
+        "Id": 13807031,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320018,
+        "Status": 1
+    },
+    "13807032": {
+        "Id": 13807032,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120017,
+        "Status": 1
+    },
+    "13807033": {
+        "Id": 13807033,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420018,
+        "Status": 1
+    },
+    "13807034": {
+        "Id": 13807034,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520016,
+        "Status": 1
+    },
+    "13807035": {
+        "Id": 13807035,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420019,
+        "Status": 1
+    },
+    "13807036": {
+        "Id": 13807036,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220017,
+        "Status": 1
+    },
+    "13807037": {
+        "Id": 13807037,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120018,
+        "Status": 1
+    },
+    "13807038": {
+        "Id": 13807038,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520017,
+        "Status": 1
+    },
+    "13807039": {
+        "Id": 13807039,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120019,
+        "Status": 1
+    },
+    "13807040": {
+        "Id": 13807040,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420020,
+        "Status": 1
+    },
+    "13807041": {
+        "Id": 13807041,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 220018,
+        "Status": 1
+    },
+    "13807042": {
+        "Id": 13807042,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 320019,
+        "Status": 1
+    },
+    "13807043": {
+        "Id": 13807043,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 520018,
+        "Status": 1
+    },
+    "13807044": {
+        "Id": 13807044,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 420021,
+        "Status": 1
+    },
+    "13807045": {
+        "Id": 13807045,
+        "CardWeightGroupId": 13807,
+        "Weight": 888,
+        "Type": 8,
+        "ObjectId": 120020,
+        "Status": 1
     }
 }
