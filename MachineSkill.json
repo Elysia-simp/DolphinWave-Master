@@ -26,51 +26,6 @@
         "MainEffectId": 520003,
         "SubEffectId": 0
     },
-    "302001": {
-        "Id": 302001,
-        "MachineSkillText": "フィールドが晴れの時、マシンステータスアップ",
-        "MachineIconId": 201,
-        "ConditionTargetDetail": 4,
-        "ConditionTargetDetailId": 1,
-        "MainEffectId": 520004,
-        "SubEffectId": 0
-    },
-    "302002": {
-        "Id": 302002,
-        "MachineSkillText": "フィールドが雨の時、マシンステータスアップ",
-        "MachineIconId": 202,
-        "ConditionTargetDetail": 4,
-        "ConditionTargetDetailId": 2,
-        "MainEffectId": 520005,
-        "SubEffectId": 0
-    },
-    "302003": {
-        "Id": 302003,
-        "MachineSkillText": "フィールドが風の時、マシンステータスアップ",
-        "MachineIconId": 203,
-        "ConditionTargetDetail": 4,
-        "ConditionTargetDetailId": 3,
-        "MainEffectId": 520006,
-        "SubEffectId": 0
-    },
-    "303001": {
-        "Id": 303001,
-        "MachineSkillText": "アタッカーに編成時、マシンステータスアップ",
-        "MachineIconId": 301,
-        "ConditionTargetDetail": 5,
-        "ConditionTargetDetailId": 1,
-        "MainEffectId": 520007,
-        "SubEffectId": 0
-    },
-    "303002": {
-        "Id": 303002,
-        "MachineSkillText": "ディフェンダーに編成時、マシンステータスアップ",
-        "MachineIconId": 302,
-        "ConditionTargetDetail": 5,
-        "ConditionTargetDetailId": 2,
-        "MainEffectId": 520008,
-        "SubEffectId": 0
-    },
     "301004": {
         "Id": 301004,
         "MachineSkillText": "時間が昼の時、マシンの攻撃力が10%アップ",
@@ -98,6 +53,33 @@
         "MainEffectId": 520011,
         "SubEffectId": 0
     },
+    "302001": {
+        "Id": 302001,
+        "MachineSkillText": "フィールドが晴れの時、マシンステータスアップ",
+        "MachineIconId": 201,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520004,
+        "SubEffectId": 0
+    },
+    "302002": {
+        "Id": 302002,
+        "MachineSkillText": "フィールドが雨の時、マシンステータスアップ",
+        "MachineIconId": 202,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520005,
+        "SubEffectId": 0
+    },
+    "302003": {
+        "Id": 302003,
+        "MachineSkillText": "フィールドが風の時、マシンステータスアップ",
+        "MachineIconId": 203,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 3,
+        "MainEffectId": 520006,
+        "SubEffectId": 0
+    },
     "302004": {
         "Id": 302004,
         "MachineSkillText": "天候が晴れの時、マシンのガードが2アップ",
@@ -114,6 +96,24 @@
         "ConditionTargetDetail": 4,
         "ConditionTargetDetailId": 0,
         "MainEffectId": 520013,
+        "SubEffectId": 0
+    },
+    "303001": {
+        "Id": 303001,
+        "MachineSkillText": "アタッカーに編成時、マシンステータスアップ",
+        "MachineIconId": 301,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520007,
+        "SubEffectId": 0
+    },
+    "303002": {
+        "Id": 303002,
+        "MachineSkillText": "ディフェンダーに編成時、マシンステータスアップ",
+        "MachineIconId": 302,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 2,
+        "MainEffectId": 520008,
         "SubEffectId": 0
     },
     "303003": {
@@ -186,6 +186,15 @@
         "ConditionTargetDetail": 3,
         "ConditionTargetDetailId": 2,
         "MainEffectId": 520010,
+        "SubEffectId": 0
+    },
+    "302006": {
+        "Id": 302006,
+        "MachineSkillText": "天候が雨の時、マシンのガードが2アップ",
+        "MachineIconId": 202,
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520012,
         "SubEffectId": 0
     }
 }

@@ -13534,5 +13534,320 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1539
+    },
+    "1530014201": {
+        "Id": 1530014201,
+        "Name": "飛鳥(ワダツミスタイル)専用SPメダル",
+        "Type": 13,
+        "ItemText": "飛鳥(ワダツミスタイル)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1544
+    },
+    "1530024201": {
+        "Id": 1530024201,
+        "Name": "雪泉(ワダツミスタイル)専用SPメダル",
+        "Type": 13,
+        "ItemText": "雪泉(ワダツミスタイル)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1545
+    },
+    "13300123": {
+        "Id": 13300123,
+        "Name": "金のべべたん像",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1546
+    },
+    "13300124": {
+        "Id": 13300124,
+        "Name": "忍兎のぬいぐるみ",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1547
+    },
+    "13300125": {
+        "Id": 13300125,
+        "Name": "忍法書",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1548
+    },
+    "1030013202": {
+        "Id": 1030013202,
+        "Name": "見波(柳生の忍転身装束)専用SPメダル",
+        "Type": 13,
+        "ItemText": "見波(柳生の忍転身装束)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1549
+    },
+    "11200086": {
+        "Id": 11200086,
+        "Name": "スルメイカ",
+        "Type": 12,
+        "ItemText": "見波(柳生の忍転身装束)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1550
+    },
+    "11100078": {
+        "Id": 11100078,
+        "Name": "柳生の忍転身装束",
+        "Type": 11,
+        "ItemText": "見波(柳生の忍転身装束)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1551
+    },
+    "13700030": {
+        "Id": 13700030,
+        "Name": "ボスチケット(閃乱カグラ・弐)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1552
+    },
+    "13200038": {
+        "Id": 13200038,
+        "Name": "コラボガチャチケット(閃乱カグラ)",
+        "Type": 32,
+        "ItemText": "閃乱カグラコラボチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1553
+    },
+    "13900625": {
+        "Id": 13900625,
+        "Name": "シノビ参にゅう！ワダツミで舞い忍びます！ 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1552
+    },
+    "13900626": {
+        "Id": 13900626,
+        "Name": "シノビ参にゅう！ワダツミで舞い忍びます！ EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1551
+    },
+    "13900627": {
+        "Id": 13900627,
+        "Name": "チャレンジバトル-21st Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1550
+    },
+    "13900628": {
+        "Id": 13900628,
+        "Name": "チャレンジバトル-21st Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1549
+    },
+    "13900629": {
+        "Id": 13900629,
+        "Name": "チャレンジバトル-21st Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1548
+    },
+    "13900630": {
+        "Id": 13900630,
+        "Name": "チャレンジバトル-21st Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1547
+    },
+    "13900631": {
+        "Id": 13900631,
+        "Name": "チャレンジバトル-21st Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1546
+    },
+    "13900632": {
+        "Id": 13900632,
+        "Name": "チャレンジバトル-21st Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1545
+    },
+    "13900633": {
+        "Id": 13900633,
+        "Name": "チャレンジバトル-21st Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1544
+    },
+    "13900634": {
+        "Id": 13900634,
+        "Name": "チャレンジバトル-21st Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1543
+    },
+    "13900635": {
+        "Id": 13900635,
+        "Name": "チャレンジバトル-21st Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1542
+    },
+    "13900636": {
+        "Id": 13900636,
+        "Name": "チャレンジバトル-21st Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1541
+    },
+    "13900637": {
+        "Id": 13900637,
+        "Name": "チャレンジバトル-21st Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1540
+    },
+    "13900638": {
+        "Id": 13900638,
+        "Name": "チャレンジバトル-21st Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1539
+    },
+    "13900639": {
+        "Id": 13900639,
+        "Name": "チャレンジバトル-21st Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1538
+    },
+    "13900640": {
+        "Id": 13900640,
+        "Name": "チャレンジバトル-21st Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1537
+    },
+    "13900641": {
+        "Id": 13900641,
+        "Name": "チャレンジバトル-21st Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1536
+    },
+    "13900642": {
+        "Id": 13900642,
+        "Name": "チャレンジバトル-21st Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1535
+    },
+    "13900643": {
+        "Id": 13900643,
+        "Name": "チャレンジバトル-21st Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1534
+    },
+    "13900644": {
+        "Id": 13900644,
+        "Name": "チャレンジバトル-21st Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1533
+    },
+    "13900645": {
+        "Id": 13900645,
+        "Name": "チャレンジバトル-21st Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1532
+    },
+    "13900646": {
+        "Id": 13900646,
+        "Name": "チャレンジバトル-21st Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1531
+    },
+    "13900647": {
+        "Id": 13900647,
+        "Name": "チャレンジバトル-21st Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1530
+    },
+    "12903043": {
+        "Id": 12903043,
+        "Name": "閃乱カグラ：飛鳥(ワダツミスタイル)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1529
+    },
+    "12903069": {
+        "Id": 12903069,
+        "Name": "閃乱カグラ：雪泉(ワダツミスタイル)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1528
     }
 }

@@ -5518,5 +5518,465 @@
         "IconId": 304,
         "Itemflag": 0,
         "Itemterm": 0
+    },
+    "13000553": {
+        "Id": 13000553,
+        "CharacterId": 53001,
+        "FaceMotionName": "喜",
+        "FaceMotionId": 1,
+        "Class": 1,
+        "IconId": 1,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000554": {
+        "Id": 13000554,
+        "CharacterId": 53001,
+        "FaceMotionName": "楽",
+        "FaceMotionId": 2,
+        "Class": 1,
+        "IconId": 2,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000555": {
+        "Id": 13000555,
+        "CharacterId": 53001,
+        "FaceMotionName": "怒",
+        "FaceMotionId": 3,
+        "Class": 1,
+        "IconId": 3,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000556": {
+        "Id": 13000556,
+        "CharacterId": 53001,
+        "FaceMotionName": "哀",
+        "FaceMotionId": 4,
+        "Class": 1,
+        "IconId": 4,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000557": {
+        "Id": 13000557,
+        "CharacterId": 53001,
+        "FaceMotionName": "呆れ",
+        "FaceMotionId": 5,
+        "Class": 1,
+        "IconId": 5,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000558": {
+        "Id": 13000558,
+        "CharacterId": 53001,
+        "FaceMotionName": "驚き",
+        "FaceMotionId": 7,
+        "Class": 1,
+        "IconId": 7,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000559": {
+        "Id": 13000559,
+        "CharacterId": 53001,
+        "FaceMotionName": "真剣",
+        "FaceMotionId": 8,
+        "Class": 1,
+        "IconId": 8,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000560": {
+        "Id": 13000560,
+        "CharacterId": 53001,
+        "FaceMotionName": "目を閉じる",
+        "FaceMotionId": 9,
+        "Class": 1,
+        "IconId": 9,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000561": {
+        "Id": 13000561,
+        "CharacterId": 53001,
+        "FaceMotionName": "ウィンク左",
+        "FaceMotionId": 10,
+        "Class": 1,
+        "IconId": 10,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000562": {
+        "Id": 13000562,
+        "CharacterId": 53001,
+        "FaceMotionName": "ウィンク右",
+        "FaceMotionId": 11,
+        "Class": 1,
+        "IconId": 11,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000563": {
+        "Id": 13000563,
+        "CharacterId": 53001,
+        "FaceMotionName": "悪だくみ",
+        "FaceMotionId": 12,
+        "Class": 1,
+        "IconId": 12,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000564": {
+        "Id": 13000564,
+        "CharacterId": 53001,
+        "FaceMotionName": "哀+涙",
+        "FaceMotionId": 104,
+        "Class": 1,
+        "IconId": 104,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000565": {
+        "Id": 13000565,
+        "CharacterId": 53001,
+        "FaceMotionName": "楽+照れ",
+        "FaceMotionId": 202,
+        "Class": 1,
+        "IconId": 202,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000566": {
+        "Id": 13000566,
+        "CharacterId": 53001,
+        "FaceMotionName": "喜+涙",
+        "FaceMotionId": 101,
+        "Class": 1,
+        "IconId": 101,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000567": {
+        "Id": 13000567,
+        "CharacterId": 53001,
+        "FaceMotionName": "楽+涙",
+        "FaceMotionId": 102,
+        "Class": 1,
+        "IconId": 102,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000568": {
+        "Id": 13000568,
+        "CharacterId": 53001,
+        "FaceMotionName": "怒+涙",
+        "FaceMotionId": 103,
+        "Class": 1,
+        "IconId": 103,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000569": {
+        "Id": 13000569,
+        "CharacterId": 53001,
+        "FaceMotionName": "喜+照れ",
+        "FaceMotionId": 201,
+        "Class": 1,
+        "IconId": 201,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000570": {
+        "Id": 13000570,
+        "CharacterId": 53001,
+        "FaceMotionName": "怒+照れ",
+        "FaceMotionId": 203,
+        "Class": 1,
+        "IconId": 203,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000571": {
+        "Id": 13000571,
+        "CharacterId": 53001,
+        "FaceMotionName": "哀+照れ",
+        "FaceMotionId": 204,
+        "Class": 1,
+        "IconId": 204,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000572": {
+        "Id": 13000572,
+        "CharacterId": 53001,
+        "FaceMotionName": "喜+涙+照れ",
+        "FaceMotionId": 301,
+        "Class": 1,
+        "IconId": 301,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000573": {
+        "Id": 13000573,
+        "CharacterId": 53001,
+        "FaceMotionName": "楽+涙+照れ",
+        "FaceMotionId": 302,
+        "Class": 1,
+        "IconId": 302,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000574": {
+        "Id": 13000574,
+        "CharacterId": 53001,
+        "FaceMotionName": "怒+涙+照れ",
+        "FaceMotionId": 303,
+        "Class": 1,
+        "IconId": 303,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000575": {
+        "Id": 13000575,
+        "CharacterId": 53001,
+        "FaceMotionName": "哀+涙+照れ",
+        "FaceMotionId": 304,
+        "Class": 1,
+        "IconId": 304,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000576": {
+        "Id": 13000576,
+        "CharacterId": 53002,
+        "FaceMotionName": "喜",
+        "FaceMotionId": 1,
+        "Class": 1,
+        "IconId": 1,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000577": {
+        "Id": 13000577,
+        "CharacterId": 53002,
+        "FaceMotionName": "楽",
+        "FaceMotionId": 2,
+        "Class": 1,
+        "IconId": 2,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000578": {
+        "Id": 13000578,
+        "CharacterId": 53002,
+        "FaceMotionName": "怒",
+        "FaceMotionId": 3,
+        "Class": 1,
+        "IconId": 3,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000579": {
+        "Id": 13000579,
+        "CharacterId": 53002,
+        "FaceMotionName": "哀",
+        "FaceMotionId": 4,
+        "Class": 1,
+        "IconId": 4,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000580": {
+        "Id": 13000580,
+        "CharacterId": 53002,
+        "FaceMotionName": "呆れ",
+        "FaceMotionId": 5,
+        "Class": 1,
+        "IconId": 5,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000581": {
+        "Id": 13000581,
+        "CharacterId": 53002,
+        "FaceMotionName": "驚き",
+        "FaceMotionId": 7,
+        "Class": 1,
+        "IconId": 7,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000582": {
+        "Id": 13000582,
+        "CharacterId": 53002,
+        "FaceMotionName": "真剣",
+        "FaceMotionId": 8,
+        "Class": 1,
+        "IconId": 8,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000583": {
+        "Id": 13000583,
+        "CharacterId": 53002,
+        "FaceMotionName": "目を閉じる",
+        "FaceMotionId": 9,
+        "Class": 1,
+        "IconId": 9,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000584": {
+        "Id": 13000584,
+        "CharacterId": 53002,
+        "FaceMotionName": "ウィンク左",
+        "FaceMotionId": 10,
+        "Class": 1,
+        "IconId": 10,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000585": {
+        "Id": 13000585,
+        "CharacterId": 53002,
+        "FaceMotionName": "ウィンク右",
+        "FaceMotionId": 11,
+        "Class": 1,
+        "IconId": 11,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000586": {
+        "Id": 13000586,
+        "CharacterId": 53002,
+        "FaceMotionName": "悪だくみ",
+        "FaceMotionId": 12,
+        "Class": 1,
+        "IconId": 12,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000587": {
+        "Id": 13000587,
+        "CharacterId": 53002,
+        "FaceMotionName": "哀+涙",
+        "FaceMotionId": 104,
+        "Class": 1,
+        "IconId": 104,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000588": {
+        "Id": 13000588,
+        "CharacterId": 53002,
+        "FaceMotionName": "楽+照れ",
+        "FaceMotionId": 202,
+        "Class": 1,
+        "IconId": 202,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000589": {
+        "Id": 13000589,
+        "CharacterId": 53002,
+        "FaceMotionName": "喜+涙",
+        "FaceMotionId": 101,
+        "Class": 1,
+        "IconId": 101,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000590": {
+        "Id": 13000590,
+        "CharacterId": 53002,
+        "FaceMotionName": "楽+涙",
+        "FaceMotionId": 102,
+        "Class": 1,
+        "IconId": 102,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000591": {
+        "Id": 13000591,
+        "CharacterId": 53002,
+        "FaceMotionName": "怒+涙",
+        "FaceMotionId": 103,
+        "Class": 1,
+        "IconId": 103,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000592": {
+        "Id": 13000592,
+        "CharacterId": 53002,
+        "FaceMotionName": "喜+照れ",
+        "FaceMotionId": 201,
+        "Class": 1,
+        "IconId": 201,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000593": {
+        "Id": 13000593,
+        "CharacterId": 53002,
+        "FaceMotionName": "怒+照れ",
+        "FaceMotionId": 203,
+        "Class": 1,
+        "IconId": 203,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000594": {
+        "Id": 13000594,
+        "CharacterId": 53002,
+        "FaceMotionName": "哀+照れ",
+        "FaceMotionId": 204,
+        "Class": 1,
+        "IconId": 204,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000595": {
+        "Id": 13000595,
+        "CharacterId": 53002,
+        "FaceMotionName": "喜+涙+照れ",
+        "FaceMotionId": 301,
+        "Class": 1,
+        "IconId": 301,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000596": {
+        "Id": 13000596,
+        "CharacterId": 53002,
+        "FaceMotionName": "楽+涙+照れ",
+        "FaceMotionId": 302,
+        "Class": 1,
+        "IconId": 302,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000597": {
+        "Id": 13000597,
+        "CharacterId": 53002,
+        "FaceMotionName": "怒+涙+照れ",
+        "FaceMotionId": 303,
+        "Class": 1,
+        "IconId": 303,
+        "Itemflag": 0,
+        "Itemterm": 0
+    },
+    "13000598": {
+        "Id": 13000598,
+        "CharacterId": 53002,
+        "FaceMotionName": "哀+涙+照れ",
+        "FaceMotionId": 304,
+        "Class": 1,
+        "IconId": 304,
+        "Itemflag": 0,
+        "Itemterm": 0
     }
 }

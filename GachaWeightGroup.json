@@ -10048,5 +10048,311 @@
         "GachaWeightGroupId": 138001,
         "Weight": 100000,
         "CardWeightGroupId": 13802
+    },
+    "14000001": {
+        "Id": 14000001,
+        "GachaWeightGroupId": 140000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14001
+    },
+    "14000002": {
+        "Id": 14000002,
+        "GachaWeightGroupId": 140000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14002
+    },
+    "14000003": {
+        "Id": 14000003,
+        "GachaWeightGroupId": 140000,
+        "Weight": 5000,
+        "CardWeightGroupId": 14003
+    },
+    "14000004": {
+        "Id": 14000004,
+        "GachaWeightGroupId": 140000,
+        "Weight": 40000,
+        "CardWeightGroupId": 14004
+    },
+    "14000005": {
+        "Id": 14000005,
+        "GachaWeightGroupId": 140000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14005
+    },
+    "14000006": {
+        "Id": 14000006,
+        "GachaWeightGroupId": 140000,
+        "Weight": 2000,
+        "CardWeightGroupId": 14006
+    },
+    "14000007": {
+        "Id": 14000007,
+        "GachaWeightGroupId": 140000,
+        "Weight": 3000,
+        "CardWeightGroupId": 14007
+    },
+    "14000008": {
+        "Id": 14000008,
+        "GachaWeightGroupId": 140000,
+        "Weight": 7000,
+        "CardWeightGroupId": 14008
+    },
+    "14000009": {
+        "Id": 14000009,
+        "GachaWeightGroupId": 140000,
+        "Weight": 7000,
+        "CardWeightGroupId": 14009
+    },
+    "14000010": {
+        "Id": 14000010,
+        "GachaWeightGroupId": 140000,
+        "Weight": 33000,
+        "CardWeightGroupId": 14010
+    },
+    "14000101": {
+        "Id": 14000101,
+        "GachaWeightGroupId": 140001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14001
+    },
+    "14000102": {
+        "Id": 14000102,
+        "GachaWeightGroupId": 140001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14002
+    },
+    "14000103": {
+        "Id": 14000103,
+        "GachaWeightGroupId": 140001,
+        "Weight": 40000,
+        "CardWeightGroupId": 14003
+    },
+    "14000105": {
+        "Id": 14000105,
+        "GachaWeightGroupId": 140001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14005
+    },
+    "14000106": {
+        "Id": 14000106,
+        "GachaWeightGroupId": 140001,
+        "Weight": 2000,
+        "CardWeightGroupId": 14006
+    },
+    "14000107": {
+        "Id": 14000107,
+        "GachaWeightGroupId": 140001,
+        "Weight": 8000,
+        "CardWeightGroupId": 14007
+    },
+    "14000108": {
+        "Id": 14000108,
+        "GachaWeightGroupId": 140001,
+        "Weight": 47000,
+        "CardWeightGroupId": 14008
+    },
+    "14100001": {
+        "Id": 14100001,
+        "GachaWeightGroupId": 141000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14101
+    },
+    "14100002": {
+        "Id": 14100002,
+        "GachaWeightGroupId": 141000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14102
+    },
+    "14100003": {
+        "Id": 14100003,
+        "GachaWeightGroupId": 141000,
+        "Weight": 5000,
+        "CardWeightGroupId": 14103
+    },
+    "14100004": {
+        "Id": 14100004,
+        "GachaWeightGroupId": 141000,
+        "Weight": 40000,
+        "CardWeightGroupId": 14104
+    },
+    "14100005": {
+        "Id": 14100005,
+        "GachaWeightGroupId": 141000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14105
+    },
+    "14100006": {
+        "Id": 14100006,
+        "GachaWeightGroupId": 141000,
+        "Weight": 2000,
+        "CardWeightGroupId": 14106
+    },
+    "14100007": {
+        "Id": 14100007,
+        "GachaWeightGroupId": 141000,
+        "Weight": 3000,
+        "CardWeightGroupId": 14107
+    },
+    "14100008": {
+        "Id": 14100008,
+        "GachaWeightGroupId": 141000,
+        "Weight": 7000,
+        "CardWeightGroupId": 14108
+    },
+    "14100009": {
+        "Id": 14100009,
+        "GachaWeightGroupId": 141000,
+        "Weight": 7000,
+        "CardWeightGroupId": 14109
+    },
+    "14100010": {
+        "Id": 14100010,
+        "GachaWeightGroupId": 141000,
+        "Weight": 33000,
+        "CardWeightGroupId": 14110
+    },
+    "14100101": {
+        "Id": 14100101,
+        "GachaWeightGroupId": 141001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14101
+    },
+    "14100102": {
+        "Id": 14100102,
+        "GachaWeightGroupId": 141001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14102
+    },
+    "14100103": {
+        "Id": 14100103,
+        "GachaWeightGroupId": 141001,
+        "Weight": 40000,
+        "CardWeightGroupId": 14103
+    },
+    "14100105": {
+        "Id": 14100105,
+        "GachaWeightGroupId": 141001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14105
+    },
+    "14100106": {
+        "Id": 14100106,
+        "GachaWeightGroupId": 141001,
+        "Weight": 2000,
+        "CardWeightGroupId": 14106
+    },
+    "14100107": {
+        "Id": 14100107,
+        "GachaWeightGroupId": 141001,
+        "Weight": 8000,
+        "CardWeightGroupId": 14107
+    },
+    "14100108": {
+        "Id": 14100108,
+        "GachaWeightGroupId": 141001,
+        "Weight": 47000,
+        "CardWeightGroupId": 14108
+    },
+    "14200001": {
+        "Id": 14200001,
+        "GachaWeightGroupId": 142000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14201
+    },
+    "14200002": {
+        "Id": 14200002,
+        "GachaWeightGroupId": 142000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14202
+    },
+    "14200003": {
+        "Id": 14200003,
+        "GachaWeightGroupId": 142000,
+        "Weight": 5000,
+        "CardWeightGroupId": 14203
+    },
+    "14200004": {
+        "Id": 14200004,
+        "GachaWeightGroupId": 142000,
+        "Weight": 40000,
+        "CardWeightGroupId": 14204
+    },
+    "14200005": {
+        "Id": 14200005,
+        "GachaWeightGroupId": 142000,
+        "Weight": 1000,
+        "CardWeightGroupId": 14205
+    },
+    "14200006": {
+        "Id": 14200006,
+        "GachaWeightGroupId": 142000,
+        "Weight": 2000,
+        "CardWeightGroupId": 14206
+    },
+    "14200007": {
+        "Id": 14200007,
+        "GachaWeightGroupId": 142000,
+        "Weight": 3000,
+        "CardWeightGroupId": 14207
+    },
+    "14200008": {
+        "Id": 14200008,
+        "GachaWeightGroupId": 142000,
+        "Weight": 7000,
+        "CardWeightGroupId": 14208
+    },
+    "14200009": {
+        "Id": 14200009,
+        "GachaWeightGroupId": 142000,
+        "Weight": 7000,
+        "CardWeightGroupId": 14209
+    },
+    "14200010": {
+        "Id": 14200010,
+        "GachaWeightGroupId": 142000,
+        "Weight": 33000,
+        "CardWeightGroupId": 14210
+    },
+    "14200101": {
+        "Id": 14200101,
+        "GachaWeightGroupId": 142001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14201
+    },
+    "14200102": {
+        "Id": 14200102,
+        "GachaWeightGroupId": 142001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14202
+    },
+    "14200103": {
+        "Id": 14200103,
+        "GachaWeightGroupId": 142001,
+        "Weight": 40000,
+        "CardWeightGroupId": 14203
+    },
+    "14200105": {
+        "Id": 14200105,
+        "GachaWeightGroupId": 142001,
+        "Weight": 1000,
+        "CardWeightGroupId": 14205
+    },
+    "14200106": {
+        "Id": 14200106,
+        "GachaWeightGroupId": 142001,
+        "Weight": 2000,
+        "CardWeightGroupId": 14206
+    },
+    "14200107": {
+        "Id": 14200107,
+        "GachaWeightGroupId": 142001,
+        "Weight": 8000,
+        "CardWeightGroupId": 14207
+    },
+    "14200108": {
+        "Id": 14200108,
+        "GachaWeightGroupId": 142001,
+        "Weight": 47000,
+        "CardWeightGroupId": 14208
     }
 }
