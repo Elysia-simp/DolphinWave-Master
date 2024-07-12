@@ -13849,5 +13849,50 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1528
+    },
+    "13200039": {
+        "Id": 13200039,
+        "Name": "イベントBOXガチャチケット(夏祭り)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(夏祭り)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1580
+    },
+    "13700031": {
+        "Id": 13700031,
+        "Name": "ボスチケット(夏祭り)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1581
+    },
+    "12903095": {
+        "Id": 12903095,
+        "Name": "ながし座り",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1580
+    },
+    "13900648": {
+        "Id": 13900648,
+        "Name": "夏祭り、わたしだけの記憶制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1579
+    },
+    "13900649": {
+        "Id": 13900649,
+        "Name": "夏祭り、わたしだけの記憶EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1578
     }
 }
