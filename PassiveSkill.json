@@ -6586,5 +6586,41 @@
         "TargetRange": "-3",
         "Range": 1,
         "FilterType": "0"
+    },
+    "104188": {
+        "Id": 104188,
+        "Text": "ペアがMOON属性の時、MOON属性の味方全体の攻撃力が5%アップ",
+        "Count": 0,
+        "ConditionTrigger": 4,
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 4,
+        "Condition": 0,
+        "ConditionCompare": 0,
+        "ConditionUnit": 0,
+        "ConditionValue": 0,
+        "MainEffectId": 310208,
+        "SubEffectId": 0,
+        "TargetRange": "-3",
+        "Range": 1,
+        "FilterType": "0"
+    },
+    "104189": {
+        "Id": 104189,
+        "Text": "ペアがMOON属性の時、MOON属性の味方全体の攻撃力が10%アップ",
+        "Count": 0,
+        "ConditionTrigger": 4,
+        "ConditionTarget": 1,
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 4,
+        "Condition": 0,
+        "ConditionCompare": 0,
+        "ConditionUnit": 0,
+        "ConditionValue": 0,
+        "MainEffectId": 310209,
+        "SubEffectId": 0,
+        "TargetRange": "-3",
+        "Range": 1,
+        "FilterType": "0"
     }
 }

@@ -166,5 +166,21 @@
         "PlaceInfo3": "-50,-50,-3.5,-220",
         "UseWindSim": false,
         "WazaDataName": ""
+    },
+    "221": {
+        "Id": 221,
+        "PlaceInfo1": "0,0,84,2100",
+        "PlaceInfo2": "-30,-60,84,1495",
+        "PlaceInfo3": "50,60,84,1840",
+        "UseWindSim": true,
+        "WazaDataName": ""
+    },
+    "231": {
+        "Id": 231,
+        "PlaceInfo1": "0,0,84,2100",
+        "PlaceInfo2": "-30,-60,84,1495",
+        "PlaceInfo3": "50,60,84,1840",
+        "UseWindSim": true,
+        "WazaDataName": "home_special_plcom,home_map023"
     }
 }

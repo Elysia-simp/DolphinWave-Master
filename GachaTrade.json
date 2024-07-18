@@ -3323,5 +3323,257 @@
         "Type": 8,
         "PrizeId": 220020,
         "Point": 30
+    },
+    "14701": {
+        "Id": 14701,
+        "GachaId": 147,
+        "Type": 7,
+        "PrizeId": 100141402,
+        "Point": 200
+    },
+    "14702": {
+        "Id": 14702,
+        "GachaId": 147,
+        "Type": 7,
+        "PrizeId": 200441401,
+        "Point": 200
+    },
+    "14703": {
+        "Id": 14703,
+        "GachaId": 147,
+        "Type": 8,
+        "PrizeId": 440030,
+        "Point": 100
+    },
+    "14801": {
+        "Id": 14801,
+        "GachaId": 148,
+        "Type": 7,
+        "PrizeId": 100141402,
+        "Point": 200
+    },
+    "14802": {
+        "Id": 14802,
+        "GachaId": 148,
+        "Type": 7,
+        "PrizeId": 200441401,
+        "Point": 200
+    },
+    "14803": {
+        "Id": 14803,
+        "GachaId": 148,
+        "Type": 8,
+        "PrizeId": 440030,
+        "Point": 100
+    },
+    "14901": {
+        "Id": 14901,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 100241301,
+        "Point": 200
+    },
+    "14902": {
+        "Id": 14902,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 100141301,
+        "Point": 200
+    },
+    "14903": {
+        "Id": 14903,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 400341301,
+        "Point": 200
+    },
+    "14904": {
+        "Id": 14904,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 400441301,
+        "Point": 200
+    },
+    "14905": {
+        "Id": 14905,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 300141302,
+        "Point": 200
+    },
+    "14906": {
+        "Id": 14906,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 300241302,
+        "Point": 200
+    },
+    "14907": {
+        "Id": 14907,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 300341302,
+        "Point": 200
+    },
+    "14908": {
+        "Id": 14908,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 300441302,
+        "Point": 200
+    },
+    "14909": {
+        "Id": 14909,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 100341301,
+        "Point": 200
+    },
+    "14910": {
+        "Id": 14910,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 100441301,
+        "Point": 200
+    },
+    "14911": {
+        "Id": 14911,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 500141301,
+        "Point": 200
+    },
+    "14912": {
+        "Id": 14912,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 500241301,
+        "Point": 200
+    },
+    "14913": {
+        "Id": 14913,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 600141301,
+        "Point": 200
+    },
+    "14914": {
+        "Id": 14914,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 200441301,
+        "Point": 200
+    },
+    "14915": {
+        "Id": 14915,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 700141301,
+        "Point": 200
+    },
+    "14916": {
+        "Id": 14916,
+        "GachaId": 149,
+        "Type": 7,
+        "PrizeId": 700241301,
+        "Point": 200
+    },
+    "14917": {
+        "Id": 14917,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340021,
+        "Point": 100
+    },
+    "14918": {
+        "Id": 14918,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340026,
+        "Point": 100
+    },
+    "14919": {
+        "Id": 14919,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340028,
+        "Point": 100
+    },
+    "14920": {
+        "Id": 14920,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340011,
+        "Point": 100
+    },
+    "14921": {
+        "Id": 14921,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340012,
+        "Point": 100
+    },
+    "14922": {
+        "Id": 14922,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340013,
+        "Point": 100
+    },
+    "14923": {
+        "Id": 14923,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340014,
+        "Point": 100
+    },
+    "14924": {
+        "Id": 14924,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340016,
+        "Point": 100
+    },
+    "14925": {
+        "Id": 14925,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340017,
+        "Point": 100
+    },
+    "14926": {
+        "Id": 14926,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340018,
+        "Point": 100
+    },
+    "14927": {
+        "Id": 14927,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340019,
+        "Point": 100
+    },
+    "14928": {
+        "Id": 14928,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340022,
+        "Point": 100
+    },
+    "14929": {
+        "Id": 14929,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340024,
+        "Point": 100
+    },
+    "14930": {
+        "Id": 14930,
+        "GachaId": 149,
+        "Type": 8,
+        "PrizeId": 340023,
+        "Point": 100
     }
 }

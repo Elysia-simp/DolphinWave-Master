@@ -13894,5 +13894,302 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1578
+    },
+    "1010014402": {
+        "Id": 1010014402,
+        "Name": "入華(ドルウェブ総選挙2024/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "入華(ドルウェブ総選挙2024/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1585
+    },
+    "1020044401": {
+        "Id": 1020044401,
+        "Name": "シュネー(ドルウェブ総選挙2024/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "シュネー(ドルウェブ総選挙2024/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1586
+    },
+    "13300126": {
+        "Id": 13300126,
+        "Name": "ボスメダル(サマーコンテスト)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1587
+    },
+    "1060023403": {
+        "Id": 1060023403,
+        "Name": "トモ(トロピカルアロハ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "トモ(トロピカルアロハ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1588
+    },
+    "11200087": {
+        "Id": 11200087,
+        "Name": "ビーチサンダル",
+        "Type": 12,
+        "ItemText": "トモ(トロピカルアロハ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1589
+    },
+    "11100079": {
+        "Id": 11100079,
+        "Name": "トモのトロピカルアロハ",
+        "Type": 11,
+        "ItemText": "トモ(トロピカルアロハ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1590
+    },
+    "13200040": {
+        "Id": 13200040,
+        "Name": "ドルフィンフェスガチャチケット(総選挙2024)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(総選挙2024)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1592
+    },
+    "13900650": {
+        "Id": 13900650,
+        "Name": "夏にキラめけ!ワダツミサマーコンテスト制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1591
+    },
+    "13900651": {
+        "Id": 13900651,
+        "Name": "夏にキラめけ!ワダツミサマーコンテストEXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1590
+    },
+    "13900652": {
+        "Id": 13900652,
+        "Name": "チャレンジバトル-22nd Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1589
+    },
+    "13900653": {
+        "Id": 13900653,
+        "Name": "チャレンジバトル-22nd Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1588
+    },
+    "13900654": {
+        "Id": 13900654,
+        "Name": "チャレンジバトル-22nd Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1587
+    },
+    "13900655": {
+        "Id": 13900655,
+        "Name": "チャレンジバトル-22nd Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1586
+    },
+    "13900656": {
+        "Id": 13900656,
+        "Name": "チャレンジバトル-22nd Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1585
+    },
+    "13900657": {
+        "Id": 13900657,
+        "Name": "チャレンジバトル-22nd Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1584
+    },
+    "13900658": {
+        "Id": 13900658,
+        "Name": "チャレンジバトル-22nd Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1583
+    },
+    "13900659": {
+        "Id": 13900659,
+        "Name": "チャレンジバトル-22nd Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1582
+    },
+    "13900660": {
+        "Id": 13900660,
+        "Name": "チャレンジバトル-22nd Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1581
+    },
+    "13900661": {
+        "Id": 13900661,
+        "Name": "チャレンジバトル-22nd Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1580
+    },
+    "13900662": {
+        "Id": 13900662,
+        "Name": "チャレンジバトル-22nd Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1579
+    },
+    "13900663": {
+        "Id": 13900663,
+        "Name": "チャレンジバトル-22nd Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1578
+    },
+    "13900664": {
+        "Id": 13900664,
+        "Name": "チャレンジバトル-22nd Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1577
+    },
+    "13900665": {
+        "Id": 13900665,
+        "Name": "チャレンジバトル-22nd Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1576
+    },
+    "13900666": {
+        "Id": 13900666,
+        "Name": "チャレンジバトル-22nd Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1575
+    },
+    "13900667": {
+        "Id": 13900667,
+        "Name": "チャレンジバトル-22nd Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1574
+    },
+    "13900668": {
+        "Id": 13900668,
+        "Name": "チャレンジバトル-22nd Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1573
+    },
+    "13900669": {
+        "Id": 13900669,
+        "Name": "チャレンジバトル-22nd Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1572
+    },
+    "13900670": {
+        "Id": 13900670,
+        "Name": "チャレンジバトル-22nd Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1571
+    },
+    "13900671": {
+        "Id": 13900671,
+        "Name": "チャレンジバトル-22nd Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1570
+    },
+    "13900672": {
+        "Id": 13900672,
+        "Name": "チャレンジバトル-22nd Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1569
+    },
+    "13900673": {
+        "Id": 13900673,
+        "Name": "トータルバトル-WIND&MOON-UL制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1568
+    },
+    "12903121": {
+        "Id": 12903121,
+        "Name": "ドルウェブ総選挙2024(入華)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1567
+    },
+    "12903147": {
+        "Id": 12903147,
+        "Name": "ドルウェブ総選挙2024(シュネー)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1566
     }
 }

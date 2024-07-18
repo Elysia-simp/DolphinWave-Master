@@ -64,5 +64,27 @@
         "MaxCriticalAtk": 0,
         "MaxHpHeal": 0,
         "MaxSpCharge": 0
+    },
+    "99001": {
+        "Id": 99001,
+        "GroupId": 99001,
+        "MinLevel": 1,
+        "MaxLevel": 1,
+        "MinHp": 8770,
+        "MinAtk": 877,
+        "MinDef": 87,
+        "MinStun": 0,
+        "MinCritical": 0,
+        "MinCriticalAtk": 0,
+        "MinHpHeal": 0,
+        "MinSpCharge": 0,
+        "MaxHp": 8770,
+        "MaxAtk": 877,
+        "MaxDef": 87,
+        "MaxStun": 0,
+        "MaxCritical": 0,
+        "MaxCriticalAtk": 0,
+        "MaxHpHeal": 0,
+        "MaxSpCharge": 0
     }
 }

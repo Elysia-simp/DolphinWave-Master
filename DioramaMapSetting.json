@@ -292,5 +292,33 @@
         "CameraMinMovePosition": "0/0",
         "CameraMaxY": "100/100",
         "CameraMinY": "1/1"
+    },
+    "102201": {
+        "Id": 102201,
+        "MapID": 221,
+        "PatternID": 1,
+        "BasePos": "0,84,1570,0",
+        "CameraMaxLatitude": "30/80",
+        "CameraMinLatitude": "15/70",
+        "CameraMaxRadius": 55,
+        "CameraMinRadius": 10,
+        "CameraMaxMovePosition": "0/0",
+        "CameraMinMovePosition": "0/0",
+        "CameraMaxY": "135/135",
+        "CameraMinY": "85/85"
+    },
+    "102301": {
+        "Id": 102301,
+        "MapID": 231,
+        "PatternID": 1,
+        "BasePos": "0,88,1570,0",
+        "CameraMaxLatitude": "30/80",
+        "CameraMinLatitude": "15/70",
+        "CameraMaxRadius": 55,
+        "CameraMinRadius": 10,
+        "CameraMaxMovePosition": "0/0",
+        "CameraMinMovePosition": "0/0",
+        "CameraMaxY": "139/139",
+        "CameraMinY": "89/89"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "14901": {
+        "Id": 14901,
+        "GachaId": 149,
+        "FrameIndex": 1,
+        "SelectGroupId": 14901,
+        "SelectedCardWeightGroupId": 14901,
+        "NotSelectedCardWeightGroupId": 14902
+    },
+    "14902": {
+        "Id": 14902,
+        "GachaId": 149,
+        "FrameIndex": 2,
+        "SelectGroupId": 14901,
+        "SelectedCardWeightGroupId": 14901,
+        "NotSelectedCardWeightGroupId": 14902
+    },
+    "14903": {
+        "Id": 14903,
+        "GachaId": 149,
+        "FrameIndex": 3,
+        "SelectGroupId": 14902,
+        "SelectedCardWeightGroupId": 14905,
+        "NotSelectedCardWeightGroupId": 14906
+    }
+}
