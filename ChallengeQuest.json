@@ -251,5 +251,16 @@
         "ChallengeScoreRewardId": 5023,
         "ChallengeAchievementRewardId": 5023,
         "BannerVisible": 2
+    },
+    "5024": {
+        "Id": 5024,
+        "StartDate": 1722229201,
+        "EndDate": 1723179599,
+        "RewardEndDate": 1724043599,
+        "Enable": true,
+        "ChallengeRankingRewardId": 5024,
+        "ChallengeScoreRewardId": 5024,
+        "ChallengeAchievementRewardId": 5024,
+        "BannerVisible": 2
     }
 }

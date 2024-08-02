@@ -6865,5 +6865,26 @@
         "ItemId": 10200001,
         "Type": 2,
         "Count": 5000000
+    },
+    "148001": {
+        "Id": 148001,
+        "ItemGroupId": 148,
+        "ItemId": 13200041,
+        "Type": 32,
+        "Count": 50
+    },
+    "149001": {
+        "Id": 149001,
+        "ItemGroupId": 149,
+        "ItemId": 13200041,
+        "Type": 32,
+        "Count": 20
+    },
+    "150001": {
+        "Id": 150001,
+        "ItemGroupId": 150,
+        "ItemId": 13200041,
+        "Type": 32,
+        "Count": 5
     }
 }

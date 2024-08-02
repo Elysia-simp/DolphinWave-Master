@@ -208,5 +208,19 @@
         "ChallengeCountConsumeFlag": 0,
         "FlavorText": "トーナメント",
         "Difficulty": 3
+    },
+    "2031": {
+        "Id": 2031,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 1,
+        "FlavorText": "トーナメント",
+        "Difficulty": 3
+    },
+    "2032": {
+        "Id": 2032,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 0,
+        "FlavorText": "トーナメント",
+        "Difficulty": 3
     }
 }

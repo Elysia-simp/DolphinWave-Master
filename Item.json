@@ -14191,5 +14191,266 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1566
+    },
+    "1040014402": {
+        "Id": 1040014402,
+        "Name": "紫苑(ドルウェブ総選挙2024/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "紫苑(ドルウェブ総選挙2024/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1619
+    },
+    "1010024402": {
+        "Id": 1010024402,
+        "Name": "みちる(ドルウェブ総選挙2024/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "みちる(ドルウェブ総選挙2024/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1620
+    },
+    "13300127": {
+        "Id": 13300127,
+        "Name": "サマーオーシャンカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1621
+    },
+    "13200041": {
+        "Id": 13200041,
+        "Name": "ドルフィンフェスガチャチケット(総選挙2024第2弾)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(総選挙2024第2弾)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1622
+    },
+    "13900674": {
+        "Id": 13900674,
+        "Name": "UJAJサマーオーシャンカップ優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1622
+    },
+    "13900675": {
+        "Id": 13900675,
+        "Name": "UJAJサマーオーシャンカップ優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1621
+    },
+    "13900676": {
+        "Id": 13900676,
+        "Name": "チャレンジバトル-23rd Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1620
+    },
+    "13900677": {
+        "Id": 13900677,
+        "Name": "チャレンジバトル-23rd Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1619
+    },
+    "13900678": {
+        "Id": 13900678,
+        "Name": "チャレンジバトル-23rd Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1618
+    },
+    "13900679": {
+        "Id": 13900679,
+        "Name": "チャレンジバトル-23rd Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1617
+    },
+    "13900680": {
+        "Id": 13900680,
+        "Name": "チャレンジバトル-23rd Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1616
+    },
+    "13900681": {
+        "Id": 13900681,
+        "Name": "チャレンジバトル-23rd Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1615
+    },
+    "13900682": {
+        "Id": 13900682,
+        "Name": "チャレンジバトル-23rd Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1614
+    },
+    "13900683": {
+        "Id": 13900683,
+        "Name": "チャレンジバトル-23rd Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1613
+    },
+    "13900684": {
+        "Id": 13900684,
+        "Name": "チャレンジバトル-23rd Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1612
+    },
+    "13900685": {
+        "Id": 13900685,
+        "Name": "チャレンジバトル-23rd Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1611
+    },
+    "13900686": {
+        "Id": 13900686,
+        "Name": "チャレンジバトル-23rd Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1610
+    },
+    "13900687": {
+        "Id": 13900687,
+        "Name": "チャレンジバトル-23rd Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1609
+    },
+    "13900688": {
+        "Id": 13900688,
+        "Name": "チャレンジバトル-23rd Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1608
+    },
+    "13900689": {
+        "Id": 13900689,
+        "Name": "チャレンジバトル-23rd Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1607
+    },
+    "13900690": {
+        "Id": 13900690,
+        "Name": "チャレンジバトル-23rd Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1606
+    },
+    "13900691": {
+        "Id": 13900691,
+        "Name": "チャレンジバトル-23rd Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1605
+    },
+    "13900692": {
+        "Id": 13900692,
+        "Name": "チャレンジバトル-23rd Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1604
+    },
+    "13900693": {
+        "Id": 13900693,
+        "Name": "チャレンジバトル-23rd Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1603
+    },
+    "13900694": {
+        "Id": 13900694,
+        "Name": "チャレンジバトル-23rd Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1602
+    },
+    "13900695": {
+        "Id": 13900695,
+        "Name": "チャレンジバトル-23rd Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1601
+    },
+    "13900696": {
+        "Id": 13900696,
+        "Name": "チャレンジバトル-23rd Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1600
+    },
+    "12903173": {
+        "Id": 12903173,
+        "Name": "ドルウェブ総選挙2024(紫苑)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1597
+    },
+    "12903199": {
+        "Id": 12903199,
+        "Name": "ドルウェブ総選挙2024(みちる)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1596
     }
 }
