@@ -14452,5 +14452,599 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1596
+    },
+    "13200042": {
+        "Id": 13200042,
+        "Name": "イベントBOXガチャチケット(コミケ104)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(コミケ104)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1648
+    },
+    "13700032": {
+        "Id": 13700032,
+        "Name": "ボスチケット(コミケ104)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1649
+    },
+    "12903225": {
+        "Id": 12903225,
+        "Name": "両膝右手つき",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1648
+    },
+    "13900703": {
+        "Id": 13900703,
+        "Name": "これで必勝！夏コミ対策マニュアル！制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1655
+    },
+    "13900704": {
+        "Id": 13900704,
+        "Name": "これで必勝！夏コミ対策マニュアル！EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1654
+    },
+    "12903501": {
+        "Id": 12903501,
+        "Name": "横座り",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1666
+    },
+    "12903529": {
+        "Id": 12903529,
+        "Name": "ペア・開脚ストレッチA",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1665
+    },
+    "12903557": {
+        "Id": 12903557,
+        "Name": "ペア・開脚ストレッチB",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1664
+    },
+    "13900697": {
+        "Id": 13900697,
+        "Name": "小針のコーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1643
+    },
+    "13900698": {
+        "Id": 13900698,
+        "Name": "小針の担当コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1644
+    },
+    "13900699": {
+        "Id": 13900699,
+        "Name": "小針の専属コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1645
+    },
+    "13900700": {
+        "Id": 13900700,
+        "Name": "萌依のコーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1646
+    },
+    "13900701": {
+        "Id": 13900701,
+        "Name": "萌依の担当コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1647
+    },
+    "13900702": {
+        "Id": 13900702,
+        "Name": "萌依の専属コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1648
+    },
+    "1020054101": {
+        "Id": 1020054101,
+        "Name": "萌依(メイドスーツ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "萌依(メイドスーツ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1660
+    },
+    "1010054101": {
+        "Id": 1010054101,
+        "Name": "小針(サマースプラッシュ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "小針(サマースプラッシュ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1661
+    },
+    "1020053501": {
+        "Id": 1020053501,
+        "Name": "萌依(ユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "萌依(ユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1662
+    },
+    "1010053401": {
+        "Id": 1010053401,
+        "Name": "小針(ユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "小針(ユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1663
+    },
+    "1020052301": {
+        "Id": 1020052301,
+        "Name": "萌依(私服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "萌依(私服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1664
+    },
+    "1010052201": {
+        "Id": 1010052201,
+        "Name": "小針(私服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "小針(私服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1665
+    },
+    "1020051401": {
+        "Id": 1020051401,
+        "Name": "萌依(練習着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "萌依(練習着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1666
+    },
+    "1010051301": {
+        "Id": 1010051301,
+        "Name": "小針(練習着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "小針(練習着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1667
+    },
+    "13300128": {
+        "Id": 13300128,
+        "Name": "ニューウェーブカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1671
+    },
+    "13200043": {
+        "Id": 13200043,
+        "Name": "イベントBOXガチャチケット(メイド隊と妹)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(メイド隊と妹)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1672
+    },
+    "13300129": {
+        "Id": 13300129,
+        "Name": "SSRドルフィンセレクトチケット4",
+        "Type": 33,
+        "ItemText": "専用のショップでSSRドルフィンと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1673
+    },
+    "13700033": {
+        "Id": 13700033,
+        "Name": "ボスチケット(メイド隊と妹)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1674
+    },
+    "13200044": {
+        "Id": 13200044,
+        "Name": "ドルフィンフェスガチャチケット(ニューウェーブ)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスチケットガチャ(ニューウェーブ)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1675
+    },
+    "13900705": {
+        "Id": 13900705,
+        "Name": "ワダツミの治安を守る？メイド隊と妹の特訓！制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1674
+    },
+    "13900706": {
+        "Id": 13900706,
+        "Name": "ワダツミの治安を守る？メイド隊と妹の特訓！EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1673
+    },
+    "13900707": {
+        "Id": 13900707,
+        "Name": "UJAJニューウェーブカップ優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1672
+    },
+    "13900708": {
+        "Id": 13900708,
+        "Name": "UJAJニューウェーブカップ優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1671
+    },
+    "12903585": {
+        "Id": 12903585,
+        "Name": "しっかりものの妹",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1667
+    },
+    "12903613": {
+        "Id": 12903613,
+        "Name": "冷静なメイド長",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1666
+    },
+    "1040034101": {
+        "Id": 1040034101,
+        "Name": "ヴィーナ(HJ COLLECTION)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヴィーナ(HJ COLLECTION)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1690
+    },
+    "1040044102": {
+        "Id": 1040044102,
+        "Name": "セレナ(HJ COLLECTION)専用SPメダル",
+        "Type": 13,
+        "ItemText": "セレナ(HJ COLLECTION)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1691
+    },
+    "13300130": {
+        "Id": 13300130,
+        "Name": "ボスメダル(HJエキシビション)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1692
+    },
+    "1040023102": {
+        "Id": 1040023102,
+        "Name": "ヘリー(ホビージャパンパーカー)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヘリー(ホビージャパンパーカー)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1693
+    },
+    "11200088": {
+        "Id": 11200088,
+        "Name": "月刊ホビージャパン",
+        "Type": 12,
+        "ItemText": "ヘリー(ホビージャパンパーカー)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1694
+    },
+    "11100080": {
+        "Id": 11100080,
+        "Name": "ホビージャパンパーカー",
+        "Type": 11,
+        "ItemText": "ヘリー(ホビージャパンパーカー)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1695
+    },
+    "13200045": {
+        "Id": 13200045,
+        "Name": "スポンサーコラボガチャチケット(ホビージャパン)",
+        "Type": 32,
+        "ItemText": "ホビージャパンスポンサーコラボチケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1696
+    },
+    "13900709": {
+        "Id": 13900709,
+        "Name": "HJエキシビション feat.Salacia 制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1695
+    },
+    "13900710": {
+        "Id": 13900710,
+        "Name": "HJエキシビション feat.Salacia EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1694
+    },
+    "13900711": {
+        "Id": 13900711,
+        "Name": "チャレンジバトル-24th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1693
+    },
+    "13900712": {
+        "Id": 13900712,
+        "Name": "チャレンジバトル-24th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1692
+    },
+    "13900713": {
+        "Id": 13900713,
+        "Name": "チャレンジバトル-24th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1691
+    },
+    "13900714": {
+        "Id": 13900714,
+        "Name": "チャレンジバトル-24th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1690
+    },
+    "13900715": {
+        "Id": 13900715,
+        "Name": "チャレンジバトル-24th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1689
+    },
+    "13900716": {
+        "Id": 13900716,
+        "Name": "チャレンジバトル-24th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1688
+    },
+    "13900717": {
+        "Id": 13900717,
+        "Name": "チャレンジバトル-24th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1687
+    },
+    "13900718": {
+        "Id": 13900718,
+        "Name": "チャレンジバトル-24th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1686
+    },
+    "13900719": {
+        "Id": 13900719,
+        "Name": "チャレンジバトル-24th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1685
+    },
+    "13900720": {
+        "Id": 13900720,
+        "Name": "チャレンジバトル-24th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1684
+    },
+    "13900721": {
+        "Id": 13900721,
+        "Name": "チャレンジバトル-24th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1683
+    },
+    "13900722": {
+        "Id": 13900722,
+        "Name": "チャレンジバトル-24th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1682
+    },
+    "13900723": {
+        "Id": 13900723,
+        "Name": "チャレンジバトル-24th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1681
+    },
+    "13900724": {
+        "Id": 13900724,
+        "Name": "チャレンジバトル-24th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1680
+    },
+    "13900725": {
+        "Id": 13900725,
+        "Name": "チャレンジバトル-24th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1679
+    },
+    "13900726": {
+        "Id": 13900726,
+        "Name": "チャレンジバトル-24th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1678
+    },
+    "13900727": {
+        "Id": 13900727,
+        "Name": "チャレンジバトル-24th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1677
+    },
+    "13900728": {
+        "Id": 13900728,
+        "Name": "チャレンジバトル-24th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1676
+    },
+    "13900729": {
+        "Id": 13900729,
+        "Name": "チャレンジバトル-24th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1675
+    },
+    "13900730": {
+        "Id": 13900730,
+        "Name": "チャレンジバトル-24th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1674
+    },
+    "13900731": {
+        "Id": 13900731,
+        "Name": "チャレンジバトル-24th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1673
+    },
+    "13900732": {
+        "Id": 13900732,
+        "Name": "ホビージャパンコラボカップ優勝EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1672
+    },
+    "12903641": {
+        "Id": 12903641,
+        "Name": "胸元指さし",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1664
+    },
+    "12903669": {
+        "Id": 12903669,
+        "Name": "右手指し示し",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1663
     }
 }

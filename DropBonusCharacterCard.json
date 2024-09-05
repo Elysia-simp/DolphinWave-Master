@@ -1954,5 +1954,77 @@
         "SpSkillLevel04": 20,
         "SpSkillLevel05": 25,
         "SpSkillLevel06": 30
+    },
+    "403301": {
+        "Id": 403301,
+        "QuestId": 4033,
+        "CharacterCardGroupId": 20033201,
+        "TargetItemId": 13200042,
+        "SpSkillLevel01": 75,
+        "SpSkillLevel02": 75,
+        "SpSkillLevel03": 75,
+        "SpSkillLevel04": 75,
+        "SpSkillLevel05": 75,
+        "SpSkillLevel06": 75
+    },
+    "403401": {
+        "Id": 403401,
+        "QuestId": 4034,
+        "CharacterCardGroupId": 20054101,
+        "TargetItemId": 13200043,
+        "SpSkillLevel01": 25,
+        "SpSkillLevel02": 30,
+        "SpSkillLevel03": 35,
+        "SpSkillLevel04": 40,
+        "SpSkillLevel05": 45,
+        "SpSkillLevel06": 50
+    },
+    "403402": {
+        "Id": 403402,
+        "QuestId": 4034,
+        "CharacterCardGroupId": 10054101,
+        "TargetItemId": 13200043,
+        "SpSkillLevel01": 25,
+        "SpSkillLevel02": 30,
+        "SpSkillLevel03": 35,
+        "SpSkillLevel04": 40,
+        "SpSkillLevel05": 45,
+        "SpSkillLevel06": 50
+    },
+    "302301": {
+        "Id": 302301,
+        "QuestId": 3023,
+        "CharacterCardGroupId": 40034101,
+        "TargetItemId": 13300130,
+        "SpSkillLevel01": 25,
+        "SpSkillLevel02": 30,
+        "SpSkillLevel03": 35,
+        "SpSkillLevel04": 40,
+        "SpSkillLevel05": 45,
+        "SpSkillLevel06": 50
+    },
+    "302302": {
+        "Id": 302302,
+        "QuestId": 3023,
+        "CharacterCardGroupId": 40044102,
+        "TargetItemId": 13300130,
+        "SpSkillLevel01": 25,
+        "SpSkillLevel02": 30,
+        "SpSkillLevel03": 35,
+        "SpSkillLevel04": 40,
+        "SpSkillLevel05": 45,
+        "SpSkillLevel06": 50
+    },
+    "302303": {
+        "Id": 302303,
+        "QuestId": 3023,
+        "CharacterCardGroupId": 40023102,
+        "TargetItemId": 13300130,
+        "SpSkillLevel01": 5,
+        "SpSkillLevel02": 10,
+        "SpSkillLevel03": 15,
+        "SpSkillLevel04": 20,
+        "SpSkillLevel05": 25,
+        "SpSkillLevel06": 30
     }
 }

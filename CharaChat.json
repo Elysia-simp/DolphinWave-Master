@@ -610,5 +610,41 @@
         "UnlockType": 8,
         "UnlockId": 6002015,
         "Closeness": 0
+    },
+    "1005001": {
+        "Id": 1005001,
+        "Priority": 1,
+        "CharaId": 1005,
+        "ChatCategory": 200,
+        "UnlockType": 0,
+        "UnlockId": 0,
+        "Closeness": 1
+    },
+    "1005002": {
+        "Id": 1005002,
+        "Priority": 2,
+        "CharaId": 1005,
+        "ChatCategory": 200,
+        "UnlockType": 8,
+        "UnlockId": 1005010,
+        "Closeness": 0
+    },
+    "2005001": {
+        "Id": 2005001,
+        "Priority": 1,
+        "CharaId": 2005,
+        "ChatCategory": 200,
+        "UnlockType": 0,
+        "UnlockId": 0,
+        "Closeness": 1
+    },
+    "2005002": {
+        "Id": 2005002,
+        "Priority": 2,
+        "CharaId": 2005,
+        "ChatCategory": 200,
+        "UnlockType": 8,
+        "UnlockId": 2005010,
+        "Closeness": 0
     }
 }

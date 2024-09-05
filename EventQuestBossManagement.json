@@ -817,5 +817,61 @@
         "BossTicketCount": 25,
         "UserLevel": 99,
         "BossTxt": "【使用するスキル】\n・シールド回復\n・HP回復\n・防御力ダウン"
+    },
+    "4033501": {
+        "Id": 4033501,
+        "BossTicketId": 13700032,
+        "BossTicketCount": 15,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・防御力ダウン\n・クリティカル確率アップ"
+    },
+    "4033502": {
+        "Id": 4033502,
+        "BossTicketId": 13700032,
+        "BossTicketCount": 20,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・凍結付与"
+    },
+    "4033503": {
+        "Id": 4033503,
+        "BossTicketId": 13700032,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・凍結付与"
+    },
+    "4033504": {
+        "Id": 4033504,
+        "BossTicketId": 13700032,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・凍結付与\n・スキルレベルダウン"
+    },
+    "4034501": {
+        "Id": 4034501,
+        "BossTicketId": 13700033,
+        "BossTicketCount": 15,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ"
+    },
+    "4034502": {
+        "Id": 4034502,
+        "BossTicketId": 13700033,
+        "BossTicketCount": 20,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ"
+    },
+    "4034503": {
+        "Id": 4034503,
+        "BossTicketId": 13700033,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・感電"
+    },
+    "4034504": {
+        "Id": 4034504,
+        "BossTicketId": 13700033,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・クリティカル威力アップ\n・感電"
     }
 }

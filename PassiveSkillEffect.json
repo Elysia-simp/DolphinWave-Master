@@ -3710,5 +3710,53 @@
         "Value_01": 70,
         "Unit_02": 0,
         "Value_02": 0
+    },
+    "310248": {
+        "Id": 310248,
+        "EffectSystem": 2,
+        "Target": 1,
+        "TargetRange": "-2",
+        "TargetType": 1,
+        "TargetDetailId": "1",
+        "Range": 1,
+        "EffectType": "120",
+        "Probability": 100,
+        "Turn": 0,
+        "Unit_01": 1,
+        "Value_01": 40,
+        "Unit_02": 0,
+        "Value_02": 0
+    },
+    "310249": {
+        "Id": 310249,
+        "EffectSystem": 2,
+        "Target": 1,
+        "TargetRange": "-2",
+        "TargetType": 1,
+        "TargetDetailId": "1",
+        "Range": 1,
+        "EffectType": "120",
+        "Probability": 100,
+        "Turn": 0,
+        "Unit_01": 1,
+        "Value_01": 45,
+        "Unit_02": 0,
+        "Value_02": 0
+    },
+    "310250": {
+        "Id": 310250,
+        "EffectSystem": 2,
+        "Target": 1,
+        "TargetRange": "-2",
+        "TargetType": 0,
+        "TargetDetailId": "0",
+        "Range": 1,
+        "EffectType": "119",
+        "Probability": 100,
+        "Turn": 0,
+        "Unit_01": 0,
+        "Value_01": 5,
+        "Unit_02": 0,
+        "Value_02": 0
     }
 }

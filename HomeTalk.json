@@ -13158,5 +13158,945 @@
         "TalkNo": 1,
         "MessageId": 302017,
         "ReactionId": 0
+    },
+    "10050001": {
+        "Id": 10050001,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 101001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 200000,
+        "ReactionId": 0
+    },
+    "10050002": {
+        "Id": 10050002,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 101002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 200001,
+        "ReactionId": 0
+    },
+    "10050003": {
+        "Id": 10050003,
+        "CharaId": 1005,
+        "Type": 2,
+        "TalkId": 101003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 201000,
+        "ReactionId": 10100301
+    },
+    "10050004": {
+        "Id": 10050004,
+        "CharaId": 1005,
+        "Type": 2,
+        "TalkId": 101003,
+        "PartnerType": 1,
+        "TalkNo": 2,
+        "MessageId": 201001,
+        "ReactionId": 10100302
+    },
+    "10050005": {
+        "Id": 10050005,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 1005000,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202000,
+        "ReactionId": 0
+    },
+    "10050006": {
+        "Id": 10050006,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202001,
+        "ReactionId": 0
+    },
+    "10050007": {
+        "Id": 10050007,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202002,
+        "ReactionId": 0
+    },
+    "10050008": {
+        "Id": 10050008,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102004,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202003,
+        "ReactionId": 0
+    },
+    "10050009": {
+        "Id": 10050009,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202004,
+        "ReactionId": 0
+    },
+    "10050010": {
+        "Id": 10050010,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 103001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 203000,
+        "ReactionId": 0
+    },
+    "10050011": {
+        "Id": 10050011,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102006,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202005,
+        "ReactionId": 0
+    },
+    "10050012": {
+        "Id": 10050012,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102007,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202006,
+        "ReactionId": 0
+    },
+    "10050013": {
+        "Id": 10050013,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102008,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202007,
+        "ReactionId": 0
+    },
+    "10050014": {
+        "Id": 10050014,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 102009,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202008,
+        "ReactionId": 0
+    },
+    "10050015": {
+        "Id": 10050015,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 104001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 204000,
+        "ReactionId": 0
+    },
+    "10050016": {
+        "Id": 10050016,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 104002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 204001,
+        "ReactionId": 0
+    },
+    "10050017": {
+        "Id": 10050017,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 1005001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 205000,
+        "ReactionId": 0
+    },
+    "10050018": {
+        "Id": 10050018,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 1005002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 205001,
+        "ReactionId": 0
+    },
+    "10050019": {
+        "Id": 10050019,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 106001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 206000,
+        "ReactionId": 0
+    },
+    "10050020": {
+        "Id": 10050020,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 106002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 206001,
+        "ReactionId": 0
+    },
+    "10050021": {
+        "Id": 10050021,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 107001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 207000,
+        "ReactionId": 0
+    },
+    "10050022": {
+        "Id": 10050022,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 107002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 207001,
+        "ReactionId": 0
+    },
+    "10050023": {
+        "Id": 10050023,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 108001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 208000,
+        "ReactionId": 0
+    },
+    "10050024": {
+        "Id": 10050024,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 108002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 208001,
+        "ReactionId": 0
+    },
+    "10050025": {
+        "Id": 10050025,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 109001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 209000,
+        "ReactionId": 0
+    },
+    "10050026": {
+        "Id": 10050026,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 110001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 210000,
+        "ReactionId": 0
+    },
+    "10050027": {
+        "Id": 10050027,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 401001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 300000,
+        "ReactionId": 0
+    },
+    "10050028": {
+        "Id": 10050028,
+        "CharaId": 1005,
+        "Type": 2,
+        "TalkId": 401003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 301000,
+        "ReactionId": 40100301
+    },
+    "10050029": {
+        "Id": 10050029,
+        "CharaId": 1005,
+        "Type": 2,
+        "TalkId": 401003,
+        "PartnerType": 1,
+        "TalkNo": 2,
+        "MessageId": 301001,
+        "ReactionId": 40100302
+    },
+    "10050030": {
+        "Id": 10050030,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 201001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302000,
+        "ReactionId": 0
+    },
+    "10050031": {
+        "Id": 10050031,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 202001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302001,
+        "ReactionId": 0
+    },
+    "10050032": {
+        "Id": 10050032,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 203001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302002,
+        "ReactionId": 0
+    },
+    "10050033": {
+        "Id": 10050033,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 204001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302003,
+        "ReactionId": 0
+    },
+    "10050034": {
+        "Id": 10050034,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302004,
+        "ReactionId": 0
+    },
+    "10050035": {
+        "Id": 10050035,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302005,
+        "ReactionId": 0
+    },
+    "10050036": {
+        "Id": 10050036,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302006,
+        "ReactionId": 0
+    },
+    "10050037": {
+        "Id": 10050037,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205004,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302007,
+        "ReactionId": 0
+    },
+    "10050038": {
+        "Id": 10050038,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205005,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302008,
+        "ReactionId": 0
+    },
+    "10050039": {
+        "Id": 10050039,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205006,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302009,
+        "ReactionId": 0
+    },
+    "10050040": {
+        "Id": 10050040,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205007,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302010,
+        "ReactionId": 0
+    },
+    "10050041": {
+        "Id": 10050041,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205008,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302011,
+        "ReactionId": 0
+    },
+    "10050042": {
+        "Id": 10050042,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205009,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302012,
+        "ReactionId": 0
+    },
+    "10050043": {
+        "Id": 10050043,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205010,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302013,
+        "ReactionId": 0
+    },
+    "10050044": {
+        "Id": 10050044,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205011,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302014,
+        "ReactionId": 0
+    },
+    "10050045": {
+        "Id": 10050045,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205012,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302015,
+        "ReactionId": 0
+    },
+    "10050046": {
+        "Id": 10050046,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205013,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302016,
+        "ReactionId": 0
+    },
+    "10050047": {
+        "Id": 10050047,
+        "CharaId": 1005,
+        "Type": 1,
+        "TalkId": 205014,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302017,
+        "ReactionId": 0
+    },
+    "20050001": {
+        "Id": 20050001,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 101001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 200000,
+        "ReactionId": 0
+    },
+    "20050002": {
+        "Id": 20050002,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 101002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 200001,
+        "ReactionId": 0
+    },
+    "20050003": {
+        "Id": 20050003,
+        "CharaId": 2005,
+        "Type": 2,
+        "TalkId": 101003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 201000,
+        "ReactionId": 10100301
+    },
+    "20050004": {
+        "Id": 20050004,
+        "CharaId": 2005,
+        "Type": 2,
+        "TalkId": 101003,
+        "PartnerType": 1,
+        "TalkNo": 2,
+        "MessageId": 201001,
+        "ReactionId": 10100302
+    },
+    "20050005": {
+        "Id": 20050005,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 2005000,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202000,
+        "ReactionId": 0
+    },
+    "20050006": {
+        "Id": 20050006,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202001,
+        "ReactionId": 0
+    },
+    "20050007": {
+        "Id": 20050007,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202002,
+        "ReactionId": 0
+    },
+    "20050008": {
+        "Id": 20050008,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102004,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202003,
+        "ReactionId": 0
+    },
+    "20050009": {
+        "Id": 20050009,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102013,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202004,
+        "ReactionId": 0
+    },
+    "20050010": {
+        "Id": 20050010,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 103001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 203000,
+        "ReactionId": 0
+    },
+    "20050011": {
+        "Id": 20050011,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102006,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202005,
+        "ReactionId": 0
+    },
+    "20050012": {
+        "Id": 20050012,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102007,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202006,
+        "ReactionId": 0
+    },
+    "20050013": {
+        "Id": 20050013,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102008,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202007,
+        "ReactionId": 0
+    },
+    "20050014": {
+        "Id": 20050014,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 102009,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 202008,
+        "ReactionId": 0
+    },
+    "20050015": {
+        "Id": 20050015,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 104001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 204000,
+        "ReactionId": 0
+    },
+    "20050016": {
+        "Id": 20050016,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 104002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 204001,
+        "ReactionId": 0
+    },
+    "20050017": {
+        "Id": 20050017,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 2005001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 205000,
+        "ReactionId": 0
+    },
+    "20050018": {
+        "Id": 20050018,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 2005002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 205001,
+        "ReactionId": 0
+    },
+    "20050019": {
+        "Id": 20050019,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 106001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 206000,
+        "ReactionId": 0
+    },
+    "20050020": {
+        "Id": 20050020,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 106002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 206001,
+        "ReactionId": 0
+    },
+    "20050021": {
+        "Id": 20050021,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 107001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 207000,
+        "ReactionId": 0
+    },
+    "20050022": {
+        "Id": 20050022,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 107002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 207001,
+        "ReactionId": 0
+    },
+    "20050023": {
+        "Id": 20050023,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 108001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 208000,
+        "ReactionId": 0
+    },
+    "20050024": {
+        "Id": 20050024,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 108002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 208001,
+        "ReactionId": 0
+    },
+    "20050025": {
+        "Id": 20050025,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 109001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 209000,
+        "ReactionId": 0
+    },
+    "20050026": {
+        "Id": 20050026,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 110001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 210000,
+        "ReactionId": 0
+    },
+    "20050027": {
+        "Id": 20050027,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 401001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 300000,
+        "ReactionId": 0
+    },
+    "20050028": {
+        "Id": 20050028,
+        "CharaId": 2005,
+        "Type": 2,
+        "TalkId": 401003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 301000,
+        "ReactionId": 40100301
+    },
+    "20050029": {
+        "Id": 20050029,
+        "CharaId": 2005,
+        "Type": 2,
+        "TalkId": 401003,
+        "PartnerType": 1,
+        "TalkNo": 2,
+        "MessageId": 301001,
+        "ReactionId": 40100302
+    },
+    "20050030": {
+        "Id": 20050030,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 201001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302000,
+        "ReactionId": 0
+    },
+    "20050031": {
+        "Id": 20050031,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 202001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302001,
+        "ReactionId": 0
+    },
+    "20050032": {
+        "Id": 20050032,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 203001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302002,
+        "ReactionId": 0
+    },
+    "20050033": {
+        "Id": 20050033,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 204001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302003,
+        "ReactionId": 0
+    },
+    "20050034": {
+        "Id": 20050034,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205001,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302004,
+        "ReactionId": 0
+    },
+    "20050035": {
+        "Id": 20050035,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205002,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302005,
+        "ReactionId": 0
+    },
+    "20050036": {
+        "Id": 20050036,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205003,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302006,
+        "ReactionId": 0
+    },
+    "20050037": {
+        "Id": 20050037,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205004,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302007,
+        "ReactionId": 0
+    },
+    "20050038": {
+        "Id": 20050038,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205005,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302008,
+        "ReactionId": 0
+    },
+    "20050039": {
+        "Id": 20050039,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205006,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302009,
+        "ReactionId": 0
+    },
+    "20050040": {
+        "Id": 20050040,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205007,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302010,
+        "ReactionId": 0
+    },
+    "20050041": {
+        "Id": 20050041,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205008,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302011,
+        "ReactionId": 0
+    },
+    "20050042": {
+        "Id": 20050042,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205009,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302012,
+        "ReactionId": 0
+    },
+    "20050043": {
+        "Id": 20050043,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205010,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302013,
+        "ReactionId": 0
+    },
+    "20050044": {
+        "Id": 20050044,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205011,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302014,
+        "ReactionId": 0
+    },
+    "20050045": {
+        "Id": 20050045,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205012,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302015,
+        "ReactionId": 0
+    },
+    "20050046": {
+        "Id": 20050046,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205013,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302016,
+        "ReactionId": 0
+    },
+    "20050047": {
+        "Id": 20050047,
+        "CharaId": 2005,
+        "Type": 1,
+        "TalkId": 205014,
+        "PartnerType": 1,
+        "TalkNo": 1,
+        "MessageId": 302017,
+        "ReactionId": 0
     }
 }

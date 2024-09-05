@@ -88,5 +88,14 @@
         "AccessoryPosition": "5",
         "DefaultView": true,
         "CharacterHairId": 0
+    },
+    "10050020403": {
+        "Id": 10050020403,
+        "CharacterId": 1005,
+        "AccessoryType": 0,
+        "AccessoryModel": "ah02040",
+        "AccessoryPosition": "0",
+        "DefaultView": true,
+        "CharacterHairId": 10050010254
     }
 }
