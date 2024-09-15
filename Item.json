@@ -15046,5 +15046,50 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1663
+    },
+    "13900733": {
+        "Id": 13900733,
+        "Name": "メイドに訊け！～授業用水着の謎に迫る～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1724
+    },
+    "13900734": {
+        "Id": 13900734,
+        "Name": "メイドに訊け！～授業用水着の謎に迫る～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1723
+    },
+    "13200046": {
+        "Id": 13200046,
+        "Name": "イベントBOXガチャチケット(スク水セーラー)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(スク水セーラー)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1727
+    },
+    "13700034": {
+        "Id": 13700034,
+        "Name": "ボスチケット(スク水セーラー)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1728
+    },
+    "12903697": {
+        "Id": 12903697,
+        "Name": "覗き込みピース",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1727
     }
 }

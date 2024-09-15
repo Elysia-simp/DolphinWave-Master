@@ -867,5 +867,16 @@
         "IconId": 1001,
         "CampaignName": "メインクエスト　スタミナ1/2CP",
         "CampaignText": "メインクエストのスタミナ消費量が1/2になります。"
+    },
+    "1080": {
+        "Id": 1080,
+        "CampaignType": 3,
+        "TargetGroupId": 0,
+        "StaminaPercentage": 50,
+        "StartDate": 1725994800,
+        "EndDate": 1726772399,
+        "IconId": 1001,
+        "CampaignName": "ボスバトル　スタミナ1/2CP",
+        "CampaignText": "ボスバトルのスタミナ消費量が1/2になります。"
     }
 }

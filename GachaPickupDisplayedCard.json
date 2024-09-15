@@ -1016,6 +1016,15 @@
         "PoseMotionFileName": "adv_plcom_hazirai_00",
         "FaceMotionFileName": 1
     },
+    "6701": {
+        "Id": 6701,
+        "GachaManagementId": 67,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 100136402,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
     "6801": {
         "Id": 6801,
         "GachaManagementId": 68,
@@ -3236,6 +3245,15 @@
         "Type": 8,
         "DisplayedPriority": 4,
         "PickupCardId": 120015,
+        "PoseMotionFileName": "adv_plcom_hazirai_00",
+        "FaceMotionFileName": 1
+    },
+    "16301": {
+        "Id": 16301,
+        "GachaManagementId": 163,
+        "Type": 7,
+        "DisplayedPriority": 1,
+        "PickupCardId": 200236401,
         "PoseMotionFileName": "adv_plcom_hazirai_00",
         "FaceMotionFileName": 1
     }
