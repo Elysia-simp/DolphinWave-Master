@@ -3148,5 +3148,383 @@
         "ChallengeRankingLowerLimit": 30000,
         "ChallengeRankingRewardItemGrId": 11106,
         "ChallengeRankingReward": 0
+    },
+    "5026001": {
+        "Id": 5026001,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 1,
+        "ChallengeRankingUpperLimit": 1,
+        "ChallengeRankingLowerLimit": 1,
+        "ChallengeRankingRewardItemGrId": 11093,
+        "ChallengeRankingReward": 13900739
+    },
+    "5026002": {
+        "Id": 5026002,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 2,
+        "ChallengeRankingUpperLimit": 2,
+        "ChallengeRankingLowerLimit": 2,
+        "ChallengeRankingRewardItemGrId": 11094,
+        "ChallengeRankingReward": 13900740
+    },
+    "5026003": {
+        "Id": 5026003,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 3,
+        "ChallengeRankingUpperLimit": 3,
+        "ChallengeRankingLowerLimit": 3,
+        "ChallengeRankingRewardItemGrId": 11095,
+        "ChallengeRankingReward": 13900741
+    },
+    "5026004": {
+        "Id": 5026004,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 4,
+        "ChallengeRankingUpperLimit": 4,
+        "ChallengeRankingLowerLimit": 10,
+        "ChallengeRankingRewardItemGrId": 11096,
+        "ChallengeRankingReward": 13900742
+    },
+    "5026005": {
+        "Id": 5026005,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 5,
+        "ChallengeRankingUpperLimit": 11,
+        "ChallengeRankingLowerLimit": 100,
+        "ChallengeRankingRewardItemGrId": 11097,
+        "ChallengeRankingReward": 13900743
+    },
+    "5026006": {
+        "Id": 5026006,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 6,
+        "ChallengeRankingUpperLimit": 101,
+        "ChallengeRankingLowerLimit": 200,
+        "ChallengeRankingRewardItemGrId": 11098,
+        "ChallengeRankingReward": 13900744
+    },
+    "5026007": {
+        "Id": 5026007,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 7,
+        "ChallengeRankingUpperLimit": 201,
+        "ChallengeRankingLowerLimit": 300,
+        "ChallengeRankingRewardItemGrId": 11099,
+        "ChallengeRankingReward": 13900745
+    },
+    "5026008": {
+        "Id": 5026008,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 8,
+        "ChallengeRankingUpperLimit": 301,
+        "ChallengeRankingLowerLimit": 400,
+        "ChallengeRankingRewardItemGrId": 11100,
+        "ChallengeRankingReward": 13900746
+    },
+    "5026009": {
+        "Id": 5026009,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 9,
+        "ChallengeRankingUpperLimit": 401,
+        "ChallengeRankingLowerLimit": 500,
+        "ChallengeRankingRewardItemGrId": 11101,
+        "ChallengeRankingReward": 13900747
+    },
+    "5026010": {
+        "Id": 5026010,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 10,
+        "ChallengeRankingUpperLimit": 501,
+        "ChallengeRankingLowerLimit": 700,
+        "ChallengeRankingRewardItemGrId": 11102,
+        "ChallengeRankingReward": 13900748
+    },
+    "5026011": {
+        "Id": 5026011,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 11,
+        "ChallengeRankingUpperLimit": 701,
+        "ChallengeRankingLowerLimit": 1000,
+        "ChallengeRankingRewardItemGrId": 11103,
+        "ChallengeRankingReward": 13900749
+    },
+    "5026012": {
+        "Id": 5026012,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 12,
+        "ChallengeRankingUpperLimit": 1001,
+        "ChallengeRankingLowerLimit": 5000,
+        "ChallengeRankingRewardItemGrId": 11104,
+        "ChallengeRankingReward": 13900750
+    },
+    "5026013": {
+        "Id": 5026013,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 13,
+        "ChallengeRankingUpperLimit": 5001,
+        "ChallengeRankingLowerLimit": 10000,
+        "ChallengeRankingRewardItemGrId": 11105,
+        "ChallengeRankingReward": 0
+    },
+    "5026014": {
+        "Id": 5026014,
+        "RewardGroupId": 5026,
+        "ChallengeRankingRewardOrder": 14,
+        "ChallengeRankingUpperLimit": 10001,
+        "ChallengeRankingLowerLimit": 30000,
+        "ChallengeRankingRewardItemGrId": 11106,
+        "ChallengeRankingReward": 0
+    },
+    "5027001": {
+        "Id": 5027001,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 1,
+        "ChallengeRankingUpperLimit": 1,
+        "ChallengeRankingLowerLimit": 1,
+        "ChallengeRankingRewardItemGrId": 11093,
+        "ChallengeRankingReward": 13900765
+    },
+    "5027002": {
+        "Id": 5027002,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 2,
+        "ChallengeRankingUpperLimit": 2,
+        "ChallengeRankingLowerLimit": 2,
+        "ChallengeRankingRewardItemGrId": 11094,
+        "ChallengeRankingReward": 13900766
+    },
+    "5027003": {
+        "Id": 5027003,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 3,
+        "ChallengeRankingUpperLimit": 3,
+        "ChallengeRankingLowerLimit": 3,
+        "ChallengeRankingRewardItemGrId": 11095,
+        "ChallengeRankingReward": 13900767
+    },
+    "5027004": {
+        "Id": 5027004,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 4,
+        "ChallengeRankingUpperLimit": 4,
+        "ChallengeRankingLowerLimit": 10,
+        "ChallengeRankingRewardItemGrId": 11096,
+        "ChallengeRankingReward": 13900768
+    },
+    "5027005": {
+        "Id": 5027005,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 5,
+        "ChallengeRankingUpperLimit": 11,
+        "ChallengeRankingLowerLimit": 100,
+        "ChallengeRankingRewardItemGrId": 11097,
+        "ChallengeRankingReward": 13900769
+    },
+    "5027006": {
+        "Id": 5027006,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 6,
+        "ChallengeRankingUpperLimit": 101,
+        "ChallengeRankingLowerLimit": 200,
+        "ChallengeRankingRewardItemGrId": 11098,
+        "ChallengeRankingReward": 13900770
+    },
+    "5027007": {
+        "Id": 5027007,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 7,
+        "ChallengeRankingUpperLimit": 201,
+        "ChallengeRankingLowerLimit": 300,
+        "ChallengeRankingRewardItemGrId": 11099,
+        "ChallengeRankingReward": 13900771
+    },
+    "5027008": {
+        "Id": 5027008,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 8,
+        "ChallengeRankingUpperLimit": 301,
+        "ChallengeRankingLowerLimit": 400,
+        "ChallengeRankingRewardItemGrId": 11100,
+        "ChallengeRankingReward": 13900772
+    },
+    "5027009": {
+        "Id": 5027009,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 9,
+        "ChallengeRankingUpperLimit": 401,
+        "ChallengeRankingLowerLimit": 500,
+        "ChallengeRankingRewardItemGrId": 11101,
+        "ChallengeRankingReward": 13900773
+    },
+    "5027010": {
+        "Id": 5027010,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 10,
+        "ChallengeRankingUpperLimit": 501,
+        "ChallengeRankingLowerLimit": 700,
+        "ChallengeRankingRewardItemGrId": 11102,
+        "ChallengeRankingReward": 13900774
+    },
+    "5027011": {
+        "Id": 5027011,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 11,
+        "ChallengeRankingUpperLimit": 701,
+        "ChallengeRankingLowerLimit": 1000,
+        "ChallengeRankingRewardItemGrId": 11103,
+        "ChallengeRankingReward": 13900775
+    },
+    "5027012": {
+        "Id": 5027012,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 12,
+        "ChallengeRankingUpperLimit": 1001,
+        "ChallengeRankingLowerLimit": 5000,
+        "ChallengeRankingRewardItemGrId": 11104,
+        "ChallengeRankingReward": 13900776
+    },
+    "5027013": {
+        "Id": 5027013,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 13,
+        "ChallengeRankingUpperLimit": 5001,
+        "ChallengeRankingLowerLimit": 10000,
+        "ChallengeRankingRewardItemGrId": 11105,
+        "ChallengeRankingReward": 0
+    },
+    "5027014": {
+        "Id": 5027014,
+        "RewardGroupId": 5027,
+        "ChallengeRankingRewardOrder": 14,
+        "ChallengeRankingUpperLimit": 10001,
+        "ChallengeRankingLowerLimit": 30000,
+        "ChallengeRankingRewardItemGrId": 11106,
+        "ChallengeRankingReward": 0
+    },
+    "5028001": {
+        "Id": 5028001,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 1,
+        "ChallengeRankingUpperLimit": 1,
+        "ChallengeRankingLowerLimit": 1,
+        "ChallengeRankingRewardItemGrId": 11093,
+        "ChallengeRankingReward": 13900791
+    },
+    "5028002": {
+        "Id": 5028002,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 2,
+        "ChallengeRankingUpperLimit": 2,
+        "ChallengeRankingLowerLimit": 2,
+        "ChallengeRankingRewardItemGrId": 11094,
+        "ChallengeRankingReward": 13900792
+    },
+    "5028003": {
+        "Id": 5028003,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 3,
+        "ChallengeRankingUpperLimit": 3,
+        "ChallengeRankingLowerLimit": 3,
+        "ChallengeRankingRewardItemGrId": 11095,
+        "ChallengeRankingReward": 13900793
+    },
+    "5028004": {
+        "Id": 5028004,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 4,
+        "ChallengeRankingUpperLimit": 4,
+        "ChallengeRankingLowerLimit": 10,
+        "ChallengeRankingRewardItemGrId": 11096,
+        "ChallengeRankingReward": 13900794
+    },
+    "5028005": {
+        "Id": 5028005,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 5,
+        "ChallengeRankingUpperLimit": 11,
+        "ChallengeRankingLowerLimit": 100,
+        "ChallengeRankingRewardItemGrId": 11097,
+        "ChallengeRankingReward": 13900795
+    },
+    "5028006": {
+        "Id": 5028006,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 6,
+        "ChallengeRankingUpperLimit": 101,
+        "ChallengeRankingLowerLimit": 200,
+        "ChallengeRankingRewardItemGrId": 11098,
+        "ChallengeRankingReward": 13900796
+    },
+    "5028007": {
+        "Id": 5028007,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 7,
+        "ChallengeRankingUpperLimit": 201,
+        "ChallengeRankingLowerLimit": 300,
+        "ChallengeRankingRewardItemGrId": 11099,
+        "ChallengeRankingReward": 13900797
+    },
+    "5028008": {
+        "Id": 5028008,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 8,
+        "ChallengeRankingUpperLimit": 301,
+        "ChallengeRankingLowerLimit": 400,
+        "ChallengeRankingRewardItemGrId": 11100,
+        "ChallengeRankingReward": 13900798
+    },
+    "5028009": {
+        "Id": 5028009,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 9,
+        "ChallengeRankingUpperLimit": 401,
+        "ChallengeRankingLowerLimit": 500,
+        "ChallengeRankingRewardItemGrId": 11101,
+        "ChallengeRankingReward": 13900799
+    },
+    "5028010": {
+        "Id": 5028010,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 10,
+        "ChallengeRankingUpperLimit": 501,
+        "ChallengeRankingLowerLimit": 700,
+        "ChallengeRankingRewardItemGrId": 11102,
+        "ChallengeRankingReward": 13900800
+    },
+    "5028011": {
+        "Id": 5028011,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 11,
+        "ChallengeRankingUpperLimit": 701,
+        "ChallengeRankingLowerLimit": 1000,
+        "ChallengeRankingRewardItemGrId": 11103,
+        "ChallengeRankingReward": 13900801
+    },
+    "5028012": {
+        "Id": 5028012,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 12,
+        "ChallengeRankingUpperLimit": 1001,
+        "ChallengeRankingLowerLimit": 5000,
+        "ChallengeRankingRewardItemGrId": 11104,
+        "ChallengeRankingReward": 13900802
+    },
+    "5028013": {
+        "Id": 5028013,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 13,
+        "ChallengeRankingUpperLimit": 5001,
+        "ChallengeRankingLowerLimit": 10000,
+        "ChallengeRankingRewardItemGrId": 11105,
+        "ChallengeRankingReward": 0
+    },
+    "5028014": {
+        "Id": 5028014,
+        "RewardGroupId": 5028,
+        "ChallengeRankingRewardOrder": 14,
+        "ChallengeRankingUpperLimit": 10001,
+        "ChallengeRankingLowerLimit": 30000,
+        "ChallengeRankingRewardItemGrId": 11106,
+        "ChallengeRankingReward": 0
     }
 }

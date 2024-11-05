@@ -320,5 +320,47 @@
         "CameraMinMovePosition": "0/0",
         "CameraMaxY": "139/139",
         "CameraMinY": "89/89"
+    },
+    "102401": {
+        "Id": 102401,
+        "MapID": 241,
+        "PatternID": 1,
+        "BasePos": "0.0,50.0,185.0,0.0",
+        "CameraMaxLatitude": "30/80",
+        "CameraMinLatitude": "15/70",
+        "CameraMaxRadius": 55,
+        "CameraMinRadius": 10,
+        "CameraMaxMovePosition": "0/0",
+        "CameraMinMovePosition": "0/0",
+        "CameraMaxY": "100/100",
+        "CameraMinY": "51/51"
+    },
+    "102501": {
+        "Id": 102501,
+        "MapID": 251,
+        "PatternID": 1,
+        "BasePos": "-40,40,0,-20",
+        "CameraMaxLatitude": "30/80",
+        "CameraMinLatitude": "15/70",
+        "CameraMaxRadius": 55,
+        "CameraMinRadius": 10,
+        "CameraMaxMovePosition": "68,73,35/68,73,35",
+        "CameraMinMovePosition": "-68,40,-30/-68,40,-30",
+        "CameraMaxY": "73/73",
+        "CameraMinY": "41/41"
+    },
+    "102601": {
+        "Id": 102601,
+        "MapID": 261,
+        "PatternID": 1,
+        "BasePos": "-40,40,0,-20",
+        "CameraMaxLatitude": "30/80",
+        "CameraMinLatitude": "15/70",
+        "CameraMaxRadius": 55,
+        "CameraMinRadius": 10,
+        "CameraMaxMovePosition": "68,73,35/68,73,35",
+        "CameraMinMovePosition": "-68,40,-30/-68,40,-30",
+        "CameraMaxY": "73/73",
+        "CameraMinY": "41/41"
     }
 }

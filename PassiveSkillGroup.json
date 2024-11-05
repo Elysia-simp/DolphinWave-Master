@@ -1,0 +1,506 @@
+{
+    "11101": {
+        "Id": 11101,
+        "GroupId": 1110,
+        "SkillLv": 1,
+        "PassiveSkillId": 100194,
+        "SpecialText": "自分の攻撃力が-%アップ"
+    },
+    "11102": {
+        "Id": 11102,
+        "GroupId": 1110,
+        "SkillLv": 2,
+        "PassiveSkillId": 100195,
+        "SpecialText": ""
+    },
+    "11103": {
+        "Id": 11103,
+        "GroupId": 1110,
+        "SkillLv": 3,
+        "PassiveSkillId": 100196,
+        "SpecialText": ""
+    },
+    "11104": {
+        "Id": 11104,
+        "GroupId": 1110,
+        "SkillLv": 4,
+        "PassiveSkillId": 100197,
+        "SpecialText": ""
+    },
+    "21211": {
+        "Id": 21211,
+        "GroupId": 2121,
+        "SkillLv": 1,
+        "PassiveSkillId": 100198,
+        "SpecialText": "WAVE属性の味方全体の攻撃力が-%アップ"
+    },
+    "21212": {
+        "Id": 21212,
+        "GroupId": 2121,
+        "SkillLv": 2,
+        "PassiveSkillId": 100199,
+        "SpecialText": ""
+    },
+    "21213": {
+        "Id": 21213,
+        "GroupId": 2121,
+        "SkillLv": 3,
+        "PassiveSkillId": 100102,
+        "SpecialText": ""
+    },
+    "21214": {
+        "Id": 21214,
+        "GroupId": 2121,
+        "SkillLv": 4,
+        "PassiveSkillId": 100200,
+        "SpecialText": ""
+    },
+    "21221": {
+        "Id": 21221,
+        "GroupId": 2122,
+        "SkillLv": 1,
+        "PassiveSkillId": 100201,
+        "SpecialText": "SUN属性の味方全体の攻撃力が-%アップ"
+    },
+    "21222": {
+        "Id": 21222,
+        "GroupId": 2122,
+        "SkillLv": 2,
+        "PassiveSkillId": 100202,
+        "SpecialText": ""
+    },
+    "21223": {
+        "Id": 21223,
+        "GroupId": 2122,
+        "SkillLv": 3,
+        "PassiveSkillId": 100110,
+        "SpecialText": ""
+    },
+    "21224": {
+        "Id": 21224,
+        "GroupId": 2122,
+        "SkillLv": 4,
+        "PassiveSkillId": 100203,
+        "SpecialText": ""
+    },
+    "21231": {
+        "Id": 21231,
+        "GroupId": 2123,
+        "SkillLv": 1,
+        "PassiveSkillId": 100204,
+        "SpecialText": "GEAR属性の味方全体の攻撃力が-%アップ"
+    },
+    "21232": {
+        "Id": 21232,
+        "GroupId": 2123,
+        "SkillLv": 2,
+        "PassiveSkillId": 100205,
+        "SpecialText": ""
+    },
+    "21233": {
+        "Id": 21233,
+        "GroupId": 2123,
+        "SkillLv": 3,
+        "PassiveSkillId": 100118,
+        "SpecialText": ""
+    },
+    "21234": {
+        "Id": 21234,
+        "GroupId": 2123,
+        "SkillLv": 4,
+        "PassiveSkillId": 100206,
+        "SpecialText": ""
+    },
+    "21241": {
+        "Id": 21241,
+        "GroupId": 2124,
+        "SkillLv": 1,
+        "PassiveSkillId": 100207,
+        "SpecialText": "MOON属性の味方全体の攻撃力が-%アップ"
+    },
+    "21242": {
+        "Id": 21242,
+        "GroupId": 2124,
+        "SkillLv": 2,
+        "PassiveSkillId": 100208,
+        "SpecialText": ""
+    },
+    "21243": {
+        "Id": 21243,
+        "GroupId": 2124,
+        "SkillLv": 3,
+        "PassiveSkillId": 100126,
+        "SpecialText": ""
+    },
+    "21244": {
+        "Id": 21244,
+        "GroupId": 2124,
+        "SkillLv": 4,
+        "PassiveSkillId": 100209,
+        "SpecialText": ""
+    },
+    "21251": {
+        "Id": 21251,
+        "GroupId": 2125,
+        "SkillLv": 1,
+        "PassiveSkillId": 100210,
+        "SpecialText": "WIND属性の味方全体の攻撃力が-%アップ"
+    },
+    "21252": {
+        "Id": 21252,
+        "GroupId": 2125,
+        "SkillLv": 2,
+        "PassiveSkillId": 100211,
+        "SpecialText": ""
+    },
+    "21253": {
+        "Id": 21253,
+        "GroupId": 2125,
+        "SkillLv": 3,
+        "PassiveSkillId": 100134,
+        "SpecialText": ""
+    },
+    "21254": {
+        "Id": 21254,
+        "GroupId": 2125,
+        "SkillLv": 4,
+        "PassiveSkillId": 100212,
+        "SpecialText": ""
+    },
+    "32101": {
+        "Id": 32101,
+        "GroupId": 3210,
+        "SkillLv": 1,
+        "PassiveSkillId": 100213,
+        "SpecialText": "自分がSPスキルで攻撃する時、自分の与ダメージが-%アップ"
+    },
+    "32102": {
+        "Id": 32102,
+        "GroupId": 3210,
+        "SkillLv": 2,
+        "PassiveSkillId": 100214,
+        "SpecialText": ""
+    },
+    "32103": {
+        "Id": 32103,
+        "GroupId": 3210,
+        "SkillLv": 3,
+        "PassiveSkillId": 100215,
+        "SpecialText": ""
+    },
+    "32104": {
+        "Id": 32104,
+        "GroupId": 3210,
+        "SkillLv": 4,
+        "PassiveSkillId": 100216,
+        "SpecialText": ""
+    },
+    "42201": {
+        "Id": 42201,
+        "GroupId": 4220,
+        "SkillLv": 1,
+        "PassiveSkillId": 100217,
+        "SpecialText": "自分が通常スキルで攻撃する時、自分の与ダメージが-%アップ"
+    },
+    "42202": {
+        "Id": 42202,
+        "GroupId": 4220,
+        "SkillLv": 2,
+        "PassiveSkillId": 100218,
+        "SpecialText": ""
+    },
+    "42203": {
+        "Id": 42203,
+        "GroupId": 4220,
+        "SkillLv": 3,
+        "PassiveSkillId": 100148,
+        "SpecialText": ""
+    },
+    "42204": {
+        "Id": 42204,
+        "GroupId": 4220,
+        "SkillLv": 4,
+        "PassiveSkillId": 100219,
+        "SpecialText": ""
+    },
+    "53111": {
+        "Id": 53111,
+        "GroupId": 5311,
+        "SkillLv": 1,
+        "PassiveSkillId": 100220,
+        "SpecialText": "攻撃した相手がWAVE属性の時、自分の与ダメージが-%アップ"
+    },
+    "53112": {
+        "Id": 53112,
+        "GroupId": 5311,
+        "SkillLv": 2,
+        "PassiveSkillId": 100221,
+        "SpecialText": ""
+    },
+    "53113": {
+        "Id": 53113,
+        "GroupId": 5311,
+        "SkillLv": 3,
+        "PassiveSkillId": 100222,
+        "SpecialText": ""
+    },
+    "53114": {
+        "Id": 53114,
+        "GroupId": 5311,
+        "SkillLv": 4,
+        "PassiveSkillId": 100223,
+        "SpecialText": ""
+    },
+    "53121": {
+        "Id": 53121,
+        "GroupId": 5312,
+        "SkillLv": 1,
+        "PassiveSkillId": 100224,
+        "SpecialText": "攻撃した相手がSUN属性の時、自分の与ダメージが-%アップ"
+    },
+    "53122": {
+        "Id": 53122,
+        "GroupId": 5312,
+        "SkillLv": 2,
+        "PassiveSkillId": 100225,
+        "SpecialText": ""
+    },
+    "53123": {
+        "Id": 53123,
+        "GroupId": 5312,
+        "SkillLv": 3,
+        "PassiveSkillId": 100226,
+        "SpecialText": ""
+    },
+    "53124": {
+        "Id": 53124,
+        "GroupId": 5312,
+        "SkillLv": 4,
+        "PassiveSkillId": 100227,
+        "SpecialText": ""
+    },
+    "53131": {
+        "Id": 53131,
+        "GroupId": 5313,
+        "SkillLv": 1,
+        "PassiveSkillId": 100228,
+        "SpecialText": "攻撃した相手がGEAR属性の時、自分の与ダメージが-%アップ"
+    },
+    "53132": {
+        "Id": 53132,
+        "GroupId": 5313,
+        "SkillLv": 2,
+        "PassiveSkillId": 100229,
+        "SpecialText": ""
+    },
+    "53133": {
+        "Id": 53133,
+        "GroupId": 5313,
+        "SkillLv": 3,
+        "PassiveSkillId": 100230,
+        "SpecialText": ""
+    },
+    "53134": {
+        "Id": 53134,
+        "GroupId": 5313,
+        "SkillLv": 4,
+        "PassiveSkillId": 100231,
+        "SpecialText": ""
+    },
+    "53141": {
+        "Id": 53141,
+        "GroupId": 5314,
+        "SkillLv": 1,
+        "PassiveSkillId": 100232,
+        "SpecialText": "攻撃した相手がMOON属性の時、自分の与ダメージが-%アップ"
+    },
+    "53142": {
+        "Id": 53142,
+        "GroupId": 5314,
+        "SkillLv": 2,
+        "PassiveSkillId": 100233,
+        "SpecialText": ""
+    },
+    "53143": {
+        "Id": 53143,
+        "GroupId": 5314,
+        "SkillLv": 3,
+        "PassiveSkillId": 100234,
+        "SpecialText": ""
+    },
+    "53144": {
+        "Id": 53144,
+        "GroupId": 5314,
+        "SkillLv": 4,
+        "PassiveSkillId": 100235,
+        "SpecialText": ""
+    },
+    "53151": {
+        "Id": 53151,
+        "GroupId": 5315,
+        "SkillLv": 1,
+        "PassiveSkillId": 100236,
+        "SpecialText": "攻撃した相手がWIND属性の時、自分の与ダメージが-%アップ"
+    },
+    "53152": {
+        "Id": 53152,
+        "GroupId": 5315,
+        "SkillLv": 2,
+        "PassiveSkillId": 100237,
+        "SpecialText": ""
+    },
+    "53153": {
+        "Id": 53153,
+        "GroupId": 5315,
+        "SkillLv": 3,
+        "PassiveSkillId": 100238,
+        "SpecialText": ""
+    },
+    "53154": {
+        "Id": 53154,
+        "GroupId": 5315,
+        "SkillLv": 4,
+        "PassiveSkillId": 100239,
+        "SpecialText": ""
+    },
+    "63211": {
+        "Id": 63211,
+        "GroupId": 6321,
+        "SkillLv": 1,
+        "PassiveSkillId": 100240,
+        "SpecialText": "攻撃してきた相手がWAVE属性の時、自分の被ダメージが-%ダウン"
+    },
+    "63212": {
+        "Id": 63212,
+        "GroupId": 6321,
+        "SkillLv": 2,
+        "PassiveSkillId": 100241,
+        "SpecialText": ""
+    },
+    "63213": {
+        "Id": 63213,
+        "GroupId": 6321,
+        "SkillLv": 3,
+        "PassiveSkillId": 100242,
+        "SpecialText": ""
+    },
+    "63214": {
+        "Id": 63214,
+        "GroupId": 6321,
+        "SkillLv": 4,
+        "PassiveSkillId": 100243,
+        "SpecialText": ""
+    },
+    "63221": {
+        "Id": 63221,
+        "GroupId": 6322,
+        "SkillLv": 1,
+        "PassiveSkillId": 100244,
+        "SpecialText": "攻撃してきた相手がSUN属性の時、自分の被ダメージが-%ダウン"
+    },
+    "63222": {
+        "Id": 63222,
+        "GroupId": 6322,
+        "SkillLv": 2,
+        "PassiveSkillId": 100245,
+        "SpecialText": ""
+    },
+    "63223": {
+        "Id": 63223,
+        "GroupId": 6322,
+        "SkillLv": 3,
+        "PassiveSkillId": 100246,
+        "SpecialText": ""
+    },
+    "63224": {
+        "Id": 63224,
+        "GroupId": 6322,
+        "SkillLv": 4,
+        "PassiveSkillId": 100247,
+        "SpecialText": ""
+    },
+    "63231": {
+        "Id": 63231,
+        "GroupId": 6323,
+        "SkillLv": 1,
+        "PassiveSkillId": 100248,
+        "SpecialText": "攻撃してきた相手がGEAR属性の時、自分の被ダメージが-%ダウン"
+    },
+    "63232": {
+        "Id": 63232,
+        "GroupId": 6323,
+        "SkillLv": 2,
+        "PassiveSkillId": 100249,
+        "SpecialText": ""
+    },
+    "63233": {
+        "Id": 63233,
+        "GroupId": 6323,
+        "SkillLv": 3,
+        "PassiveSkillId": 100250,
+        "SpecialText": ""
+    },
+    "63234": {
+        "Id": 63234,
+        "GroupId": 6323,
+        "SkillLv": 4,
+        "PassiveSkillId": 100251,
+        "SpecialText": ""
+    },
+    "63241": {
+        "Id": 63241,
+        "GroupId": 6324,
+        "SkillLv": 1,
+        "PassiveSkillId": 100252,
+        "SpecialText": "攻撃してきた相手がMOON属性の時、自分の被ダメージが-%ダウン"
+    },
+    "63242": {
+        "Id": 63242,
+        "GroupId": 6324,
+        "SkillLv": 2,
+        "PassiveSkillId": 100253,
+        "SpecialText": ""
+    },
+    "63243": {
+        "Id": 63243,
+        "GroupId": 6324,
+        "SkillLv": 3,
+        "PassiveSkillId": 100254,
+        "SpecialText": ""
+    },
+    "63244": {
+        "Id": 63244,
+        "GroupId": 6324,
+        "SkillLv": 4,
+        "PassiveSkillId": 100255,
+        "SpecialText": ""
+    },
+    "63251": {
+        "Id": 63251,
+        "GroupId": 6325,
+        "SkillLv": 1,
+        "PassiveSkillId": 100256,
+        "SpecialText": "攻撃してきた相手がWIND属性の時、自分の被ダメージが-%ダウン"
+    },
+    "63252": {
+        "Id": 63252,
+        "GroupId": 6325,
+        "SkillLv": 2,
+        "PassiveSkillId": 100257,
+        "SpecialText": ""
+    },
+    "63253": {
+        "Id": 63253,
+        "GroupId": 6325,
+        "SkillLv": 3,
+        "PassiveSkillId": 100258,
+        "SpecialText": ""
+    },
+    "63254": {
+        "Id": 63254,
+        "GroupId": 6325,
+        "SkillLv": 4,
+        "PassiveSkillId": 100259,
+        "SpecialText": ""
+    }
+}

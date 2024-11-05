@@ -658,5 +658,65 @@
         "UnlockId": 4035008,
         "GroupCloseness": 0,
         "GroupNo": 0
+    },
+    "4036": {
+        "Id": 4036,
+        "Priority": 57,
+        "GroupId": 131,
+        "CharaId": 1005,
+        "Title": "ドルフィンたちの海戦 後日談",
+        "ChatCategory": 100,
+        "UnlockType": 2,
+        "UnlockId": 4036008,
+        "GroupCloseness": 0,
+        "GroupNo": 0
+    },
+    "4037": {
+        "Id": 4037,
+        "Priority": 58,
+        "GroupId": 132,
+        "CharaId": 1004,
+        "Title": "オトナな私も楽しみたい！ 後日談",
+        "ChatCategory": 100,
+        "UnlockType": 2,
+        "UnlockId": 4037008,
+        "GroupCloseness": 0,
+        "GroupNo": 0
+    },
+    "1023": {
+        "Id": 1023,
+        "Priority": 59,
+        "GroupId": 1,
+        "CharaId": 1001,
+        "Title": "メイン第3部1章後日談",
+        "ChatCategory": 100,
+        "UnlockType": 1,
+        "UnlockId": 3001010120,
+        "GroupCloseness": 0,
+        "GroupNo": 0
+    },
+    "1024": {
+        "Id": 1024,
+        "Priority": 60,
+        "GroupId": 1,
+        "CharaId": 1001,
+        "Title": "メイン第3部2章後日談",
+        "ChatCategory": 100,
+        "UnlockType": 1,
+        "UnlockId": 3002010120,
+        "GroupCloseness": 0,
+        "GroupNo": 0
+    },
+    "1025": {
+        "Id": 1025,
+        "Priority": 61,
+        "GroupId": 1,
+        "CharaId": 1001,
+        "Title": "メイン第3部3章後日談",
+        "ChatCategory": 100,
+        "UnlockType": 1,
+        "UnlockId": 3003010120,
+        "GroupCloseness": 0,
+        "GroupNo": 0
     }
 }

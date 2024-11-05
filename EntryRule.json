@@ -1486,5 +1486,53 @@
         "Value4": 0,
         "Value5": 0,
         "RuleRange": 0
+    },
+    "10014401001": {
+        "Id": 10014401001,
+        "RuleDescription": "入華(ユニフォームver.HA)を適正ポジションに編成",
+        "Type": 12,
+        "ExtraRule": 0,
+        "Value1": 10014401,
+        "Value2": 0,
+        "Value3": 0,
+        "Value4": 0,
+        "Value5": 0,
+        "RuleRange": 0
+    },
+    "10024401001": {
+        "Id": 10024401001,
+        "RuleDescription": "みちる(ユニフォームver.HA)を適正ポジションに編成",
+        "Type": 12,
+        "ExtraRule": 0,
+        "Value1": 10024401,
+        "Value2": 0,
+        "Value3": 0,
+        "Value4": 0,
+        "Value5": 0,
+        "RuleRange": 0
+    },
+    "20034201001": {
+        "Id": 20034201001,
+        "RuleDescription": "氷織(ユニフォームver.HA)を適正ポジションに編成",
+        "Type": 12,
+        "ExtraRule": 0,
+        "Value1": 20034201,
+        "Value2": 0,
+        "Value3": 0,
+        "Value4": 0,
+        "Value5": 0,
+        "RuleRange": 0
+    },
+    "20044201001": {
+        "Id": 20044201001,
+        "RuleDescription": "シュネー(ユニフォームver.HA)を適正ポジションに編成",
+        "Type": 12,
+        "ExtraRule": 0,
+        "Value1": 20044201,
+        "Value2": 0,
+        "Value3": 0,
+        "Value4": 0,
+        "Value5": 0,
+        "RuleRange": 0
     }
 }

@@ -1,0 +1,922 @@
+{
+    "5150001": {
+        "Id": 5150001,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 11,
+        "SkillUpLv": 1
+    },
+    "5150002": {
+        "Id": 5150002,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5150003": {
+        "Id": 5150003,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5150004": {
+        "Id": 5150004,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5150005": {
+        "Id": 5150005,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5150006": {
+        "Id": 5150006,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 76,
+        "SkillUpLv": 1
+    },
+    "5150007": {
+        "Id": 5150007,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 81,
+        "SkillUpLv": 2
+    },
+    "5150008": {
+        "Id": 5150008,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 91,
+        "SkillUpLv": 2
+    },
+    "5150009": {
+        "Id": 5150009,
+        "GroupId": 51500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 96,
+        "SkillUpLv": 2
+    },
+    "5110001": {
+        "Id": 5110001,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 11,
+        "SkillUpLv": 1
+    },
+    "5110002": {
+        "Id": 5110002,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5110003": {
+        "Id": 5110003,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5110004": {
+        "Id": 5110004,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5110005": {
+        "Id": 5110005,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5110006": {
+        "Id": 5110006,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 76,
+        "SkillUpLv": 1
+    },
+    "5110007": {
+        "Id": 5110007,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 81,
+        "SkillUpLv": 2
+    },
+    "5110008": {
+        "Id": 5110008,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 91,
+        "SkillUpLv": 2
+    },
+    "5110009": {
+        "Id": 5110009,
+        "GroupId": 51100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 96,
+        "SkillUpLv": 2
+    },
+    "5120001": {
+        "Id": 5120001,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 11,
+        "SkillUpLv": 1
+    },
+    "5120002": {
+        "Id": 5120002,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5120003": {
+        "Id": 5120003,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5120004": {
+        "Id": 5120004,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5120005": {
+        "Id": 5120005,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5120006": {
+        "Id": 5120006,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 76,
+        "SkillUpLv": 1
+    },
+    "5120007": {
+        "Id": 5120007,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 81,
+        "SkillUpLv": 2
+    },
+    "5120008": {
+        "Id": 5120008,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 91,
+        "SkillUpLv": 2
+    },
+    "5120009": {
+        "Id": 5120009,
+        "GroupId": 51200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 96,
+        "SkillUpLv": 2
+    },
+    "5130001": {
+        "Id": 5130001,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 11,
+        "SkillUpLv": 1
+    },
+    "5130002": {
+        "Id": 5130002,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5130003": {
+        "Id": 5130003,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5130004": {
+        "Id": 5130004,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5130005": {
+        "Id": 5130005,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5130006": {
+        "Id": 5130006,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 76,
+        "SkillUpLv": 1
+    },
+    "5130007": {
+        "Id": 5130007,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 81,
+        "SkillUpLv": 2
+    },
+    "5130008": {
+        "Id": 5130008,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 91,
+        "SkillUpLv": 2
+    },
+    "5130009": {
+        "Id": 5130009,
+        "GroupId": 51300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 96,
+        "SkillUpLv": 2
+    },
+    "5140001": {
+        "Id": 5140001,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 11,
+        "SkillUpLv": 1
+    },
+    "5140002": {
+        "Id": 5140002,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5140003": {
+        "Id": 5140003,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5140004": {
+        "Id": 5140004,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5140005": {
+        "Id": 5140005,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5140006": {
+        "Id": 5140006,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 76,
+        "SkillUpLv": 1
+    },
+    "5140007": {
+        "Id": 5140007,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 81,
+        "SkillUpLv": 2
+    },
+    "5140008": {
+        "Id": 5140008,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 91,
+        "SkillUpLv": 2
+    },
+    "5140009": {
+        "Id": 5140009,
+        "GroupId": 51400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 96,
+        "SkillUpLv": 2
+    },
+    "5050001": {
+        "Id": 5050001,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5050002": {
+        "Id": 5050002,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5050003": {
+        "Id": 5050003,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5050004": {
+        "Id": 5050004,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5050005": {
+        "Id": 5050005,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "5050006": {
+        "Id": 5050006,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "5050007": {
+        "Id": 5050007,
+        "GroupId": 50500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "5010001": {
+        "Id": 5010001,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5010002": {
+        "Id": 5010002,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5010003": {
+        "Id": 5010003,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5010004": {
+        "Id": 5010004,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5010005": {
+        "Id": 5010005,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "5010006": {
+        "Id": 5010006,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "5010007": {
+        "Id": 5010007,
+        "GroupId": 50100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "5020001": {
+        "Id": 5020001,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5020002": {
+        "Id": 5020002,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5020003": {
+        "Id": 5020003,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5020004": {
+        "Id": 5020004,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5020005": {
+        "Id": 5020005,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "5020006": {
+        "Id": 5020006,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "5020007": {
+        "Id": 5020007,
+        "GroupId": 50200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "5030001": {
+        "Id": 5030001,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5030002": {
+        "Id": 5030002,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5030003": {
+        "Id": 5030003,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5030004": {
+        "Id": 5030004,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5030005": {
+        "Id": 5030005,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "5030006": {
+        "Id": 5030006,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "5030007": {
+        "Id": 5030007,
+        "GroupId": 50300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "5040001": {
+        "Id": 5040001,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "5040002": {
+        "Id": 5040002,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "5040003": {
+        "Id": 5040003,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "5040004": {
+        "Id": 5040004,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "5040005": {
+        "Id": 5040005,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "5040006": {
+        "Id": 5040006,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "5040007": {
+        "Id": 5040007,
+        "GroupId": 50400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "4050001": {
+        "Id": 4050001,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "4050002": {
+        "Id": 4050002,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "4050003": {
+        "Id": 4050003,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "4050004": {
+        "Id": 4050004,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2125,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "4050005": {
+        "Id": 4050005,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "4050006": {
+        "Id": 4050006,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "4050007": {
+        "Id": 4050007,
+        "GroupId": 40500,
+        "PassiveSkillId_1": 5311,
+        "PassiveSkillId_2": 6321,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "4010001": {
+        "Id": 4010001,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "4010002": {
+        "Id": 4010002,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "4010003": {
+        "Id": 4010003,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "4010004": {
+        "Id": 4010004,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2121,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "4010005": {
+        "Id": 4010005,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "4010006": {
+        "Id": 4010006,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "4010007": {
+        "Id": 4010007,
+        "GroupId": 40100,
+        "PassiveSkillId_1": 5312,
+        "PassiveSkillId_2": 6322,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "4020001": {
+        "Id": 4020001,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "4020002": {
+        "Id": 4020002,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "4020003": {
+        "Id": 4020003,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "4020004": {
+        "Id": 4020004,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2122,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "4020005": {
+        "Id": 4020005,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "4020006": {
+        "Id": 4020006,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "4020007": {
+        "Id": 4020007,
+        "GroupId": 40200,
+        "PassiveSkillId_1": 5313,
+        "PassiveSkillId_2": 6323,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "4030001": {
+        "Id": 4030001,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "4030002": {
+        "Id": 4030002,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "4030003": {
+        "Id": 4030003,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "4030004": {
+        "Id": 4030004,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2123,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "4030005": {
+        "Id": 4030005,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "4030006": {
+        "Id": 4030006,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "4030007": {
+        "Id": 4030007,
+        "GroupId": 40300,
+        "PassiveSkillId_1": 5314,
+        "PassiveSkillId_2": 6324,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    },
+    "4040001": {
+        "Id": 4040001,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 31,
+        "SkillUpLv": 1
+    },
+    "4040002": {
+        "Id": 4040002,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 51,
+        "SkillUpLv": 1
+    },
+    "4040003": {
+        "Id": 4040003,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 61,
+        "SkillUpLv": 1
+    },
+    "4040004": {
+        "Id": 4040004,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 1110,
+        "PassiveSkillId_2": 2124,
+        "PotentialLv": 71,
+        "SkillUpLv": 1
+    },
+    "4040005": {
+        "Id": 4040005,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 81,
+        "SkillUpLv": 1
+    },
+    "4040006": {
+        "Id": 4040006,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 3210,
+        "PassiveSkillId_2": 4220,
+        "PotentialLv": 91,
+        "SkillUpLv": 1
+    },
+    "4040007": {
+        "Id": 4040007,
+        "GroupId": 40400,
+        "PassiveSkillId_1": 5315,
+        "PassiveSkillId_2": 6325,
+        "PotentialLv": 96,
+        "SkillUpLv": 1
+    }
+}

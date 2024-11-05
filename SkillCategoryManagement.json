@@ -880,5 +880,40 @@
         "SkillCategoryId": 1101,
         "EffectName": "疲弊",
         "EffectText": "味方全体の防御力が大きく下がる"
+    },
+    "144": {
+        "Id": 144,
+        "EffectType": 144,
+        "SkillCategoryId": 1207,
+        "EffectName": "鼓舞",
+        "EffectText": "与ダメージが[e1]%アップ"
+    },
+    "145": {
+        "Id": 145,
+        "EffectType": 145,
+        "SkillCategoryId": 1207,
+        "EffectName": "瞬間ダメージアップ",
+        "EffectText": "瞬間ダメージアップ"
+    },
+    "146": {
+        "Id": 146,
+        "EffectType": 146,
+        "SkillCategoryId": 1208,
+        "EffectName": "瞬間STUNダメージアップ",
+        "EffectText": "瞬間STUNダメージアップ"
+    },
+    "147": {
+        "Id": 147,
+        "EffectType": 147,
+        "SkillCategoryId": 1204,
+        "EffectName": "特定属性攻撃力アップ",
+        "EffectText": "特定属性攻撃力アップ"
+    },
+    "148": {
+        "Id": 148,
+        "EffectType": 148,
+        "SkillCategoryId": 1207,
+        "EffectName": "連勁",
+        "EffectText": "対象（MOON・ライダー）のスキルが発動する度、対象の与えるダメージが上がる"
     }
 }

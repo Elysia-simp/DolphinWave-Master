@@ -273,5 +273,38 @@
         "ChallengeScoreRewardId": 5025,
         "ChallengeAchievementRewardId": 5025,
         "BannerVisible": 2
+    },
+    "5026": {
+        "Id": 5026,
+        "StartDate": 1727672402,
+        "EndDate": 1728536399,
+        "RewardEndDate": 1729400399,
+        "Enable": true,
+        "ChallengeRankingRewardId": 5026,
+        "ChallengeScoreRewardId": 5026,
+        "ChallengeAchievementRewardId": 5026,
+        "BannerVisible": 2
+    },
+    "5027": {
+        "Id": 5027,
+        "StartDate": 1729400400,
+        "EndDate": 1730350799,
+        "RewardEndDate": 1731301199,
+        "Enable": true,
+        "ChallengeRankingRewardId": 5027,
+        "ChallengeScoreRewardId": 5027,
+        "ChallengeAchievementRewardId": 5027,
+        "BannerVisible": 2
+    },
+    "5028": {
+        "Id": 5028,
+        "StartDate": 1730350800,
+        "EndDate": 1731301199,
+        "RewardEndDate": 1732165199,
+        "Enable": true,
+        "ChallengeRankingRewardId": 5028,
+        "ChallengeScoreRewardId": 5028,
+        "ChallengeAchievementRewardId": 5028,
+        "BannerVisible": 2
     }
 }

@@ -312,7 +312,7 @@
         "BossTicketId": 13700014,
         "BossTicketCount": 15,
         "UserLevel": 99,
-        "BossTxt": "【使用するスキル】\n・シールド回復\n・防御力ダウン\n・攻撃バフ"
+        "BossTxt": "【使用するスキル】\n・シールド回復\n・防御力ダウン\n・攻撃アップ"
     },
     "4015502": {
         "Id": 4015502,
@@ -901,5 +901,61 @@
         "BossTicketCount": 25,
         "UserLevel": 99,
         "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・スキルレベルアップ"
+    },
+    "4036501": {
+        "Id": 4036501,
+        "BossTicketId": 13700035,
+        "BossTicketCount": 15,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン"
+    },
+    "4036502": {
+        "Id": 4036502,
+        "BossTicketId": 13700035,
+        "BossTicketCount": 20,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・防御力アップ"
+    },
+    "4036503": {
+        "Id": 4036503,
+        "BossTicketId": 13700035,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・防御力アップ\n・スキルレベルダウン"
+    },
+    "4036504": {
+        "Id": 4036504,
+        "BossTicketId": 13700035,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・防御力アップ\n・スキルレベルダウン"
+    },
+    "4037501": {
+        "Id": 4037501,
+        "BossTicketId": 13700036,
+        "BossTicketCount": 15,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン"
+    },
+    "4037502": {
+        "Id": 4037502,
+        "BossTicketId": 13700036,
+        "BossTicketCount": 20,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・SPチャージ"
+    },
+    "4037503": {
+        "Id": 4037503,
+        "BossTicketId": 13700036,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・SPチャージ\n・凍結"
+    },
+    "4037504": {
+        "Id": 4037504,
+        "BossTicketId": 13700036,
+        "BossTicketCount": 25,
+        "UserLevel": 99,
+        "BossTxt": "【使用するスキル】\n・攻撃力アップ\n・防御力ダウン\n・クリティカル確率アップ\n・SPチャージ\n・凍結"
     }
 }

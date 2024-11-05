@@ -182,5 +182,29 @@
         "PlaceInfo3": "50,60,84,1840",
         "UseWindSim": true,
         "WazaDataName": "home_special_plcom,home_map023"
+    },
+    "241": {
+        "Id": 241,
+        "PlaceInfo1": "0.0,0.0,50.0,185.0",
+        "PlaceInfo2": "-25.0,-200.0,50.0,110.0",
+        "PlaceInfo3": "180.0,-5.0,223.1,-1250.0",
+        "UseWindSim": true,
+        "WazaDataName": ""
+    },
+    "251": {
+        "Id": 251,
+        "PlaceInfo1": "20,22,40,-60",
+        "PlaceInfo2": "70,90,40,25",
+        "PlaceInfo3": "-35,-31,40,28",
+        "UseWindSim": false,
+        "WazaDataName": ""
+    },
+    "261": {
+        "Id": 261,
+        "PlaceInfo1": "20,22,40,-60",
+        "PlaceInfo2": "70,90,40,25",
+        "PlaceInfo3": "-35,-31,40,28",
+        "UseWindSim": false,
+        "WazaDataName": ""
     }
 }

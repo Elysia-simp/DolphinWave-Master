@@ -1494,5 +1494,115 @@
         "TotalGetCount03": 45,
         "TotalGetCount04": 50,
         "TotalGetCount05Over": 55
+    },
+    "302401": {
+        "Id": 302401,
+        "QuestId": 3024,
+        "EquipmentCardId": 340032,
+        "TargetItemId": 13300131,
+        "TotalGetCount01": 20,
+        "TotalGetCount02": 25,
+        "TotalGetCount03": 30,
+        "TotalGetCount04": 35,
+        "TotalGetCount05Over": 45
+    },
+    "401504": {
+        "Id": 401504,
+        "QuestId": 4015,
+        "EquipmentCardId": 340033,
+        "TargetItemId": 13300070,
+        "TotalGetCount01": 15,
+        "TotalGetCount02": 20,
+        "TotalGetCount03": 25,
+        "TotalGetCount04": 30,
+        "TotalGetCount05Over": 35
+    },
+    "401505": {
+        "Id": 401505,
+        "QuestId": 4015,
+        "EquipmentCardId": 330020,
+        "TargetItemId": 13300070,
+        "TotalGetCount01": 10,
+        "TotalGetCount02": 15,
+        "TotalGetCount03": 20,
+        "TotalGetCount04": 25,
+        "TotalGetCount05Over": 30
+    },
+    "401506": {
+        "Id": 401506,
+        "QuestId": 4015,
+        "EquipmentCardId": 320020,
+        "TargetItemId": 13300070,
+        "TotalGetCount01": 5,
+        "TotalGetCount02": 8,
+        "TotalGetCount03": 10,
+        "TotalGetCount04": 12,
+        "TotalGetCount05Over": 15
+    },
+    "403601": {
+        "Id": 403601,
+        "QuestId": 4036,
+        "EquipmentCardId": 340033,
+        "TargetItemId": 13200048,
+        "TotalGetCount01": 15,
+        "TotalGetCount02": 20,
+        "TotalGetCount03": 25,
+        "TotalGetCount04": 30,
+        "TotalGetCount05Over": 35
+    },
+    "403602": {
+        "Id": 403602,
+        "QuestId": 4036,
+        "EquipmentCardId": 330020,
+        "TargetItemId": 13200048,
+        "TotalGetCount01": 10,
+        "TotalGetCount02": 15,
+        "TotalGetCount03": 20,
+        "TotalGetCount04": 25,
+        "TotalGetCount05Over": 30
+    },
+    "403603": {
+        "Id": 403603,
+        "QuestId": 4036,
+        "EquipmentCardId": 320020,
+        "TargetItemId": 13200048,
+        "TotalGetCount01": 5,
+        "TotalGetCount02": 8,
+        "TotalGetCount03": 10,
+        "TotalGetCount04": 12,
+        "TotalGetCount05Over": 15
+    },
+    "403701": {
+        "Id": 403701,
+        "QuestId": 4037,
+        "EquipmentCardId": 540035,
+        "TargetItemId": 13200050,
+        "TotalGetCount01": 35,
+        "TotalGetCount02": 40,
+        "TotalGetCount03": 45,
+        "TotalGetCount04": 50,
+        "TotalGetCount05Over": 55
+    },
+    "302501": {
+        "Id": 302501,
+        "QuestId": 3025,
+        "EquipmentCardId": 240027,
+        "TargetItemId": 13300132,
+        "TotalGetCount01": 20,
+        "TotalGetCount02": 25,
+        "TotalGetCount03": 30,
+        "TotalGetCount04": 35,
+        "TotalGetCount05Over": 45
+    },
+    "302502": {
+        "Id": 302502,
+        "QuestId": 3025,
+        "EquipmentCardId": 440034,
+        "TargetItemId": 13300132,
+        "TotalGetCount01": 20,
+        "TotalGetCount02": 25,
+        "TotalGetCount03": 30,
+        "TotalGetCount04": 35,
+        "TotalGetCount05Over": 45
     }
 }

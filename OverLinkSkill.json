@@ -1,0 +1,32 @@
+{
+    "1001420108": {
+        "Id": 1001420108,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "SUN属性の味方全体の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 801002,
+        "MainEffectId_01": 120166,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "1002420108": {
+        "Id": 1002420108,
+        "Name": "シールドダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "次のスキルのシールドダメージを1アップ",
+        "Condition_01": 801001,
+        "MainEffectId_01": 120167,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "2001440108": {
+        "Id": 2001440108,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "MOON属性の味方全体の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 802003,
+        "MainEffectId_01": 120174,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    }
+}

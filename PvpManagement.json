@@ -219,5 +219,31 @@
         "MapId": 1,
         "BgmId": 8,
         "KeyQuestId": 10040101
+    },
+    "18": {
+        "Id": 18,
+        "StartDate": 1727722800,
+        "EndDate": 1730401199,
+        "PvpInformationId": 18,
+        "Weather": 0,
+        "Time": 2,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000185,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
+    },
+    "19": {
+        "Id": 19,
+        "StartDate": 1730401200,
+        "EndDate": 1732993199,
+        "PvpInformationId": 19,
+        "Weather": 1,
+        "Time": 0,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000189,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
     }
 }

@@ -108,5 +108,115 @@
         "Weight2": 10,
         "Weight3": 100,
         "ItemGroupId": 10624
+    },
+    "50001200": {
+        "Id": 50001200,
+        "StagingGroupId": 50001,
+        "StageId": 200,
+        "Rarity": 1,
+        "Weight1": 450,
+        "Weight2": 510,
+        "Weight3": 0,
+        "ItemGroupId": 10015
+    },
+    "50001201": {
+        "Id": 50001201,
+        "StagingGroupId": 50001,
+        "StageId": 201,
+        "Rarity": 2,
+        "Weight1": 90,
+        "Weight2": 100,
+        "Weight3": 0,
+        "ItemGroupId": 10016
+    },
+    "50001202": {
+        "Id": 50001202,
+        "StagingGroupId": 50001,
+        "StageId": 202,
+        "Rarity": 3,
+        "Weight1": 40,
+        "Weight2": 40,
+        "Weight3": 0,
+        "ItemGroupId": 10557
+    },
+    "50001203": {
+        "Id": 50001203,
+        "StagingGroupId": 50001,
+        "StageId": 203,
+        "Rarity": 2,
+        "Weight1": 90,
+        "Weight2": 100,
+        "Weight3": 0,
+        "ItemGroupId": 10016
+    },
+    "50001204": {
+        "Id": 50001204,
+        "StagingGroupId": 50001,
+        "StageId": 204,
+        "Rarity": 3,
+        "Weight1": 40,
+        "Weight2": 40,
+        "Weight3": 0,
+        "ItemGroupId": 10557
+    },
+    "50001205": {
+        "Id": 50001205,
+        "StagingGroupId": 50001,
+        "StageId": 205,
+        "Rarity": 4,
+        "Weight1": 40,
+        "Weight2": 10,
+        "Weight3": 100,
+        "ItemGroupId": 10624
+    },
+    "50001206": {
+        "Id": 50001206,
+        "StagingGroupId": 50001,
+        "StageId": 206,
+        "Rarity": 2,
+        "Weight1": 90,
+        "Weight2": 100,
+        "Weight3": 0,
+        "ItemGroupId": 10016
+    },
+    "50001207": {
+        "Id": 50001207,
+        "StagingGroupId": 50001,
+        "StageId": 207,
+        "Rarity": 3,
+        "Weight1": 40,
+        "Weight2": 40,
+        "Weight3": 0,
+        "ItemGroupId": 10557
+    },
+    "50001208": {
+        "Id": 50001208,
+        "StagingGroupId": 50001,
+        "StageId": 208,
+        "Rarity": 4,
+        "Weight1": 40,
+        "Weight2": 10,
+        "Weight3": 100,
+        "ItemGroupId": 10624
+    },
+    "50001209": {
+        "Id": 50001209,
+        "StagingGroupId": 50001,
+        "StageId": 209,
+        "Rarity": 3,
+        "Weight1": 40,
+        "Weight2": 40,
+        "Weight3": 0,
+        "ItemGroupId": 10557
+    },
+    "50001210": {
+        "Id": 50001210,
+        "StagingGroupId": 50001,
+        "StageId": 210,
+        "Rarity": 4,
+        "Weight1": 40,
+        "Weight2": 10,
+        "Weight3": 100,
+        "ItemGroupId": 10624
     }
 }

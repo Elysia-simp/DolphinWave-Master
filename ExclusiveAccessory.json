@@ -97,5 +97,23 @@
         "AccessoryPosition": "0",
         "DefaultView": true,
         "CharacterHairId": 10050010254
+    },
+    "80011040493": {
+        "Id": 80011040493,
+        "CharacterId": 8001,
+        "AccessoryType": 1,
+        "AccessoryModel": "af04049",
+        "AccessoryPosition": "5",
+        "DefaultView": true,
+        "CharacterHairId": 0
+    },
+    "80021040503": {
+        "Id": 80021040503,
+        "CharacterId": 8002,
+        "AccessoryType": 1,
+        "AccessoryModel": "af04050",
+        "AccessoryPosition": "5",
+        "DefaultView": true,
+        "CharacterHairId": 0
     }
 }

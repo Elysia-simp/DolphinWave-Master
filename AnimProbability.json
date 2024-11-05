@@ -1,8 +1,8 @@
 {
     "1": {
         "Id": 1,
-        "Probability1": 90,
-        "Probability2": 10,
+        "Probability1": 50,
+        "Probability2": 50,
         "Probability3": 0,
         "Probability4": 0,
         "Probability5": 0
@@ -84,6 +84,14 @@
         "Probability1": 60,
         "Probability2": 30,
         "Probability3": 10,
+        "Probability4": 0,
+        "Probability5": 0
+    },
+    "6": {
+        "Id": 6,
+        "Probability1": 25,
+        "Probability2": 50,
+        "Probability3": 25,
         "Probability4": 0,
         "Probability5": 0
     }

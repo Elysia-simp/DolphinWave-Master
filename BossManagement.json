@@ -45,7 +45,7 @@
         "Id": 3007,
         "QuestType": 1,
         "FlavorText": "風疾く決戦",
-        "ShopId": 49,
+        "ShopId": 177,
         "CollectItemGrDisplayId": 3007
     },
     "3008": {
@@ -159,5 +159,19 @@
         "FlavorText": "HJエキシビジョン feat.Salacia",
         "ShopId": 171,
         "CollectItemGrDisplayId": 3023
+    },
+    "3024": {
+        "Id": 3024,
+        "QuestType": 1,
+        "FlavorText": "暑さ和らぐ季節!ワダツミオータムビーチライブ",
+        "ShopId": 173,
+        "CollectItemGrDisplayId": 3024
+    },
+    "3025": {
+        "Id": 3025,
+        "QuestType": 1,
+        "FlavorText": "さらなる戦いに向けて!訓練で深まるチームの絆",
+        "ShopId": 179,
+        "CollectItemGrDisplayId": 3025
     }
 }

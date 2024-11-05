@@ -243,5 +243,26 @@
         "ChallengeCountConsumeFlag": 0,
         "FlavorText": "トーナメント",
         "Difficulty": 3
+    },
+    "2036": {
+        "Id": 2036,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 1,
+        "FlavorText": "UJAJ 2nd Anniv.カップ",
+        "Difficulty": 3
+    },
+    "2037": {
+        "Id": 2037,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 0,
+        "FlavorText": "UJAJ 2nd Anniv.カップEX",
+        "Difficulty": 3
+    },
+    "2038": {
+        "Id": 2038,
+        "QuestType": 1,
+        "ChallengeCountConsumeFlag": 0,
+        "FlavorText": "UJAJ 2nd Anniv.カップUL",
+        "Difficulty": 3
     }
 }
