@@ -193,5 +193,31 @@
         "Price": 1000000,
         "ItemId": 0,
         "ItemCount": 0
+    },
+    "1000017": {
+        "Id": 1000017,
+        "Tab": 1,
+        "GroupId": 0,
+        "Type": 1,
+        "MachineItemId": 8001,
+        "DisplayPriority": 23,
+        "DisplayNew": 1,
+        "Name": "QoQs",
+        "Price": 1000000,
+        "ItemId": 0,
+        "ItemCount": 0
+    },
+    "1000018": {
+        "Id": 1000018,
+        "Tab": 1,
+        "GroupId": 0,
+        "Type": 1,
+        "MachineItemId": 8002,
+        "DisplayPriority": 24,
+        "DisplayNew": 1,
+        "Name": "Tartarus",
+        "Price": 1000000,
+        "ItemId": 0,
+        "ItemCount": 0
     }
 }

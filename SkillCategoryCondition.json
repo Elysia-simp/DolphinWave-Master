@@ -1,142 +1,142 @@
 {
-    "147011": {
-        "Id": 147011,
-        "EffectType": 147,
-        "TargetType": 1,
-        "TargetId": 1,
-        "ConditionText": "WAVE属性の時、"
-    },
-    "147012": {
-        "Id": 147012,
-        "EffectType": 147,
-        "TargetType": 1,
-        "TargetId": 2,
-        "ConditionText": "SUN属性の時、"
-    },
-    "147013": {
-        "Id": 147013,
-        "EffectType": 147,
-        "TargetType": 1,
-        "TargetId": 3,
-        "ConditionText": "GEAR属性の時、"
-    },
-    "147014": {
-        "Id": 147014,
-        "EffectType": 147,
-        "TargetType": 1,
-        "TargetId": 4,
-        "ConditionText": "MOON属性の時、"
-    },
-    "147015": {
-        "Id": 147015,
-        "EffectType": 147,
-        "TargetType": 1,
-        "TargetId": 5,
-        "ConditionText": "WIND属性の時、"
-    },
-    "147021": {
-        "Id": 147021,
-        "EffectType": 147,
-        "TargetType": 2,
-        "TargetId": 1,
-        "ConditionText": "所属がKIRISHIMAの時、"
-    },
-    "147022": {
-        "Id": 147022,
-        "EffectType": 147,
-        "TargetType": 2,
-        "TargetId": 2,
-        "ConditionText": "所属がKAZAMIの時、"
-    },
-    "147023": {
-        "Id": 147023,
-        "EffectType": 147,
-        "TargetType": 2,
-        "TargetId": 3,
-        "ConditionText": "所属が日向重工の時、"
-    },
-    "147024": {
-        "Id": 147024,
-        "EffectType": 147,
-        "TargetType": 2,
-        "TargetId": 4,
-        "ConditionText": "所属がNereldesの時、"
-    },
-    "147025": {
-        "Id": 147025,
-        "EffectType": 147,
-        "TargetType": 2,
-        "TargetId": 5,
-        "ConditionText": "所属が浦見製作所の時、"
-    },
-    "1471300": {
-        "Id": 1471300,
-        "EffectType": 147,
+    "1481300": {
+        "Id": 1481300,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 0,
-        "ConditionText": "Wave・ライダー"
+        "ConditionText": "WAVE・ライダー"
     },
-    "1471301": {
-        "Id": 1471301,
-        "EffectType": 147,
+    "1481301": {
+        "Id": 1481301,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 1,
-        "ConditionText": "Wave・ガンナー"
+        "ConditionText": "WAVE・ガンナー"
     },
-    "1471302": {
-        "Id": 1471302,
-        "EffectType": 147,
+    "1481302": {
+        "Id": 1481302,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 2,
-        "ConditionText": "Sun・ライダー"
+        "ConditionText": "SUN・ライダー"
     },
-    "1471303": {
-        "Id": 1471303,
-        "EffectType": 147,
+    "1481303": {
+        "Id": 1481303,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 3,
-        "ConditionText": "Sun・ガンナー"
+        "ConditionText": "SUN・ガンナー"
     },
-    "1471304": {
-        "Id": 1471304,
-        "EffectType": 147,
+    "1481304": {
+        "Id": 1481304,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 4,
-        "ConditionText": "Gear・ライダー"
+        "ConditionText": "GEAR・ライダー"
     },
-    "1471305": {
-        "Id": 1471305,
-        "EffectType": 147,
+    "1481305": {
+        "Id": 1481305,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 5,
-        "ConditionText": "Gear・ガンナー"
+        "ConditionText": "GEAR・ガンナー"
     },
-    "1471306": {
-        "Id": 1471306,
-        "EffectType": 147,
+    "1481306": {
+        "Id": 1481306,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 6,
-        "ConditionText": "Moon・ライダー"
+        "ConditionText": "MOON・ライダー"
     },
-    "1471307": {
-        "Id": 1471307,
-        "EffectType": 147,
+    "1481307": {
+        "Id": 1481307,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 7,
-        "ConditionText": "Moon・ガンナー"
+        "ConditionText": "MOON・ガンナー"
     },
-    "1471308": {
-        "Id": 1471308,
-        "EffectType": 147,
+    "1481308": {
+        "Id": 1481308,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 8,
-        "ConditionText": "Wind・ライダー"
+        "ConditionText": "WIND・ライダー"
     },
-    "1471309": {
-        "Id": 1471309,
-        "EffectType": 147,
+    "1481309": {
+        "Id": 1481309,
+        "EffectType": 148,
         "TargetType": 13,
         "TargetId": 9,
-        "ConditionText": "Wind・ガンナー"
+        "ConditionText": "WIND・ガンナー"
+    },
+    "1470101": {
+        "Id": 1470101,
+        "EffectType": 147,
+        "TargetType": 1,
+        "TargetId": 1,
+        "ConditionText": "WAVE"
+    },
+    "1470102": {
+        "Id": 1470102,
+        "EffectType": 147,
+        "TargetType": 1,
+        "TargetId": 2,
+        "ConditionText": "SUN"
+    },
+    "1470103": {
+        "Id": 1470103,
+        "EffectType": 147,
+        "TargetType": 1,
+        "TargetId": 3,
+        "ConditionText": "GEAR"
+    },
+    "1470104": {
+        "Id": 1470104,
+        "EffectType": 147,
+        "TargetType": 1,
+        "TargetId": 4,
+        "ConditionText": "MOON"
+    },
+    "1470105": {
+        "Id": 1470105,
+        "EffectType": 147,
+        "TargetType": 1,
+        "TargetId": 5,
+        "ConditionText": "WIND"
+    },
+    "1480101": {
+        "Id": 1480101,
+        "EffectType": 148,
+        "TargetType": 1,
+        "TargetId": 1,
+        "ConditionText": "WAVE"
+    },
+    "1480102": {
+        "Id": 1480102,
+        "EffectType": 148,
+        "TargetType": 1,
+        "TargetId": 2,
+        "ConditionText": "SUN"
+    },
+    "1480103": {
+        "Id": 1480103,
+        "EffectType": 148,
+        "TargetType": 1,
+        "TargetId": 3,
+        "ConditionText": "GEAR"
+    },
+    "1480104": {
+        "Id": 1480104,
+        "EffectType": 148,
+        "TargetType": 1,
+        "TargetId": 4,
+        "ConditionText": "MOON"
+    },
+    "1480105": {
+        "Id": 1480105,
+        "EffectType": 148,
+        "TargetType": 1,
+        "TargetId": 5,
+        "ConditionText": "WIND"
     }
 }

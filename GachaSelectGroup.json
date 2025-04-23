@@ -614,5 +614,1307 @@
         "Type": 8,
         "ObjectId": 440022,
         "Status": 1
+    },
+    "199001": {
+        "Id": 199001,
+        "SelectGroupId": 19901,
+        "Type": 7,
+        "ObjectId": 600141101,
+        "Status": 1
+    },
+    "199002": {
+        "Id": 199002,
+        "SelectGroupId": 19901,
+        "Type": 7,
+        "ObjectId": 600241101,
+        "Status": 1
+    },
+    "199003": {
+        "Id": 199003,
+        "SelectGroupId": 19901,
+        "Type": 7,
+        "ObjectId": 400141201,
+        "Status": 1
+    },
+    "199004": {
+        "Id": 199004,
+        "SelectGroupId": 19901,
+        "Type": 7,
+        "ObjectId": 400341201,
+        "Status": 1
+    },
+    "199005": {
+        "Id": 199005,
+        "SelectGroupId": 19901,
+        "Type": 7,
+        "ObjectId": 400241201,
+        "Status": 1
+    },
+    "199006": {
+        "Id": 199006,
+        "SelectGroupId": 19901,
+        "Type": 7,
+        "ObjectId": 400441201,
+        "Status": 1
+    },
+    "199007": {
+        "Id": 199007,
+        "SelectGroupId": 19902,
+        "Type": 8,
+        "ObjectId": 140022,
+        "Status": 1
+    },
+    "199008": {
+        "Id": 199008,
+        "SelectGroupId": 19902,
+        "Type": 8,
+        "ObjectId": 240017,
+        "Status": 1
+    },
+    "199009": {
+        "Id": 199009,
+        "SelectGroupId": 19902,
+        "Type": 8,
+        "ObjectId": 240018,
+        "Status": 1
+    },
+    "203001": {
+        "Id": 203001,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 300441201,
+        "Status": 1
+    },
+    "203002": {
+        "Id": 203002,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 300341201,
+        "Status": 1
+    },
+    "203003": {
+        "Id": 203003,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 500141203,
+        "Status": 1
+    },
+    "203004": {
+        "Id": 203004,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 500241201,
+        "Status": 1
+    },
+    "203005": {
+        "Id": 203005,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 500141202,
+        "Status": 1
+    },
+    "203006": {
+        "Id": 203006,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 500241202,
+        "Status": 1
+    },
+    "203007": {
+        "Id": 203007,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 400141201,
+        "Status": 1
+    },
+    "203008": {
+        "Id": 203008,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 400341201,
+        "Status": 1
+    },
+    "203009": {
+        "Id": 203009,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 400241201,
+        "Status": 1
+    },
+    "203010": {
+        "Id": 203010,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 400441201,
+        "Status": 1
+    },
+    "203011": {
+        "Id": 203011,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 500141201,
+        "Status": 1
+    },
+    "203012": {
+        "Id": 203012,
+        "SelectGroupId": 20301,
+        "Type": 7,
+        "ObjectId": 200241201,
+        "Status": 1
+    },
+    "203013": {
+        "Id": 203013,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240023,
+        "Status": 1
+    },
+    "203014": {
+        "Id": 203014,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240024,
+        "Status": 1
+    },
+    "203015": {
+        "Id": 203015,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240011,
+        "Status": 1
+    },
+    "203016": {
+        "Id": 203016,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240012,
+        "Status": 1
+    },
+    "203017": {
+        "Id": 203017,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240013,
+        "Status": 1
+    },
+    "203018": {
+        "Id": 203018,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240014,
+        "Status": 1
+    },
+    "203019": {
+        "Id": 203019,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240017,
+        "Status": 1
+    },
+    "203020": {
+        "Id": 203020,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240018,
+        "Status": 1
+    },
+    "203021": {
+        "Id": 203021,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240020,
+        "Status": 1
+    },
+    "203022": {
+        "Id": 203022,
+        "SelectGroupId": 20302,
+        "Type": 8,
+        "ObjectId": 240021,
+        "Status": 1
+    },
+    "217001": {
+        "Id": 217001,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 100241301,
+        "Status": 1
+    },
+    "217002": {
+        "Id": 217002,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 100141301,
+        "Status": 1
+    },
+    "217003": {
+        "Id": 217003,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 400341301,
+        "Status": 1
+    },
+    "217004": {
+        "Id": 217004,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 400441301,
+        "Status": 1
+    },
+    "217005": {
+        "Id": 217005,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 100341302,
+        "Status": 1
+    },
+    "217006": {
+        "Id": 217006,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 300241301,
+        "Status": 1
+    },
+    "217007": {
+        "Id": 217007,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 200141301,
+        "Status": 1
+    },
+    "217008": {
+        "Id": 217008,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 200241301,
+        "Status": 1
+    },
+    "217009": {
+        "Id": 217009,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 300141302,
+        "Status": 1
+    },
+    "217010": {
+        "Id": 217010,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 300241302,
+        "Status": 1
+    },
+    "217011": {
+        "Id": 217011,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 300341302,
+        "Status": 1
+    },
+    "217012": {
+        "Id": 217012,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 300441302,
+        "Status": 1
+    },
+    "217013": {
+        "Id": 217013,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 100341301,
+        "Status": 1
+    },
+    "217014": {
+        "Id": 217014,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 100441301,
+        "Status": 1
+    },
+    "217015": {
+        "Id": 217015,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 500141301,
+        "Status": 1
+    },
+    "217016": {
+        "Id": 217016,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 500241301,
+        "Status": 1
+    },
+    "217017": {
+        "Id": 217017,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 600141301,
+        "Status": 1
+    },
+    "217018": {
+        "Id": 217018,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 200441301,
+        "Status": 1
+    },
+    "217019": {
+        "Id": 217019,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 700141301,
+        "Status": 1
+    },
+    "217020": {
+        "Id": 217020,
+        "SelectGroupId": 21701,
+        "Type": 7,
+        "ObjectId": 700241301,
+        "Status": 1
+    },
+    "217021": {
+        "Id": 217021,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340021,
+        "Status": 1
+    },
+    "217022": {
+        "Id": 217022,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340026,
+        "Status": 1
+    },
+    "217023": {
+        "Id": 217023,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340028,
+        "Status": 1
+    },
+    "217024": {
+        "Id": 217024,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340030,
+        "Status": 1
+    },
+    "217025": {
+        "Id": 217025,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340031,
+        "Status": 1
+    },
+    "217026": {
+        "Id": 217026,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340011,
+        "Status": 1
+    },
+    "217027": {
+        "Id": 217027,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340012,
+        "Status": 1
+    },
+    "217028": {
+        "Id": 217028,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340013,
+        "Status": 1
+    },
+    "217029": {
+        "Id": 217029,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340014,
+        "Status": 1
+    },
+    "217030": {
+        "Id": 217030,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340016,
+        "Status": 1
+    },
+    "217031": {
+        "Id": 217031,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340017,
+        "Status": 1
+    },
+    "217032": {
+        "Id": 217032,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340018,
+        "Status": 1
+    },
+    "217033": {
+        "Id": 217033,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340019,
+        "Status": 1
+    },
+    "217034": {
+        "Id": 217034,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340022,
+        "Status": 1
+    },
+    "217035": {
+        "Id": 217035,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340024,
+        "Status": 1
+    },
+    "217036": {
+        "Id": 217036,
+        "SelectGroupId": 21702,
+        "Type": 8,
+        "ObjectId": 340023,
+        "Status": 1
+    },
+    "218037": {
+        "Id": 218037,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 100241301,
+        "Status": 1
+    },
+    "218038": {
+        "Id": 218038,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 100141301,
+        "Status": 1
+    },
+    "218039": {
+        "Id": 218039,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 400341301,
+        "Status": 1
+    },
+    "218040": {
+        "Id": 218040,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 400441301,
+        "Status": 1
+    },
+    "218041": {
+        "Id": 218041,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 100341302,
+        "Status": 1
+    },
+    "218042": {
+        "Id": 218042,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 300241301,
+        "Status": 1
+    },
+    "218043": {
+        "Id": 218043,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 200141301,
+        "Status": 1
+    },
+    "218044": {
+        "Id": 218044,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 200241301,
+        "Status": 1
+    },
+    "218045": {
+        "Id": 218045,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 300141302,
+        "Status": 1
+    },
+    "218046": {
+        "Id": 218046,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 300241302,
+        "Status": 1
+    },
+    "218047": {
+        "Id": 218047,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 300341302,
+        "Status": 1
+    },
+    "218048": {
+        "Id": 218048,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 300441302,
+        "Status": 1
+    },
+    "218049": {
+        "Id": 218049,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 100341301,
+        "Status": 1
+    },
+    "218050": {
+        "Id": 218050,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 100441301,
+        "Status": 1
+    },
+    "218051": {
+        "Id": 218051,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 500141301,
+        "Status": 1
+    },
+    "218052": {
+        "Id": 218052,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 500241301,
+        "Status": 1
+    },
+    "218053": {
+        "Id": 218053,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 600141301,
+        "Status": 1
+    },
+    "218054": {
+        "Id": 218054,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 200441301,
+        "Status": 1
+    },
+    "218055": {
+        "Id": 218055,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 700141301,
+        "Status": 1
+    },
+    "218056": {
+        "Id": 218056,
+        "SelectGroupId": 21801,
+        "Type": 7,
+        "ObjectId": 700241301,
+        "Status": 1
+    },
+    "218057": {
+        "Id": 218057,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340021,
+        "Status": 1
+    },
+    "218058": {
+        "Id": 218058,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340026,
+        "Status": 1
+    },
+    "218059": {
+        "Id": 218059,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340028,
+        "Status": 1
+    },
+    "218060": {
+        "Id": 218060,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340030,
+        "Status": 1
+    },
+    "218061": {
+        "Id": 218061,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340031,
+        "Status": 1
+    },
+    "218062": {
+        "Id": 218062,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340011,
+        "Status": 1
+    },
+    "218063": {
+        "Id": 218063,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340012,
+        "Status": 1
+    },
+    "218064": {
+        "Id": 218064,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340013,
+        "Status": 1
+    },
+    "218065": {
+        "Id": 218065,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340014,
+        "Status": 1
+    },
+    "218066": {
+        "Id": 218066,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340016,
+        "Status": 1
+    },
+    "218067": {
+        "Id": 218067,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340017,
+        "Status": 1
+    },
+    "218068": {
+        "Id": 218068,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340018,
+        "Status": 1
+    },
+    "218069": {
+        "Id": 218069,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340019,
+        "Status": 1
+    },
+    "218070": {
+        "Id": 218070,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340022,
+        "Status": 1
+    },
+    "218071": {
+        "Id": 218071,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340024,
+        "Status": 1
+    },
+    "218072": {
+        "Id": 218072,
+        "SelectGroupId": 21802,
+        "Type": 8,
+        "ObjectId": 340023,
+        "Status": 1
+    },
+    "224001": {
+        "Id": 224001,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 100241301,
+        "Status": 1
+    },
+    "224002": {
+        "Id": 224002,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 300141501,
+        "Status": 1
+    },
+    "224003": {
+        "Id": 224003,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 700141401,
+        "Status": 1
+    },
+    "224004": {
+        "Id": 224004,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 700241401,
+        "Status": 1
+    },
+    "224005": {
+        "Id": 224005,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 100141301,
+        "Status": 1
+    },
+    "224006": {
+        "Id": 224006,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 100441101,
+        "Status": 1
+    },
+    "224007": {
+        "Id": 224007,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 600241101,
+        "Status": 1
+    },
+    "224008": {
+        "Id": 224008,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 600141101,
+        "Status": 1
+    },
+    "224009": {
+        "Id": 224009,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 400141501,
+        "Status": 1
+    },
+    "224010": {
+        "Id": 224010,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 200241501,
+        "Status": 1
+    },
+    "224011": {
+        "Id": 224011,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 300341201,
+        "Status": 1
+    },
+    "224012": {
+        "Id": 224012,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 300441201,
+        "Status": 1
+    },
+    "224013": {
+        "Id": 224013,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 400341301,
+        "Status": 1
+    },
+    "224014": {
+        "Id": 224014,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 400441301,
+        "Status": 1
+    },
+    "224015": {
+        "Id": 224015,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 500141203,
+        "Status": 1
+    },
+    "224016": {
+        "Id": 224016,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 500241201,
+        "Status": 1
+    },
+    "224017": {
+        "Id": 224017,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 200341102,
+        "Status": 1
+    },
+    "224018": {
+        "Id": 224018,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 200441102,
+        "Status": 1
+    },
+    "224019": {
+        "Id": 224019,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 700341402,
+        "Status": 1
+    },
+    "224020": {
+        "Id": 224020,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 700441402,
+        "Status": 1
+    },
+    "224021": {
+        "Id": 224021,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 400141102,
+        "Status": 1
+    },
+    "224022": {
+        "Id": 224022,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 400241102,
+        "Status": 1
+    },
+    "224023": {
+        "Id": 224023,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 100341302,
+        "Status": 1
+    },
+    "224024": {
+        "Id": 224024,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 300241301,
+        "Status": 1
+    },
+    "224025": {
+        "Id": 224025,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 200141301,
+        "Status": 1
+    },
+    "224026": {
+        "Id": 224026,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 200241301,
+        "Status": 1
+    },
+    "224027": {
+        "Id": 224027,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 200541101,
+        "Status": 1
+    },
+    "224028": {
+        "Id": 224028,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 100541101,
+        "Status": 1
+    },
+    "224029": {
+        "Id": 224029,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 600141302,
+        "Status": 1
+    },
+    "224030": {
+        "Id": 224030,
+        "SelectGroupId": 22401,
+        "Type": 7,
+        "ObjectId": 600241301,
+        "Status": 1
+    },
+    "224031": {
+        "Id": 224031,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 340021,
+        "Status": 1
+    },
+    "224032": {
+        "Id": 224032,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 540023,
+        "Status": 1
+    },
+    "224033": {
+        "Id": 224033,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 440024,
+        "Status": 1
+    },
+    "224034": {
+        "Id": 224034,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 140022,
+        "Status": 1
+    },
+    "224035": {
+        "Id": 224035,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 240023,
+        "Status": 1
+    },
+    "224036": {
+        "Id": 224036,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 240024,
+        "Status": 1
+    },
+    "224037": {
+        "Id": 224037,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 440028,
+        "Status": 1
+    },
+    "224038": {
+        "Id": 224038,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 140025,
+        "Status": 1
+    },
+    "224039": {
+        "Id": 224039,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 340030,
+        "Status": 1
+    },
+    "224040": {
+        "Id": 224040,
+        "SelectGroupId": 22402,
+        "Type": 8,
+        "ObjectId": 340031,
+        "Status": 1
+    },
+    "232001": {
+        "Id": 232001,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100441101,
+        "Status": 1
+    },
+    "232002": {
+        "Id": 232002,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 600141101,
+        "Status": 1
+    },
+    "232003": {
+        "Id": 232003,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 600241101,
+        "Status": 1
+    },
+    "232004": {
+        "Id": 232004,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200341102,
+        "Status": 1
+    },
+    "232005": {
+        "Id": 232005,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200441102,
+        "Status": 1
+    },
+    "232006": {
+        "Id": 232006,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 400141102,
+        "Status": 1
+    },
+    "232007": {
+        "Id": 232007,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 400241102,
+        "Status": 1
+    },
+    "232008": {
+        "Id": 232008,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200541101,
+        "Status": 1
+    },
+    "232009": {
+        "Id": 232009,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100541101,
+        "Status": 1
+    },
+    "232010": {
+        "Id": 232010,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100141103,
+        "Status": 1
+    },
+    "232011": {
+        "Id": 232011,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100241103,
+        "Status": 1
+    },
+    "232012": {
+        "Id": 232012,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100341102,
+        "Status": 1
+    },
+    "232013": {
+        "Id": 232013,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100441102,
+        "Status": 1
+    },
+    "232014": {
+        "Id": 232014,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200341101,
+        "Status": 1
+    },
+    "232015": {
+        "Id": 232015,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200441101,
+        "Status": 1
+    },
+    "232016": {
+        "Id": 232016,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200141101,
+        "Status": 1
+    },
+    "232017": {
+        "Id": 232017,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 200241101,
+        "Status": 1
+    },
+    "232018": {
+        "Id": 232018,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 100341101,
+        "Status": 1
+    },
+    "232019": {
+        "Id": 232019,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 400241101,
+        "Status": 1
+    },
+    "232020": {
+        "Id": 232020,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 300141101,
+        "Status": 1
+    },
+    "232021": {
+        "Id": 232021,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 400441101,
+        "Status": 1
+    },
+    "232022": {
+        "Id": 232022,
+        "SelectGroupId": 23201,
+        "Type": 7,
+        "ObjectId": 300341101,
+        "Status": 1
+    },
+    "232023": {
+        "Id": 232023,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140021,
+        "Status": 1
+    },
+    "232024": {
+        "Id": 232024,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140022,
+        "Status": 1
+    },
+    "232025": {
+        "Id": 232025,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140024,
+        "Status": 1
+    },
+    "232026": {
+        "Id": 232026,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140025,
+        "Status": 1
+    },
+    "232027": {
+        "Id": 232027,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140029,
+        "Status": 1
+    },
+    "232028": {
+        "Id": 232028,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140030,
+        "Status": 1
+    },
+    "232029": {
+        "Id": 232029,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140011,
+        "Status": 1
+    },
+    "232030": {
+        "Id": 232030,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140012,
+        "Status": 1
+    },
+    "232031": {
+        "Id": 232031,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140013,
+        "Status": 1
+    },
+    "232032": {
+        "Id": 232032,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140014,
+        "Status": 1
+    },
+    "232033": {
+        "Id": 232033,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140016,
+        "Status": 1
+    },
+    "232034": {
+        "Id": 232034,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140017,
+        "Status": 1
+    },
+    "232035": {
+        "Id": 232035,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140018,
+        "Status": 1
+    },
+    "232036": {
+        "Id": 232036,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140019,
+        "Status": 1
+    },
+    "232037": {
+        "Id": 232037,
+        "SelectGroupId": 23202,
+        "Type": 8,
+        "ObjectId": 140020,
+        "Status": 1
+    },
+    "239001": {
+        "Id": 239001,
+        "SelectGroupId": 23901,
+        "Type": 7,
+        "ObjectId": 100141401,
+        "Status": 1
+    },
+    "239002": {
+        "Id": 239002,
+        "SelectGroupId": 23901,
+        "Type": 7,
+        "ObjectId": 100241401,
+        "Status": 1
+    },
+    "239003": {
+        "Id": 239003,
+        "SelectGroupId": 23901,
+        "Type": 7,
+        "ObjectId": 200341201,
+        "Status": 1
+    },
+    "239004": {
+        "Id": 239004,
+        "SelectGroupId": 23901,
+        "Type": 7,
+        "ObjectId": 200441201,
+        "Status": 1
+    },
+    "239005": {
+        "Id": 239005,
+        "SelectGroupId": 23902,
+        "Type": 8,
+        "ObjectId": 440020,
+        "Status": 1
+    },
+    "239006": {
+        "Id": 239006,
+        "SelectGroupId": 23902,
+        "Type": 8,
+        "ObjectId": 240020,
+        "Status": 1
     }
 }

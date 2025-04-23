@@ -58,5 +58,35 @@
         "GroupId": 5002,
         "Step": 5,
         "CurrencyShopId": 500205
+    },
+    "500301": {
+        "Id": 500301,
+        "GroupId": 5003,
+        "Step": 1,
+        "CurrencyShopId": 500301
+    },
+    "500302": {
+        "Id": 500302,
+        "GroupId": 5003,
+        "Step": 2,
+        "CurrencyShopId": 500302
+    },
+    "500303": {
+        "Id": 500303,
+        "GroupId": 5003,
+        "Step": 3,
+        "CurrencyShopId": 500303
+    },
+    "500304": {
+        "Id": 500304,
+        "GroupId": 5003,
+        "Step": 4,
+        "CurrencyShopId": 500304
+    },
+    "500305": {
+        "Id": 500305,
+        "GroupId": 5003,
+        "Step": 5,
+        "CurrencyShopId": 500305
     }
 }

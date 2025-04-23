@@ -906,14 +906,21 @@
         "Id": 147,
         "EffectType": 147,
         "SkillCategoryId": 1204,
-        "EffectName": "特定属性攻撃力アップ",
-        "EffectText": "特定属性攻撃力アップ"
+        "EffectName": "同調攻強",
+        "EffectText": "[c1]属性の攻撃力が[e1]%上がる"
     },
     "148": {
         "Id": 148,
         "EffectType": 148,
         "SkillCategoryId": 1207,
         "EffectName": "連勁",
-        "EffectText": "対象（MOON・ライダー）のスキルが発動する度、対象の与えるダメージが上がる"
+        "EffectText": "対象（[c1]）のスキルが発動する度、対象の与えるダメージが上がる"
+    },
+    "57": {
+        "Id": 57,
+        "EffectType": 57,
+        "SkillCategoryId": 1107,
+        "EffectName": "状態異常(脆弱)HPダメージアップ",
+        "EffectText": "状態異常(脆弱)HPダメージアップの説明文"
     }
 }

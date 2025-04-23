@@ -1,0 +1,470 @@
+{
+    "1": {
+        "Id": 1,
+        "GoodAtkScore": 800,
+        "GreatAtkScore": 1600,
+        "ExcellentAtkScore": 2400,
+        "SPCommandScore": 1100,
+        "ContinuousAtkBonusScore": 1100,
+        "CountBonusScore": 1000
+    },
+    "2": {
+        "Id": 2,
+        "GoodAtkScore": 960,
+        "GreatAtkScore": 1920,
+        "ExcellentAtkScore": 2880,
+        "SPCommandScore": 1200,
+        "ContinuousAtkBonusScore": 1500,
+        "CountBonusScore": 1200
+    },
+    "3": {
+        "Id": 3,
+        "GoodAtkScore": 1600,
+        "GreatAtkScore": 3500,
+        "ExcellentAtkScore": 5600,
+        "SPCommandScore": 1800,
+        "ContinuousAtkBonusScore": 2500,
+        "CountBonusScore": 1800
+    },
+    "101": {
+        "Id": 101,
+        "GoodAtkScore": 1000,
+        "GreatAtkScore": 2000,
+        "ExcellentAtkScore": 3000,
+        "SPCommandScore": 1600,
+        "ContinuousAtkBonusScore": 2500,
+        "CountBonusScore": 2000
+    },
+    "102": {
+        "Id": 102,
+        "GoodAtkScore": 880,
+        "GreatAtkScore": 1650,
+        "ExcellentAtkScore": 3300,
+        "SPCommandScore": 1100,
+        "ContinuousAtkBonusScore": 3300,
+        "CountBonusScore": 1000
+    },
+    "103": {
+        "Id": 103,
+        "GoodAtkScore": 960,
+        "GreatAtkScore": 1800,
+        "ExcellentAtkScore": 3600,
+        "SPCommandScore": 1200,
+        "ContinuousAtkBonusScore": 3600,
+        "CountBonusScore": 1000
+    },
+    "104": {
+        "Id": 104,
+        "GoodAtkScore": 1040,
+        "GreatAtkScore": 1950,
+        "ExcellentAtkScore": 3900,
+        "SPCommandScore": 1300,
+        "ContinuousAtkBonusScore": 3900,
+        "CountBonusScore": 1000
+    },
+    "105": {
+        "Id": 105,
+        "GoodAtkScore": 1120,
+        "GreatAtkScore": 2100,
+        "ExcellentAtkScore": 4200,
+        "SPCommandScore": 1400,
+        "ContinuousAtkBonusScore": 4200,
+        "CountBonusScore": 1000
+    },
+    "106": {
+        "Id": 106,
+        "GoodAtkScore": 1200,
+        "GreatAtkScore": 2250,
+        "ExcellentAtkScore": 4500,
+        "SPCommandScore": 1500,
+        "ContinuousAtkBonusScore": 4500,
+        "CountBonusScore": 1000
+    },
+    "107": {
+        "Id": 107,
+        "GoodAtkScore": 1280,
+        "GreatAtkScore": 2400,
+        "ExcellentAtkScore": 4800,
+        "SPCommandScore": 1600,
+        "ContinuousAtkBonusScore": 4800,
+        "CountBonusScore": 1000
+    },
+    "108": {
+        "Id": 108,
+        "GoodAtkScore": 1360,
+        "GreatAtkScore": 2550,
+        "ExcellentAtkScore": 5100,
+        "SPCommandScore": 1700,
+        "ContinuousAtkBonusScore": 5100,
+        "CountBonusScore": 1000
+    },
+    "109": {
+        "Id": 109,
+        "GoodAtkScore": 1440,
+        "GreatAtkScore": 2700,
+        "ExcellentAtkScore": 5400,
+        "SPCommandScore": 1800,
+        "ContinuousAtkBonusScore": 5400,
+        "CountBonusScore": 1000
+    },
+    "110": {
+        "Id": 110,
+        "GoodAtkScore": 1520,
+        "GreatAtkScore": 2850,
+        "ExcellentAtkScore": 5700,
+        "SPCommandScore": 1900,
+        "ContinuousAtkBonusScore": 5700,
+        "CountBonusScore": 1000
+    },
+    "111": {
+        "Id": 111,
+        "GoodAtkScore": 1600,
+        "GreatAtkScore": 3000,
+        "ExcellentAtkScore": 6000,
+        "SPCommandScore": 2000,
+        "ContinuousAtkBonusScore": 6000,
+        "CountBonusScore": 1000
+    },
+    "112": {
+        "Id": 112,
+        "GoodAtkScore": 1680,
+        "GreatAtkScore": 3150,
+        "ExcellentAtkScore": 6300,
+        "SPCommandScore": 2100,
+        "ContinuousAtkBonusScore": 6300,
+        "CountBonusScore": 1000
+    },
+    "113": {
+        "Id": 113,
+        "GoodAtkScore": 1760,
+        "GreatAtkScore": 3300,
+        "ExcellentAtkScore": 6600,
+        "SPCommandScore": 2200,
+        "ContinuousAtkBonusScore": 6600,
+        "CountBonusScore": 1000
+    },
+    "114": {
+        "Id": 114,
+        "GoodAtkScore": 1840,
+        "GreatAtkScore": 3450,
+        "ExcellentAtkScore": 6900,
+        "SPCommandScore": 2300,
+        "ContinuousAtkBonusScore": 6900,
+        "CountBonusScore": 1000
+    },
+    "115": {
+        "Id": 115,
+        "GoodAtkScore": 1920,
+        "GreatAtkScore": 3600,
+        "ExcellentAtkScore": 7200,
+        "SPCommandScore": 2400,
+        "ContinuousAtkBonusScore": 7200,
+        "CountBonusScore": 1000
+    },
+    "116": {
+        "Id": 116,
+        "GoodAtkScore": 2000,
+        "GreatAtkScore": 3750,
+        "ExcellentAtkScore": 7500,
+        "SPCommandScore": 2500,
+        "ContinuousAtkBonusScore": 7500,
+        "CountBonusScore": 1000
+    },
+    "201": {
+        "Id": 201,
+        "GoodAtkScore": 2000,
+        "GreatAtkScore": 3000,
+        "ExcellentAtkScore": 4000,
+        "SPCommandScore": 1600,
+        "ContinuousAtkBonusScore": 5000,
+        "CountBonusScore": 5000
+    },
+    "202": {
+        "Id": 202,
+        "GoodAtkScore": 1650,
+        "GreatAtkScore": 3300,
+        "ExcellentAtkScore": 5500,
+        "SPCommandScore": 2200,
+        "ContinuousAtkBonusScore": 6600,
+        "CountBonusScore": 1000
+    },
+    "203": {
+        "Id": 203,
+        "GoodAtkScore": 1800,
+        "GreatAtkScore": 3600,
+        "ExcellentAtkScore": 6000,
+        "SPCommandScore": 2400,
+        "ContinuousAtkBonusScore": 7200,
+        "CountBonusScore": 1000
+    },
+    "204": {
+        "Id": 204,
+        "GoodAtkScore": 1950,
+        "GreatAtkScore": 3900,
+        "ExcellentAtkScore": 6500,
+        "SPCommandScore": 2600,
+        "ContinuousAtkBonusScore": 7800,
+        "CountBonusScore": 1000
+    },
+    "205": {
+        "Id": 205,
+        "GoodAtkScore": 2100,
+        "GreatAtkScore": 4200,
+        "ExcellentAtkScore": 7000,
+        "SPCommandScore": 2800,
+        "ContinuousAtkBonusScore": 8400,
+        "CountBonusScore": 1000
+    },
+    "206": {
+        "Id": 206,
+        "GoodAtkScore": 2250,
+        "GreatAtkScore": 4500,
+        "ExcellentAtkScore": 7500,
+        "SPCommandScore": 3000,
+        "ContinuousAtkBonusScore": 9000,
+        "CountBonusScore": 1000
+    },
+    "207": {
+        "Id": 207,
+        "GoodAtkScore": 2400,
+        "GreatAtkScore": 4800,
+        "ExcellentAtkScore": 8000,
+        "SPCommandScore": 3200,
+        "ContinuousAtkBonusScore": 9600,
+        "CountBonusScore": 1000
+    },
+    "208": {
+        "Id": 208,
+        "GoodAtkScore": 2550,
+        "GreatAtkScore": 5100,
+        "ExcellentAtkScore": 8500,
+        "SPCommandScore": 3400,
+        "ContinuousAtkBonusScore": 10200,
+        "CountBonusScore": 1000
+    },
+    "209": {
+        "Id": 209,
+        "GoodAtkScore": 2700,
+        "GreatAtkScore": 5400,
+        "ExcellentAtkScore": 9000,
+        "SPCommandScore": 3600,
+        "ContinuousAtkBonusScore": 10800,
+        "CountBonusScore": 1000
+    },
+    "210": {
+        "Id": 210,
+        "GoodAtkScore": 2850,
+        "GreatAtkScore": 5700,
+        "ExcellentAtkScore": 9500,
+        "SPCommandScore": 3800,
+        "ContinuousAtkBonusScore": 11400,
+        "CountBonusScore": 1000
+    },
+    "211": {
+        "Id": 211,
+        "GoodAtkScore": 3000,
+        "GreatAtkScore": 6000,
+        "ExcellentAtkScore": 10000,
+        "SPCommandScore": 4000,
+        "ContinuousAtkBonusScore": 12000,
+        "CountBonusScore": 1000
+    },
+    "212": {
+        "Id": 212,
+        "GoodAtkScore": 3150,
+        "GreatAtkScore": 6300,
+        "ExcellentAtkScore": 10500,
+        "SPCommandScore": 4200,
+        "ContinuousAtkBonusScore": 12600,
+        "CountBonusScore": 1000
+    },
+    "213": {
+        "Id": 213,
+        "GoodAtkScore": 3300,
+        "GreatAtkScore": 6600,
+        "ExcellentAtkScore": 11000,
+        "SPCommandScore": 4400,
+        "ContinuousAtkBonusScore": 13200,
+        "CountBonusScore": 1000
+    },
+    "214": {
+        "Id": 214,
+        "GoodAtkScore": 3450,
+        "GreatAtkScore": 6900,
+        "ExcellentAtkScore": 11500,
+        "SPCommandScore": 4600,
+        "ContinuousAtkBonusScore": 13800,
+        "CountBonusScore": 1000
+    },
+    "215": {
+        "Id": 215,
+        "GoodAtkScore": 3600,
+        "GreatAtkScore": 7200,
+        "ExcellentAtkScore": 12000,
+        "SPCommandScore": 4800,
+        "ContinuousAtkBonusScore": 14400,
+        "CountBonusScore": 1000
+    },
+    "216": {
+        "Id": 216,
+        "GoodAtkScore": 3750,
+        "GreatAtkScore": 7500,
+        "ExcellentAtkScore": 12500,
+        "SPCommandScore": 5000,
+        "ContinuousAtkBonusScore": 15000,
+        "CountBonusScore": 1000
+    },
+    "301": {
+        "Id": 301,
+        "GoodAtkScore": 3000,
+        "GreatAtkScore": 4000,
+        "ExcellentAtkScore": 5000,
+        "SPCommandScore": 1600,
+        "ContinuousAtkBonusScore": 7500,
+        "CountBonusScore": 10000
+    },
+    "302": {
+        "Id": 302,
+        "GoodAtkScore": 3300,
+        "GreatAtkScore": 5500,
+        "ExcellentAtkScore": 7700,
+        "SPCommandScore": 3300,
+        "ContinuousAtkBonusScore": 9900,
+        "CountBonusScore": 1000
+    },
+    "303": {
+        "Id": 303,
+        "GoodAtkScore": 3600,
+        "GreatAtkScore": 6000,
+        "ExcellentAtkScore": 8400,
+        "SPCommandScore": 3600,
+        "ContinuousAtkBonusScore": 10800,
+        "CountBonusScore": 1000
+    },
+    "304": {
+        "Id": 304,
+        "GoodAtkScore": 3900,
+        "GreatAtkScore": 6500,
+        "ExcellentAtkScore": 9100,
+        "SPCommandScore": 3900,
+        "ContinuousAtkBonusScore": 11700,
+        "CountBonusScore": 1000
+    },
+    "305": {
+        "Id": 305,
+        "GoodAtkScore": 4200,
+        "GreatAtkScore": 7000,
+        "ExcellentAtkScore": 9800,
+        "SPCommandScore": 4200,
+        "ContinuousAtkBonusScore": 12600,
+        "CountBonusScore": 1000
+    },
+    "306": {
+        "Id": 306,
+        "GoodAtkScore": 4500,
+        "GreatAtkScore": 7500,
+        "ExcellentAtkScore": 10500,
+        "SPCommandScore": 4500,
+        "ContinuousAtkBonusScore": 13500,
+        "CountBonusScore": 1000
+    },
+    "307": {
+        "Id": 307,
+        "GoodAtkScore": 4800,
+        "GreatAtkScore": 8000,
+        "ExcellentAtkScore": 11200,
+        "SPCommandScore": 4800,
+        "ContinuousAtkBonusScore": 14400,
+        "CountBonusScore": 1000
+    },
+    "308": {
+        "Id": 308,
+        "GoodAtkScore": 5100,
+        "GreatAtkScore": 8500,
+        "ExcellentAtkScore": 11900,
+        "SPCommandScore": 5100,
+        "ContinuousAtkBonusScore": 15300,
+        "CountBonusScore": 1000
+    },
+    "309": {
+        "Id": 309,
+        "GoodAtkScore": 5400,
+        "GreatAtkScore": 9000,
+        "ExcellentAtkScore": 12600,
+        "SPCommandScore": 5400,
+        "ContinuousAtkBonusScore": 16200,
+        "CountBonusScore": 1000
+    },
+    "310": {
+        "Id": 310,
+        "GoodAtkScore": 5700,
+        "GreatAtkScore": 9500,
+        "ExcellentAtkScore": 13300,
+        "SPCommandScore": 5700,
+        "ContinuousAtkBonusScore": 17100,
+        "CountBonusScore": 1000
+    },
+    "311": {
+        "Id": 311,
+        "GoodAtkScore": 6000,
+        "GreatAtkScore": 10000,
+        "ExcellentAtkScore": 14000,
+        "SPCommandScore": 6000,
+        "ContinuousAtkBonusScore": 18000,
+        "CountBonusScore": 1000
+    },
+    "312": {
+        "Id": 312,
+        "GoodAtkScore": 6300,
+        "GreatAtkScore": 10500,
+        "ExcellentAtkScore": 14700,
+        "SPCommandScore": 6300,
+        "ContinuousAtkBonusScore": 18900,
+        "CountBonusScore": 1000
+    },
+    "313": {
+        "Id": 313,
+        "GoodAtkScore": 6600,
+        "GreatAtkScore": 11000,
+        "ExcellentAtkScore": 15400,
+        "SPCommandScore": 6600,
+        "ContinuousAtkBonusScore": 19800,
+        "CountBonusScore": 1000
+    },
+    "314": {
+        "Id": 314,
+        "GoodAtkScore": 6900,
+        "GreatAtkScore": 11500,
+        "ExcellentAtkScore": 16100,
+        "SPCommandScore": 6900,
+        "ContinuousAtkBonusScore": 20700,
+        "CountBonusScore": 1000
+    },
+    "315": {
+        "Id": 315,
+        "GoodAtkScore": 7200,
+        "GreatAtkScore": 12000,
+        "ExcellentAtkScore": 16800,
+        "SPCommandScore": 7200,
+        "ContinuousAtkBonusScore": 21600,
+        "CountBonusScore": 1000
+    },
+    "316": {
+        "Id": 316,
+        "GoodAtkScore": 7500,
+        "GreatAtkScore": 12500,
+        "ExcellentAtkScore": 17500,
+        "SPCommandScore": 7500,
+        "ContinuousAtkBonusScore": 22500,
+        "CountBonusScore": 1000
+    },
+    "401": {
+        "Id": 401,
+        "GoodAtkScore": 5000,
+        "GreatAtkScore": 6000,
+        "ExcellentAtkScore": 7000,
+        "SPCommandScore": 1600,
+        "ContinuousAtkBonusScore": 10000,
+        "CountBonusScore": 15000
+    }
+}

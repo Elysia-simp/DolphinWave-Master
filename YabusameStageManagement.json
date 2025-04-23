@@ -1,0 +1,25 @@
+{
+    "7001": {
+        "Id": 7001,
+        "QuestId": 7001,
+        "StageName": "YABUSAME～プレオープン～",
+        "Course01ID": 700101,
+        "Course02ID": 700102,
+        "Course03ID": 700103,
+        "Course04ID": 700104,
+        "EnemyBossName": "T-SHELL",
+        "Weather": 0,
+        "Time": 0,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 0,
+        "EnemySetId": 7001,
+        "MapId": 1100,
+        "BgmId": 0,
+        "DjVoicePattern": 1,
+        "GroupNo": 1004,
+        "EquipmentStatusCoefficientId": 700103,
+        "ClimaxScoreCoefficient": 100,
+        "CourseScoreCoefficient": 1000,
+        "BreakDamageMultiplier": 2
+    }
+}

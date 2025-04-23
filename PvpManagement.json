@@ -245,5 +245,70 @@
         "MapId": 1,
         "BgmId": 8,
         "KeyQuestId": 10040101
+    },
+    "20": {
+        "Id": 20,
+        "StartDate": 1732993200,
+        "EndDate": 1735671599,
+        "PvpInformationId": 20,
+        "Weather": 0,
+        "Time": 1,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000190,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
+    },
+    "21": {
+        "Id": 21,
+        "StartDate": 1735671600,
+        "EndDate": 1738349999,
+        "PvpInformationId": 21,
+        "Weather": 4,
+        "Time": 0,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000191,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
+    },
+    "22": {
+        "Id": 22,
+        "StartDate": 1738350000,
+        "EndDate": 1740769199,
+        "PvpInformationId": 22,
+        "Weather": 0,
+        "Time": 1,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000192,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
+    },
+    "23": {
+        "Id": 23,
+        "StartDate": 1740769200,
+        "EndDate": 1743447599,
+        "PvpInformationId": 23,
+        "Weather": 0,
+        "Time": 2,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000193,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
+    },
+    "24": {
+        "Id": 24,
+        "StartDate": 1743447600,
+        "EndDate": 1746039599,
+        "PvpInformationId": 24,
+        "Weather": 0,
+        "Time": 1,
+        "SpecialRuleId1": 0,
+        "SpecialRuleId2": 2000194,
+        "MapId": 1,
+        "BgmId": 8,
+        "KeyQuestId": 10040101
     }
 }

@@ -70,5 +70,173 @@
         "SelectGroupId": 18502,
         "SelectedCardWeightGroupId": 18505,
         "NotSelectedCardWeightGroupId": 18506
+    },
+    "19901": {
+        "Id": 19901,
+        "GachaId": 199,
+        "FrameIndex": 1,
+        "SelectGroupId": 19901,
+        "SelectedCardWeightGroupId": 19901,
+        "NotSelectedCardWeightGroupId": 19902
+    },
+    "19902": {
+        "Id": 19902,
+        "GachaId": 199,
+        "FrameIndex": 2,
+        "SelectGroupId": 19901,
+        "SelectedCardWeightGroupId": 19901,
+        "NotSelectedCardWeightGroupId": 19902
+    },
+    "19903": {
+        "Id": 19903,
+        "GachaId": 199,
+        "FrameIndex": 3,
+        "SelectGroupId": 19902,
+        "SelectedCardWeightGroupId": 19905,
+        "NotSelectedCardWeightGroupId": 19906
+    },
+    "20301": {
+        "Id": 20301,
+        "GachaId": 203,
+        "FrameIndex": 1,
+        "SelectGroupId": 20301,
+        "SelectedCardWeightGroupId": 20301,
+        "NotSelectedCardWeightGroupId": 20302
+    },
+    "20302": {
+        "Id": 20302,
+        "GachaId": 203,
+        "FrameIndex": 2,
+        "SelectGroupId": 20301,
+        "SelectedCardWeightGroupId": 20301,
+        "NotSelectedCardWeightGroupId": 20302
+    },
+    "20303": {
+        "Id": 20303,
+        "GachaId": 203,
+        "FrameIndex": 3,
+        "SelectGroupId": 20302,
+        "SelectedCardWeightGroupId": 20305,
+        "NotSelectedCardWeightGroupId": 20306
+    },
+    "21701": {
+        "Id": 21701,
+        "GachaId": 217,
+        "FrameIndex": 1,
+        "SelectGroupId": 21701,
+        "SelectedCardWeightGroupId": 21701,
+        "NotSelectedCardWeightGroupId": 21702
+    },
+    "21702": {
+        "Id": 21702,
+        "GachaId": 217,
+        "FrameIndex": 2,
+        "SelectGroupId": 21701,
+        "SelectedCardWeightGroupId": 21701,
+        "NotSelectedCardWeightGroupId": 21702
+    },
+    "21703": {
+        "Id": 21703,
+        "GachaId": 217,
+        "FrameIndex": 3,
+        "SelectGroupId": 21702,
+        "SelectedCardWeightGroupId": 21705,
+        "NotSelectedCardWeightGroupId": 21706
+    },
+    "21804": {
+        "Id": 21804,
+        "GachaId": 218,
+        "FrameIndex": 1,
+        "SelectGroupId": 21801,
+        "SelectedCardWeightGroupId": 21801,
+        "NotSelectedCardWeightGroupId": 21802
+    },
+    "21805": {
+        "Id": 21805,
+        "GachaId": 218,
+        "FrameIndex": 2,
+        "SelectGroupId": 21801,
+        "SelectedCardWeightGroupId": 21801,
+        "NotSelectedCardWeightGroupId": 21802
+    },
+    "21806": {
+        "Id": 21806,
+        "GachaId": 218,
+        "FrameIndex": 3,
+        "SelectGroupId": 21802,
+        "SelectedCardWeightGroupId": 21805,
+        "NotSelectedCardWeightGroupId": 21806
+    },
+    "22401": {
+        "Id": 22401,
+        "GachaId": 224,
+        "FrameIndex": 1,
+        "SelectGroupId": 22401,
+        "SelectedCardWeightGroupId": 22401,
+        "NotSelectedCardWeightGroupId": 22402
+    },
+    "22402": {
+        "Id": 22402,
+        "GachaId": 224,
+        "FrameIndex": 2,
+        "SelectGroupId": 22401,
+        "SelectedCardWeightGroupId": 22401,
+        "NotSelectedCardWeightGroupId": 22402
+    },
+    "22403": {
+        "Id": 22403,
+        "GachaId": 224,
+        "FrameIndex": 3,
+        "SelectGroupId": 22402,
+        "SelectedCardWeightGroupId": 22405,
+        "NotSelectedCardWeightGroupId": 22406
+    },
+    "23201": {
+        "Id": 23201,
+        "GachaId": 232,
+        "FrameIndex": 1,
+        "SelectGroupId": 23201,
+        "SelectedCardWeightGroupId": 23201,
+        "NotSelectedCardWeightGroupId": 23202
+    },
+    "23202": {
+        "Id": 23202,
+        "GachaId": 232,
+        "FrameIndex": 2,
+        "SelectGroupId": 23201,
+        "SelectedCardWeightGroupId": 23201,
+        "NotSelectedCardWeightGroupId": 23202
+    },
+    "23203": {
+        "Id": 23203,
+        "GachaId": 232,
+        "FrameIndex": 3,
+        "SelectGroupId": 23202,
+        "SelectedCardWeightGroupId": 23205,
+        "NotSelectedCardWeightGroupId": 23206
+    },
+    "23901": {
+        "Id": 23901,
+        "GachaId": 239,
+        "FrameIndex": 1,
+        "SelectGroupId": 23901,
+        "SelectedCardWeightGroupId": 23901,
+        "NotSelectedCardWeightGroupId": 23902
+    },
+    "23902": {
+        "Id": 23902,
+        "GachaId": 239,
+        "FrameIndex": 2,
+        "SelectGroupId": 23901,
+        "SelectedCardWeightGroupId": 23901,
+        "NotSelectedCardWeightGroupId": 23902
+    },
+    "23903": {
+        "Id": 23903,
+        "GachaId": 239,
+        "FrameIndex": 3,
+        "SelectGroupId": 23902,
+        "SelectedCardWeightGroupId": 23905,
+        "NotSelectedCardWeightGroupId": 23906
     }
 }

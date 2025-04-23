@@ -41,13 +41,6 @@
         "ShopId": 47,
         "CollectItemGrDisplayId": 3006
     },
-    "3007": {
-        "Id": 3007,
-        "QuestType": 1,
-        "FlavorText": "風疾く決戦",
-        "ShopId": 177,
-        "CollectItemGrDisplayId": 3007
-    },
     "3008": {
         "Id": 3008,
         "QuestType": 1,
@@ -173,5 +166,75 @@
         "FlavorText": "さらなる戦いに向けて!訓練で深まるチームの絆",
         "ShopId": 179,
         "CollectItemGrDisplayId": 3025
+    },
+    "3026": {
+        "Id": 3026,
+        "QuestType": 1,
+        "FlavorText": "燃えよドルフィン!博士のトレーニングプログラム!",
+        "ShopId": 186,
+        "CollectItemGrDisplayId": 3026
+    },
+    "3027": {
+        "Id": 3027,
+        "QuestType": 1,
+        "FlavorText": "お届け！聖夜のプレゼント",
+        "ShopId": 187,
+        "CollectItemGrDisplayId": 3027
+    },
+    "3028": {
+        "Id": 3028,
+        "QuestType": 1,
+        "FlavorText": "お正月記念！特別育成トレーニング",
+        "ShopId": 202,
+        "CollectItemGrDisplayId": 3028
+    },
+    "3029": {
+        "Id": 3029,
+        "QuestType": 1,
+        "FlavorText": "YABUSAME開催記念！特別育成トレーニング",
+        "ShopId": 214,
+        "CollectItemGrDisplayId": 3029
+    },
+    "3030": {
+        "Id": 3030,
+        "QuestType": 1,
+        "FlavorText": "恋の標的！？ 清廉潔白な風紀指導",
+        "ShopId": 219,
+        "CollectItemGrDisplayId": 3030
+    },
+    "3031": {
+        "Id": 3031,
+        "QuestType": 1,
+        "FlavorText": "決闘！近未来の船上決戦",
+        "ShopId": 220,
+        "CollectItemGrDisplayId": 3031
+    },
+    "3032": {
+        "Id": 3032,
+        "QuestType": 1,
+        "FlavorText": "萌え萌え！メイド姉妹のご案内",
+        "ShopId": 221,
+        "CollectItemGrDisplayId": 3032
+    },
+    "3033": {
+        "Id": 3033,
+        "QuestType": 1,
+        "FlavorText": "クールな魔法と魂の大剣",
+        "ShopId": 222,
+        "CollectItemGrDisplayId": 3033
+    },
+    "3007": {
+        "Id": 3007,
+        "QuestType": 1,
+        "FlavorText": "風疾く決戦",
+        "ShopId": 226,
+        "CollectItemGrDisplayId": 3007
+    },
+    "3034": {
+        "Id": 3034,
+        "QuestType": 1,
+        "FlavorText": "登場！GRIMO➡GOETIA ～道場破りの実力者～",
+        "ShopId": 228,
+        "CollectItemGrDisplayId": 3034
     }
 }

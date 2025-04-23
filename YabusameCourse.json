@@ -1,0 +1,50 @@
+{
+    "700101": {
+        "Id": 700101,
+        "YabusameBonusRule1ID": 10003050,
+        "YabusameBonusRule2ID": 20001030,
+        "YabusameBonusRule3ID": 20006030,
+        "YabusameBonusRule4ID": 30000020,
+        "YabusameBonusRule5ID": 40001020,
+        "YabusameBonusRule6ID": 0,
+        "RunningStatusCoefficientId": 700101,
+        "ShootingStatusCoefficientId": 700102,
+        "SupportPartWazaId": 0
+    },
+    "700102": {
+        "Id": 700102,
+        "YabusameBonusRule1ID": 10001050,
+        "YabusameBonusRule2ID": 20002030,
+        "YabusameBonusRule3ID": 20004030,
+        "YabusameBonusRule4ID": 30000020,
+        "YabusameBonusRule5ID": 40000020,
+        "YabusameBonusRule6ID": 0,
+        "RunningStatusCoefficientId": 700101,
+        "ShootingStatusCoefficientId": 700102,
+        "SupportPartWazaId": 0
+    },
+    "700103": {
+        "Id": 700103,
+        "YabusameBonusRule1ID": 10004050,
+        "YabusameBonusRule2ID": 20002030,
+        "YabusameBonusRule3ID": 20007030,
+        "YabusameBonusRule4ID": 30001020,
+        "YabusameBonusRule5ID": 40000020,
+        "YabusameBonusRule6ID": 0,
+        "RunningStatusCoefficientId": 700101,
+        "ShootingStatusCoefficientId": 700102,
+        "SupportPartWazaId": 0
+    },
+    "700104": {
+        "Id": 700104,
+        "YabusameBonusRule1ID": 10002150,
+        "YabusameBonusRule2ID": 20003100,
+        "YabusameBonusRule3ID": 20005100,
+        "YabusameBonusRule4ID": 30002060,
+        "YabusameBonusRule5ID": 40001060,
+        "YabusameBonusRule6ID": 90109150,
+        "RunningStatusCoefficientId": 700101,
+        "ShootingStatusCoefficientId": 700102,
+        "SupportPartWazaId": 201
+    }
+}

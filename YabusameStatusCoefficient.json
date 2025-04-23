@@ -1,0 +1,35 @@
+{
+    "700101": {
+        "Id": 700101,
+        "CoefficientHp": 12,
+        "CoefficientAtk": 0,
+        "CoefficientDef": 120,
+        "CoefficientStun": 1000,
+        "CoefficientCritical": 0,
+        "CoefficientCriticalAtk": 0,
+        "CoefficientHpHeal": 100,
+        "CoefficientSpCharge": 100
+    },
+    "700102": {
+        "Id": 700102,
+        "CoefficientHp": 0,
+        "CoefficientAtk": 120,
+        "CoefficientDef": 0,
+        "CoefficientStun": 0,
+        "CoefficientCritical": 200,
+        "CoefficientCriticalAtk": 100,
+        "CoefficientHpHeal": 0,
+        "CoefficientSpCharge": 100
+    },
+    "700103": {
+        "Id": 700103,
+        "CoefficientHp": 12,
+        "CoefficientAtk": 100,
+        "CoefficientDef": 120,
+        "CoefficientStun": 2000,
+        "CoefficientCritical": 200,
+        "CoefficientCriticalAtk": 100,
+        "CoefficientHpHeal": 100,
+        "CoefficientSpCharge": 100
+    }
+}

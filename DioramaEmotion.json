@@ -1,0 +1,138 @@
+{
+    "1": {
+        "Id": 1,
+        "EmotionName": "怒りマーク（右）",
+        "EmotionFileName": "adv_angry_l",
+        "IconId": 1,
+        "Itemflag": 0,
+        "SortId": 1
+    },
+    "2": {
+        "Id": 2,
+        "EmotionName": "怒りマーク（左）",
+        "EmotionFileName": "adv_angry_r",
+        "IconId": 2,
+        "Itemflag": 0,
+        "SortId": 2
+    },
+    "3": {
+        "Id": 3,
+        "EmotionName": "ハート（右）",
+        "EmotionFileName": "adv_heart_l",
+        "IconId": 3,
+        "Itemflag": 0,
+        "SortId": 3
+    },
+    "4": {
+        "Id": 4,
+        "EmotionName": "ハート（左）",
+        "EmotionFileName": "adv_heart_r",
+        "IconId": 4,
+        "Itemflag": 0,
+        "SortId": 4
+    },
+    "5": {
+        "Id": 5,
+        "EmotionName": "ぷんすか煙",
+        "EmotionFileName": "adv_punsuka",
+        "IconId": 5,
+        "Itemflag": 0,
+        "SortId": 12
+    },
+    "6": {
+        "Id": 6,
+        "EmotionName": "はてなマーク（右）",
+        "EmotionFileName": "adv_hatena_l",
+        "IconId": 6,
+        "Itemflag": 0,
+        "SortId": 5
+    },
+    "7": {
+        "Id": 7,
+        "EmotionName": "はてなマーク（左）",
+        "EmotionFileName": "adv_hatena_r",
+        "IconId": 7,
+        "Itemflag": 0,
+        "SortId": 6
+    },
+    "8": {
+        "Id": 8,
+        "EmotionName": "びっくりマーク（右）",
+        "EmotionFileName": "adv_kantanhu_l",
+        "IconId": 8,
+        "Itemflag": 0,
+        "SortId": 7
+    },
+    "9": {
+        "Id": 9,
+        "EmotionName": "びっくりマーク（左）",
+        "EmotionFileName": "adv_kantanhu_r",
+        "IconId": 9,
+        "Itemflag": 0,
+        "SortId": 8
+    },
+    "10": {
+        "Id": 10,
+        "EmotionName": "驚き（右）",
+        "EmotionFileName": "adv_suprise_l",
+        "IconId": 10,
+        "Itemflag": 0,
+        "SortId": 9
+    },
+    "11": {
+        "Id": 11,
+        "EmotionName": "驚き（左）",
+        "EmotionFileName": "adv_suprise_r",
+        "IconId": 11,
+        "Itemflag": 0,
+        "SortId": 10
+    },
+    "12": {
+        "Id": 12,
+        "EmotionName": "笑い",
+        "EmotionFileName": "adv_laugh",
+        "IconId": 12,
+        "Itemflag": 0,
+        "SortId": 11
+    },
+    "13": {
+        "Id": 13,
+        "EmotionName": "音符",
+        "EmotionFileName": "adv_onpu",
+        "IconId": 13,
+        "Itemflag": 0,
+        "SortId": 13
+    },
+    "14": {
+        "Id": 14,
+        "EmotionName": "キラ（右）",
+        "EmotionFileName": "adv_kira_l",
+        "IconId": 14,
+        "Itemflag": 0,
+        "SortId": 15
+    },
+    "15": {
+        "Id": 15,
+        "EmotionName": "キラ（左）",
+        "EmotionFileName": "adv_kira_r",
+        "IconId": 15,
+        "Itemflag": 0,
+        "SortId": 16
+    },
+    "16": {
+        "Id": 16,
+        "EmotionName": "ほわほわ",
+        "EmotionFileName": "adv_howahowa",
+        "IconId": 16,
+        "Itemflag": 0,
+        "SortId": 14
+    },
+    "17": {
+        "Id": 17,
+        "EmotionName": "スター",
+        "EmotionFileName": "adv_star",
+        "IconId": 17,
+        "Itemflag": 0,
+        "SortId": 17
+    }
+}

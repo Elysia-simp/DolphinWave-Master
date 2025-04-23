@@ -1,0 +1,219 @@
+{
+    "10001050": {
+        "Id": 10001050,
+        "RuleDescription": "WAVE属性のドルフィンの走行力と射撃力が50%アップ",
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 1,
+        "BonusCoefficient": 50
+    },
+    "10002050": {
+        "Id": 10002050,
+        "RuleDescription": "SUN属性のドルフィンの走行力と射撃力が50%アップ",
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 50
+    },
+    "10002100": {
+        "Id": 10002100,
+        "RuleDescription": "SUN属性のドルフィンの走行力と射撃力が100%アップ",
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 100
+    },
+    "10002150": {
+        "Id": 10002150,
+        "RuleDescription": "SUN属性のドルフィンの走行力と射撃力が150%アップ",
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 150
+    },
+    "10003050": {
+        "Id": 10003050,
+        "RuleDescription": "GEAR属性のドルフィンの走行力と射撃力が50%アップ",
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 3,
+        "BonusCoefficient": 50
+    },
+    "10004050": {
+        "Id": 10004050,
+        "RuleDescription": "MOON属性のドルフィンの走行力と射撃力が50%アップ",
+        "ConditionTargetDetail": 1,
+        "ConditionTargetDetailId": 4,
+        "BonusCoefficient": 50
+    },
+    "20001030": {
+        "Id": 20001030,
+        "RuleDescription": "KIRISHIMAのドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 1,
+        "BonusCoefficient": 30
+    },
+    "20002030": {
+        "Id": 20002030,
+        "RuleDescription": "KAZAMIのドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 30
+    },
+    "20003030": {
+        "Id": 20003030,
+        "RuleDescription": "日向重工のドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 3,
+        "BonusCoefficient": 30
+    },
+    "20003060": {
+        "Id": 20003060,
+        "RuleDescription": "日向重工のドルフィンの走行力と射撃力が60%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 3,
+        "BonusCoefficient": 60
+    },
+    "20003100": {
+        "Id": 20003100,
+        "RuleDescription": "日向重工のドルフィンの走行力と射撃力が100%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 3,
+        "BonusCoefficient": 100
+    },
+    "20004030": {
+        "Id": 20004030,
+        "RuleDescription": "NereIdesのドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 4,
+        "BonusCoefficient": 30
+    },
+    "20005030": {
+        "Id": 20005030,
+        "RuleDescription": "浦見製鉄所のドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 5,
+        "BonusCoefficient": 30
+    },
+    "20005060": {
+        "Id": 20005060,
+        "RuleDescription": "浦見製鉄所のドルフィンの走行力と射撃力が60%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 5,
+        "BonusCoefficient": 60
+    },
+    "20005100": {
+        "Id": 20005100,
+        "RuleDescription": "浦見製鉄所のドルフィンの走行力と射撃力が100%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 5,
+        "BonusCoefficient": 100
+    },
+    "20006030": {
+        "Id": 20006030,
+        "RuleDescription": "FMワダツミのドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 6,
+        "BonusCoefficient": 30
+    },
+    "20007030": {
+        "Id": 20007030,
+        "RuleDescription": "ISRWのドルフィンの走行力と射撃力が30%アップ",
+        "ConditionTargetDetail": 2,
+        "ConditionTargetDetailId": 7,
+        "BonusCoefficient": 30
+    },
+    "30000020": {
+        "Id": 30000020,
+        "RuleDescription": "特性が昼のマシンの走行力と射撃力が20%アップ",
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 0,
+        "BonusCoefficient": 20
+    },
+    "30001020": {
+        "Id": 30001020,
+        "RuleDescription": "特性が夕方のマシンの走行力と射撃力が20%アップ",
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 1,
+        "BonusCoefficient": 20
+    },
+    "30002020": {
+        "Id": 30002020,
+        "RuleDescription": "特性が夜のマシンの走行力と射撃力が20%アップ",
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 20
+    },
+    "30002040": {
+        "Id": 30002040,
+        "RuleDescription": "特性が夜のマシンの走行力と射撃力が40%アップ",
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 40
+    },
+    "30002060": {
+        "Id": 30002060,
+        "RuleDescription": "特性が夜のマシンの走行力と射撃力が60%アップ",
+        "ConditionTargetDetail": 3,
+        "ConditionTargetDetailId": 2,
+        "BonusCoefficient": 60
+    },
+    "40000020": {
+        "Id": 40000020,
+        "RuleDescription": "特性が晴れのマシンの走行力と射撃力が20%アップ",
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 0,
+        "BonusCoefficient": 20
+    },
+    "40001020": {
+        "Id": 40001020,
+        "RuleDescription": "特性が雨のマシンの走行力と射撃力が20%アップ",
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 1,
+        "BonusCoefficient": 20
+    },
+    "40001040": {
+        "Id": 40001040,
+        "RuleDescription": "特性が雨のマシンの走行力と射撃力が40%アップ",
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 1,
+        "BonusCoefficient": 40
+    },
+    "40001060": {
+        "Id": 40001060,
+        "RuleDescription": "特性が雨のマシンの走行力と射撃力が60%アップ",
+        "ConditionTargetDetail": 4,
+        "ConditionTargetDetailId": 1,
+        "BonusCoefficient": 60
+    },
+    "90109050": {
+        "Id": 90109050,
+        "RuleDescription": "感電無効の場合に走行力と射撃力が50%アップ",
+        "ConditionTargetDetail": 9,
+        "ConditionTargetDetailId": 109,
+        "BonusCoefficient": 50
+    },
+    "90109100": {
+        "Id": 90109100,
+        "RuleDescription": "感電無効の場合に走行力と射撃力が100%アップ",
+        "ConditionTargetDetail": 9,
+        "ConditionTargetDetailId": 109,
+        "BonusCoefficient": 100
+    },
+    "90109150": {
+        "Id": 90109150,
+        "RuleDescription": "感電無効の場合に走行力と射撃力が150%アップ",
+        "ConditionTargetDetail": 9,
+        "ConditionTargetDetailId": 109,
+        "BonusCoefficient": 150
+    },
+    "90201050": {
+        "Id": 90201050,
+        "RuleDescription": "感電の場合に走行力と射撃力が50%アップ",
+        "ConditionTargetDetail": 9,
+        "ConditionTargetDetailId": 201,
+        "BonusCoefficient": 50
+    },
+    "90201100": {
+        "Id": 90201100,
+        "RuleDescription": "感電の場合に走行力と射撃力が100%アップ",
+        "ConditionTargetDetail": 9,
+        "ConditionTargetDetailId": 201,
+        "BonusCoefficient": 100
+    }
+}

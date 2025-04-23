@@ -206,5 +206,45 @@
         "PlaceInfo3": "-35,-31,40,28",
         "UseWindSim": false,
         "WazaDataName": ""
+    },
+    "271": {
+        "Id": 271,
+        "PlaceInfo1": "0,-50,28.7,-80",
+        "PlaceInfo2": "130,-600,28.7,170",
+        "PlaceInfo3": "-130,500,28.7,0",
+        "UseWindSim": true,
+        "WazaDataName": ""
+    },
+    "281": {
+        "Id": 281,
+        "PlaceInfo1": "-2,5,120,98",
+        "PlaceInfo2": "176,0,120,70",
+        "PlaceInfo3": "0,2,130,4.5",
+        "UseWindSim": true,
+        "WazaDataName": ""
+    },
+    "291": {
+        "Id": 291,
+        "PlaceInfo1": "0,0,0,0",
+        "PlaceInfo2": "-70,0,0,0",
+        "PlaceInfo3": "-180,-5,0,0",
+        "UseWindSim": false,
+        "WazaDataName": ""
+    },
+    "321": {
+        "Id": 321,
+        "PlaceInfo1": "-90,-10,0,0",
+        "PlaceInfo2": "0,0,0,-150",
+        "PlaceInfo3": "-90,-10,0,100",
+        "UseWindSim": true,
+        "WazaDataName": ""
+    },
+    "331": {
+        "Id": 331,
+        "PlaceInfo1": "170,8,0,-60",
+        "PlaceInfo2": "0,0,0,-90",
+        "PlaceInfo3": "-90,-10,0,100",
+        "UseWindSim": true,
+        "WazaDataName": ""
     }
 }

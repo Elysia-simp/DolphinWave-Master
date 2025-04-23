@@ -1,0 +1,893 @@
+{
+    "1": {
+        "Id": 1,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 125,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "2": {
+        "Id": 2,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 125,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "3": {
+        "Id": 3,
+        "EnemyCharaSetID": 10400202,
+        "MotionPlayRate": 125,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "4": {
+        "Id": 4,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 170,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "5": {
+        "Id": 5,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 170,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "6": {
+        "Id": 6,
+        "EnemyCharaSetID": 10400202,
+        "MotionPlayRate": 170,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "7": {
+        "Id": 7,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 215,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "8": {
+        "Id": 8,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 215,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "9": {
+        "Id": 9,
+        "EnemyCharaSetID": 10400202,
+        "MotionPlayRate": 215,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "10": {
+        "Id": 10,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 260,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "11": {
+        "Id": 11,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 260,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "12": {
+        "Id": 12,
+        "EnemyCharaSetID": 10400202,
+        "MotionPlayRate": 260,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 101,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "13": {
+        "Id": 13,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 300,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "14": {
+        "Id": 14,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 300,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "15": {
+        "Id": 15,
+        "EnemyCharaSetID": 10400202,
+        "MotionPlayRate": 300,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "16": {
+        "Id": 16,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 320,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "17": {
+        "Id": 17,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 320,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "18": {
+        "Id": 18,
+        "EnemyCharaSetID": 10400202,
+        "MotionPlayRate": 320,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "19": {
+        "Id": 19,
+        "EnemyCharaSetID": 10200202,
+        "MotionPlayRate": 340,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "20": {
+        "Id": 20,
+        "EnemyCharaSetID": 10300202,
+        "MotionPlayRate": 340,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "21": {
+        "Id": 21,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 340,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "22": {
+        "Id": 22,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 360,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "23": {
+        "Id": 23,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 360,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "24": {
+        "Id": 24,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 360,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "25": {
+        "Id": 25,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 380,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "26": {
+        "Id": 26,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 380,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "27": {
+        "Id": 27,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 380,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 201,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "28": {
+        "Id": 28,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "29": {
+        "Id": 29,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "30": {
+        "Id": 30,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "31": {
+        "Id": 31,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "32": {
+        "Id": 32,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "33": {
+        "Id": 33,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "34": {
+        "Id": 34,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "35": {
+        "Id": 35,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "36": {
+        "Id": 36,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "37": {
+        "Id": 37,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "38": {
+        "Id": 38,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "39": {
+        "Id": 39,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "40": {
+        "Id": 40,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "41": {
+        "Id": 41,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "42": {
+        "Id": 42,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "43": {
+        "Id": 43,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "44": {
+        "Id": 44,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "45": {
+        "Id": 45,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "46": {
+        "Id": 46,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "47": {
+        "Id": 47,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "48": {
+        "Id": 48,
+        "EnemyCharaSetID": 10400203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "49": {
+        "Id": 49,
+        "EnemyCharaSetID": 10200203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "50": {
+        "Id": 50,
+        "EnemyCharaSetID": 10300203,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "51": {
+        "Id": 51,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "52": {
+        "Id": 52,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "53": {
+        "Id": 53,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "54": {
+        "Id": 54,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "55": {
+        "Id": 55,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "56": {
+        "Id": 56,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "57": {
+        "Id": 57,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "58": {
+        "Id": 58,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "59": {
+        "Id": 59,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "60": {
+        "Id": 60,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "61": {
+        "Id": 61,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "62": {
+        "Id": 62,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "63": {
+        "Id": 63,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "64": {
+        "Id": 64,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "65": {
+        "Id": 65,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "66": {
+        "Id": 66,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "67": {
+        "Id": 67,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "68": {
+        "Id": 68,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "69": {
+        "Id": 69,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "70": {
+        "Id": 70,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "71": {
+        "Id": 71,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "72": {
+        "Id": 72,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "73": {
+        "Id": 73,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "74": {
+        "Id": 74,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "75": {
+        "Id": 75,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "76": {
+        "Id": 76,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "77": {
+        "Id": 77,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "78": {
+        "Id": 78,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "79": {
+        "Id": 79,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "80": {
+        "Id": 80,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "81": {
+        "Id": 81,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "82": {
+        "Id": 82,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "83": {
+        "Id": 83,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "84": {
+        "Id": 84,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "85": {
+        "Id": 85,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "86": {
+        "Id": 86,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "87": {
+        "Id": 87,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "88": {
+        "Id": 88,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "89": {
+        "Id": 89,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "90": {
+        "Id": 90,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "91": {
+        "Id": 91,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "92": {
+        "Id": 92,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "93": {
+        "Id": 93,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "94": {
+        "Id": 94,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "95": {
+        "Id": 95,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "96": {
+        "Id": 96,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "97": {
+        "Id": 97,
+        "EnemyCharaSetID": 10200204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 40,
+        "ExcellentJudgeRatio": 30,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "98": {
+        "Id": 98,
+        "EnemyCharaSetID": 10300204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 30,
+        "ExcellentJudgeRatio": 50,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    },
+    "99": {
+        "Id": 99,
+        "EnemyCharaSetID": 10400204,
+        "MotionPlayRate": 400,
+        "GreatJudgeRatio": 15,
+        "ExcellentJudgeRatio": 90,
+        "ScoreTableID": 301,
+        "EnemyOffsetPos": "0,0,0"
+    }
+}

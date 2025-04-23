@@ -27,7 +27,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：咲宮入華\n　　　　都条みちる\n\nKIRISHIMAの主力マシンとして長く\n会社を支えてきた一台で操作性もよく\nバランスの取れた一台だが\n最新の他社のマシンと比べると\n性能上見劣りする部分があるようだ。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "1002": {
         "Id": 1002,
@@ -57,7 +58,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：陽南杏里\n　　　　彩戸詩絵\n\nエクシールのマイナーチェンジ機で\n杏里に合わせてカスタマイズされている。\n杏里から受ける印象とは反対に、安定感を\n高めたカスタマイズがされており整備員でも\n簡単に操縦できるようになっている。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "2001": {
         "Id": 2001,
@@ -87,7 +89,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：相馬颯\n　　　　風見エレン\n\nKAZAMI　SEA　TECの最新モデルを\n颯専用にカスタムしたマシン。\nKAZAMI　SEA　TECのマシンは\nベース機からのカスタムが容易になっており\nその拡張性の高さも人気の要因になっている。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "2002": {
         "Id": 2002,
@@ -117,7 +120,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：永雪氷織\n　　　　シュネー・ヴァイスベルグ\n\nKAZAMI　SEA　TECの一般モデルを\n氷織に合わせてカスタムしたマシン。\nあえて一般モデルのカスタム機に\n乗ることにより、氷織の強さは更に\n強調されることになるとはエレンの談である。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "3001": {
         "Id": 3001,
@@ -146,8 +150,9 @@
         "FavoriteWeather": 301006,
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
-        "Text": "搭乗者：黒瀬見波\n　　　　伊澄桐利\n\n日向重工の最新モデル。\n桐利と見波の案で痛ペイントになる予定もあったが\n事前に桐利がうっかりブログで漏らし\n炎上したことによって見送りとなった。\n",
-        "OnAlbum": 1
+        "Text": "搭乗者：黒瀬見波\n　　　　伊澄桐利\n\n日向重工の最新モデル。\n桐利と見波の案で痛ペイントになる予定もあった\nが事前に桐利がうっかりブログで漏らし\n炎上したことによって見送りとなった。\n",
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "3002": {
         "Id": 3002,
@@ -177,7 +182,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：刃兼乙姫\n　　　　暮無夕離\n\n日向重工で一般的に売られているモデル。\n値は張るが、性能と耐久性には定評があり、\nマニアの間で評判が高い。\n\n",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "4001": {
         "Id": 4001,
@@ -207,7 +213,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：住乃絵紫苑\n　　　　ヘリー・ルイス\n\nヘリーがデザインをしたUMIマシン。\n基本的な枠組みはKAZAMIのものなので\n紫苑でも扱いやすいものになっている。\n\n",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "4002": {
         "Id": 4002,
@@ -237,7 +244,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：ヴィーナ\n　　　　セレナ・ルイス\n\nセレナがデザインをしたUMIマシン。\nこちらも基本的な枠組みはKAZAMIのもの。\nヴィーナやセレナからの要望を受けて\n特別に変更を加えている部分がいくらかあるが、\n性能上の変化はあまり無い。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "5001": {
         "Id": 5001,
@@ -267,7 +275,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：山葉由芽\n　　　　浦見かな\n\nかなが工場のパーツの性能を示すために\n汎用マシンに、浦見製鉄所のパーツを\n組み合わせ、改造した機体。\n独自に改造を重ねた機体のため、その姿は他社の\nマシンと比べると一風変わっている。\n一応レギュレーションは守られているようだ。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "6001": {
         "Id": 6001,
@@ -297,7 +306,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：村早麻汐\n　　　　久々利トモ\n\n日向重工がＦＭワダツミに提供したマシン。\nデザインはＦＭワダツミのスタッフ考案で\n日向特有の無骨な感じは全く感じられない。\nそのため同じマシンが欲しいという要望が\nかなり多いのだが特注品のため\n大量生産できず乙姫の頭を悩ませている。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "7001": {
         "Id": 7001,
@@ -327,7 +337,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：アイネス\n　　　　ナハト\n\n日向重工がISRWに提供したマシン。\nアイネスとナハト用に設定してあるかというと\n実はそうでもなく、スペック自体は日向重工の\n一般的なＵＭＩマシンとそこまで変わらない。\n人間が扱うものをアイネスとナハトが\n使うこと自体に意味がある……らしい。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "7002": {
         "Id": 7002,
@@ -357,7 +368,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "搭乗者：咲良・アントニー\n　　　　アマデア・ウォルファ\n\n日向重工がISRWに提供したマシン。\n咲良は日向重工の特色が出ている\nＵＭＩマシンに乗りたいと希望していたが\nチームとしての特色を出すために\nアマデアがデザインの原案を考えたらしい。\n無論咲良は不満に思ったようだが好評だとか。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "52001": {
         "Id": 52001,
@@ -387,7 +399,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "武戦レーシングの輪堂凛が駆るマシンを\nイメージした見た目のＵＭＩマシン。\n最高時速500km！というわけにはいかないが、\nハイスピードでも安定した動きが出来るよう\n設計がされているとかいないとか。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 0
     },
     "53001": {
         "Id": 53001,
@@ -417,7 +430,8 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "閃乱カグラシリーズのマスコット\n「べべたん」を模したＵＭＩマシンです。\n以前の閃乱カグラとジェットバトルの\nコラボレーションを受けて制作されたようで\n見た目から受ける印象と違って高性能です。\n日向重工のマシンがベースらしいですが\n咲良は性能に喜びつつも微妙な\n表情をしていたとアイネスは記憶しています。",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "99001": {
         "Id": 99001,
@@ -447,12 +461,13 @@
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
         "Text": "バナナボート。\nそれ以上でもそれ以下でもない。\n動力部にあたる部分は見当たらないが、\n何故かＵＭＩマシンと遜色ない動作が可能。\nこれで大会に出場して勝利すれば\nみんなビックリすること間違いなし！",
-        "OnAlbum": 1
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "8001": {
         "Id": 8001,
         "StateGroupId": 1,
-        "MachineName": "つぐみ＆はる機(仮)",
+        "MachineName": "QoQs",
         "GroupNo": 8,
         "MaxLevel": 120,
         "GrowthType": 1,
@@ -472,17 +487,18 @@
         "MaxCriticalAtk": 0,
         "MaxHpHeal": 0,
         "MaxSpCharge": 0,
-        "FavoriteTime": 303003,
-        "FavoriteWeather": 301004,
+        "FavoriteTime": 303008,
+        "FavoriteWeather": 301006,
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
-        "Text": "GRIMO→GOETIAの1号機。仮の説明文です。",
-        "OnAlbum": 0
+        "Text": "搭乗者：紙枝つぐみ\n　　　　羽仁原はる\n\n名称は「Queen of Queens」の略であり \n数多くあるストリートのチームの中で\n自分こそが真の女王だと気合を入れるために\nつぐみが名前を付けたのだとか。",
+        "OnAlbum": 1,
+        "OnDiorama": 1
     },
     "8002": {
         "Id": 8002,
         "StateGroupId": 1,
-        "MachineName": "憂乃＆むうる機(仮)",
+        "MachineName": "Tartarus",
         "GroupNo": 8,
         "MaxLevel": 120,
         "GrowthType": 1,
@@ -503,10 +519,11 @@
         "MaxHpHeal": 0,
         "MaxSpCharge": 0,
         "FavoriteTime": 303005,
-        "FavoriteWeather": 301004,
+        "FavoriteWeather": 301006,
         "SalePrice": 100000,
         "DefaultWrappingId": 1,
-        "Text": "GRIMO→GOETIAの2号機。仮の説明文です。",
-        "OnAlbum": 0
+        "Text": "搭乗者：ユノ\n　　　　玄口むうる\n\nあくまでウワサに過ぎないが\nユノは自分の気に入らない相手を\nマシンの後ろに縛り付け、海に出ていくらしいが\n帰ってきたときはみなユノの忠実な\nしもべとなってしまっているのだとか。",
+        "OnAlbum": 1,
+        "OnDiorama": 1
     }
 }

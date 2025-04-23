@@ -3,7 +3,7 @@
         "Id": 1001420108,
         "Name": "鼓舞",
         "FilterType": "204",
-        "SkillText_01": "SUN属性の味方全体の与ダメージを10%アップ(5ターン)",
+        "SkillText_01": "SUN属性の味方の与ダメージを10%アップ(5ターン)",
         "Condition_01": 801002,
         "MainEffectId_01": 120166,
         "SubEffectId_01": 0,
@@ -23,9 +23,149 @@
         "Id": 2001440108,
         "Name": "鼓舞",
         "FilterType": "204",
-        "SkillText_01": "MOON属性の味方全体の与ダメージを10%アップ(5ターン)",
+        "SkillText_01": "MOON属性の味方の与ダメージを10%アップ(5ターン)",
         "Condition_01": 802003,
         "MainEffectId_01": 120174,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "7001450208": {
+        "Id": 7001450208,
+        "Name": "シールドダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "次のスキルのシールドダメージを1アップ",
+        "Condition_01": 807002,
+        "MainEffectId_01": 120167,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "5001450208": {
+        "Id": 5001450208,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "WIND属性の味方の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 801004,
+        "MainEffectId_01": 120194,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "54001420108": {
+        "Id": 54001420108,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "SUN属性の味方の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 800001,
+        "MainEffectId_01": 120199,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "4003410208": {
+        "Id": 4003410208,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "WAVE属性の味方の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 800002,
+        "MainEffectId_01": 120212,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "2004410308": {
+        "Id": 2004410308,
+        "Name": "スキルダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "オーバーリンク直後のスキルの与ダメージを30%アップ(1ターン)",
+        "Condition_01": 806002,
+        "MainEffectId_01": 120213,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "4002430108": {
+        "Id": 4002430108,
+        "Name": "スキルダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "オーバーリンク直後のスキルの与ダメージを30%アップ(1ターン)",
+        "Condition_01": 804004,
+        "MainEffectId_01": 120213,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "2005420208": {
+        "Id": 2005420208,
+        "Name": "シールドダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "次のスキルのシールドダメージを1アップ",
+        "Condition_01": 802002,
+        "MainEffectId_01": 120167,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "55001440108": {
+        "Id": 55001440108,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "MOON属性の味方の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 800003,
+        "MainEffectId_01": 120174,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "55002440108": {
+        "Id": 55002440108,
+        "Name": "シールドダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "次のスキルのシールドダメージを1アップ",
+        "Condition_01": 800004,
+        "MainEffectId_01": 120167,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "55003440108": {
+        "Id": 55003440108,
+        "Name": "スキルダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "オーバーリンク直後のスキルの与ダメージを30%アップ(1ターン)",
+        "Condition_01": 800005,
+        "MainEffectId_01": 120213,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "3003410208": {
+        "Id": 3003410208,
+        "Name": "シールドダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "次のスキルのシールドダメージを1アップ",
+        "Condition_01": 803004,
+        "MainEffectId_01": 120167,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "1001450308": {
+        "Id": 1001450308,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "WIND属性の味方の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 801005,
+        "MainEffectId_01": 120194,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "1003450108": {
+        "Id": 1003450108,
+        "Name": "スキルダメージアップ",
+        "FilterType": "204",
+        "SkillText_01": "オーバーリンク直後のスキルの与ダメージを30%アップ(1ターン)",
+        "Condition_01": 801002,
+        "MainEffectId_01": 120213,
+        "SubEffectId_01": 0,
+        "SubEffectId_01_02": 0
+    },
+    "8001430108": {
+        "Id": 8001430108,
+        "Name": "鼓舞",
+        "FilterType": "204",
+        "SkillText_01": "GEAR属性の味方の与ダメージを10%アップ(5ターン)",
+        "Condition_01": 808002,
+        "MainEffectId_01": 120235,
         "SubEffectId_01": 0,
         "SubEffectId_01_02": 0
     }

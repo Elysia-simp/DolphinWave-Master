@@ -196,5 +196,14 @@
         "ConditionTargetDetailId": 1,
         "MainEffectId": 520012,
         "SubEffectId": 0
+    },
+    "303008": {
+        "Id": 303008,
+        "MachineSkillText": "アタッカーに編成時、マシンのSPチャージ力が2アップ",
+        "MachineIconId": 301,
+        "ConditionTargetDetail": 5,
+        "ConditionTargetDetailId": 1,
+        "MainEffectId": 520010,
+        "SubEffectId": 0
     }
 }

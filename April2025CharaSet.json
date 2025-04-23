@@ -1,0 +1,128 @@
+{
+    "10100101": {
+        "Id": 10100101,
+        "CharaBaseID": 10100,
+        "HP": 10000,
+        "NormalAtk": 800,
+        "MinSPAtk": 300,
+        "SPCharge": 30,
+        "SPChargeMagTableID": 1
+    },
+    "10200201": {
+        "Id": 10200201,
+        "CharaBaseID": 10200,
+        "HP": 4800,
+        "NormalAtk": 1000,
+        "MinSPAtk": 2000,
+        "SPCharge": 35,
+        "SPChargeMagTableID": 2
+    },
+    "10300201": {
+        "Id": 10300201,
+        "CharaBaseID": 10300,
+        "HP": 8500,
+        "NormalAtk": 1500,
+        "MinSPAtk": 2500,
+        "SPCharge": 50,
+        "SPChargeMagTableID": 3
+    },
+    "10400201": {
+        "Id": 10400201,
+        "CharaBaseID": 10400,
+        "HP": 10000,
+        "NormalAtk": 2000,
+        "MinSPAtk": 3000,
+        "SPCharge": 60,
+        "SPChargeMagTableID": 4
+    },
+    "10100102": {
+        "Id": 10100102,
+        "CharaBaseID": 10100,
+        "HP": 3,
+        "NormalAtk": 1,
+        "MinSPAtk": 3,
+        "SPCharge": 30,
+        "SPChargeMagTableID": 1
+    },
+    "10200202": {
+        "Id": 10200202,
+        "CharaBaseID": 10200,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 25,
+        "SPChargeMagTableID": 2
+    },
+    "10300202": {
+        "Id": 10300202,
+        "CharaBaseID": 10300,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 40,
+        "SPChargeMagTableID": 3
+    },
+    "10400202": {
+        "Id": 10400202,
+        "CharaBaseID": 10400,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 50,
+        "SPChargeMagTableID": 4
+    },
+    "10200203": {
+        "Id": 10200203,
+        "CharaBaseID": 10200,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 25,
+        "SPChargeMagTableID": 2
+    },
+    "10300203": {
+        "Id": 10300203,
+        "CharaBaseID": 10300,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 40,
+        "SPChargeMagTableID": 3
+    },
+    "10400203": {
+        "Id": 10400203,
+        "CharaBaseID": 10400,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 50,
+        "SPChargeMagTableID": 4
+    },
+    "10200204": {
+        "Id": 10200204,
+        "CharaBaseID": 10200,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 25,
+        "SPChargeMagTableID": 2
+    },
+    "10300204": {
+        "Id": 10300204,
+        "CharaBaseID": 10300,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 40,
+        "SPChargeMagTableID": 3
+    },
+    "10400204": {
+        "Id": 10400204,
+        "CharaBaseID": 10400,
+        "HP": 2,
+        "NormalAtk": 1,
+        "MinSPAtk": 2,
+        "SPCharge": 50,
+        "SPChargeMagTableID": 4
+    }
+}

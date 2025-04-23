@@ -6,7 +6,8 @@
         "AccessoryModel": "ah02004",
         "AccessoryPosition": "0",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "10021010013": {
         "Id": 10021010013,
@@ -15,7 +16,8 @@
         "AccessoryModel": "af01001",
         "AccessoryPosition": "3/4",
         "DefaultView": false,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "30011040033": {
         "Id": 30011040033,
@@ -24,7 +26,8 @@
         "AccessoryModel": "af04003",
         "AccessoryPosition": "5",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "30020020053": {
         "Id": 30020020053,
@@ -33,7 +36,8 @@
         "AccessoryModel": "ah02005",
         "AccessoryPosition": "0",
         "DefaultView": true,
-        "CharacterHairId": 30020010104
+        "CharacterHairId": 30020010104,
+        "NotRemovableType": 0
     },
     "30041040043": {
         "Id": 30041040043,
@@ -42,7 +46,8 @@
         "AccessoryModel": "af04004",
         "AccessoryPosition": "5/6",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "40031040053": {
         "Id": 40031040053,
@@ -51,7 +56,8 @@
         "AccessoryModel": "af04005",
         "AccessoryPosition": "5/6",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "40041040063": {
         "Id": 40041040063,
@@ -60,7 +66,8 @@
         "AccessoryModel": "af04006",
         "AccessoryPosition": "5/6",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "60011040273": {
         "Id": 60011040273,
@@ -69,7 +76,8 @@
         "AccessoryModel": "af04027",
         "AccessoryPosition": "5",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "70020020163": {
         "Id": 70020020163,
@@ -78,7 +86,8 @@
         "AccessoryModel": "ah02016",
         "AccessoryPosition": "0",
         "DefaultView": true,
-        "CharacterHairId": 70020010224
+        "CharacterHairId": 70020010224,
+        "NotRemovableType": 0
     },
     "70031040233": {
         "Id": 70031040233,
@@ -87,7 +96,8 @@
         "AccessoryModel": "af04023",
         "AccessoryPosition": "5",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "10050020403": {
         "Id": 10050020403,
@@ -96,24 +106,67 @@
         "AccessoryModel": "ah02040",
         "AccessoryPosition": "0",
         "DefaultView": true,
-        "CharacterHairId": 10050010254
+        "CharacterHairId": 10050010254,
+        "NotRemovableType": 0
     },
     "80011040493": {
         "Id": 80011040493,
         "CharacterId": 8001,
         "AccessoryType": 1,
         "AccessoryModel": "af04049",
-        "AccessoryPosition": "5",
+        "AccessoryPosition": "6",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
     },
     "80021040503": {
         "Id": 80021040503,
         "CharacterId": 8002,
         "AccessoryType": 1,
         "AccessoryModel": "af04050",
+        "AccessoryPosition": "5/6",
+        "DefaultView": true,
+        "CharacterHairId": 0,
+        "NotRemovableType": 0
+    },
+    "540011040573": {
+        "Id": 540011040573,
+        "CharacterId": 54001,
+        "AccessoryType": 1,
+        "AccessoryModel": "af04057",
         "AccessoryPosition": "5",
         "DefaultView": true,
-        "CharacterHairId": 0
+        "CharacterHairId": 0,
+        "NotRemovableType": 1
+    },
+    "540021040583": {
+        "Id": 540021040583,
+        "CharacterId": 54002,
+        "AccessoryType": 1,
+        "AccessoryModel": "af04058",
+        "AccessoryPosition": "5",
+        "DefaultView": true,
+        "CharacterHairId": 0,
+        "NotRemovableType": 1
+    },
+    "550012030213": {
+        "Id": 550012030213,
+        "CharacterId": 55001,
+        "AccessoryType": 2,
+        "AccessoryModel": "ab03021",
+        "AccessoryPosition": "15",
+        "DefaultView": true,
+        "CharacterHairId": 0,
+        "NotRemovableType": 1
+    },
+    "550022030213": {
+        "Id": 550022030213,
+        "CharacterId": 55002,
+        "AccessoryType": 2,
+        "AccessoryModel": "ab03021",
+        "AccessoryPosition": "15",
+        "DefaultView": true,
+        "CharacterHairId": 0,
+        "NotRemovableType": 1
     }
 }

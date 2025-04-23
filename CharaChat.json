@@ -682,5 +682,77 @@
         "UnlockType": 8,
         "UnlockId": 7004015,
         "Closeness": 0
+    },
+    "8001001": {
+        "Id": 8001001,
+        "Priority": 1,
+        "CharaId": 8001,
+        "ChatCategory": 200,
+        "UnlockType": 0,
+        "UnlockId": 0,
+        "Closeness": 1
+    },
+    "8001002": {
+        "Id": 8001002,
+        "Priority": 2,
+        "CharaId": 8001,
+        "ChatCategory": 200,
+        "UnlockType": 8,
+        "UnlockId": 8001010,
+        "Closeness": 0
+    },
+    "8002001": {
+        "Id": 8002001,
+        "Priority": 1,
+        "CharaId": 8002,
+        "ChatCategory": 200,
+        "UnlockType": 0,
+        "UnlockId": 0,
+        "Closeness": 1
+    },
+    "8002002": {
+        "Id": 8002002,
+        "Priority": 2,
+        "CharaId": 8002,
+        "ChatCategory": 200,
+        "UnlockType": 8,
+        "UnlockId": 8002010,
+        "Closeness": 0
+    },
+    "8003001": {
+        "Id": 8003001,
+        "Priority": 1,
+        "CharaId": 8003,
+        "ChatCategory": 200,
+        "UnlockType": 0,
+        "UnlockId": 0,
+        "Closeness": 1
+    },
+    "8003002": {
+        "Id": 8003002,
+        "Priority": 2,
+        "CharaId": 8003,
+        "ChatCategory": 200,
+        "UnlockType": 8,
+        "UnlockId": 8003010,
+        "Closeness": 0
+    },
+    "8004001": {
+        "Id": 8004001,
+        "Priority": 1,
+        "CharaId": 8004,
+        "ChatCategory": 200,
+        "UnlockType": 0,
+        "UnlockId": 0,
+        "Closeness": 1
+    },
+    "8004002": {
+        "Id": 8004002,
+        "Priority": 2,
+        "CharaId": 8004,
+        "ChatCategory": 200,
+        "UnlockType": 8,
+        "UnlockId": 8004010,
+        "Closeness": 0
     }
 }

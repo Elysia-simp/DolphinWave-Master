@@ -2917,9 +2917,9 @@
     },
     "1050013201": {
         "Id": 1050013201,
-        "Name": "由芽(サンタ)専用SPメダル",
+        "Name": "由芽(ミニスカサンタ)専用SPメダル",
         "Type": 13,
-        "ItemText": "由芽(サンタ)専用のSPメダル。SPスキルを強化するための素材",
+        "ItemText": "由芽(ミニスカサンタ)専用のSPメダル。SPスキルを強化するための素材",
         "SalePrice": 0,
         "SalePossible": true,
         "DisplayPriority": 332
@@ -2928,7 +2928,7 @@
         "Id": 11200046,
         "Name": "サンタ袋",
         "Type": 12,
-        "ItemText": "由芽(サンタ)専用のアイテム。覚醒させるための素材",
+        "ItemText": "由芽(ミニスカサンタ)専用のアイテム。覚醒させるための素材",
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 333
@@ -2937,7 +2937,7 @@
         "Id": 11100038,
         "Name": "由芽のミニスカサンタ",
         "Type": 11,
-        "ItemText": "由芽(サンタ)専用のアイテム。限界突破させるための素材",
+        "ItemText": "由芽(ミニスカサンタ)専用のアイテム。限界突破させるための素材",
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 334
@@ -16585,5 +16585,5630 @@
         "SalePrice": 0,
         "SalePossible": false,
         "DisplayPriority": 1838
+    },
+    "13300137": {
+        "Id": 13300137,
+        "Name": "第2回ドンキカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1899
+    },
+    "13200055": {
+        "Id": 13200055,
+        "Name": "イベントBOXガチャチケット(ドン・キホーテコラボ)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(ドン・キホーテコラボ)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1900
+    },
+    "13700037": {
+        "Id": 13700037,
+        "Name": "ボスチケット(ドン・キホーテコラボ)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1901
+    },
+    "1030043301": {
+        "Id": 1030043301,
+        "Name": "夕離(ドン・キホーテ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "夕離(ドン・キホーテ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1902
+    },
+    "11200092": {
+        "Id": 11200092,
+        "Name": "ドンキのびっくり箱",
+        "Type": 12,
+        "ItemText": "夕離(ドン・キホーテ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1903
+    },
+    "11100084": {
+        "Id": 11100084,
+        "Name": "ドン・キホーテパーカー",
+        "Type": 11,
+        "ItemText": "夕離(ドン・キホーテ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1904
+    },
+    "14500016": {
+        "Id": 14500016,
+        "Name": "夕離(ドン・キホーテ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "夕離(ドン・キホーテ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1905
+    },
+    "14500017": {
+        "Id": 14500017,
+        "Name": "夕離(ドン・キホーテ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "夕離(ドン・キホーテ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1906
+    },
+    "14500018": {
+        "Id": 14500018,
+        "Name": "夕離(ドン・キホーテ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "夕離(ドン・キホーテ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1907
+    },
+    "13300138": {
+        "Id": 13300138,
+        "Name": "KIRISHIMAネグリジェ交換チケット",
+        "Type": 33,
+        "ItemText": "専用のショップでドン・キホーテコラボ特別衣装のドルフィンと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1908
+    },
+    "13900816": {
+        "Id": 13900816,
+        "Name": "ドン・キホーテ来店！ドルフィンのお買い物に迫る！制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1907
+    },
+    "13900817": {
+        "Id": 13900817,
+        "Name": "ドン・キホーテ来店！ドルフィンのお買い物に迫る！ EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1906
+    },
+    "13900818": {
+        "Id": 13900818,
+        "Name": "第2回ドン・キホーテコラボカップ優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1905
+    },
+    "13900819": {
+        "Id": 13900819,
+        "Name": "第2回ドン・キホーテコラボカップ優勝 EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1904
+    },
+    "12904649": {
+        "Id": 12904649,
+        "Name": "両手胸指さし",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1902
+    },
+    "14500019": {
+        "Id": 14500019,
+        "Name": "かな(ドン・キホーテ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "かな(ドン・キホーテ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1915
+    },
+    "14500020": {
+        "Id": 14500020,
+        "Name": "かな(ドン・キホーテ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "かな(ドン・キホーテ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1916
+    },
+    "14500021": {
+        "Id": 14500021,
+        "Name": "かな(ドン・キホーテ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "かな(ドン・キホーテ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1917
+    },
+    "1070014502": {
+        "Id": 1070014502,
+        "Name": "アイネス(セクシーチャイナ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "アイネス(セクシーチャイナ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1918
+    },
+    "1070024501": {
+        "Id": 1070024501,
+        "Name": "ナハト(セクシーチャイナ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ナハト(セクシーチャイナ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1919
+    },
+    "13300139": {
+        "Id": 13300139,
+        "Name": "ボスメダル(燃えよドルフィン)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1920
+    },
+    "13200056": {
+        "Id": 13200056,
+        "Name": "ドルフィンフェスガチャチケット(セクシーチャイナ)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(セクシーチャイナ)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1921
+    },
+    "1010043501": {
+        "Id": 1010043501,
+        "Name": "詩絵(秋コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "詩絵(秋コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1922
+    },
+    "11200093": {
+        "Id": 11200093,
+        "Name": "ピーマン",
+        "Type": 12,
+        "ItemText": "詩絵(秋コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1923
+    },
+    "11100085": {
+        "Id": 11100085,
+        "Name": "詩絵の秋コーデ服",
+        "Type": 11,
+        "ItemText": "詩絵(秋コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1924
+    },
+    "14500022": {
+        "Id": 14500022,
+        "Name": "詩絵(秋コーデ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "詩絵(秋コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1925
+    },
+    "14500023": {
+        "Id": 14500023,
+        "Name": "詩絵(秋コーデ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "詩絵(秋コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1926
+    },
+    "14500024": {
+        "Id": 14500024,
+        "Name": "詩絵(秋コーデ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "詩絵(秋コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1927
+    },
+    "13900820": {
+        "Id": 13900820,
+        "Name": "燃えよドルフィン!博士のトレーニングプログラム!制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1926
+    },
+    "13900821": {
+        "Id": 13900821,
+        "Name": "燃えよドルフィン!博士のトレーニングプログラム!EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1925
+    },
+    "13900822": {
+        "Id": 13900822,
+        "Name": "燃えよドルフィン!博士のトレーニングプログラム!ULTIMATE制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1924
+    },
+    "12904677": {
+        "Id": 12904677,
+        "Name": "セクシーチャイナ(アイネス)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1922
+    },
+    "12904705": {
+        "Id": 12904705,
+        "Name": "セクシーチャイナ(ナハト)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1921
+    },
+    "1050014502": {
+        "Id": 1050014502,
+        "Name": "由芽(Xmasリボンビキニ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "由芽(Xmasリボンビキニ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1934
+    },
+    "1010044503": {
+        "Id": 1010044503,
+        "Name": "詩絵(クリスマスビキニ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "詩絵(クリスマスビキニ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1935
+    },
+    "13300140": {
+        "Id": 13300140,
+        "Name": "ボスメダル(聖夜のプレゼント)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1936
+    },
+    "13200057": {
+        "Id": 13200057,
+        "Name": "ドルフィンフェスガチャチケット(Xmas2024)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(Xmas2024)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1937
+    },
+    "1070033502": {
+        "Id": 1070033502,
+        "Name": "咲良(サンタライダー)専用SPメダル",
+        "Type": 13,
+        "ItemText": "咲良(サンタライダー)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1938
+    },
+    "11200094": {
+        "Id": 11200094,
+        "Name": "トナカイのキーホルダー",
+        "Type": 12,
+        "ItemText": "咲良(サンタライダー)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1939
+    },
+    "11100086": {
+        "Id": 11100086,
+        "Name": "咲良のサンタライダージャケット",
+        "Type": 11,
+        "ItemText": "咲良(サンタライダー)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1940
+    },
+    "14500025": {
+        "Id": 14500025,
+        "Name": "咲良(サンタライダー)専用の雫・小",
+        "Type": 45,
+        "ItemText": "咲良(サンタライダー)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1941
+    },
+    "14500026": {
+        "Id": 14500026,
+        "Name": "咲良(サンタライダー)専用の雫・中",
+        "Type": 45,
+        "ItemText": "咲良(サンタライダー)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1942
+    },
+    "14500027": {
+        "Id": 14500027,
+        "Name": "咲良(サンタライダー)専用の雫・大",
+        "Type": 45,
+        "ItemText": "咲良(サンタライダー)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1943
+    },
+    "13900823": {
+        "Id": 13900823,
+        "Name": "お届け！聖夜のプレゼント制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1942
+    },
+    "13900824": {
+        "Id": 13900824,
+        "Name": "お届け！聖夜のプレゼントEXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1941
+    },
+    "13900825": {
+        "Id": 13900825,
+        "Name": "お届け！聖夜のプレゼントULTIMATE制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1940
+    },
+    "13900826": {
+        "Id": 13900826,
+        "Name": "チャレンジバトル-28th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1939
+    },
+    "13900827": {
+        "Id": 13900827,
+        "Name": "チャレンジバトル-28th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1938
+    },
+    "13900828": {
+        "Id": 13900828,
+        "Name": "チャレンジバトル-28th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1937
+    },
+    "13900829": {
+        "Id": 13900829,
+        "Name": "チャレンジバトル-28th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1936
+    },
+    "13900830": {
+        "Id": 13900830,
+        "Name": "チャレンジバトル-28th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1935
+    },
+    "13900831": {
+        "Id": 13900831,
+        "Name": "チャレンジバトル-28th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1934
+    },
+    "13900832": {
+        "Id": 13900832,
+        "Name": "チャレンジバトル-28th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1933
+    },
+    "13900833": {
+        "Id": 13900833,
+        "Name": "チャレンジバトル-28th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1932
+    },
+    "13900834": {
+        "Id": 13900834,
+        "Name": "チャレンジバトル-28th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1931
+    },
+    "13900835": {
+        "Id": 13900835,
+        "Name": "チャレンジバトル-28th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1930
+    },
+    "13900836": {
+        "Id": 13900836,
+        "Name": "チャレンジバトル-28th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1929
+    },
+    "13900837": {
+        "Id": 13900837,
+        "Name": "チャレンジバトル-28th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1928
+    },
+    "13900838": {
+        "Id": 13900838,
+        "Name": "チャレンジバトル-28th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1927
+    },
+    "13900839": {
+        "Id": 13900839,
+        "Name": "チャレンジバトル-28th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1926
+    },
+    "13900840": {
+        "Id": 13900840,
+        "Name": "チャレンジバトル-28th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1925
+    },
+    "13900841": {
+        "Id": 13900841,
+        "Name": "チャレンジバトル-28th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1924
+    },
+    "13900842": {
+        "Id": 13900842,
+        "Name": "チャレンジバトル-28th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1923
+    },
+    "13900843": {
+        "Id": 13900843,
+        "Name": "チャレンジバトル-28th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1922
+    },
+    "13900844": {
+        "Id": 13900844,
+        "Name": "チャレンジバトル-28th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1921
+    },
+    "13900845": {
+        "Id": 13900845,
+        "Name": "チャレンジバトル-28th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1920
+    },
+    "13900846": {
+        "Id": 13900846,
+        "Name": "チャレンジバトル-28th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1919
+    },
+    "12904733": {
+        "Id": 12904733,
+        "Name": "両手でリボン",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1918
+    },
+    "12904761": {
+        "Id": 12904761,
+        "Name": "指先あたためしゃがみ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1917
+    },
+    "14500028": {
+        "Id": 14500028,
+        "Name": "エレン(冬コーデ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "エレン(冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1971
+    },
+    "14500029": {
+        "Id": 14500029,
+        "Name": "エレン(冬コーデ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "エレン(冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1972
+    },
+    "14500030": {
+        "Id": 14500030,
+        "Name": "エレン(冬コーデ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "エレン(冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1973
+    },
+    "14500031": {
+        "Id": 14500031,
+        "Name": "詩絵(トナカイウェア)専用の雫・小",
+        "Type": 45,
+        "ItemText": "詩絵(トナカイウェア)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1974
+    },
+    "14500032": {
+        "Id": 14500032,
+        "Name": "詩絵(トナカイウェア)専用の雫・中",
+        "Type": 45,
+        "ItemText": "詩絵(トナカイウェア)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1975
+    },
+    "14500033": {
+        "Id": 14500033,
+        "Name": "詩絵(トナカイウェア)専用の雫・大",
+        "Type": 45,
+        "ItemText": "詩絵(トナカイウェア)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1976
+    },
+    "13900847": {
+        "Id": 13900847,
+        "Name": "枕元には夢がある！プレゼント大作戦！制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1975
+    },
+    "13900848": {
+        "Id": 13900848,
+        "Name": "枕元には夢がある！プレゼント大作戦！EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1974
+    },
+    "13700038": {
+        "Id": 13700038,
+        "Name": "ボスチケット(プレゼント大作戦！)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1979
+    },
+    "14500034": {
+        "Id": 14500034,
+        "Name": "由芽(ミニスカサンタ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "由芽(ミニスカサンタ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1980
+    },
+    "14500035": {
+        "Id": 14500035,
+        "Name": "由芽(ミニスカサンタ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "由芽(ミニスカサンタ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1981
+    },
+    "14500036": {
+        "Id": 14500036,
+        "Name": "由芽(ミニスカサンタ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "由芽(ミニスカサンタ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1982
+    },
+    "13300141": {
+        "Id": 13300141,
+        "Name": "クリスマスソングの歌詞カード",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 1983
+    },
+    "12904789": {
+        "Id": 12904789,
+        "Name": "両手伸ばし",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1982
+    },
+    "1540014201": {
+        "Id": 1540014201,
+        "Name": "関羽(ワダツミスタイル)専用SPメダル",
+        "Type": 13,
+        "ItemText": "関羽(ワダツミスタイル)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1986
+    },
+    "1540024201": {
+        "Id": 1540024201,
+        "Name": "趙雲(ワダツミスタイル)専用SPメダル",
+        "Type": 13,
+        "ItemText": "趙雲(ワダツミスタイル)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 1987
+    },
+    "13900849": {
+        "Id": 13900849,
+        "Name": "勾玉を引き継ぎし者！闘士とドルフィンの邂逅制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1986
+    },
+    "13900850": {
+        "Id": 13900850,
+        "Name": "勾玉を引き継ぎし者！闘士とドルフィンの邂逅EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1985
+    },
+    "13900851": {
+        "Id": 13900851,
+        "Name": "チャレンジバトル-29th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1984
+    },
+    "13900852": {
+        "Id": 13900852,
+        "Name": "チャレンジバトル-29th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1983
+    },
+    "13900853": {
+        "Id": 13900853,
+        "Name": "チャレンジバトル-29th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1982
+    },
+    "13900854": {
+        "Id": 13900854,
+        "Name": "チャレンジバトル-29th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1981
+    },
+    "13900855": {
+        "Id": 13900855,
+        "Name": "チャレンジバトル-29th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1980
+    },
+    "13900856": {
+        "Id": 13900856,
+        "Name": "チャレンジバトル-29th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1979
+    },
+    "13900857": {
+        "Id": 13900857,
+        "Name": "チャレンジバトル-29th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1978
+    },
+    "13900858": {
+        "Id": 13900858,
+        "Name": "チャレンジバトル-29th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1977
+    },
+    "13900859": {
+        "Id": 13900859,
+        "Name": "チャレンジバトル-29th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1976
+    },
+    "13900860": {
+        "Id": 13900860,
+        "Name": "チャレンジバトル-29th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1975
+    },
+    "13900861": {
+        "Id": 13900861,
+        "Name": "チャレンジバトル-29th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1974
+    },
+    "13900862": {
+        "Id": 13900862,
+        "Name": "チャレンジバトル-29th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1973
+    },
+    "13900863": {
+        "Id": 13900863,
+        "Name": "チャレンジバトル-29th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1972
+    },
+    "13900864": {
+        "Id": 13900864,
+        "Name": "チャレンジバトル-29th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1971
+    },
+    "13900865": {
+        "Id": 13900865,
+        "Name": "チャレンジバトル-29th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1970
+    },
+    "13900866": {
+        "Id": 13900866,
+        "Name": "チャレンジバトル-29th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1969
+    },
+    "13900867": {
+        "Id": 13900867,
+        "Name": "チャレンジバトル-29th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1968
+    },
+    "13900868": {
+        "Id": 13900868,
+        "Name": "チャレンジバトル-29th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1967
+    },
+    "13900869": {
+        "Id": 13900869,
+        "Name": "チャレンジバトル-29th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1966
+    },
+    "13900870": {
+        "Id": 13900870,
+        "Name": "チャレンジバトル-29th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1965
+    },
+    "13900871": {
+        "Id": 13900871,
+        "Name": "チャレンジバトル-29th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1964
+    },
+    "13200058": {
+        "Id": 13200058,
+        "Name": "イベントBOXガチャチケット(真・一騎当千)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(真・一騎当千)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2027
+    },
+    "13700039": {
+        "Id": 13700039,
+        "Name": "ボスチケット(真・一騎当千)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2028
+    },
+    "1060013201": {
+        "Id": 1060013201,
+        "Name": "麻汐(関羽の成都学園制服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "麻汐(関羽の成都学園制服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2029
+    },
+    "11200095": {
+        "Id": 11200095,
+        "Name": "勾玉のレプリカ",
+        "Type": 12,
+        "ItemText": "麻汐(関羽の成都学園制服)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2030
+    },
+    "11100087": {
+        "Id": 11100087,
+        "Name": "関羽の成都学園制服",
+        "Type": 11,
+        "ItemText": "麻汐(関羽の成都学園制服)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2031
+    },
+    "13200059": {
+        "Id": 13200059,
+        "Name": "コラボガチャチケット(真・一騎当千)",
+        "Type": 32,
+        "ItemText": "真・一騎当千コラボドルフィンフェスガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2032
+    },
+    "14500037": {
+        "Id": 14500037,
+        "Name": "麻汐(関羽の成都学園制服)専用の雫・小",
+        "Type": 45,
+        "ItemText": "麻汐(関羽の成都学園制服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2033
+    },
+    "14500038": {
+        "Id": 14500038,
+        "Name": "麻汐(関羽の成都学園制服)専用の雫・中",
+        "Type": 45,
+        "ItemText": "麻汐(関羽の成都学園制服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2034
+    },
+    "14500039": {
+        "Id": 14500039,
+        "Name": "麻汐(関羽の成都学園制服)専用の雫・大",
+        "Type": 45,
+        "ItemText": "麻汐(関羽の成都学園制服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2035
+    },
+    "12904817": {
+        "Id": 12904817,
+        "Name": "真・一騎当千：関羽(ワダツミスタイル)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2034
+    },
+    "12904845": {
+        "Id": 12904845,
+        "Name": "真・一騎当千：趙雲(ワダツミスタイル)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2033
+    },
+    "13300146": {
+        "Id": 13300146,
+        "Name": "URメモリーセレクトチケット3",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURメモリーと交換できるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2094
+    },
+    "1040034102": {
+        "Id": 1040034102,
+        "Name": "ヴィーナ(2025迎春紅水着/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヴィーナ(2025迎春紅水着/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2039
+    },
+    "1020044103": {
+        "Id": 1020044103,
+        "Name": "シュネー(2025迎春白水着/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "シュネー(2025迎春白水着/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2040
+    },
+    "1060024102": {
+        "Id": 1060024102,
+        "Name": "トモ(迎春の歌姫/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "トモ(迎春の歌姫/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2041
+    },
+    "1010054201": {
+        "Id": 1010054201,
+        "Name": "小針(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "小針(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2042
+    },
+    "1020054201": {
+        "Id": 1020054201,
+        "Name": "萌依(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "萌依(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2043
+    },
+    "13200060": {
+        "Id": 13200060,
+        "Name": "イベントBOXガチャチケット(お正月2025)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(お正月2025)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2044
+    },
+    "13700040": {
+        "Id": 13700040,
+        "Name": "ボスチケット(お正月2025)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2045
+    },
+    "13300142": {
+        "Id": 13300142,
+        "Name": "お正月カップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2046
+    },
+    "1070043101": {
+        "Id": 1070043101,
+        "Name": "アマデア(袴振袖)専用SPメダル",
+        "Type": 13,
+        "ItemText": "アマデア(袴振袖)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2047
+    },
+    "11200096": {
+        "Id": 11200096,
+        "Name": "和柄巾着",
+        "Type": 12,
+        "ItemText": "アマデア(袴振袖)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2048
+    },
+    "11100088": {
+        "Id": 11100088,
+        "Name": "アマデアの袴振袖",
+        "Type": 11,
+        "ItemText": "アマデア(袴振袖)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2049
+    },
+    "13200061": {
+        "Id": 13200061,
+        "Name": "ドルフィンフェスガチャチケット(お正月2025)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(お正月2025)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2050
+    },
+    "13200062": {
+        "Id": 13200062,
+        "Name": "お正月DFドルフィン確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "お正月DFドルフィン確定チケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2051
+    },
+    "13200063": {
+        "Id": 13200063,
+        "Name": "お正月DFメモリー確定ガチャチケット",
+        "Type": 32,
+        "ItemText": "お正月DFメモリー確定チケットガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2052
+    },
+    "13300143": {
+        "Id": 13300143,
+        "Name": "URライダーセレクトチケット(お正月2025)",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURライダーと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2053
+    },
+    "13300144": {
+        "Id": 13300144,
+        "Name": "URガンナーセレクトチケット(お正月2025)",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURガンナーと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2054
+    },
+    "14500040": {
+        "Id": 14500040,
+        "Name": "アマデア(袴振袖)専用の雫・小",
+        "Type": 45,
+        "ItemText": "アマデア(袴振袖)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2055
+    },
+    "14500041": {
+        "Id": 14500041,
+        "Name": "アマデア(袴振袖)専用の雫・中",
+        "Type": 45,
+        "ItemText": "アマデア(袴振袖)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2056
+    },
+    "14500042": {
+        "Id": 14500042,
+        "Name": "アマデア(袴振袖)専用の雫・大",
+        "Type": 45,
+        "ItemText": "アマデア(袴振袖)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2057
+    },
+    "13900888": {
+        "Id": 13900888,
+        "Name": "紅白対抗！トモ・スペシャルLIVE24-25制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2056
+    },
+    "13900889": {
+        "Id": 13900889,
+        "Name": "紅白対抗！トモ・スペシャルLIVE24-25EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2055
+    },
+    "13900890": {
+        "Id": 13900890,
+        "Name": "UJAJお正月カップ　優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2054
+    },
+    "13900891": {
+        "Id": 13900891,
+        "Name": "UJAJお正月カップEXTREME・紅　優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2053
+    },
+    "13900892": {
+        "Id": 13900892,
+        "Name": "UJAJお正月カップEXTREME・白　優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2052
+    },
+    "13900893": {
+        "Id": 13900893,
+        "Name": "チャレンジバトル-30th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2051
+    },
+    "13900894": {
+        "Id": 13900894,
+        "Name": "チャレンジバトル-30th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2050
+    },
+    "13900895": {
+        "Id": 13900895,
+        "Name": "チャレンジバトル-30th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2049
+    },
+    "13900896": {
+        "Id": 13900896,
+        "Name": "チャレンジバトル-30th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2048
+    },
+    "13900897": {
+        "Id": 13900897,
+        "Name": "チャレンジバトル-30th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2047
+    },
+    "13900898": {
+        "Id": 13900898,
+        "Name": "チャレンジバトル-30th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2046
+    },
+    "13900899": {
+        "Id": 13900899,
+        "Name": "チャレンジバトル-30th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2045
+    },
+    "13900900": {
+        "Id": 13900900,
+        "Name": "チャレンジバトル-30th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2044
+    },
+    "13900901": {
+        "Id": 13900901,
+        "Name": "チャレンジバトル-30th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2043
+    },
+    "13900902": {
+        "Id": 13900902,
+        "Name": "チャレンジバトル-30th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2042
+    },
+    "13900903": {
+        "Id": 13900903,
+        "Name": "チャレンジバトル-30th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2041
+    },
+    "13900904": {
+        "Id": 13900904,
+        "Name": "チャレンジバトル-30th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2040
+    },
+    "13900905": {
+        "Id": 13900905,
+        "Name": "チャレンジバトル-30th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2039
+    },
+    "13900906": {
+        "Id": 13900906,
+        "Name": "チャレンジバトル-30th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2038
+    },
+    "13900907": {
+        "Id": 13900907,
+        "Name": "チャレンジバトル-30th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2037
+    },
+    "13900908": {
+        "Id": 13900908,
+        "Name": "チャレンジバトル-30th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2036
+    },
+    "13900909": {
+        "Id": 13900909,
+        "Name": "チャレンジバトル-30th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2035
+    },
+    "13900910": {
+        "Id": 13900910,
+        "Name": "チャレンジバトル-30th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2034
+    },
+    "13900911": {
+        "Id": 13900911,
+        "Name": "チャレンジバトル-30th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2033
+    },
+    "13900912": {
+        "Id": 13900912,
+        "Name": "チャレンジバトル-30th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2032
+    },
+    "13900913": {
+        "Id": 13900913,
+        "Name": "チャレンジバトル-30th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2031
+    },
+    "12904873": {
+        "Id": 12904873,
+        "Name": "腰に手髪払い",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2030
+    },
+    "12904901": {
+        "Id": 12904901,
+        "Name": "腕伸ばし",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2029
+    },
+    "12904929": {
+        "Id": 12904929,
+        "Name": "頭上ピース",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2028
+    },
+    "12904957": {
+        "Id": 12904957,
+        "Name": "にゃんにゃん座り",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2027
+    },
+    "12904985": {
+        "Id": 12904985,
+        "Name": "萌え萌えビーム",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2026
+    },
+    "14500046": {
+        "Id": 14500046,
+        "Name": "見波(巫女服)専用の雫・小",
+        "Type": 45,
+        "ItemText": "見波(巫女服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2095
+    },
+    "14500047": {
+        "Id": 14500047,
+        "Name": "見波(巫女服)専用の雫・中",
+        "Type": 45,
+        "ItemText": "見波(巫女服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2096
+    },
+    "14500048": {
+        "Id": 14500048,
+        "Name": "見波(巫女服)専用の雫・大",
+        "Type": 45,
+        "ItemText": "見波(巫女服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2097
+    },
+    "13700041": {
+        "Id": 13700041,
+        "Name": "ボスチケット(正月トレ)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2089
+    },
+    "14500043": {
+        "Id": 14500043,
+        "Name": "颯(小紋着物)専用の雫・小",
+        "Type": 45,
+        "ItemText": "颯(小紋着物)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2090
+    },
+    "14500044": {
+        "Id": 14500044,
+        "Name": "颯(小紋着物)専用の雫・中",
+        "Type": 45,
+        "ItemText": "颯(小紋着物)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2091
+    },
+    "14500045": {
+        "Id": 14500045,
+        "Name": "颯(小紋着物)専用の雫・大",
+        "Type": 45,
+        "ItemText": "颯(小紋着物)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2092
+    },
+    "13300145": {
+        "Id": 13300145,
+        "Name": "トレーニングメダル(お正月)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2093
+    },
+    "1080011501": {
+        "Id": 1080011501,
+        "Name": "つぐみ(練習着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "つぐみ(練習着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2047
+    },
+    "1080021501": {
+        "Id": 1080021501,
+        "Name": "はる(練習着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "はる(練習着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2047
+    },
+    "1080031501": {
+        "Id": 1080031501,
+        "Name": "ユノ(練習着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ユノ(練習着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2047
+    },
+    "1080041501": {
+        "Id": 1080041501,
+        "Name": "むうる(練習着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "むうる(練習着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2047
+    },
+    "12905013": {
+        "Id": 12905013,
+        "Name": "こぶし握り",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2045
+    },
+    "1040024301": {
+        "Id": 1040024301,
+        "Name": "ヘリー(温泉バスタオル/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ヘリー(温泉バスタオル/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2105
+    },
+    "1040044302": {
+        "Id": 1040044302,
+        "Name": "セレナ(温泉バスローブ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "セレナ(温泉バスローブ/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2106
+    },
+    "13200064": {
+        "Id": 13200064,
+        "Name": "イベントBOXガチャチケット(温泉)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(温泉)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2107
+    },
+    "13700042": {
+        "Id": 13700042,
+        "Name": "ボスチケット(温泉)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2108
+    },
+    "1070013301": {
+        "Id": 1070013301,
+        "Name": "アイネス(秋冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "アイネス(秋冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2109
+    },
+    "11200097": {
+        "Id": 11200097,
+        "Name": "UMIエネルギー",
+        "Type": 12,
+        "ItemText": "アイネス(秋冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2110
+    },
+    "11100089": {
+        "Id": 11100089,
+        "Name": "アイネスの秋冬コーデ",
+        "Type": 11,
+        "ItemText": "アイネス(秋冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2111
+    },
+    "13200065": {
+        "Id": 13200065,
+        "Name": "ドルフィンフェスガチャチケット(温泉)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(温泉)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2112
+    },
+    "14500049": {
+        "Id": 14500049,
+        "Name": "アイネス(秋冬コーデ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "アイネス(秋冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2113
+    },
+    "14500050": {
+        "Id": 14500050,
+        "Name": "アイネス(秋冬コーデ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "アイネス(秋冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2114
+    },
+    "14500051": {
+        "Id": 14500051,
+        "Name": "アイネス(秋冬コーデ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "アイネス(秋冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2115
+    },
+    "13900914": {
+        "Id": 13900914,
+        "Name": "ゆらり極楽 触れ合いの温泉旅行制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2114
+    },
+    "13900915": {
+        "Id": 13900915,
+        "Name": "ゆらり極楽 触れ合いの温泉旅行EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2113
+    },
+    "12905041": {
+        "Id": 12905041,
+        "Name": "両手広げ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2112
+    },
+    "12905069": {
+        "Id": 12905069,
+        "Name": "もじもじ座り",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2111
+    },
+    "13900916": {
+        "Id": 13900916,
+        "Name": "チャレンジバトル-31st Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2110
+    },
+    "13900917": {
+        "Id": 13900917,
+        "Name": "チャレンジバトル-31st Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2109
+    },
+    "13900918": {
+        "Id": 13900918,
+        "Name": "チャレンジバトル-31st Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2108
+    },
+    "13900919": {
+        "Id": 13900919,
+        "Name": "チャレンジバトル-31st Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2107
+    },
+    "13900920": {
+        "Id": 13900920,
+        "Name": "チャレンジバトル-31st Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2106
+    },
+    "13900921": {
+        "Id": 13900921,
+        "Name": "チャレンジバトル-31st Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2105
+    },
+    "13900922": {
+        "Id": 13900922,
+        "Name": "チャレンジバトル-31st Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2104
+    },
+    "13900923": {
+        "Id": 13900923,
+        "Name": "チャレンジバトル-31st Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2103
+    },
+    "13900924": {
+        "Id": 13900924,
+        "Name": "チャレンジバトル-31st Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2102
+    },
+    "13900925": {
+        "Id": 13900925,
+        "Name": "チャレンジバトル-31st Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2101
+    },
+    "13900926": {
+        "Id": 13900926,
+        "Name": "チャレンジバトル-31st Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2100
+    },
+    "13900927": {
+        "Id": 13900927,
+        "Name": "チャレンジバトル-31st Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2099
+    },
+    "13900928": {
+        "Id": 13900928,
+        "Name": "チャレンジバトル-31st Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2098
+    },
+    "13900929": {
+        "Id": 13900929,
+        "Name": "チャレンジバトル-31st Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2097
+    },
+    "13900930": {
+        "Id": 13900930,
+        "Name": "チャレンジバトル-31st Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2096
+    },
+    "13900931": {
+        "Id": 13900931,
+        "Name": "チャレンジバトル-31st Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2095
+    },
+    "13900932": {
+        "Id": 13900932,
+        "Name": "チャレンジバトル-31st Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2094
+    },
+    "13900933": {
+        "Id": 13900933,
+        "Name": "チャレンジバトル-31st Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2093
+    },
+    "13900934": {
+        "Id": 13900934,
+        "Name": "チャレンジバトル-31st Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2092
+    },
+    "13900935": {
+        "Id": 13900935,
+        "Name": "チャレンジバトル-31st Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2091
+    },
+    "13900936": {
+        "Id": 13900936,
+        "Name": "チャレンジバトル-31st Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2090
+    },
+    "13300147": {
+        "Id": 13300147,
+        "Name": "プラムカップトロフィー",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2141
+    },
+    "13900937": {
+        "Id": 13900937,
+        "Name": "UJAJ プラムカップ 優勝",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2140
+    },
+    "13900938": {
+        "Id": 13900938,
+        "Name": "UJAJ プラムカップ 優勝 EXTREME",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2139
+    },
+    "13900939": {
+        "Id": 13900939,
+        "Name": "UJAJ プラムカップ 優勝 ULTIMATE",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2138
+    },
+    "1020054202": {
+        "Id": 1020054202,
+        "Name": "萌依(Vt小悪魔/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "萌依(Vt小悪魔/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2146
+    },
+    "1020024202": {
+        "Id": 1020024202,
+        "Name": "エレン(Vtキューピッド/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "エレン(Vtキューピッド/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2147
+    },
+    "13300148": {
+        "Id": 13300148,
+        "Name": "チョコマドレーヌ",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2148
+    },
+    "13700043": {
+        "Id": 13700043,
+        "Name": "ボスチケット(バレンタイン2025)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2149
+    },
+    "13300149": {
+        "Id": 13300149,
+        "Name": "バレンタインメッセージカード2025",
+        "Type": 33,
+        "ItemText": "ショップで特別な称号と交換できるアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2150
+    },
+    "1060023201": {
+        "Id": 1060023201,
+        "Name": "トモ(チョコミントワンピース)専用SPメダル",
+        "Type": 13,
+        "ItemText": "トモ(チョコミントワンピース)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2151
+    },
+    "11200098": {
+        "Id": 11200098,
+        "Name": "カフェのオーダーシート",
+        "Type": 12,
+        "ItemText": "トモ(チョコミントワンピース)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2152
+    },
+    "11100090": {
+        "Id": 11100090,
+        "Name": "トモのチョコミントワンピース",
+        "Type": 11,
+        "ItemText": "トモ(チョコミントワンピース)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2153
+    },
+    "13200066": {
+        "Id": 13200066,
+        "Name": "ドルフィンフェスガチャチケット(Vt2025)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(バレンタイン2025)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2154
+    },
+    "14500052": {
+        "Id": 14500052,
+        "Name": "トモ(チョコミントワンピース)専用の雫・小",
+        "Type": 45,
+        "ItemText": "トモ(チョコミントワンピース)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2155
+    },
+    "14500053": {
+        "Id": 14500053,
+        "Name": "トモ(チョコミントワンピース)専用の雫・中",
+        "Type": 45,
+        "ItemText": "トモ(チョコミントワンピース)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2156
+    },
+    "14500054": {
+        "Id": 14500054,
+        "Name": "トモ(チョコミントワンピース)専用の雫・大",
+        "Type": 45,
+        "ItemText": "トモ(チョコミントワンピース)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2157
+    },
+    "14500055": {
+        "Id": 14500055,
+        "Name": "咲良(エプロンスタイル)専用の雫・小",
+        "Type": 45,
+        "ItemText": "咲良(エプロンスタイル)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2158
+    },
+    "14500056": {
+        "Id": 14500056,
+        "Name": "咲良(エプロンスタイル)専用の雫・中",
+        "Type": 45,
+        "ItemText": "咲良(エプロンスタイル)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2159
+    },
+    "14500057": {
+        "Id": 14500057,
+        "Name": "咲良(エプロンスタイル)専用の雫・大",
+        "Type": 45,
+        "ItemText": "咲良(エプロンスタイル)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2160
+    },
+    "14100087": {
+        "Id": 14100087,
+        "Name": "入華のチョコ2025",
+        "Type": 41,
+        "ItemText": "入華からの特別なチョコ。\nたくさん食べられるようにと\n大きなバケツ型のケースに\nチョコがぎっしり詰まっている\n入華の分は、更に巨大な箱に\n保存されているそうだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2161
+    },
+    "14100088": {
+        "Id": 14100088,
+        "Name": "みちるのチョコ2025",
+        "Type": 41,
+        "ItemText": "みちるからの特別なチョコ。\nクールなコーヒーカップを\nチョコで再現してみたそうだが\nクールの方向性については\nまだ確信を持てていない様子。\n迷走の道は続きそうだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2162
+    },
+    "14100089": {
+        "Id": 14100089,
+        "Name": "杏里のチョコ2025",
+        "Type": 41,
+        "ItemText": "杏里からの特別なチョコ。\n調理をしている途中で\n形が崩れてしまったため\n全てまとめて巨大なチョコに\n仕上げたらしい。\nボリューム満点の一品だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2163
+    },
+    "14100090": {
+        "Id": 14100090,
+        "Name": "詩絵のチョコ2025",
+        "Type": 41,
+        "ItemText": "詩絵からの特別なチョコ。\nビターな味わいを感じられる\n手作りのオペラケーキ。\n裏方を含めたチーム全員分を\n手作りしてきたそうだが\nいつ準備をしていたのだろうか。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2164
+    },
+    "14100091": {
+        "Id": 14100091,
+        "Name": "小針のチョコ2025",
+        "Type": 41,
+        "ItemText": "小針からの特別なチョコ。\nイルカの形をした\n小さなサイズの可愛いチョコ。\n昔からバレンタインの日には\n入華が食べ過ぎていないかを\n見張るのが小針の役割らしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2165
+    },
+    "14100092": {
+        "Id": 14100092,
+        "Name": "颯のチョコ2025",
+        "Type": 41,
+        "ItemText": "颯からの特別なチョコ。\nいつでも手持ちで\n食べやすいスティックチョコ。\n運動の前後には\nしっかりエネルギーを補給して\n一緒にジョギングを楽しもう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2166
+    },
+    "14100093": {
+        "Id": 14100093,
+        "Name": "エレンのチョコ2025",
+        "Type": 41,
+        "ItemText": "エレンからの特別なチョコ。\n高級食材と金粉を使用した\n黄金のガトーショコラ。\n綺麗に整えられた包装からは\nエレンの細やかな\n心遣いを感じられる。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2167
+    },
+    "14100094": {
+        "Id": 14100094,
+        "Name": "氷織のチョコ2025",
+        "Type": 41,
+        "ItemText": "氷織からの特別なチョコ。\n大好物のいちご大福を\nチョコで包み込んだ一品。\n勝負事には気持ちも大切。\n甘い物で気分を上げて\n新たな勝利を掴み取ろう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2168
+    },
+    "14100095": {
+        "Id": 14100095,
+        "Name": "シュネーのチョコ2025",
+        "Type": 41,
+        "ItemText": "シュネーからの特別なチョコ。\nシュネーバルというお菓子で\n今年は様々な種類の味を作って\nプレゼントしてくれた。\n今度は新たなレシピの開発にも\n挑戦してみたいとのこと。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2169
+    },
+    "14100096": {
+        "Id": 14100096,
+        "Name": "萌依のチョコ2025",
+        "Type": 41,
+        "ItemText": "萌依からの特別なチョコ。\n萌依の好物であるスコーンを\nチョコ風味に仕上げた一品。\n紅茶と一緒に頂くことで\n風見家の優雅なひと時を\n体験することが出来そうだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2170
+    },
+    "14100097": {
+        "Id": 14100097,
+        "Name": "見波のチョコ2025",
+        "Type": 41,
+        "ItemText": "見波からの特別なチョコ。\n封印されしドラゴンのチョコで\nこれを食べると、竜の加護を\n受けられるようになるとか。\n真偽の程は定かではないが\nパワーが漲りそうな一品だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2171
+    },
+    "14100098": {
+        "Id": 14100098,
+        "Name": "桐利のチョコ2025",
+        "Type": 41,
+        "ItemText": "桐利からの特別なチョコ。\n「桐利の味を楽しめる！」と\nブログで作り方を公開したが\nデコり部分の説明ばかりで\n肝心のレシピが載っていないと\nプチ炎上してしまったらしい。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2172
+    },
+    "14100099": {
+        "Id": 14100099,
+        "Name": "乙姫のチョコ2025",
+        "Type": 41,
+        "ItemText": "乙姫からの特別なチョコ。\n上質な味わいのチョコ最中で\n桐利の作っていたマカロンから\n着想を得て手作りしたらしい。\nお菓子作りにおいても\n日々の鍛錬が重要だそうだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2173
+    },
+    "14100100": {
+        "Id": 14100100,
+        "Name": "夕離のチョコ2025",
+        "Type": 41,
+        "ItemText": "夕離からの特別なチョコ。\n普通の形のチョコに見えるが\n実は香辛料が大量に使われた\n激辛カレー味のチョコ。\n見た目と中身のギャップには\n騙されないようにしよう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2174
+    },
+    "14100101": {
+        "Id": 14100101,
+        "Name": "紫苑のチョコ2025",
+        "Type": 41,
+        "ItemText": "紫苑からの特別なチョコ。\n手作りの生チョコを丁寧に\n箱詰めしてくれたようだ。\n今回はイチゴ味にも挑戦したが\n初めてなので自信はないと\n少し緊張した面持ちだった。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2175
+    },
+    "14100102": {
+        "Id": 14100102,
+        "Name": "ヘリーのチョコ2025",
+        "Type": 41,
+        "ItemText": "ヘリーからの特別なチョコ。\nセレナとの違いを見せたいと\n今年はタルト作りに挑戦。\n形は少し崩れてしまっているが\n表面の凝った装飾からは\nヘリーの強い拘りを感じられる。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2176
+    },
+    "14100103": {
+        "Id": 14100103,
+        "Name": "ヴィーナのチョコ2025",
+        "Type": 41,
+        "ItemText": "ヴィーナからの特別なチョコ。\n愛の装飾がたっぷり施された\n赤いハート型のチョコケーキ。\nほんのりと漂う甘い香りには\n愛を強める効果があるとか。\n甘い誘惑には要注意だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2177
+    },
+    "14100104": {
+        "Id": 14100104,
+        "Name": "セレナのチョコ2025",
+        "Type": 41,
+        "ItemText": "セレナからの特別なチョコ。\nセレナが普段から乗っている\nUMIマシンを見事に再現した\n少し大きめのチョコレート。\n毎年進化するチョコの造形は\nもはや芸術と呼べるだろう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2178
+    },
+    "14100105": {
+        "Id": 14100105,
+        "Name": "由芽のチョコ2025",
+        "Type": 41,
+        "ItemText": "由芽からの特別なプレゼント。\n推しキャラが作中で買っていた\n高級感のある香水だそうで\nほのかにチョコの香りがする。\nコスプレで使ってあげれば\n由芽も喜んでくれるはずだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2179
+    },
+    "14100106": {
+        "Id": 14100106,
+        "Name": "かなのチョコ2025",
+        "Type": 41,
+        "ItemText": "かなからの特別なチョコ。\n今回も金型から自作したようで\n「うらみかな」と自分の名前が\nちゃっかり彫られている。\n何でも名前を書いておけば\n友達とも取り違えないだろう。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2180
+    },
+    "14100107": {
+        "Id": 14100107,
+        "Name": "麻汐のチョコ2025",
+        "Type": 41,
+        "ItemText": "麻汐からの特別なチョコ。\n手作りの可愛らしいチョコを\n麻汐お気に入りの\nレトロ缶に詰めてくれた。\nラジオに耳を傾けながら\n少しずつ楽しみたいものだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2181
+    },
+    "14100108": {
+        "Id": 14100108,
+        "Name": "トモのチョコ2025",
+        "Type": 41,
+        "ItemText": "トモからの特別なチョコ？\nチョコのような見た目をした\nバレンタインライブチケット。\nライブに来場することで\nチョコが貰えるそうだが\n最後まで耐えられるか心配だ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2182
+    },
+    "14100109": {
+        "Id": 14100109,
+        "Name": "アイネスのチョコ2025",
+        "Type": 41,
+        "ItemText": "アイネスからの特別なチョコ。\n手作りのチョコキャンディを\nホイルに包んで渡してくれた。\n飴なら長く楽しめて効果的と\nアイネスなりの考えや配慮も\n込められているようだ。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2183
+    },
+    "14100110": {
+        "Id": 14100110,
+        "Name": "ナハトのチョコ2025",
+        "Type": 41,
+        "ItemText": "ナハトからの特別なチョコ。\nタコさんウインナーの形をした\n小さな可愛いチョコレート。\n1つ1つに描かれた表情からは\nナハトが学んできたであろう\n様々な感情がうかがえる。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2184
+    },
+    "14100111": {
+        "Id": 14100111,
+        "Name": "咲良のチョコ2025",
+        "Type": 41,
+        "ItemText": "咲良からの特別なチョコ。\n自分の好きを目一杯詰め込んだ\nとても豪華なチョコパフェ。\n甘党にはたまらない一品だが\n欲望を解放し過ぎてしまったと\n咲良は反省気味な様子だった。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2185
+    },
+    "14100112": {
+        "Id": 14100112,
+        "Name": "アマデアのチョコ2025",
+        "Type": 41,
+        "ItemText": "アマデアからの特別なチョコ。\nザッハトルテと呼ばれるもので\n世界で最も有名と名高い\nチョコレートケーキとのこと。\nアマデアの名が世界に轟く日も\nいつか来るのかもしれない。",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2186
+    },
+    "14200087": {
+        "Id": 14200087,
+        "Name": "【バレンタイン2025】咲宮　入華",
+        "Type": 42,
+        "ItemText": "交換すると入華の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2187
+    },
+    "14200088": {
+        "Id": 14200088,
+        "Name": "【バレンタイン2025】都条　みちる",
+        "Type": 42,
+        "ItemText": "交換するとみちるの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2188
+    },
+    "14200089": {
+        "Id": 14200089,
+        "Name": "【バレンタイン2025】陽南　杏里",
+        "Type": 42,
+        "ItemText": "交換すると杏里の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2189
+    },
+    "14200090": {
+        "Id": 14200090,
+        "Name": "【バレンタイン2025】彩戸　詩絵",
+        "Type": 42,
+        "ItemText": "交換すると詩絵の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2190
+    },
+    "14200091": {
+        "Id": 14200091,
+        "Name": "【バレンタイン2025】咲宮　小針",
+        "Type": 42,
+        "ItemText": "交換すると小針の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2191
+    },
+    "14200092": {
+        "Id": 14200092,
+        "Name": "【バレンタイン2025】相馬　颯",
+        "Type": 42,
+        "ItemText": "交換すると颯の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2192
+    },
+    "14200093": {
+        "Id": 14200093,
+        "Name": "【バレンタイン2025】風見　エレン",
+        "Type": 42,
+        "ItemText": "交換するとエレンの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2193
+    },
+    "14200094": {
+        "Id": 14200094,
+        "Name": "【バレンタイン2025】永雪　氷織",
+        "Type": 42,
+        "ItemText": "交換すると氷織の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2194
+    },
+    "14200095": {
+        "Id": 14200095,
+        "Name": "【バレンタイン2025】シュネー・ヴァイスベルグ",
+        "Type": 42,
+        "ItemText": "交換するとシュネーの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2195
+    },
+    "14200096": {
+        "Id": 14200096,
+        "Name": "【バレンタイン2025】長土　萌依",
+        "Type": 42,
+        "ItemText": "交換すると萌依の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2196
+    },
+    "14200097": {
+        "Id": 14200097,
+        "Name": "【バレンタイン2025】黒瀬　見波",
+        "Type": 42,
+        "ItemText": "交換すると見波の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2197
+    },
+    "14200098": {
+        "Id": 14200098,
+        "Name": "【バレンタイン2025】伊澄　桐利",
+        "Type": 42,
+        "ItemText": "交換すると桐利の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2198
+    },
+    "14200099": {
+        "Id": 14200099,
+        "Name": "【バレンタイン2025】刃兼　乙姫",
+        "Type": 42,
+        "ItemText": "交換すると乙姫の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2199
+    },
+    "14200100": {
+        "Id": 14200100,
+        "Name": "【バレンタイン2025】暮無　夕離",
+        "Type": 42,
+        "ItemText": "交換すると夕離の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2200
+    },
+    "14200101": {
+        "Id": 14200101,
+        "Name": "【バレンタイン2025】住乃絵　紫苑",
+        "Type": 42,
+        "ItemText": "交換すると紫苑の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2201
+    },
+    "14200102": {
+        "Id": 14200102,
+        "Name": "【バレンタイン2025】ヘリー・ルイス",
+        "Type": 42,
+        "ItemText": "交換するとヘリーの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2202
+    },
+    "14200103": {
+        "Id": 14200103,
+        "Name": "【バレンタイン2025】ヴィーナ",
+        "Type": 42,
+        "ItemText": "交換するとヴィーナの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2203
+    },
+    "14200104": {
+        "Id": 14200104,
+        "Name": "【バレンタイン2025】セレナ・ルイス",
+        "Type": 42,
+        "ItemText": "交換するとセレナの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2204
+    },
+    "14200105": {
+        "Id": 14200105,
+        "Name": "【バレンタイン2025】山葉　由芽",
+        "Type": 42,
+        "ItemText": "交換すると由芽の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2205
+    },
+    "14200106": {
+        "Id": 14200106,
+        "Name": "【バレンタイン2025】浦見　かな",
+        "Type": 42,
+        "ItemText": "交換するとかなの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2206
+    },
+    "14200107": {
+        "Id": 14200107,
+        "Name": "【バレンタイン2025】村早　麻汐",
+        "Type": 42,
+        "ItemText": "交換すると麻汐の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2207
+    },
+    "14200108": {
+        "Id": 14200108,
+        "Name": "【バレンタイン2025】久々利　トモ",
+        "Type": 42,
+        "ItemText": "交換するとトモの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2208
+    },
+    "14200109": {
+        "Id": 14200109,
+        "Name": "【バレンタイン2025】アイネス",
+        "Type": 42,
+        "ItemText": "交換するとアイネスの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2209
+    },
+    "14200110": {
+        "Id": 14200110,
+        "Name": "【バレンタイン2025】ナハト",
+        "Type": 42,
+        "ItemText": "交換するとナハトの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2210
+    },
+    "14200111": {
+        "Id": 14200111,
+        "Name": "【バレンタイン2025】咲良・アントニー",
+        "Type": 42,
+        "ItemText": "交換すると咲良の特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2211
+    },
+    "14200112": {
+        "Id": 14200112,
+        "Name": "【バレンタイン2025】アマデア・ウォルファ",
+        "Type": 42,
+        "ItemText": "交換するとアマデアの特別なストーリーが見られる",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2212
+    },
+    "13900940": {
+        "Id": 13900940,
+        "Name": "小悪魔orキューピッド！？揺らぐ想いのバレンタイン制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2211
+    },
+    "13900941": {
+        "Id": 13900941,
+        "Name": "小悪魔orキューピッド！？揺らぐ想いのバレンタインEXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2210
+    },
+    "13900942": {
+        "Id": 13900942,
+        "Name": "チャレンジバトル-32nd Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2209
+    },
+    "13900943": {
+        "Id": 13900943,
+        "Name": "チャレンジバトル-32nd Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2208
+    },
+    "13900944": {
+        "Id": 13900944,
+        "Name": "チャレンジバトル-32nd Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2207
+    },
+    "13900945": {
+        "Id": 13900945,
+        "Name": "チャレンジバトル-32nd Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2206
+    },
+    "13900946": {
+        "Id": 13900946,
+        "Name": "チャレンジバトル-32nd Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2205
+    },
+    "13900947": {
+        "Id": 13900947,
+        "Name": "チャレンジバトル-32nd Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2204
+    },
+    "13900948": {
+        "Id": 13900948,
+        "Name": "チャレンジバトル-32nd Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2203
+    },
+    "13900949": {
+        "Id": 13900949,
+        "Name": "チャレンジバトル-32nd Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2202
+    },
+    "13900950": {
+        "Id": 13900950,
+        "Name": "チャレンジバトル-32nd Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2201
+    },
+    "13900951": {
+        "Id": 13900951,
+        "Name": "チャレンジバトル-32nd Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2200
+    },
+    "13900952": {
+        "Id": 13900952,
+        "Name": "チャレンジバトル-32nd Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2199
+    },
+    "13900953": {
+        "Id": 13900953,
+        "Name": "チャレンジバトル-32nd Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2198
+    },
+    "13900954": {
+        "Id": 13900954,
+        "Name": "チャレンジバトル-32nd Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2197
+    },
+    "13900955": {
+        "Id": 13900955,
+        "Name": "チャレンジバトル-32nd Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2196
+    },
+    "13900956": {
+        "Id": 13900956,
+        "Name": "チャレンジバトル-32nd Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2195
+    },
+    "13900957": {
+        "Id": 13900957,
+        "Name": "チャレンジバトル-32nd Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2194
+    },
+    "13900958": {
+        "Id": 13900958,
+        "Name": "チャレンジバトル-32nd Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2193
+    },
+    "13900959": {
+        "Id": 13900959,
+        "Name": "チャレンジバトル-32nd Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2192
+    },
+    "13900960": {
+        "Id": 13900960,
+        "Name": "チャレンジバトル-32nd Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2191
+    },
+    "13900961": {
+        "Id": 13900961,
+        "Name": "チャレンジバトル-32nd Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2190
+    },
+    "13900962": {
+        "Id": 13900962,
+        "Name": "チャレンジバトル-32nd Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2189
+    },
+    "13900963": {
+        "Id": 13900963,
+        "Name": "入華バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2188
+    },
+    "13900964": {
+        "Id": 13900964,
+        "Name": "みちるバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2187
+    },
+    "13900965": {
+        "Id": 13900965,
+        "Name": "杏里バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2186
+    },
+    "13900966": {
+        "Id": 13900966,
+        "Name": "詩絵バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2185
+    },
+    "13900967": {
+        "Id": 13900967,
+        "Name": "小針バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2184
+    },
+    "13900968": {
+        "Id": 13900968,
+        "Name": "颯バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2183
+    },
+    "13900969": {
+        "Id": 13900969,
+        "Name": "エレンバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2182
+    },
+    "13900970": {
+        "Id": 13900970,
+        "Name": "氷織バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2181
+    },
+    "13900971": {
+        "Id": 13900971,
+        "Name": "シュネーバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2180
+    },
+    "13900972": {
+        "Id": 13900972,
+        "Name": "萌依バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2179
+    },
+    "13900973": {
+        "Id": 13900973,
+        "Name": "見波バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2178
+    },
+    "13900974": {
+        "Id": 13900974,
+        "Name": "桐利バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2177
+    },
+    "13900975": {
+        "Id": 13900975,
+        "Name": "乙姫バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2176
+    },
+    "13900976": {
+        "Id": 13900976,
+        "Name": "夕離バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2175
+    },
+    "13900977": {
+        "Id": 13900977,
+        "Name": "紫苑バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2174
+    },
+    "13900978": {
+        "Id": 13900978,
+        "Name": "ヘリーバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2173
+    },
+    "13900979": {
+        "Id": 13900979,
+        "Name": "ヴィーナバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2172
+    },
+    "13900980": {
+        "Id": 13900980,
+        "Name": "セレナバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2171
+    },
+    "13900981": {
+        "Id": 13900981,
+        "Name": "由芽バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2170
+    },
+    "13900982": {
+        "Id": 13900982,
+        "Name": "かなバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2169
+    },
+    "13900983": {
+        "Id": 13900983,
+        "Name": "麻汐バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2168
+    },
+    "13900984": {
+        "Id": 13900984,
+        "Name": "トモバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2167
+    },
+    "13900985": {
+        "Id": 13900985,
+        "Name": "アイネスバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2166
+    },
+    "13900986": {
+        "Id": 13900986,
+        "Name": "ナハトバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2165
+    },
+    "13900987": {
+        "Id": 13900987,
+        "Name": "咲良バレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2164
+    },
+    "13900988": {
+        "Id": 13900988,
+        "Name": "アマデアバレンタイン2025",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2163
+    },
+    "13900989": {
+        "Id": 13900989,
+        "Name": "入華の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2162
+    },
+    "13900990": {
+        "Id": 13900990,
+        "Name": "みちるの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2161
+    },
+    "13900991": {
+        "Id": 13900991,
+        "Name": "杏里の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2160
+    },
+    "13900992": {
+        "Id": 13900992,
+        "Name": "詩絵の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2159
+    },
+    "13900993": {
+        "Id": 13900993,
+        "Name": "小針の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2158
+    },
+    "13900994": {
+        "Id": 13900994,
+        "Name": "颯の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2157
+    },
+    "13900995": {
+        "Id": 13900995,
+        "Name": "エレンの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2156
+    },
+    "13900996": {
+        "Id": 13900996,
+        "Name": "氷織の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2155
+    },
+    "13900997": {
+        "Id": 13900997,
+        "Name": "シュネーの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2154
+    },
+    "13900998": {
+        "Id": 13900998,
+        "Name": "萌依の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2153
+    },
+    "13900999": {
+        "Id": 13900999,
+        "Name": "見波の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2152
+    },
+    "13901000": {
+        "Id": 13901000,
+        "Name": "桐利の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2151
+    },
+    "13901001": {
+        "Id": 13901001,
+        "Name": "乙姫の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2150
+    },
+    "13901002": {
+        "Id": 13901002,
+        "Name": "夕離の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2149
+    },
+    "13901003": {
+        "Id": 13901003,
+        "Name": "紫苑の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2148
+    },
+    "13901004": {
+        "Id": 13901004,
+        "Name": "ヘリーの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2147
+    },
+    "13901005": {
+        "Id": 13901005,
+        "Name": "ヴィーナの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2146
+    },
+    "13901006": {
+        "Id": 13901006,
+        "Name": "セレナの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2145
+    },
+    "13901007": {
+        "Id": 13901007,
+        "Name": "由芽の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2144
+    },
+    "13901008": {
+        "Id": 13901008,
+        "Name": "かなの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2143
+    },
+    "13901009": {
+        "Id": 13901009,
+        "Name": "麻汐の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2142
+    },
+    "13901010": {
+        "Id": 13901010,
+        "Name": "トモの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2141
+    },
+    "13901011": {
+        "Id": 13901011,
+        "Name": "アイネスの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2140
+    },
+    "13901012": {
+        "Id": 13901012,
+        "Name": "ナハトの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2139
+    },
+    "13901013": {
+        "Id": 13901013,
+        "Name": "咲良の本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2138
+    },
+    "13901014": {
+        "Id": 13901014,
+        "Name": "アマデアの本命 バレンタイン2025",
+        "Type": 39,
+        "ItemText": "本命メッセージカード2025で交換できる特別な称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2137
+    },
+    "12905097": {
+        "Id": 12905097,
+        "Name": "両手手紙差し出し",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2300
+    },
+    "12905125": {
+        "Id": 12905125,
+        "Name": "片足引き手紙構え",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2299
+    },
+    "13300151": {
+        "Id": 13300151,
+        "Name": "本命メッセージカード2025",
+        "Type": 33,
+        "ItemText": "ショップで特別な称号と交換できるアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2352
+    },
+    "14800001": {
+        "Id": 14800001,
+        "Name": "エナジーグミ(プレ)",
+        "Type": 48,
+        "ItemText": "YABUSAMEバトルの挑戦回数を回復するアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1985
+    },
+    "13900872": {
+        "Id": 13900872,
+        "Name": "YABUSAME～プレオープン～ SS",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1963
+    },
+    "13900873": {
+        "Id": 13900873,
+        "Name": "YABUSAME～プレオープン～ S+",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1962
+    },
+    "13900874": {
+        "Id": 13900874,
+        "Name": "YABUSAME～プレオープン～ S",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1961
+    },
+    "13900875": {
+        "Id": 13900875,
+        "Name": "YABUSAME～プレオープン～ S-",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1960
+    },
+    "13900876": {
+        "Id": 13900876,
+        "Name": "YABUSAME～プレオープン～ A+",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1959
+    },
+    "13900877": {
+        "Id": 13900877,
+        "Name": "YABUSAME～プレオープン～ A",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1958
+    },
+    "13900878": {
+        "Id": 13900878,
+        "Name": "YABUSAME～プレオープン～ A-",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1957
+    },
+    "13900879": {
+        "Id": 13900879,
+        "Name": "YABUSAME～プレオープン～ B+",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1956
+    },
+    "13900880": {
+        "Id": 13900880,
+        "Name": "YABUSAME～プレオープン～ B",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1955
+    },
+    "13900881": {
+        "Id": 13900881,
+        "Name": "YABUSAME～プレオープン～ B-",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1954
+    },
+    "13900882": {
+        "Id": 13900882,
+        "Name": "YABUSAME～プレオープン～ C+",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1953
+    },
+    "13900883": {
+        "Id": 13900883,
+        "Name": "YABUSAME～プレオープン～ C",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1952
+    },
+    "13900884": {
+        "Id": 13900884,
+        "Name": "YABUSAME～プレオープン～ C-",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1951
+    },
+    "13900885": {
+        "Id": 13900885,
+        "Name": "YABUSAME～プレオープン～ D+",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1950
+    },
+    "13900886": {
+        "Id": 13900886,
+        "Name": "YABUSAME～プレオープン～ D",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1949
+    },
+    "13900887": {
+        "Id": 13900887,
+        "Name": "YABUSAME～プレオープン～ D-",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 1948
+    },
+    "14500061": {
+        "Id": 14500061,
+        "Name": "ヘリー(パティシエ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "ヘリー(パティシエ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2379
+    },
+    "14500062": {
+        "Id": 14500062,
+        "Name": "ヘリー(パティシエ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "ヘリー(パティシエ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2380
+    },
+    "14500063": {
+        "Id": 14500063,
+        "Name": "ヘリー(パティシエ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "ヘリー(パティシエ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2381
+    },
+    "13300152": {
+        "Id": 13300152,
+        "Name": "トレーニングメダル(節分)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2382
+    },
+    "12905153": {
+        "Id": 12905153,
+        "Name": "鬼のポーズ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2381
+    },
+    "1550014401": {
+        "Id": 1550014401,
+        "Name": "ララ(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ララ(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2288
+    },
+    "1550024401": {
+        "Id": 1550024401,
+        "Name": "モモ(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "モモ(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2289
+    },
+    "13200067": {
+        "Id": 13200067,
+        "Name": "イベントBOXガチャチケット(To LOVEる)",
+        "Type": 32,
+        "ItemText": "イベントBOXガチャ(To LOVEる)を引けるガチャチケット",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2290
+    },
+    "13700044": {
+        "Id": 13700044,
+        "Name": "ボスチケット(To LOVEる)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2291
+    },
+    "1070023401": {
+        "Id": 1070023401,
+        "Name": "ナハト(彩南高校制服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ナハト(彩南高校制服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2292
+    },
+    "11200099": {
+        "Id": 11200099,
+        "Name": "ララの発明品",
+        "Type": 12,
+        "ItemText": "ナハト(彩南高校制服)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2293
+    },
+    "11100091": {
+        "Id": 11100091,
+        "Name": "彩南高校制服",
+        "Type": 11,
+        "ItemText": "ナハト(彩南高校制服)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2294
+    },
+    "13200068": {
+        "Id": 13200068,
+        "Name": "コラボガチャチケット(To LOVEる)",
+        "Type": 32,
+        "ItemText": "To LOVEるコラボドルフィンフェスガチャが引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2295
+    },
+    "14500058": {
+        "Id": 14500058,
+        "Name": "ナハト(彩南高校制服)専用の雫・小",
+        "Type": 45,
+        "ItemText": "ナハト(彩南高校制服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2296
+    },
+    "14500059": {
+        "Id": 14500059,
+        "Name": "ナハト(彩南高校制服)専用の雫・中",
+        "Type": 45,
+        "ItemText": "ナハト(彩南高校制服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2297
+    },
+    "14500060": {
+        "Id": 14500060,
+        "Name": "ナハト(彩南高校制服)専用の雫・大",
+        "Type": 45,
+        "ItemText": "ナハト(彩南高校制服)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2298
+    },
+    "13901015": {
+        "Id": 13901015,
+        "Name": "Interaction ～トラブルな来訪者たち～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2297
+    },
+    "13901016": {
+        "Id": 13901016,
+        "Name": "Interaction ～トラブルな来訪者たち～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2296
+    },
+    "13901017": {
+        "Id": 13901017,
+        "Name": "チャレンジバトル-33rd Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2295
+    },
+    "13901018": {
+        "Id": 13901018,
+        "Name": "チャレンジバトル-33rd Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2294
+    },
+    "13901019": {
+        "Id": 13901019,
+        "Name": "チャレンジバトル-33rd Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2293
+    },
+    "13901020": {
+        "Id": 13901020,
+        "Name": "チャレンジバトル-33rd Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2292
+    },
+    "13901021": {
+        "Id": 13901021,
+        "Name": "チャレンジバトル-33rd Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2291
+    },
+    "13901022": {
+        "Id": 13901022,
+        "Name": "チャレンジバトル-33rd Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2290
+    },
+    "13901023": {
+        "Id": 13901023,
+        "Name": "チャレンジバトル-33rd Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2289
+    },
+    "13901024": {
+        "Id": 13901024,
+        "Name": "チャレンジバトル-33rd Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2288
+    },
+    "13901025": {
+        "Id": 13901025,
+        "Name": "チャレンジバトル-33rd Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2287
+    },
+    "13901026": {
+        "Id": 13901026,
+        "Name": "チャレンジバトル-33rd Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2286
+    },
+    "13901027": {
+        "Id": 13901027,
+        "Name": "チャレンジバトル-33rd Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2285
+    },
+    "13901028": {
+        "Id": 13901028,
+        "Name": "チャレンジバトル-33rd Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2284
+    },
+    "13901029": {
+        "Id": 13901029,
+        "Name": "チャレンジバトル-33rd Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2283
+    },
+    "13901030": {
+        "Id": 13901030,
+        "Name": "チャレンジバトル-33rd Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2282
+    },
+    "13901031": {
+        "Id": 13901031,
+        "Name": "チャレンジバトル-33rd Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2281
+    },
+    "13901032": {
+        "Id": 13901032,
+        "Name": "チャレンジバトル-33rd Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2280
+    },
+    "13901033": {
+        "Id": 13901033,
+        "Name": "チャレンジバトル-33rd Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2279
+    },
+    "13901034": {
+        "Id": 13901034,
+        "Name": "チャレンジバトル-33rd Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2278
+    },
+    "13901035": {
+        "Id": 13901035,
+        "Name": "チャレンジバトル-33rd Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2277
+    },
+    "13901036": {
+        "Id": 13901036,
+        "Name": "チャレンジバトル-33rd Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2276
+    },
+    "13901037": {
+        "Id": 13901037,
+        "Name": "チャレンジバトル-33rd Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2275
+    },
+    "1550034401": {
+        "Id": 1550034401,
+        "Name": "古手川唯(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "古手川唯(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2322
+    },
+    "1550044401": {
+        "Id": 1550044401,
+        "Name": "金色の闇(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "金色の闇(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2323
+    },
+    "700105": {
+        "Id": 700105,
+        "Name": "ハーレムダークネス",
+        "Type": 21,
+        "ItemText": "ラッピング",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2275
+    },
+    "12905181": {
+        "Id": 12905181,
+        "Name": "To LOVEる:ララ(水着)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2274
+    },
+    "12905209": {
+        "Id": 12905209,
+        "Name": "To LOVEる:モモ(水着)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2273
+    },
+    "13300150": {
+        "Id": 13300150,
+        "Name": "ボスメダル(To LOVEる)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2324
+    },
+    "13200069": {
+        "Id": 13200069,
+        "Name": "コラボガチャチケット(To LOVEる第2弾)",
+        "Type": 32,
+        "ItemText": "To LOVEるコラボドルフィンフェスガチャ(第2弾)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2325
+    },
+    "13901038": {
+        "Id": 13901038,
+        "Name": "恋の標的！？ 清廉潔白な風紀指導制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2324
+    },
+    "13901039": {
+        "Id": 13901039,
+        "Name": "恋の標的！？ 清廉潔白な風紀指導EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2323
+    },
+    "13901041": {
+        "Id": 13901041,
+        "Name": "チャレンジバトル-34th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2321
+    },
+    "13901042": {
+        "Id": 13901042,
+        "Name": "チャレンジバトル-34th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2320
+    },
+    "13901043": {
+        "Id": 13901043,
+        "Name": "チャレンジバトル-34th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2319
+    },
+    "13901044": {
+        "Id": 13901044,
+        "Name": "チャレンジバトル-34th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2318
+    },
+    "13901045": {
+        "Id": 13901045,
+        "Name": "チャレンジバトル-34th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2317
+    },
+    "13901046": {
+        "Id": 13901046,
+        "Name": "チャレンジバトル-34th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2316
+    },
+    "13901047": {
+        "Id": 13901047,
+        "Name": "チャレンジバトル-34th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2315
+    },
+    "13901048": {
+        "Id": 13901048,
+        "Name": "チャレンジバトル-34th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2314
+    },
+    "13901049": {
+        "Id": 13901049,
+        "Name": "チャレンジバトル-34th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2313
+    },
+    "13901050": {
+        "Id": 13901050,
+        "Name": "チャレンジバトル-34th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2312
+    },
+    "13901051": {
+        "Id": 13901051,
+        "Name": "チャレンジバトル-34th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2311
+    },
+    "13901052": {
+        "Id": 13901052,
+        "Name": "チャレンジバトル-34th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2310
+    },
+    "13901053": {
+        "Id": 13901053,
+        "Name": "チャレンジバトル-34th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2309
+    },
+    "13901054": {
+        "Id": 13901054,
+        "Name": "チャレンジバトル-34th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2308
+    },
+    "13901055": {
+        "Id": 13901055,
+        "Name": "チャレンジバトル-34th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2307
+    },
+    "13901056": {
+        "Id": 13901056,
+        "Name": "チャレンジバトル-34th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2306
+    },
+    "13901057": {
+        "Id": 13901057,
+        "Name": "チャレンジバトル-34th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2305
+    },
+    "13901058": {
+        "Id": 13901058,
+        "Name": "チャレンジバトル-34th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2304
+    },
+    "13901059": {
+        "Id": 13901059,
+        "Name": "チャレンジバトル-34th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2303
+    },
+    "13901060": {
+        "Id": 13901060,
+        "Name": "チャレンジバトル-34th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2302
+    },
+    "13901061": {
+        "Id": 13901061,
+        "Name": "チャレンジバトル-34th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2301
+    },
+    "12905237": {
+        "Id": 12905237,
+        "Name": "To LOVEる：唯(水着)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2272
+    },
+    "12905265": {
+        "Id": 12905265,
+        "Name": "To LOVEる：ヤミ(水着)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2271
+    },
+    "1030034102": {
+        "Id": 1030034102,
+        "Name": "乙姫(サイバーサムライ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "乙姫(サイバーサムライ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2389
+    },
+    "1030044101": {
+        "Id": 1030044101,
+        "Name": "夕離(サイバーパイレーツ/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "夕離(サイバーパイレーツ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2390
+    },
+    "1050013101": {
+        "Id": 1050013101,
+        "Name": "由芽(秋冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "由芽(秋冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2391
+    },
+    "11200100": {
+        "Id": 11200100,
+        "Name": "お酒",
+        "Type": 12,
+        "ItemText": "由芽(秋冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2392
+    },
+    "11100092": {
+        "Id": 11100092,
+        "Name": "由芽の秋冬コーデ",
+        "Type": 11,
+        "ItemText": "由芽(秋冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2393
+    },
+    "13200070": {
+        "Id": 13200070,
+        "Name": "ドルフィンフェスガチャチケット(サイバー)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(サイバー)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2394
+    },
+    "13300153": {
+        "Id": 13300153,
+        "Name": "ボスメダル(近未来の船上決戦)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2395
+    },
+    "14500064": {
+        "Id": 14500064,
+        "Name": "由芽(秋冬コーデ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "由芽(秋冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2396
+    },
+    "14500065": {
+        "Id": 14500065,
+        "Name": "由芽(秋冬コーデ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "由芽(秋冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2397
+    },
+    "14500066": {
+        "Id": 14500066,
+        "Name": "由芽(秋冬コーデ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "由芽(秋冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2398
+    },
+    "13901062": {
+        "Id": 13901062,
+        "Name": "決闘！近未来の船上決戦制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2397
+    },
+    "13901063": {
+        "Id": 13901063,
+        "Name": "決闘！近未来の船上決戦EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2396
+    },
+    "13901064": {
+        "Id": 13901064,
+        "Name": "決闘！近未来の船上決戦ULTIMATE制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2395
+    },
+    "12905293": {
+        "Id": 12905293,
+        "Name": "優雅なポーズ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2394
+    },
+    "12905321": {
+        "Id": 12905321,
+        "Name": "豪快なポーズ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2393
+    },
+    "1010014503": {
+        "Id": 1010014503,
+        "Name": "入華(メイド水着/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "入華(メイド水着/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2406
+    },
+    "1010054501": {
+        "Id": 1010054501,
+        "Name": "小針(和メイド水着/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "小針(和メイド水着/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2407
+    },
+    "13300154": {
+        "Id": 13300154,
+        "Name": "ボスメダル(メイド姉妹)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2408
+    },
+    "13200071": {
+        "Id": 13200071,
+        "Name": "ドルフィンフェスガチャチケット(メイド姉妹)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(メイド姉妹)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2409
+    },
+    "1070033503": {
+        "Id": 1070033503,
+        "Name": "咲良(冬コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "咲良(冬コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2410
+    },
+    "11200101": {
+        "Id": 11200101,
+        "Name": "銃のレプリカ",
+        "Type": 12,
+        "ItemText": "咲良(冬コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2411
+    },
+    "11100093": {
+        "Id": 11100093,
+        "Name": "咲良の冬コーデ服",
+        "Type": 11,
+        "ItemText": "咲良(冬コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2412
+    },
+    "14500067": {
+        "Id": 14500067,
+        "Name": "咲良(冬コーデ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "咲良(冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2413
+    },
+    "14500068": {
+        "Id": 14500068,
+        "Name": "咲良(冬コーデ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "咲良(冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2414
+    },
+    "14500069": {
+        "Id": 14500069,
+        "Name": "咲良(冬コーデ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "咲良(冬コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2415
+    },
+    "13901065": {
+        "Id": 13901065,
+        "Name": "萌え萌え！メイド姉妹のご案内制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2414
+    },
+    "13901066": {
+        "Id": 13901066,
+        "Name": "萌え萌え！メイド姉妹のご案内EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2413
+    },
+    "13901067": {
+        "Id": 13901067,
+        "Name": "萌え萌え！メイド姉妹のご案内ULTIMATE制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2412
+    },
+    "13901068": {
+        "Id": 13901068,
+        "Name": "チャレンジバトル-35th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2411
+    },
+    "13901069": {
+        "Id": 13901069,
+        "Name": "チャレンジバトル-35th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2410
+    },
+    "13901070": {
+        "Id": 13901070,
+        "Name": "チャレンジバトル-35th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2409
+    },
+    "13901071": {
+        "Id": 13901071,
+        "Name": "チャレンジバトル-35th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2408
+    },
+    "13901072": {
+        "Id": 13901072,
+        "Name": "チャレンジバトル-35th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2407
+    },
+    "13901073": {
+        "Id": 13901073,
+        "Name": "チャレンジバトル-35th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2406
+    },
+    "13901074": {
+        "Id": 13901074,
+        "Name": "チャレンジバトル-35th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2405
+    },
+    "13901075": {
+        "Id": 13901075,
+        "Name": "チャレンジバトル-35th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2404
+    },
+    "13901076": {
+        "Id": 13901076,
+        "Name": "チャレンジバトル-35th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2403
+    },
+    "13901077": {
+        "Id": 13901077,
+        "Name": "チャレンジバトル-35th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2402
+    },
+    "13901078": {
+        "Id": 13901078,
+        "Name": "チャレンジバトル-35th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2401
+    },
+    "13901079": {
+        "Id": 13901079,
+        "Name": "チャレンジバトル-35th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2400
+    },
+    "13901080": {
+        "Id": 13901080,
+        "Name": "チャレンジバトル-35th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2399
+    },
+    "13901081": {
+        "Id": 13901081,
+        "Name": "チャレンジバトル-35th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2398
+    },
+    "13901082": {
+        "Id": 13901082,
+        "Name": "チャレンジバトル-35th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2397
+    },
+    "13901083": {
+        "Id": 13901083,
+        "Name": "チャレンジバトル-35th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2396
+    },
+    "13901084": {
+        "Id": 13901084,
+        "Name": "チャレンジバトル-35th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2395
+    },
+    "13901085": {
+        "Id": 13901085,
+        "Name": "チャレンジバトル-35th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2394
+    },
+    "13901086": {
+        "Id": 13901086,
+        "Name": "チャレンジバトル-35th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2393
+    },
+    "13901087": {
+        "Id": 13901087,
+        "Name": "チャレンジバトル-35th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2392
+    },
+    "13901088": {
+        "Id": 13901088,
+        "Name": "チャレンジバトル-35th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2391
+    },
+    "12905349": {
+        "Id": 12905349,
+        "Name": "らぶりぃハート",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2390
+    },
+    "12905377": {
+        "Id": 12905377,
+        "Name": "にゃんにゃんおひげ",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2389
+    },
+    "1010034501": {
+        "Id": 1010034501,
+        "Name": "杏里(陽光の剣士/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "杏里(陽光の剣士/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2442
+    },
+    "1010024502": {
+        "Id": 1010024502,
+        "Name": "みちる(月夜の魔導師/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "みちる(月夜の魔導師/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2443
+    },
+    "13300155": {
+        "Id": 13300155,
+        "Name": "ボスメダル(魔法と大剣)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2444
+    },
+    "13200072": {
+        "Id": 13200072,
+        "Name": "ドルフィンフェスガチャチケット(剣と魔導)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(剣と魔導)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2445
+    },
+    "1020013502": {
+        "Id": 1020013502,
+        "Name": "颯(春夏コーデ)専用SPメダル",
+        "Type": 13,
+        "ItemText": "颯(春夏コーデ)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2446
+    },
+    "11200102": {
+        "Id": 11200102,
+        "Name": "牛乳",
+        "Type": 12,
+        "ItemText": "颯(春夏コーデ)専用のアイテム。覚醒させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2447
+    },
+    "11100094": {
+        "Id": 11100094,
+        "Name": "颯の春夏コーデ",
+        "Type": 11,
+        "ItemText": "颯(春夏コーデ)専用のアイテム。限界突破させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2448
+    },
+    "14500070": {
+        "Id": 14500070,
+        "Name": "颯(春夏コーデ)専用の雫・小",
+        "Type": 45,
+        "ItemText": "颯(春夏コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2449
+    },
+    "14500071": {
+        "Id": 14500071,
+        "Name": "颯(春夏コーデ)専用の雫・中",
+        "Type": 45,
+        "ItemText": "颯(春夏コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2450
+    },
+    "14500072": {
+        "Id": 14500072,
+        "Name": "颯(春夏コーデ)専用の雫・大",
+        "Type": 45,
+        "ItemText": "颯(春夏コーデ)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2451
+    },
+    "13901089": {
+        "Id": 13901089,
+        "Name": "クールな魔法と魂の大剣制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2450
+    },
+    "13901090": {
+        "Id": 13901090,
+        "Name": "クールな魔法と魂の大剣EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2449
+    },
+    "13901091": {
+        "Id": 13901091,
+        "Name": "クールな魔法と魂の大剣ULTIMATE制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2448
+    },
+    "13901092": {
+        "Id": 13901092,
+        "Name": "チャレンジバトル-36th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2447
+    },
+    "13901093": {
+        "Id": 13901093,
+        "Name": "チャレンジバトル-36th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2446
+    },
+    "13901094": {
+        "Id": 13901094,
+        "Name": "チャレンジバトル-36th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2445
+    },
+    "13901095": {
+        "Id": 13901095,
+        "Name": "チャレンジバトル-36th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2444
+    },
+    "13901096": {
+        "Id": 13901096,
+        "Name": "チャレンジバトル-36th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2443
+    },
+    "13901097": {
+        "Id": 13901097,
+        "Name": "チャレンジバトル-36th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2442
+    },
+    "13901098": {
+        "Id": 13901098,
+        "Name": "チャレンジバトル-36th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2441
+    },
+    "13901099": {
+        "Id": 13901099,
+        "Name": "チャレンジバトル-36th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2440
+    },
+    "13901100": {
+        "Id": 13901100,
+        "Name": "チャレンジバトル-36th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2439
+    },
+    "13901101": {
+        "Id": 13901101,
+        "Name": "チャレンジバトル-36th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2438
+    },
+    "13901102": {
+        "Id": 13901102,
+        "Name": "チャレンジバトル-36th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2437
+    },
+    "13901103": {
+        "Id": 13901103,
+        "Name": "チャレンジバトル-36th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2436
+    },
+    "13901104": {
+        "Id": 13901104,
+        "Name": "チャレンジバトル-36th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2435
+    },
+    "13901105": {
+        "Id": 13901105,
+        "Name": "チャレンジバトル-36th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2434
+    },
+    "13901106": {
+        "Id": 13901106,
+        "Name": "チャレンジバトル-36th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2433
+    },
+    "13901107": {
+        "Id": 13901107,
+        "Name": "チャレンジバトル-36th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2432
+    },
+    "13901108": {
+        "Id": 13901108,
+        "Name": "チャレンジバトル-36th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2431
+    },
+    "13901109": {
+        "Id": 13901109,
+        "Name": "チャレンジバトル-36th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2430
+    },
+    "13901110": {
+        "Id": 13901110,
+        "Name": "チャレンジバトル-36th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2429
+    },
+    "13901111": {
+        "Id": 13901111,
+        "Name": "チャレンジバトル-36th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2428
+    },
+    "13901112": {
+        "Id": 13901112,
+        "Name": "チャレンジバトル-36th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2427
+    },
+    "12905405": {
+        "Id": 12905405,
+        "Name": "かっこよく腕伸ばし",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2425
+    },
+    "12905433": {
+        "Id": 12905433,
+        "Name": "L字あご当て立ち",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2424
+    },
+    "13300156": {
+        "Id": 13300156,
+        "Name": "ハニパレコイン",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2479
+    },
+    "14500073": {
+        "Id": 14500073,
+        "Name": "セレナ(タキシード)専用の雫・小",
+        "Type": 45,
+        "ItemText": "セレナ(タキシード)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2480
+    },
+    "14500074": {
+        "Id": 14500074,
+        "Name": "セレナ(タキシード)専用の雫・中",
+        "Type": 45,
+        "ItemText": "セレナ(タキシード)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2481
+    },
+    "14500075": {
+        "Id": 14500075,
+        "Name": "セレナ(タキシード)専用の雫・大",
+        "Type": 45,
+        "ItemText": "セレナ(タキシード)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2482
+    },
+    "14500076": {
+        "Id": 14500076,
+        "Name": "桐利(パーティードレス)専用の雫・小",
+        "Type": 45,
+        "ItemText": "桐利(パーティードレス)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2483
+    },
+    "14500077": {
+        "Id": 14500077,
+        "Name": "桐利(パーティードレス)専用の雫・中",
+        "Type": 45,
+        "ItemText": "桐利(パーティードレス)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2484
+    },
+    "14500078": {
+        "Id": 14500078,
+        "Name": "桐利(パーティードレス)専用の雫・大",
+        "Type": 45,
+        "ItemText": "桐利(パーティードレス)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2485
+    },
+    "13700045": {
+        "Id": 13700045,
+        "Name": "ボスチケット(サンバ)",
+        "Type": 37,
+        "ItemText": "イベントクエストのボスに挑むために使うアイテム",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2486
+    },
+    "13300157": {
+        "Id": 13300157,
+        "Name": "虹色の羽根",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2487
+    },
+    "13300158": {
+        "Id": 13300158,
+        "Name": "2.5Anniv.記念メダル",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2488
+    },
+    "13300159": {
+        "Id": 13300159,
+        "Name": "HAドルフィンセレクトチケット",
+        "Type": 33,
+        "ItemText": "専用のショップで特定のURドルフィンと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2489
+    },
+    "13901113": {
+        "Id": 13901113,
+        "Name": "躍動！ドルフィンサンバ隊！制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2488
+    },
+    "13901114": {
+        "Id": 13901114,
+        "Name": "躍動！ドルフィンサンバ隊！EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2487
+    },
+    "12905461": {
+        "Id": 12905461,
+        "Name": "ふともも両手重ね",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2486
+    },
+    "1080014301": {
+        "Id": 1080014301,
+        "Name": "つぐみ(ストリートプライド/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "つぐみ(ストリートプライド/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2493
+    },
+    "1080024301": {
+        "Id": 1080024301,
+        "Name": "はる(デビリッシュマイン/DF)専用SPメダル",
+        "Type": 13,
+        "ItemText": "はる(デビリッシュマイン/DF)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2494
+    },
+    "1080034201": {
+        "Id": 1080034201,
+        "Name": "ユノ(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ユノ(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2495
+    },
+    "1080044201": {
+        "Id": 1080044201,
+        "Name": "むうる(水着)専用SPメダル",
+        "Type": 13,
+        "ItemText": "むうる(水着)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2496
+    },
+    "1080013401": {
+        "Id": 1080013401,
+        "Name": "つぐみ(ユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "つぐみ(ユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2497
+    },
+    "1080023401": {
+        "Id": 1080023401,
+        "Name": "はる(ユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "はる(ユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2498
+    },
+    "1080033401": {
+        "Id": 1080033401,
+        "Name": "ユノ(ユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ユノ(ユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2499
+    },
+    "1080043401": {
+        "Id": 1080043401,
+        "Name": "むうる(ユニフォーム)専用SPメダル",
+        "Type": 13,
+        "ItemText": "むうる(ユニフォーム)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2500
+    },
+    "1080012101": {
+        "Id": 1080012101,
+        "Name": "つぐみ(私服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "つぐみ(私服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2501
+    },
+    "1080022101": {
+        "Id": 1080022101,
+        "Name": "はる(私服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "はる(私服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2502
+    },
+    "1080032101": {
+        "Id": 1080032101,
+        "Name": "ユノ(私服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "ユノ(私服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2503
+    },
+    "1080042101": {
+        "Id": 1080042101,
+        "Name": "むうる(私服)専用SPメダル",
+        "Type": 13,
+        "ItemText": "むうる(私服)専用のSPメダル。SPスキルを強化するための素材",
+        "SalePrice": 0,
+        "SalePossible": true,
+        "DisplayPriority": 2504
+    },
+    "13300160": {
+        "Id": 13300160,
+        "Name": "ボスメダル(道場破り)",
+        "Type": 33,
+        "ItemText": "ショップで使う特別なアイテム",
+        "SalePrice": 10,
+        "SalePossible": true,
+        "DisplayPriority": 2505
+    },
+    "13200073": {
+        "Id": 13200073,
+        "Name": "ドルフィンフェスガチャチケット(2.5Anniv.)",
+        "Type": 32,
+        "ItemText": "ドルフィンフェスガチャ(2.5Anniv.)が引けるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2506
+    },
+    "14500079": {
+        "Id": 14500079,
+        "Name": "ナハト(パーティードレス)専用の雫・小",
+        "Type": 45,
+        "ItemText": "ナハト(パーティードレス)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2507
+    },
+    "14500080": {
+        "Id": 14500080,
+        "Name": "ナハト(パーティードレス)専用の雫・中",
+        "Type": 45,
+        "ItemText": "ナハト(パーティードレス)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2508
+    },
+    "14500081": {
+        "Id": 14500081,
+        "Name": "ナハト(パーティードレス)専用の雫・大",
+        "Type": 45,
+        "ItemText": "ナハト(パーティードレス)を潜在解放させるための素材",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2509
+    },
+    "13300161": {
+        "Id": 13300161,
+        "Name": "SSRドルフィンセレクトチケット5",
+        "Type": 33,
+        "ItemText": "専用のショップでSSRドルフィンと交換ができるチケット",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2510
+    },
+    "13901115": {
+        "Id": 13901115,
+        "Name": "登場！GRIMO➡GOETIA ～道場破りの実力者～制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2509
+    },
+    "13901116": {
+        "Id": 13901116,
+        "Name": "登場！GRIMO➡GOETIA ～道場破りの実力者～EXTREME制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2508
+    },
+    "13901117": {
+        "Id": 13901117,
+        "Name": "登場！GRIMO➡GOETIA ～道場破りの実力者～ULTIMATE制覇",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2507
+    },
+    "13901118": {
+        "Id": 13901118,
+        "Name": "チャレンジバトル-37th Target-1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2506
+    },
+    "13901119": {
+        "Id": 13901119,
+        "Name": "チャレンジバトル-37th Target-2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2505
+    },
+    "13901120": {
+        "Id": 13901120,
+        "Name": "チャレンジバトル-37th Target-3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2504
+    },
+    "13901121": {
+        "Id": 13901121,
+        "Name": "チャレンジバトル-37th Target-TOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2503
+    },
+    "13901122": {
+        "Id": 13901122,
+        "Name": "チャレンジバトル-37th Target-TOP100位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2502
+    },
+    "13901123": {
+        "Id": 13901123,
+        "Name": "チャレンジバトル-37th Target-TOP200位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2501
+    },
+    "13901124": {
+        "Id": 13901124,
+        "Name": "チャレンジバトル-37th Target-TOP300位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2500
+    },
+    "13901125": {
+        "Id": 13901125,
+        "Name": "チャレンジバトル-37th Target-TOP400位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2499
+    },
+    "13901126": {
+        "Id": 13901126,
+        "Name": "チャレンジバトル-37th Target-TOP500位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2498
+    },
+    "13901127": {
+        "Id": 13901127,
+        "Name": "チャレンジバトル-37th Target-TOP700位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2497
+    },
+    "13901128": {
+        "Id": 13901128,
+        "Name": "チャレンジバトル-37th Target-TOP1000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2496
+    },
+    "13901129": {
+        "Id": 13901129,
+        "Name": "チャレンジバトル-37th Target-TOP5000位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2495
+    },
+    "13901130": {
+        "Id": 13901130,
+        "Name": "チャレンジバトル-37th Target-グループ1位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2494
+    },
+    "13901131": {
+        "Id": 13901131,
+        "Name": "チャレンジバトル-37th Target-グループ2位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2493
+    },
+    "13901132": {
+        "Id": 13901132,
+        "Name": "チャレンジバトル-37th Target-グループ3位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2492
+    },
+    "13901133": {
+        "Id": 13901133,
+        "Name": "チャレンジバトル-37th Target-グループTOP5位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2491
+    },
+    "13901134": {
+        "Id": 13901134,
+        "Name": "チャレンジバトル-37th Target-グループTOP10位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2490
+    },
+    "13901135": {
+        "Id": 13901135,
+        "Name": "チャレンジバトル-37th Target-グループTOP20位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2489
+    },
+    "13901136": {
+        "Id": 13901136,
+        "Name": "チャレンジバトル-37th Target-グループTOP30位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2488
+    },
+    "13901137": {
+        "Id": 13901137,
+        "Name": "チャレンジバトル-37th Target-グループTOP40位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2487
+    },
+    "13901138": {
+        "Id": 13901138,
+        "Name": "チャレンジバトル-37th Target-グループTOP50位",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2486
+    },
+    "13901139": {
+        "Id": 13901139,
+        "Name": "つぐみのコーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2485
+    },
+    "13901140": {
+        "Id": 13901140,
+        "Name": "つぐみの担当コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2484
+    },
+    "13901141": {
+        "Id": 13901141,
+        "Name": "つぐみの専属コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2483
+    },
+    "13901142": {
+        "Id": 13901142,
+        "Name": "はるのコーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2482
+    },
+    "13901143": {
+        "Id": 13901143,
+        "Name": "はるの担当コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2481
+    },
+    "13901144": {
+        "Id": 13901144,
+        "Name": "はるの専属コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2480
+    },
+    "13901145": {
+        "Id": 13901145,
+        "Name": "ユノのコーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2479
+    },
+    "13901146": {
+        "Id": 13901146,
+        "Name": "ユノの担当コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2478
+    },
+    "13901147": {
+        "Id": 13901147,
+        "Name": "ユノの専属コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2477
+    },
+    "13901148": {
+        "Id": 13901148,
+        "Name": "むうるのコーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2476
+    },
+    "13901149": {
+        "Id": 13901149,
+        "Name": "むうるの担当コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2475
+    },
+    "13901150": {
+        "Id": 13901150,
+        "Name": "むうるの専属コーチ",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2474
+    },
+    "13901151": {
+        "Id": 13901151,
+        "Name": "GRIMO➡GOETIA",
+        "Type": 39,
+        "ItemText": "称号",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2473
+    },
+    "12906273": {
+        "Id": 12906273,
+        "Name": "片手ピース(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2472
+    },
+    "12906305": {
+        "Id": 12906305,
+        "Name": "髪おさえ(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2471
+    },
+    "12906337": {
+        "Id": 12906337,
+        "Name": "髪おさえ横(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2470
+    },
+    "12906369": {
+        "Id": 12906369,
+        "Name": "片足上げ(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2469
+    },
+    "12906401": {
+        "Id": 12906401,
+        "Name": "横座り(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2468
+    },
+    "12906433": {
+        "Id": 12906433,
+        "Name": "腰上げ(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2467
+    },
+    "12906465": {
+        "Id": 12906465,
+        "Name": "両足開き(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2466
+    },
+    "12906497": {
+        "Id": 12906497,
+        "Name": "腰に右手(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2465
+    },
+    "12906529": {
+        "Id": 12906529,
+        "Name": "右手上げ(マシン)",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2464
+    },
+    "12906561": {
+        "Id": 12906561,
+        "Name": "指あて四つん這い",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2463
+    },
+    "12906593": {
+        "Id": 12906593,
+        "Name": "あぐら両手がおー",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2462
+    },
+    "12906625": {
+        "Id": 12906625,
+        "Name": "ストリートのREAL",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2461
+    },
+    "12906657": {
+        "Id": 12906657,
+        "Name": "ヤサイ系女子",
+        "Type": 29,
+        "ItemText": "ポーズ",
+        "SalePrice": 0,
+        "SalePossible": false,
+        "DisplayPriority": 2460
     }
 }
